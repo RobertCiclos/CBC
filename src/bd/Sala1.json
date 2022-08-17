@@ -1,0 +1,52 @@
+{   
+    
+    "section4" : {
+        "title": "Biodiversidad única en la región Caribe",
+        "contenido": ["En las Antillas Mayores existen hábitats y ecosistemas únicos, lo cual ha derivado en altos niveles de endemismo. Es decir, especies que sólo se encuentran en estos lugares, como la iguana de Ricord en Isla Cabritos, en el Parque Nacional Lago Enriquillo (República Dominicana)."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala1/iguana-ricord.jpg",
+            "alt1": "Iguana de Ricord (Cyclura ricordii).",
+            "name1": "Iguana de Ricord (Cyclura ricordii).",
+
+            "imagen2": "./imagenes/sala1/isla-cabritos.jpg",
+            "alt2": "Isla Cabritos, Lago Enriquillo, República Dominicana.",
+            "name2": "Isla Cabritos, Lago Enriquillo, República Dominicana."
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+    
+    "section10" : {
+        "title": "Conectividad Ecológica",
+        "contenido": ["Los bosques húmedos en el Caribe conforman algunas de las áreas núcleo de importancia para la conservación y para la seguridad hídrica en el CBC.",
+                        "Estos ecosistemas capturan agua, protegen y contienen el caudal de los ríos, reduciendo las posibilidades de inundaciones."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala1/iguana-ricord.jpg",
+            "alt1": "Iguana de Ricord (Cyclura ricordii).",
+            "name1": "Iguana de Ricord (Cyclura ricordii).",
+
+            "imagen2": "./imagenes/sala1/isla-cabritos.jpg",
+            "alt2": "Isla Cabritos, Lago Enriquillo, República Dominicana.",
+            "name2": "Isla Cabritos, Lago Enriquillo, República Dominicana."
+        },
+        "background": "#FFFFFF",
+        "colorText": "#fff"
+    },
+
+    "section12" : {
+        "title": "Conectividad Ecológica",
+        "contenido": ["Los bosques húmedos en el Caribe conforman algunas de las áreas núcleo de importancia para la conservación y para la seguridad hídrica en el CBC.",
+                        "Estos ecosistemas capturan agua, protegen y contienen el caudal de los ríos, reduciendo las posibilidades de inundaciones."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala1/iguana-ricord.jpg",
+            "alt1": "Iguana de Ricord (Cyclura ricordii).",
+            "name1": "Iguana de Ricord (Cyclura ricordii).",
+
+            "imagen2": "./imagenes/sala1/isla-cabritos.jpg",
+            "alt2": "Isla Cabritos, Lago Enriquillo, República Dominicana.",
+            "name2": "Isla Cabritos, Lago Enriquillo, República Dominicana."
+        },
+        "background": "#FFFFFF",
+        "colorText": "#fff"
+    }
+}

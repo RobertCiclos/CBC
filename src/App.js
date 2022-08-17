@@ -13,6 +13,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Main/>}>
           <Route index element={<Home/>}/>
+          <Route path="/Home" element={<Home/>}/>
           <Route path="/Sala1" element={<Sala1/>}/>
           <Route path="/Sala2" element={<Sala2/>}/>
           <Route path="/Sala3" element={<Sala3/>}/>

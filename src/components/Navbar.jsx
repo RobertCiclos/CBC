@@ -6,8 +6,13 @@ const Navbar = () => {
   const [navbar,setNavbar] = useState('false')
   const location = useLocation().pathname
 
+  const styles = {
+    background: location === "/" || location === "/Home" ? "none":"#000" 
+  }
+
   return (
-   <header 
+   <header
+    style={styles} 
     className='w-full h-[85px] flex items-center absolute z-10'>
     <nav 
       className="w-[311px]  grid grid-cols-2 sm:grid-cols-3 items-center mx-auto 

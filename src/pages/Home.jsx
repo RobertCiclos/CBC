@@ -10,12 +10,6 @@ const Home = () => {
 
   const [imagen,setImagen] = useState(imagen1)
 
-  const styleActive = {
-    borderBottom: "3px solid rgba(24, 24, 24, 0.7)",
-    borderOpacity: "0.5",
-    width: "auto"
-  }
-
   const changeImage = (e) => {
     const value = e.target.value
     switch (value){
@@ -43,7 +37,7 @@ const Home = () => {
     <div className=' relative'>
       <section 
         className="w-full h-[100vh] pt-[85px]
-        bg-cover bg-no-repeat bg-center bg-[url('/public/imagenes/home/hero.jpg')]">
+        imgBack bg-[url('/public/imagenes/home/hero.jpg')]">
           <div 
             className='w-[311px] mx-auto 
             sm:mt-[3%] sm:w-auto'>
@@ -361,3 +355,11 @@ const Home = () => {
 }
 
 export default Home
+
+
+//stylos
+const styleActive = {
+  borderBottom: "3px solid rgba(24, 24, 24, 0.7)",
+  borderOpacity: "0.5",
+  width: "auto"
+}

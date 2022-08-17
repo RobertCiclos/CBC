@@ -31,11 +31,24 @@
     }
 
     p {
-        @apply font-Public
+        @apply  font-Public font-[400] tracking-[-0.01px] leading-[19.52px] text-[16px]
+                sm:leading-[23.52px] sm:text-[20px]
+                lg:leading-[42px] lg:text-[28px]
+    }
+
+    cite {
+        @apply  italic font-[300] tracking-[-0.01px] text-[14px] leading-[19px]
+                sm:text-[17px] sm:leading-[23.68px] 
+                md:text-[20px] md:leading-[28.68px] 
+                xl:text-[24px] xl:leading-[31.68px] 
     }
 }
 
 @layer components {
+    .imgBack {
+        @apply bg-cover bg-no-repeat bg-top h-[calc(100vh-85px)]
+    }
+
     .transicion {
         @apply transition-all ease-in
     }
@@ -43,4 +56,39 @@
     .contenedor {
         @apply w-[313px] mx-auto sm:w-auto sm:mx-[9%] xl:w-[1040px] xl:mx-auto
     }
+
+    .contSalas {
+        @apply  w-[311px] mx-auto
+                sm:px-[8%] sm:w-auto
+                xl:px-0 xl:w-[1016px]
+    }
+
+}
+
+@layer utilities {
+    .lineAux {
+        @apply bg-white h-[2px] w-[50%] block ml-[2.5px] 
+                md:h-[4px]
+    }
+
+    .pySection {
+        @apply py-[56px] md:py-[88px] lg:py-[112px]
+    }
+
+    .mtPharagraphs {
+        @apply mt-[16px] sm:mt-[24px] md:mt-[32px] xl:mt-[44px]
+    }
+
+    .descriptionPhotos {
+
+    }
+
+    .paragraphs {
+
+    }
+
+    .overflow {
+        overflow-x: auto;
+    }
+
 }
