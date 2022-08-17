@@ -1,4 +1,5 @@
 import React from 'react'
+import ModelMap from '../components/ModelMap'
 import ModelSlider from '../components/ModelSlider'
 
 const Sala1 = () => {
@@ -37,29 +38,9 @@ const Sala1 = () => {
       </section>
       <section
         id='section3'
-        className='bg-[#528641] pySection text-white'>
-        <div
-          className='contSalas'>
-          <h2>El Caribe y su biodiversidad</h2>
-          <p
-            className='mtPharagraphs'>
-            El Caribe alberga una importante proporción de la biodiversidad global, por esta razón es considerado uno de los 35 “puntos calientes” de la biodiversidad en el mundo.
-            <br/>
-            <br/>
-            Son zonas del planeta que poseen un porcentaje elevado de especies endémicas, exclusivas de ese lugar, o especies altamente amenazadas.
-          </p>
-        </div>
-        <img 
-          src='./imagenes/sala1/mapa-puntos-calientes.jpg' 
-          alt='puntos calientes' 
-          className='w-full mt-[56px] mb-[32px] mx-auto'>
-        </img>
-        <div className='contSalas pr-[12px] sm:pr-0'>
-          <cite className=''>
-            Mapa de ‘’puntos calientes’’ de biodiversidad. Myers, N., Mittermeier, R., Mittermeier, C. et al. Biodiversity hotspots for conservation priorities. Nature 403, 853–858 (2000).
-            <br/><span className='font-[400]'>https://doi.org/10.1038/35002501</span>
-          </cite>
-        </div>
+        style={{background: dataSala1.section3.background, color: dataSala1.section3.colorText}} 
+        className='pySection'>
+        <ModelMap {...dataSala1.section3} />
       </section>
 
       <section

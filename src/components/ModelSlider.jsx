@@ -9,7 +9,6 @@ const ModelSlider = (props) => {
         <p className='mtPharagraphs'>
             {props.contenido.map( 
                 (parrafo,index) => {
-                    console.log(index)
                     if(index === numParrafos-1){
                         return <span key={props.title+index}>{parrafo}</span>
                     }else{
