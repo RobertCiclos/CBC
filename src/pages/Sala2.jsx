@@ -6,20 +6,18 @@ const Sala2 = () => {
     <>
       <section
         id='section1'>
-        {/*type X*/}
       </section>
+
       <section
         id='section2'>
-        {/*type X*/}
       </section>
+
       <section
         id='section3'>
-        {/*type X*/}
       </section>
 
       <section
         id='section4'>
-        {/*type X*/}
       </section>
 
       <section
@@ -34,17 +32,17 @@ const Sala2 = () => {
 
       <section
         id='section7'>
-        {/*type X*/}
+        {/*type A*/}
       </section>
 
       <section
         id='section8'>
-        {/*type X*/}
+        {/*type A*/}
       </section>
 
       <section
         id='section9'>
-        {/*type X*/}
+        {/*type A*/}
       </section>
 
       <section
@@ -59,7 +57,6 @@ const Sala2 = () => {
 
       <section
         id='section12'>
-        {/*type X*/}
       </section>
 
       <section
@@ -69,7 +66,7 @@ const Sala2 = () => {
 
       <section
         id='section14'>
-        {/*type X*/}
+        {/*type A*/}
       </section>
 
       <section
@@ -84,12 +81,10 @@ const Sala2 = () => {
 
       <section
         id='section17'>
-        {/*type X*/}
       </section>
 
       <section
         id='section18'>
-        {/*type X*/}
       </section>
 
       <section
@@ -99,17 +94,17 @@ const Sala2 = () => {
 
       <section
         id='section20'>
-        {/*type X*/}
+        {/*type A*/}
       </section>
 
       <section
         id='section21'>
-        {/*type X*/}
+        {/*type A*/}
       </section>
 
       <section
         id='section22'>
-        {/*type X*/}
+        {/*type A*/}
       </section>
 
       <section
@@ -119,37 +114,34 @@ const Sala2 = () => {
 
       <section
         id='section24'>
-        {/*type X*/}
+        {/*type A*/}
       </section>
 
       <section
         id='section25'>
-        {/*type X*/}
       </section>
 
       <section
         id='section26'>
-        {/*type X*/}
+        {/*type A*/}
       </section>
 
       <section
         id='section27'>
-        {/*type X*/}
+        {/*type A*/}
       </section>
 
       <section
         id='section28'>
-        {/*type X*/}
+        {/*type A*/}
       </section>
 
       <section
         id='section29'>
-        {/*type X*/}
       </section>
 
       <section
         id='section30'>
-        {/*type X*/}
       </section>
     </>
 
