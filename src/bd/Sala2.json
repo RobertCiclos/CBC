@@ -10,18 +10,70 @@
         "background": "#528641",
         "colorText": "#FFFFFF"
     },
-    
+
     "section6" : {
+        "indicador" : "Especies Migratorias ",
+        "colorIndicador" : "#85BD70",
+        "title": "Tordo de Bicknell",
+        "contenido": ["Es una de las pocas especies de paseriformes en cual los machos asisten a una o más hembras en la alimentación de los pichones y la paternidad es compartida."],       
+        "imagen1": "./imagenes/sala2/tordo-bicknell-min.jpg",
+        "alt1": "Tordo de Bicknell (Catharus bicknelli)",        
+        "description": "Tordo de Bicknell (Catharus bicknelli)",
+        "background": "#103A62",
+        "colorText": "#FFFFFF"
+    },
+
+    "section11" : {
+        "indicador" : "Especies endémicas",
+        "colorIndicador" : "#85BD70",
+        "title": "Solenodontes",
+        "contenido": ["Durante 60 millones de años prácticamente no han tenido modificaciones.",
+                     "Son mamíferos nocturnos, altamente amenazados, en peligro de extinción, que solo se encuentran en Cuba y La Española.",
+                     "Están amenazados por la destrucción y fragmentación del hábitat debido a la deforestación y la minería y son depredados por animales exóticos introducidos."],       
+        "imagen1": "./imagenes/sala2/solenodontes.jpg",
+        "alt1": "Solenodonte cubano (Solenodon cubanus) o Solenodonte de la Española (Solenodon paradoxus) Imágen cortesía de SOH Conservación.",        
+        "description": "Solenodonte cubano (Solenodon cubanus) o Solenodonte de la Española (Solenodon paradoxus) Imágen cortesía de SOH Conservación.",
+        "background": "#103A62",
+        "colorText": "#FFFFFF"
+    },
+
+    "section13" : {
+        "indicador" : "Especies endémicas",
+        "colorIndicador" : "#103A62",
+        "title": "Iguana de Ricord",
+        "contenido": ["Es una especie endémica altamente amenazada, en peligro crítico de extinción, que vive únicamente en la parte sur-central de la isla de La Española.",
+                     "Se estima que quedan entre 2000 y 4000 individuos. Desde 1970 la densidad de la especie ha disminuido por la transformación de su hábitat para uso agrícola y la producción de carbón vegetal. También por la cacería, el comercio ilegal, la minería de piedra caliza y la introducción de especies exóticas."],
+        "imagen1": "./imagenes/sala2/iguana-ricord-min.jpg",
+        "alt1": "Iguana de Ricord (Cyclura ricordii)",        
+        "description": "Iguana de Ricord (Cyclura ricordii)",
+        "background": "#ffffff",
+        "colorText": "#181818"
+    },
+    "section16" : {
+        "indicador" : "Otras especies de importancia para la conservación",
+        "colorIndicador" : "#103A62",
+        "title": "Mero gigante del Atlántico",
+        "contenido": ["Los meros son altamente amenazados por las pesquerías debido a su apreciada carne. ",
+                    "Pueden vivir hasta 40 y 50 años.",
+                    "Viven en una gran variedad de hábitats como por ejemplo manglares, arrecifes, y aguas profundas."],
+        "imagen1": "./imagenes/sala2/mero-gigante-min.jpg",
+        "alt1": "Mero gigante del Atlántico (Epinephelus itajara).",        
+        "description": "Mero gigante del Atlántico (Epinephelus itajara).",
+        "background": "#ffffff",
+        "colorText": "#181818"
+    },
+    
+    "section19" : {
         "indicador" : "Otras especies de importancia para la conservación",
         "colorIndicador" : "#103A62",
         "title": "Diablotín",
         "contenido": ["Ave marina de amplia área de residencia altamente amenazada.",
                     "Por lo general es un ave monógama, lo que quiere decir que una vez que se emparejan, pueden durar muchos años juntos.",
                     "Se alimenta de pequeños peces y calamares que se encuentran cerca de la superficie marina. "],
-        "imagen1": "./imagenes/sala1/img-ecosistema-manglar.jpg",
-        "alt1": "Ecosistema manglar del Caribe, vivero de peces e invertebrados.",        
+        "imagen1": "./imagenes/sala2/diablotin-min.jpg",
+        "alt1": "Diablotín (Pterodroma hasitata) sobrevolando el mar Caribe. ",        
         "description": "Diablotín (Pterodroma hasitata) sobrevolando el mar Caribe. ",
-        "background": "#528641",
-        "colorText": "#FFFFFF"
+        "background": "#ffffff",
+        "colorText": "#181818"
     }
 }
