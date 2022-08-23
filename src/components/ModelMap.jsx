@@ -7,7 +7,7 @@ const ModelMap = (props) => {
     <>
        <div className='contSalas'>
           <h2 className='uppercase'>{props.title}</h2>
-          <p className='mtPharagraphs'>
+          <p className='mtPharagraphs mb-[32px] lg:mb-[56px]'>
              {props.contenido.map( 
                 (parrafo,index) => {
                     if(index === numParrafos-1){
@@ -18,11 +18,16 @@ const ModelMap = (props) => {
                 }
             )}
           </p>
+          { props.subtitle &&
+            <h5 className='mb-[16px] sm:mb-[24px] md:mb-[32px]'>
+              {props.subtitle}
+            </h5>
+         }
         </div>
         <img 
           src={props.imagen} 
           alt={props.description[0]}
-          className='w-full mt-[32px] mb-[16px] lg:mt-[56px] lg:mb-[32px]'>
+          className='w-full mb-[16px] lg:mb-[32px]'>
         </img>
         <div className='contSalas pr-[12px] sm:pr-0'>
           <cite>

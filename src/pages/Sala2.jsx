@@ -1,12 +1,15 @@
 import React from 'react'
+import ModelOneImg from '../components/ModelOneImg'
 
 const Sala2 = () => {
-  
+  const dataSala1 = require('../bd/Sala2.json')
+
   return (
-    <>
+    <div className='pt-[85px] overflow-x-hidden'>
       <section
-        id='section1'>
-        hola
+        id='section1'
+        className='pySection'>
+        
       </section>
 
       <section
@@ -27,8 +30,9 @@ const Sala2 = () => {
       </section>
 
       <section
-        id='section6'>
-        {/*type B*/}
+        id='section6'
+        className='pySection bg-red-500'>
+        <ModelOneImg {...dataSala1.section6} />
       </section>
 
       <section
@@ -144,7 +148,7 @@ const Sala2 = () => {
       <section
         id='section30'>
       </section>
-    </>
+    </div>
 
   )
 }

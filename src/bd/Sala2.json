@@ -9,6 +9,19 @@
                         "https://doi.org/10.1038/35002501"],
         "background": "#528641",
         "colorText": "#FFFFFF"
-    }
+    },
     
+    "section6" : {
+        "indicador" : "Otras especies de importancia para la conservación",
+        "colorIndicador" : "#103A62",
+        "title": "Diablotín",
+        "contenido": ["Ave marina de amplia área de residencia altamente amenazada.",
+                    "Por lo general es un ave monógama, lo que quiere decir que una vez que se emparejan, pueden durar muchos años juntos.",
+                    "Se alimenta de pequeños peces y calamares que se encuentran cerca de la superficie marina. "],
+        "imagen1": "./imagenes/sala1/img-ecosistema-manglar.jpg",
+        "alt1": "Ecosistema manglar del Caribe, vivero de peces e invertebrados.",        
+        "description": "Diablotín (Pterodroma hasitata) sobrevolando el mar Caribe. ",
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    }
 }

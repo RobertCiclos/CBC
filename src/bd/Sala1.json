@@ -29,9 +29,9 @@
     
     "section5" : {
         "title": "¿Qué es un corredor biológico?",
+        "contenido": ["Es un espacio terrestre o marino que proporciona conectividad entre paisajes, ecosistemas y hábitats para mantener la biodiversidad y los procesos ecológicos y evolutivos; y a su vez, espacios de concertación social para promover la conservación y uso sostenible de los recursos naturales."],        
         "imagen1": "./imagenes/sala1/img-ecosistema-manglar.jpg",
         "alt1": "Ecosistema manglar del Caribe, vivero de peces e invertebrados.",
-        "contenido": ["Es un espacio terrestre o marino que proporciona conectividad entre paisajes, ecosistemas y hábitats para mantener la biodiversidad y los procesos ecológicos y evolutivos; y a su vez, espacios de concertación social para promover la conservación y uso sostenible de los recursos naturales."],        "imagen":  "./imagenes/sala1/mapa-puntos-calientes.jpg",
         "description": "Ecosistema manglar del Caribe, vivero de peces e invertebrados.",
         "background": "#528641",
         "colorText": "#FFFFFF"
@@ -67,6 +67,7 @@
         "title": "Áreas núcleo de conservación en el CBC",
         "contenido": ["La actual delimitación del CBC ocupa una superficie total de 199.703 km2, de los que 40.434 km2 (20.2%) corresponden a zonas núcleo de conservación y 159.269 km2 (79.8%) a zonas de conectividad."],
         "subtitle": "Áreas Núcleo de Importancia para la Conservación del Corredor Biológico en el Caribe",
+        "colorSubtitle": "#103A62",
         "imagen":  "./imagenes/sala1/mapa-areas-identificadas.jpg",
         "description": ["Mapa de las áreas identificadas como núcleo de conservación dentro de la delimitación del Corredor Biológico en el Caribe, tomado del Sistema Integrado de Gestión del conocimiento del CBC (IKMS)."],
         "background": "#FFFFFF",
@@ -147,6 +148,7 @@
         "contenido": ["Este mapa resalta las áreas que han sido priorizadas para la conectividad en el corredor, a la vez que muestra las zonas núcleo de conservación y de importancia para la restauración de la conectividad.",
                         "Cabe aclarar que en el ámbito marino el 92.5% corresponde a zonas de importancia para la conectividad y en el ámbito terrestre el 56.7%."],
         "subtitle": "Áreas de Conectividad en el Corredor Biológico  en el Caribe",
+        "colorSubtitle": "#FFFFFF",
         "imagen":  "./imagenes/sala1/mapa-areas-identificadas.jpg",
         "description": ["Mapa de la actual demarcación del corredor resaltando áreas identificadas de importancia para la conectividad en el Corredor Biológico del Caribe, así como áreas núcleo de importancia para la conservación."],
         "background": "#528641",

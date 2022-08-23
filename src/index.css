@@ -24,6 +24,11 @@
         lg:text-[40px] lg:leading-[54px]
     }
 
+    h5 {
+        @apply font-[600] font-Public text-[20px] leading-[32px] 
+        sm:text-[32px] sm:leading-[39.68px] sm:font-bold
+    }
+
     ul {
         @apply font-[500] text-[20px]  leading-[28.4px] font-Public
         sm:text-[23px] sm:leading-[35px]

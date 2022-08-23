@@ -1,5 +1,6 @@
 import React from 'react'
 import ModelMap from '../components/ModelMap'
+import ModelOneImg from '../components/ModelOneImg'
 import ModelSlider from '../components/ModelSlider'
 
 const Sala1 = () => {
@@ -63,24 +64,7 @@ const Sala1 = () => {
         id='section5'
         style={{background: dataSala1.section5.background, color: dataSala1.section5.colorText}} 
         className='pySection'>
-        <div className='contSalas '>
-          <h2>{dataSala1.section5.title}</h2>
-          <p className='mtPharagraphs'>
-              {dataSala1.section5.contenido.map( 
-                  (parrafo,index) => {
-                      if(index === numParrafos-1){
-                          return <span key={dataSala1.section5.title+index}>{parrafo}</span>
-                      }else{
-                          return <span key={dataSala1.section5.title+index}>{parrafo}<br/><br/></span>
-                      }
-                  }
-              )}
-          </p>
-          <div className='item grid gap-[32px] mt-[24px] md:mt-[56px]'>
-            <img src={dataSala1.section5.imagen1} alt={dataSala1.section5.alt2} className="w-full h-full pointer-events-none" />
-            <cite>{dataSala1.section5.description}</cite>
-          </div>
-        </div>
+        <ModelOneImg {...dataSala1.section5} />
       </section>
 
       <section
