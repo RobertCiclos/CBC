@@ -1,8 +1,28 @@
 import React from 'react'
 
 const Sala2 = () => {
+  
   return (
-    <div>Sala2</div>
+    <>
+      <section
+        id='section1'>
+        {/*typo A*/}
+      </section>
+      <section
+        id='section2'>
+        {/*typo A*/}
+      </section>
+      <section
+        id='section3'>
+
+      </section>
+
+      <section
+        id='section6'>
+
+      </section>
+    </>
+
   )
 }
 

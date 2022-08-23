@@ -214,43 +214,34 @@ const Home = () => {
               PAÍSES
           </h2>
           <div 
-            className='grid justify-center gap-[56px] mt-[32px] 
-            md:grid-cols-3 lg:flex lg:gap-[56px]'>
-            <div> 
-              <img src="./imagenes/home/cuba.png" alt="Bandera de Cuba" />
-              <p
-                className='font-Public font-[500] text-[16px] mt-[15.75px]'>
-                Cuba
-              </p> 
-            </div>
-            <div>
-              <img src="./imagenes/home/haiti.png" alt="Bandera de Haiti" />
-              <p
-                className='font-Public font-[500] text-[16px] mt-[15.75px]'>
-                Cuba
-              </p>
-            </div>
-            <div>
-              <img src="./imagenes/home/dominicana.png" alt="Bandera de República Dominicana"/>
-              <p
-                className='font-Public font-[500] text-[16px] mt-[15.75px]'>
-                Cuba
-              </p>
-            </div>
-            <div>
-              <img src="./imagenes/home/puertorico.png" alt="Bandera de Puerto Rico"/>
-              <p
-                className='font-Public font-[500] text-[16px] mt-[15.75px]'>
-                Cuba
-              </p>
-            </div>
-            <div>
-              <img src="./imagenes/home/jamaica.png" alt="Bandera de Jamaica"/>
-              <p
-                className='font-Public font-[500] text-[16px] mt-[15.75px] '>
-                Cuba
-              </p>
-            </div>
+            className='grid justify-center mt-[32px] 
+            md:grid-cols-3 lg:grid-cols-5 lg:gap-x-[56px]'>
+ 
+            <img src="./imagenes/home/cuba.png" alt="Bandera de Cuba" />
+            <img src="./imagenes/home/haiti.png" alt="Bandera de Haiti" />
+            <img src="./imagenes/home/dominicana.png" alt="Bandera de República Dominicana"/>
+            <img src="./imagenes/home/puertorico.png" alt="Bandera de Puerto Rico"/>
+            <img src="./imagenes/home/jamaica.png" alt="Bandera de Jamaica"/>
+            <p
+              className='font-Public font-[500] text-[16px] mt-[15.75px] '>
+              Cuba
+            </p>
+            <p
+              className='font-Public font-[500] text-[16px] mt-[15.75px] '>
+              Haiti
+            </p>
+            <p
+              className='font-Public font-[500] text-[16px] mt-[15.75px] '>
+              R. Dominicana
+            </p>
+            <p
+              className='font-Public font-[500] text-[16px] mt-[15.75px] '>
+              Puerto Rico
+            </p>
+            <p
+              className='font-Public font-[500] text-[16px] mt-[15.75px] '>
+              Jamaica
+            </p>
           </div>
         </div>
       </section>
@@ -270,7 +261,7 @@ const Home = () => {
               <img src="./imagenes/home/union_europea.png" alt="" className='mx-auto' />
               <p
                 className='text-[11px] mt-[16px] font-[400] w-[190px] 
-                lg:w-auto lg:text-[13.5px]'>
+                lg:w-auto lg:text-[13.5px] lg:leading-[17px]'>
                 Producido con el apoyo financiero de la Unión Europea. 
                 Su contenido es responsabilidad exclusiva del PNUMA y no 
                 refleja necesariamente las opiniones de la Unión Europea

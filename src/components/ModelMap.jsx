@@ -6,7 +6,7 @@ const ModelMap = (props) => {
   return (
     <>
        <div className='contSalas'>
-          <h2>{props.title}</h2>
+          <h2 className='uppercase'>{props.title}</h2>
           <p className='mtPharagraphs'>
              {props.contenido.map( 
                 (parrafo,index) => {
@@ -20,8 +20,8 @@ const ModelMap = (props) => {
           </p>
         </div>
         <img 
-          src='./imagenes/sala1/mapa-puntos-calientes.jpg' 
-          alt='puntos calientes' 
+          src={props.imagen} 
+          alt={props.description[0]}
           className='w-full mt-[32px] mb-[16px] lg:mt-[56px] lg:mb-[32px]'>
         </img>
         <div className='contSalas pr-[12px] sm:pr-0'>

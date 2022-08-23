@@ -1,0 +1,14 @@
+{
+    "section3" : {
+        "title": "El Caribe y su biodiversidad",
+        "contenido": ["El Caribe alberga una importante proporción de la biodiversidad global, por esta razón es considerado uno de los 35 “puntos calientes” de la biodiversidad en el mundo.",
+                     "Son zonas del planeta que poseen un porcentaje elevado de especies endémicas, exclusivas de ese lugar, o especies altamente amenazadas."],
+        "subtitle": null,
+        "imagen":  "./imagenes/sala1/mapa-puntos-calientes.jpg",
+        "description": ["Mapa de ‘’puntos calientes’’ de biodiversidad. Myers, N., Mittermeier, R., Mittermeier, C. et al. Biodiversity hotspots for conservation priorities. Nature 403, 853–858 (2000).",
+                        "https://doi.org/10.1038/35002501"],
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    }
+    
+}

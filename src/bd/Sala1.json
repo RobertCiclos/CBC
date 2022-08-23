@@ -3,6 +3,7 @@
         "title": "El Caribe y su biodiversidad",
         "contenido": ["El Caribe alberga una importante proporción de la biodiversidad global, por esta razón es considerado uno de los 35 “puntos calientes” de la biodiversidad en el mundo.",
                      "Son zonas del planeta que poseen un porcentaje elevado de especies endémicas, exclusivas de ese lugar, o especies altamente amenazadas."],
+        "subtitle": null,
         "imagen":  "./imagenes/sala1/mapa-puntos-calientes.jpg",
         "description": ["Mapa de ‘’puntos calientes’’ de biodiversidad. Myers, N., Mittermeier, R., Mittermeier, C. et al. Biodiversity hotspots for conservation priorities. Nature 403, 853–858 (2000).",
                         "https://doi.org/10.1038/35002501"],
@@ -26,37 +27,231 @@
         "colorText": "#181818"
     },
     
+    "section5" : {
+        "title": "¿Qué es un corredor biológico?",
+        "imagen1": "./imagenes/sala1/img-ecosistema-manglar.jpg",
+        "alt1": "Ecosistema manglar del Caribe, vivero de peces e invertebrados.",
+        "contenido": ["Es un espacio terrestre o marino que proporciona conectividad entre paisajes, ecosistemas y hábitats para mantener la biodiversidad y los procesos ecológicos y evolutivos; y a su vez, espacios de concertación social para promover la conservación y uso sostenible de los recursos naturales."],        "imagen":  "./imagenes/sala1/mapa-puntos-calientes.jpg",
+        "description": "Ecosistema manglar del Caribe, vivero de peces e invertebrados.",
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+
+    "section7" : {
+        "title": "Corredor Biológico en las Antillas Mayores",
+        "contenido": ["La imagen satelital ilustra algunas rutas migratorias y diferentes conexiones en el CBC. Vemos ejemplos de conectividad regional como las rutas migratorias de aves rapaces, tortugas marinas y el tiburón ballena, también se pueden ver los sitios de desove de pargos y meros y las áreas de dispersión de larvas de peces de arrecife."],
+        "subtitle": null,
+        "imagen":  "./imagenes/sala1/mapa-antillas.jpg",
+        "description": ["Mapa de las Antillas Mayores que ilustra algunos ejemplos de conectividad en el CBC."],
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section8" : {
+        "title": "Conservando la biodiversidad en el Caribe Insular",
+        "contenido": ["En las Antillas Mayores el CBC ha identificado áreas con altos valores en riqueza de especies y bajos niveles de transformación antrópica. Estas áreas han sido priorizadas para ser preservadas y son conocidas como “áreas núcleo” de importancia para la conservación."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala1/bosque-seco.jpg",
+            "alt1": "Bosque seco del Parque Nacional Desembarco del Granma en Cuba.",
+            "name1": "Bosque seco del Parque Nacional Desembarco del Granma en Cuba.",
+
+            "imagen2": "./imagenes/sala1/reinita-azulada.jpg",
+            "alt2": "Reinita azulada (Dendroica caerulescens).",
+            "name2": "Reinita azulada (Dendroica caerulescens)."
+        },
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+
+    "section9" : {
+        "title": "Áreas núcleo de conservación en el CBC",
+        "contenido": ["La actual delimitación del CBC ocupa una superficie total de 199.703 km2, de los que 40.434 km2 (20.2%) corresponden a zonas núcleo de conservación y 159.269 km2 (79.8%) a zonas de conectividad."],
+        "subtitle": "Áreas Núcleo de Importancia para la Conservación del Corredor Biológico en el Caribe",
+        "imagen":  "./imagenes/sala1/mapa-areas-identificadas.jpg",
+        "description": ["Mapa de las áreas identificadas como núcleo de conservación dentro de la delimitación del Corredor Biológico en el Caribe, tomado del Sistema Integrado de Gestión del conocimiento del CBC (IKMS)."],
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
     "section10" : {
-        "title": "Conectividad Ecológica",
+        "title": "Otras áreas núcleo para la conservación",
         "contenido": ["Los bosques húmedos en el Caribe conforman algunas de las áreas núcleo de importancia para la conservación y para la seguridad hídrica en el CBC.",
                         "Estos ecosistemas capturan agua, protegen y contienen el caudal de los ríos, reduciendo las posibilidades de inundaciones."],
         "imagenes": {
-            "imagen1": "./imagenes/sala1/iguana-ricord.jpg",
-            "alt1": "Iguana de Ricord (Cyclura ricordii).",
-            "name1": "Iguana de Ricord (Cyclura ricordii).",
+            "imagen1": "./imagenes/sala1/el-yunque.jpg",
+            "alt1": "El Yunque, Puerto Rico.",
+            "name1": "El Yunque, Puerto Rico.",
 
-            "imagen2": "./imagenes/sala1/isla-cabritos.jpg",
-            "alt2": "Isla Cabritos, Lago Enriquillo, República Dominicana.",
-            "name2": "Isla Cabritos, Lago Enriquillo, República Dominicana."
+            "imagen2": "./imagenes/sala1/bosque-humedo.jpg",
+            "alt2": "Bosque húmedo.",
+            "name2": "Bosque húmedo."
+        },
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+
+    "section11" : {
+        "title": "Conectividad Ecológica",
+        "contenido": ["La conectividad ecológica se considera una propiedad del paisaje en la que existe un flujo natural de materia y energía entre diferentes ecosistemas, y es clave para la conservación de la naturaleza.",
+                        "La conectividad ecológica permite el movimiento y la dispersión segura de especies silvestres entre núcleos preservados.",
+                            "Si se perdiera dicha conectividad, se afectarían tanto a las especies dentro de los ecosistemas, como la productividad, la resiliencia, y la capacidad de los ecosistemas para generar servicios ambientales para los seres humanos."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala1/manglares-montecristi1.jpg",
+            "alt1": "Manglares de Montecristi conectados con arrecifes de coral en República Dominicana.",
+            "name1": "Manglares de Montecristi conectados con arrecifes de coral en República Dominicana.",
+
+            "imagen2": "./imagenes/sala1/manglares-montecristi2.jpg",
+            "alt2": "Manglares de Montecristi conectados con arrecifes de coral en República Dominicana.",
+            "name2": "Manglares de Montecristi conectados con arrecifes de coral en República Dominicana."
         },
         "background": "#FFFFFF",
-        "colorText": "#fff"
+        "colorText": "#181818"
     },
 
     "section12" : {
-        "title": "Conectividad Ecológica",
-        "contenido": ["Los bosques húmedos en el Caribe conforman algunas de las áreas núcleo de importancia para la conservación y para la seguridad hídrica en el CBC.",
-                        "Estos ecosistemas capturan agua, protegen y contienen el caudal de los ríos, reduciendo las posibilidades de inundaciones."],
+        "title": "De la montaña al mar",
+        "contenido": ["Un ejemplo de conectividad ecológica se da entre ecosistemas costeros y de montaña en diferentes lugares del CBC, que permiten el movimiento de algunas especies, así como los  servicios ambientales que brinda la naturaleza.",
+                        "El CBC busca mantener y recuperar la conectividad ecológica en sus áreas de intervención, así como reducir sus presiones y amenazas."],
         "imagenes": {
-            "imagen1": "./imagenes/sala1/iguana-ricord.jpg",
-            "alt1": "Iguana de Ricord (Cyclura ricordii).",
-            "name1": "Iguana de Ricord (Cyclura ricordii).",
+            "imagen1": "./imagenes/sala1/transicion-parque.jpg",
+            "alt1": "Transición del Parque Nacional Pic Macayá a la costa del Caribe haitiano.",
+            "name1": "Transición del Parque Nacional Pic Macayá a la costa del Caribe haitiano.",
 
-            "imagen2": "./imagenes/sala1/isla-cabritos.jpg",
-            "alt2": "Isla Cabritos, Lago Enriquillo, República Dominicana.",
-            "name2": "Isla Cabritos, Lago Enriquillo, República Dominicana."
+            "imagen2": "./imagenes/sala1/colibri-mellisuga.jpg",
+            "alt2": "Colibrí (Mellisuga helenae) alimentándose.",
+            "name2": "Colibrí (Mellisuga helenae) alimentándose."
+        },
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+
+    "section13" : {
+        "title": "Importancia de la conectividad",
+        "contenido": ["Especies, como el águila pescadora, que migra periódicamente, no reconocen las fronteras político-administrativas entre naciones.",
+                        "Para mantener la conectividad en la región, es necesario contar con acciones coordinadas a nivel regional más allá de las fronteras del Caribe insular."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala1/matorral-cactaceo.jpg",
+            "alt1": "Matorral Cactáceo en conexión con ecosistemas marinos.",
+            "name1": "Matorral Cactáceo en conexión con ecosistemas marinos.",
+
+            "imagen2": "./imagenes/sala1/aguila-pescadora.jpg",
+            "alt2": "Águila pescadora (Pandion haliaetus), República Dominicana.",
+            "name2": "Águila pescadora (Pandion haliaetus), República Dominicana."
         },
         "background": "#FFFFFF",
-        "colorText": "#fff"
+        "colorText": "#181818"
+    },
+
+    "section14" : {
+        "title": "áreas de importancia para la conectividad en el CBC",
+        "contenido": ["Este mapa resalta las áreas que han sido priorizadas para la conectividad en el corredor, a la vez que muestra las zonas núcleo de conservación y de importancia para la restauración de la conectividad.",
+                        "Cabe aclarar que en el ámbito marino el 92.5% corresponde a zonas de importancia para la conectividad y en el ámbito terrestre el 56.7%."],
+        "subtitle": "Áreas de Conectividad en el Corredor Biológico  en el Caribe",
+        "imagen":  "./imagenes/sala1/mapa-areas-identificadas.jpg",
+        "description": ["Mapa de la actual demarcación del corredor resaltando áreas identificadas de importancia para la conectividad en el Corredor Biológico del Caribe, así como áreas núcleo de importancia para la conservación."],
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+
+    "section15" : {
+        "title": "Amenazas a la biodiversidad en el Caribe",
+        "contenido": ["La biodiversidad caribeña se ha vuelto vulnerable por el uso irracional de los recursos naturales, la contaminación y degradación de ecosistemas.",
+                        "Las actividades humanas insostenibles, el crecimiento poblacional desorganizado y la demanda por recursos, han impulsado la deforestación y la degradación de ecosistemas marino-costeros.",
+                            "El incremento en el nivel del mar, la mayor intensidad y frecuencia de huracanes, tormentas tropicales y sequías son algunos de los impactos del cambio climático, el cual afecta ecosistemas, comunidades locales y sus modos de vida, así como la biodiversidad de la región."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala1/redes-abandonadas.jpg",
+            "alt1": "Redes abandonadas en arrecife: mala práctica pesquera.",
+            "name1": "Redes abandonadas en arrecife: mala práctica pesquera.",
+
+            "imagen2": "./imagenes/sala1/suelos-degradados.jpg",
+            "alt2": "Suelos degradados.",
+            "name2": "Suelos degradados."
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section16" : {
+        "title": "Enfoque de trabajo del CBC",
+        "contenido": ["El equipo del CBC enfoca su trabajo en la conservación de la biodiversidad; específicamente, en asegurar las conexiones que se producen entre los paisajes, ecosistemas y hábitats del Caribe."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala1/monitoreo-arrecifes.jpg",
+            "alt1": "Monitoreo de arrecifes en Jardines de la Reina, Cuba.",
+            "name1": "Monitoreo de arrecifes en Jardines de la Reina, Cuba.",
+
+            "imagen2": "./imagenes/sala1/equipo-CBC.jpg",
+            "alt2": "Equipo del CBC adelantando acciones de monitoreo de la biodiversidad en las Antillas Mayores.",
+            "name2": "Equipo del CBC adelantando acciones de monitoreo de la biodiversidad en las Antillas Mayores."
+        },
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+
+    
+    "section17" : {
+        "title": "Conservación, uso sostenible y restauración",
+        "contenido": ["Las zonas núcleo, marinas y terrestres, están conformadas por áreas protegidas y otras áreas de importancia para la conectividad.",
+                        "Para mantener las conexiones, es vital promover la restauración de los ecosistemas, como la siembra de especies de corales, la reforestación, y la sostenibilidad del uso de los recursos naturales."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala1/pinares-cuba.jpg",
+            "alt1": "Pinares de Cuba.",
+            "name1": "Pinares de Cuba.",
+
+            "imagen2": "./imagenes/sala1/peces-cirujano.jpg",
+            "alt2": "Peces cirujano en arrecifes de coral de La Española.",
+            "name2": "Peces cirujano en arrecifes de coral de La Española."
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section18" : {
+        "title": "Apoyo a la gestión de áreas protegidas",
+        "contenido": ["La Iniciativa busca fomentar la conservación y mejorar la gestión de áreas protegidas de importancia regional; una labor que el CBC realiza de manera conjunta con los sistemas de áreas protegidas, los Ministerios de Ambiente, y los socios y actores locales de los países del CBC."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala1/salto-guayabo.jpg",
+            "alt1": "Salto del Guayabo en área de amortiguación del Parque Nacional la Mensura, en Cuba.",
+            "name1": "Salto del Guayabo en área de amortiguación del Parque Nacional la Mensura, en Cuba.",
+
+            "imagen2": "./imagenes/sala1/cardumenes-protegidos.jpg",
+            "alt2": "Cardúmenes protegidos en Cayo Largo, Cuba.",
+            "name2": "Cardúmenes protegidos en Cayo Largo, Cuba."
+        },
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+
+    "section19" : {
+        "title": "Trabajo local en el CBC",
+        "contenido": ["El CBC trabaja con socios y actores a nivel local para abordar las problemáticas que amenazan la biodiversidad.",
+                        "A través de estas acciones, se busca promover modos de vida sostenibles para las comunidades que a su vez contribuyan a la conservación."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala1/cultivos-cafe1.jpg",
+            "alt1": "Cultivos de café en vivero agroforestal en Pic Macayá, Haití.",
+            "name1": "Cultivos de café en vivero agroforestal en Pic Macayá, Haití.",
+
+            "imagen2": "./imagenes/sala1/cultivos-cafe2.jpg",
+            "alt2": "Cultivos de café en vivero agroforestal en Pic Macayá, Haití.",
+            "name2": "Cultivos de café en vivero agroforestal en Pic Macayá, Haití.."
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section20" : {
+        "title": "Paisajes productivos aportan a la conectividad",
+        "contenido": ["El CBC incluye amplios territorios no protegidos que forman parte de su red ecológica, sitios con paisajes productivos que ayudan a mantener la conectividad ecológica regional y los bienes y servicios proporcionados por los ecosistemas.",
+                        "Al implementar acciones de conservación, restauración ecológica y uso sostenible, como el cultivo de café, la apicultura o la agroforestería, se busca mejorar modos de vida de las comunidades que a su vez aporten a la conectividad entre paisajes y la conservación de la biodiversidad."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala1/apicultura-cosecha1.jpg",
+            "alt1": "Apicultura y cosecha de granos de café, actividades productivas sostenibles en el Caribe.",
+            "name1": "Apicultura y cosecha de granos de café, actividades productivas sostenibles en el Caribe.",
+
+            "imagen2": "./imagenes/sala1/apicultura-cosecha2.jpg",
+            "alt2": "Apicultura y cosecha de granos de café, actividades productivas sostenibles en el Caribe.",
+            "name2": "Apicultura y cosecha de granos de café, actividades productivas sostenibles en el Caribe."
+        },
+        "background": "#528641",
+        "colorText": "#FFFFFF"
     }
 }

@@ -17,6 +17,13 @@
         lg:text-[48px] lg:leading-[63.84px]
     }
 
+    h4 {
+        @apply font-[600] font-Public text-[20px] leading-[39.68px] text-center
+        sm:text-[34px] sm:leading-[40px]
+        md:text-[40px] md:leading-[55px]
+        lg:text-[40px] lg:leading-[54px]
+    }
+
     ul {
         @apply font-[500] text-[20px]  leading-[28.4px] font-Public
         sm:text-[23px] sm:leading-[35px]
@@ -89,6 +96,10 @@
 
     .overflow {
         overflow-x: auto;
+    }
+
+    .titleFooter {
+
     }
 
 }

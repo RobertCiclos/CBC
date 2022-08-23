@@ -5,7 +5,7 @@ const ModelSlider = (props) => {
     const numParrafos = props.contenido.length
   return (
     <div className='contSalas '>
-        <h2>{props.title}</h2>
+        <h2 className='uppercase'>{props.title}</h2>
         <p className='mtPharagraphs'>
             {props.contenido.map( 
                 (parrafo,index) => {
