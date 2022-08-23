@@ -6,6 +6,7 @@ const Sala2 = () => {
     <>
       <section
         id='section1'>
+        hola
       </section>
 
       <section
