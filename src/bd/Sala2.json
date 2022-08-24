@@ -284,6 +284,11 @@
         },
         "background": "#103A62",
         "colorText": "#FFFFFF"
+    },
+
+    "section29" : {
+        "img": "./imagenes/sala2/agrupaciones-corales.jpg",
+        "description": "Agrupaciones de corales duros y blandos en Les Cayemites, Haití."
     }
 
 }

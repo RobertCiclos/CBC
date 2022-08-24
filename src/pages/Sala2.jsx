@@ -1,4 +1,5 @@
 import React from 'react'
+import Modelimg from '../components/Modelimg'
 import CardAnimales from '../components/Cards/CardAnimales'
 import ModelOneImg from '../components/ModelOneImg'
 import ModelSlider from '../components/ModelSlider'
@@ -198,12 +199,15 @@ const Sala2 = () => {
       </section>
 
       <section
-        id='section29'>
+        id='section29'
+        className='pySection'>
+        <Modelimg {...dataSala2.section29}/>
       </section>
 
       <section
         id='section30'>
       </section>
+      
     </div>
 
   )
