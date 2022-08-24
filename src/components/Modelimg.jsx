@@ -3,8 +3,11 @@ import React from 'react'
 
 const Modelimg = (props) => {
   return (
-    <div className='item grid gap-[16px] md:gap-[32px] text-center'>
-        <img src={props.img} alt="Pescadores artesanales" className="max-w-[1880px] mx-auto h-full pointer-events-none" />
+    <div 
+      className='item grid  text-center 
+      gap-[16px] pb-[28px]
+      md:gap-[32px] md:pb-[56px]'>
+        <img src={props.img} alt="Pescadores artesanales" className="separador" />
         <cite className='contSalas'>{props.description}</cite>
     </div>
   )

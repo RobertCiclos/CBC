@@ -46,13 +46,15 @@ const Sala2 = () => {
 
       <section
         id='section4'>
+        <img src="./imagenes/sala2/video-especies.jpg" alt="Video Especies Representativas" className="separador"/>
       </section>
 
       <section
         id='section5'>
         <img 
           src='./imagenes/sala2/especies-migratorias.jpg'
-          className='img-separador'
+          className='separador'
+          alt='Especies Migratorias'
         />
       </section>
 
@@ -88,7 +90,8 @@ const Sala2 = () => {
         id='section10'>
         <img 
           src='./imagenes/sala2/especies-endemicas.jpg'
-          className='img-separador'
+          className='separador'
+          alt='Especies endémicas'
         />
       </section>
 
@@ -101,6 +104,7 @@ const Sala2 = () => {
 
       <section
         id='section12'>
+        <img src="./imagenes/sala2/video-gris.jpg" alt="Video" className="separador"/>
       </section>
 
       <section
@@ -121,7 +125,8 @@ const Sala2 = () => {
         id='section15'>
         <img 
           src='./imagenes/sala2/especies-importantes.jpg'
-          className='img-separador'
+          className='separador'
+          alt='Otras especies de importancia para la conservación'
         />
       </section>
 
@@ -141,6 +146,7 @@ const Sala2 = () => {
 
       <section
         id='section18'>
+        <img src="./imagenes/sala2/video-cocodrilo.jpg" alt="Video Vulnerable" className="separador"/>
       </section>
 
       <section
@@ -174,7 +180,8 @@ const Sala2 = () => {
         id='section23'>
         <img 
           src='./imagenes/sala2/especies-interes.jpg'
-          className='img-separador'
+          className='separador'
+          alt='Otras especies de interés para el CBC'
         />
       </section>
 
@@ -187,6 +194,7 @@ const Sala2 = () => {
 
       <section
         id='section25'>
+        <img src="./imagenes/sala2/video-gris.jpg" alt="Video gris" className="separador"/>
       </section>
 
       <section
@@ -212,7 +220,7 @@ const Sala2 = () => {
 
       <section
         id='section29'
-        className='pySection'>
+        className=''>
         <Modelimg {...dataSala2.section29}/>
       </section>
 

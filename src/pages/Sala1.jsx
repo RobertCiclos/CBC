@@ -70,7 +70,7 @@ const Sala1 = () => {
 
       <section
         id='section6'>
-        <img src="./imagenes/sala1/videoSala1.jpg" alt="Video Conexión natural" className="w-full h-full xl:h-[100vh]" />
+        <img src="./imagenes/sala1/videoSala1.jpg" alt="Video Conexión natural" className="separador" />
       </section>
 
       <section
@@ -173,7 +173,7 @@ const Sala1 = () => {
 
       <section
         id='section21'
-        className='pb-[28px] md:pb-[56px]'>
+        className=''>
         <Modelimg {...dataSala1.section21}/>
       </section>
     </div>
