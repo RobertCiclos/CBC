@@ -56,8 +56,7 @@
         "colorIndicador" : "#85BD70",
         "title": "Manta gigante",
         "contenido": ["Esta especie se alimenta de zooplancton y habita aguas marinas tropicales y subtropicales.",
-                        "Es la mantarraya más grande que existe, su nombre se debe a que pueden llegar a tener una envergadura de hasta medir 7 metros, y pesar 2000 kg.",
-                            "A diferencia de otras especies de rayas, esta no tiene un aguijón venenoso en su cola.",
+                        "Es la mantarraya más grande que existe, su nombre se debe a que pueden llegar a tener una envergadura de hasta medir 7 metros, y pesar 2000 kg. A diferencia de otras especies de rayas, esta no tiene un aguijón venenoso en su cola.",
                                 "Está altamente amenazada por las pesquerías, por el consumo de sus placas branquiales. Es una especie altamente amenazada priorizada por el CBC para su conservación."],
         "imagenes": {
             "imagen1": "./imagenes/sala2/manta-gigante1.jpg",
@@ -111,7 +110,7 @@
             "alt1": "Rana de río (Eleutherodactylus riparius), Cuba.",
             "name1": "Rana de río (Eleutherodactylus riparius), Cuba.",
 
-            "imagen2": "./imagenes/sala1/ranita-iberia.jpg",
+            "imagen2": "./imagenes/sala2/ranita-iberia.jpg",
             "alt2": "Ranita de Iberia (Eleutherodactylus iberia), Cuba.",
             "name2": "Ranita de Iberia (Eleutherodactylus iberia), Cuba."
         },
