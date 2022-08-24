@@ -61,9 +61,7 @@ const Sala2 = () => {
 
       <section
         id='section10'
-        style={{background: dataSala2.section10.background, color: dataSala2.section10.colorText}} 
         className='pySection'>
-        <ModelMap {...dataSala2.section10} />
       </section>
 
       <section
@@ -93,9 +91,7 @@ const Sala2 = () => {
 
       <section
         id='section15'
-        style={{background: dataSala2.section15.background, color: dataSala2.section15.colorText}} 
         className='pySection'>
-        <ModelMap {...dataSala2.section15} />
       </section>
 
       <section
@@ -139,9 +135,8 @@ const Sala2 = () => {
 
       <section
         id='section22'
-        style={{background: dataSala2.section22.background, color: dataSala2.section22.colorText}} 
         className='pySection'>
-        <ModelSlider {...dataSala2.section22} />
+
       </section>
 
       <section
