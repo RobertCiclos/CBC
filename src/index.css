@@ -75,6 +75,10 @@
                 xl:px-0 xl:w-[1016px]
     }
 
+    .img-separador{
+        @apply max-w-[1880px] mx-auto h-full
+    }
+
 }
 
 @layer utilities {

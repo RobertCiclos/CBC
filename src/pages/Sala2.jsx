@@ -50,7 +50,10 @@ const Sala2 = () => {
 
       <section
         id='section5'>
-        {/*type C*/}
+        <img 
+          src='./imagenes/sala2/especies-migratorias.jpg'
+          className='img-separador'
+        />
       </section>
 
       <section
@@ -82,8 +85,11 @@ const Sala2 = () => {
       </section>
 
       <section
-        id='section10'
-        className='pySection'>
+        id='section10'>
+        <img 
+          src='./imagenes/sala2/especies-endemicas.jpg'
+          className='img-separador'
+        />
       </section>
 
       <section
@@ -112,8 +118,11 @@ const Sala2 = () => {
       </section>
 
       <section
-        id='section15'
-        className='pySection'>
+        id='section15'>
+        <img 
+          src='./imagenes/sala2/especies-importantes.jpg'
+          className='img-separador'
+        />
       </section>
 
       <section
@@ -163,7 +172,10 @@ const Sala2 = () => {
 
       <section
         id='section23'>
-        {/*type C*/}
+        <img 
+          src='./imagenes/sala2/especies-interes.jpg'
+          className='img-separador'
+        />
       </section>
 
       <section
@@ -207,7 +219,7 @@ const Sala2 = () => {
       <section
         id='section30'>
       </section>
-      
+
     </div>
 
   )
