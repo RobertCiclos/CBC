@@ -58,7 +58,7 @@
 
 @layer components {
     .imgBack {
-        @apply bg-cover bg-no-repeat bg-top h-[calc(100vh-85px)]
+        @apply bg-cover bg-no-repeat bg-top h-auto xl:h-[calc(100vh-85px)]
     }
 
     .transicion {
@@ -75,6 +75,17 @@
                 xl:px-0 xl:w-[1016px]
     }
 
+    .separador{
+        @apply w-full h-full
+    }
+
+    .contSalasAux {
+        @apply  w-[311px] mx-auto grid justify-items-center
+                gap-y-[20px]
+                sm:px-[8%] sm:w-auto grid-cols-2
+                lg:grid-cols-3 xl:grid-cols-4 lg:gap-y-[32px]
+                desktop:grid-cols-5 desktop:px-0 desktop:w-[1440px]
+    }
 }
 
 @layer utilities {

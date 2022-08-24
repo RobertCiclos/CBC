@@ -3,19 +3,64 @@ import Modelimg from '../components/Modelimg'
 import CardAnimales from '../components/Cards/CardAnimales'
 import ModelOneImg from '../components/ModelOneImg'
 import ModelSlider from '../components/ModelSlider'
+import { useMediaQuery } from 'react-responsive'
 
 const Sala2 = () => {
+
+  const isDesktop = useMediaQuery({query: '(min-width: 1440px)'})
+  const istablet = useMediaQuery({query: '(min-width: 1280px)'})
   const dataSala2 = require('../bd/Sala2.json')
+
+  function renderizadoAux(){
+   
+      if(isDesktop){
+        return  <div
+                  className='col-span-5 grid grid-cols-4 gap-[26px]'>
+                  <CardAnimales />
+                  <CardAnimales />
+                  <CardAnimales />
+                  <CardAnimales />        
+                </div>
+      }else if (istablet){
+        return  <>
+                <CardAnimales />
+                <CardAnimales />
+                <div
+                  className='col-span-4 grid grid-cols-2 gap-[26px]'>
+                  <CardAnimales />
+                  <CardAnimales />
+                </div>
+                </>
+      }else{
+        return <>
+                <CardAnimales />
+                <CardAnimales />
+                <CardAnimales />
+                <CardAnimales />
+              </>
+      }
+  }
 
   return (
     <div className='pt-[85px] overflow-x-hidden'>
       <section
         id='section1'
-        className='imgBack bg-[url("/public/imagenes/sala1/hero-sala1.jpg")] '>
+        className='imgBack bg-slate-500 relative 
+        xl:bg-[url("/public/imagenes/sala2/hero-sala2-min.jpg")] '>
+        {
+          !istablet &&
+            <img 
+              src='./imagenes/sala2/hero-sala2-min.jpg' 
+              alt=''
+              className=' z-0'
+            />
+        }
         <div
-          className='contSalas flex'>
+          className='contSalas flex top-[-10%] md:top-0  absolute xl:top-0 xl:relative'>
           <h1 
-            className='text-left w-auto mt-[3rem]'>
+            className='text-left w-auto mt-[3rem] text-[20px] ml-[17%] 
+            sm:w-[100px] md:text-[32px] md:w-[150px]
+            xl:ml-0 xl:text-[56px] xl:w-auto'>
             SALA 2
             <span className='lineAux'/>
           </h1>
@@ -40,17 +85,36 @@ const Sala2 = () => {
       </section>
 
       <section
-        id='section3'>
-        <CardAnimales />
+        id='section3'
+        style={{paddingTop: 0}}
+        className='pySection'>
+        <div className='contSalasAux'>
+          <CardAnimales />
+          <CardAnimales />
+          <CardAnimales />
+          <CardAnimales />
+          <CardAnimales />
+          <CardAnimales />
+          <CardAnimales />
+          <CardAnimales />
+          <CardAnimales />
+          <CardAnimales />
+          {renderizadoAux()}
+        </div>
       </section>
 
       <section
         id='section4'>
+        <img src="./imagenes/sala2/video-especies.jpg" alt="Video Especies Representativas" className="separador"/>
       </section>
 
       <section
         id='section5'>
-        {/*type C*/}
+        <img 
+          src='./imagenes/sala2/especies-migratorias.jpg'
+          className='separador'
+          alt='Especies Migratorias'
+        />
       </section>
 
       <section
@@ -82,8 +146,12 @@ const Sala2 = () => {
       </section>
 
       <section
-        id='section10'
-        className='pySection'>
+        id='section10'>
+        <img 
+          src='./imagenes/sala2/especies-endemicas.jpg'
+          className='separador'
+          alt='Especies endémicas'
+        />
       </section>
 
       <section
@@ -95,6 +163,7 @@ const Sala2 = () => {
 
       <section
         id='section12'>
+        <img src="./imagenes/sala2/video-gris.jpg" alt="Video" className="separador"/>
       </section>
 
       <section
@@ -112,8 +181,12 @@ const Sala2 = () => {
       </section>
 
       <section
-        id='section15'
-        className='pySection'>
+        id='section15'>
+        <img 
+          src='./imagenes/sala2/especies-importantes.jpg'
+          className='separador'
+          alt='Otras especies de importancia para la conservación'
+        />
       </section>
 
       <section
@@ -132,6 +205,7 @@ const Sala2 = () => {
 
       <section
         id='section18'>
+        <img src="./imagenes/sala2/video-cocodrilo.jpg" alt="Video Vulnerable" className="separador"/>
       </section>
 
       <section
@@ -163,7 +237,11 @@ const Sala2 = () => {
 
       <section
         id='section23'>
-        {/*type C*/}
+        <img 
+          src='./imagenes/sala2/especies-interes.jpg'
+          className='separador'
+          alt='Otras especies de interés para el CBC'
+        />
       </section>
 
       <section
@@ -175,6 +253,7 @@ const Sala2 = () => {
 
       <section
         id='section25'>
+        <img src="./imagenes/sala2/video-gris.jpg" alt="Video gris" className="separador"/>
       </section>
 
       <section
@@ -200,14 +279,14 @@ const Sala2 = () => {
 
       <section
         id='section29'
-        className='pySection'>
+        className=''>
         <Modelimg {...dataSala2.section29}/>
       </section>
 
       <section
         id='section30'>
       </section>
-      
+
     </div>
 
   )
