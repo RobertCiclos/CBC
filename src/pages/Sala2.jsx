@@ -12,38 +12,34 @@ const Sala2 = () => {
   const dataSala2 = require('../bd/Sala2.json')
   const [screem, setScreem] = useState(0)
 
-  switch(screem){
-    case isDesktop: 
-      return  <div
-                className='col-span-5 grid grid-cols-4 gap-[26px]'>
+  function renderizadoAux(){
+   
+      if(isDesktop){
+        return  <div
+                  className='col-span-5 grid grid-cols-4 gap-[26px]'>
+                  <CardAnimales />
+                  <CardAnimales />
+                  <CardAnimales />
+                  <CardAnimales />        
+                </div>
+      }else if (istablet){
+        return  <>
+                <CardAnimales />
+                <CardAnimales />
+                <div
+                  className='col-span-4 grid grid-cols-2 gap-[26px]'>
+                  <CardAnimales />
+                  <CardAnimales />
+                </div>
+                </>
+      }else{
+        return <>
                 <CardAnimales />
                 <CardAnimales />
                 <CardAnimales />
                 <CardAnimales />
-              </div>
-
-    case isDesktop:     
-      return  <>
-              <CardAnimales />
-              <CardAnimales />
-              <div
-                className='col-span-4 grid grid-cols-2 gap-[26px]'>
-                <CardAnimales />
-                <CardAnimales />
-              </div>
               </>
-              
-    case isDesktop:
-
-      return  <>
-              <CardAnimales />
-              <CardAnimales />
-              <div
-                className='col-span-4 grid grid-cols-2 gap-[26px]'>
-                <CardAnimales />
-                <CardAnimales />
-              </div>
-              </>
+      }
   }
 
   return (
@@ -91,16 +87,9 @@ const Sala2 = () => {
           <CardAnimales />
           <CardAnimales />
           <CardAnimales />
-          
           <CardAnimales />
           <CardAnimales />
-
-          <div
-            className='col-span-3 grid grid-cols-2 gap-[26px]'>
-            <CardAnimales />
-            <CardAnimales />
-          </div>
-          
+          {renderizadoAux()}
         </div>
       </section>
 
