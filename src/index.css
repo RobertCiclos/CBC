@@ -79,6 +79,12 @@
         @apply max-w-[1880px] mx-auto h-full
     }
 
+    .contSalasAux {
+        @apply  w-[311px] mx-auto grid justify-items-center
+                sm:px-[8%] sm:w-auto grid-cols-2
+                lg:grid-cols-3 xl:grid-cols-4 lg:gap-y-[32px]
+                desktop:grid-cols-5 desktop:px-0 desktop:w-[1440px]
+    }
 }
 
 @layer utilities {
