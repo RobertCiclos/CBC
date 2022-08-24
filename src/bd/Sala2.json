@@ -1,15 +1,4 @@
 {
-    "section3" : {
-        "title": "El Caribe y su biodiversidad",
-        "contenido": ["El Caribe alberga una importante proporción de la biodiversidad global, por esta razón es considerado uno de los 35 “puntos calientes” de la biodiversidad en el mundo.",
-                     "Son zonas del planeta que poseen un porcentaje elevado de especies endémicas, exclusivas de ese lugar, o especies altamente amenazadas."],
-        "subtitle": null,
-        "imagen":  "./imagenes/sala1/mapa-puntos-calientes.jpg",
-        "description": ["Mapa de ‘’puntos calientes’’ de biodiversidad. Myers, N., Mittermeier, R., Mittermeier, C. et al. Biodiversity hotspots for conservation priorities. Nature 403, 853–858 (2000).",
-                        "https://doi.org/10.1038/35002501"],
-        "background": "#528641",
-        "colorText": "#FFFFFF"
-    },
 
     "section6" : {
         "indicador" : "Especies Migratorias ",
@@ -21,6 +10,66 @@
         "description": "Tordo de Bicknell (Catharus bicknelli)",
         "background": "#103A62",
         "colorText": "#FFFFFF"
+    },
+
+    "section7" : {
+        "indicador" : "Especies Migratorias ",
+        "colorIndicador" : "#103A62",
+        "title": "TORTUGA CAREY",
+        "contenido": ["La tortuga carey es la especie marina más amenazada en el Caribe y de importancia para la conservación en el CBC. Se encuentra en peligro crítico de extinción.",
+                        "La amenaza fundamental es la captura ilegal para el comercio del caparazón con el que se hacen artesanías. También, se persigue para consumir algunas de sus partes y sus huevos, y debido a la errónea creencia de que es afrodisíaca."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/tortuga-carey1.jpg",
+            "alt1": "Tortuga carey  (Eretmochelys imbricata)",
+            "name1": "Tortuga carey  (Eretmochelys imbricata)",
+
+            "imagen2": "./imagenes/sala2/tortuga-carey2.jpg",
+            "alt2": "Tortuga carey (Eretmochelys imbricata) en el Parque Nacional Jardines de la Reina, Cuba.",
+            "name2": "Tortuga carey (Eretmochelys imbricata) en el Parque Nacional Jardines de la Reina, Cuba."
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section8" : {
+        "indicador" : "Especies Migratorias ",
+        "colorIndicador" : "#85BD70",
+        "title": "Tiburón Ballena",
+        "contenido": ["Es el pez más grande que existe y habita en todos los mares tropicales del mundo.",
+                        "Se distingue por sus patrones de manchas que son únicos para cada individuo.",
+                            "Dado que está altamente amenazado por las pesquerías y se encuentra en peligro de extinción, el CBC lo ha priorizado como objeto de conservación."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/tiburon-ballena1.jpg",
+            "alt1": "Tiburón Ballena (Rhincodon typus)",
+            "name1": "Tiburón Ballena (Rhincodon typus)",
+
+            "imagen2": "./imagenes/sala2/tiburon-ballena2.jpg",
+            "alt2": "Tiburón Ballena (Rhincodon typus)",
+            "name2": "Tiburón Ballena (Rhincodon typus)"
+        },
+        "background": "#103A62",
+        "colorText": "#FFFFFF"
+    },
+
+    "section9" : {
+        "indicador" : "Especies Migratorias ",
+        "colorIndicador" : "#85BD70",
+        "title": "Manta gigante",
+        "contenido": ["Esta especie se alimenta de zooplancton y habita aguas marinas tropicales y subtropicales.",
+                        "Es la mantarraya más grande que existe, su nombre se debe a que pueden llegar a tener una envergadura de hasta medir 7 metros, y pesar 2000 kg.",
+                            "A diferencia de otras especies de rayas, esta no tiene un aguijón venenoso en su cola.",
+                                "Está altamente amenazada por las pesquerías, por el consumo de sus placas branquiales. Es una especie altamente amenazada priorizada por el CBC para su conservación."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/manta-gigante1.jpg",
+            "alt1": "Mantarraya o manta gigante (Mobula birostris)",
+            "name1": "Mantarraya o manta gigante (Mobula birostris)",
+
+            "imagen2": "./imagenes/sala2/manta-gigante2.jpg",
+            "alt2": "Mantarraya o manta gigante (Mobula birostris)",
+            "name2": "Mantarraya o manta gigante (Mobula birostris)"
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
     },
 
     "section11" : {
@@ -49,6 +98,27 @@
         "background": "#ffffff",
         "colorText": "#181818"
     },
+
+    "section14" : {
+        "indicador" : "Especies endémicas",
+        "colorIndicador" : "#85BD70",
+        "title": "Anfibios",
+        "contenido": ["En el Caribe, el 75% de especies de anfibios están en peligro de extinción, o ya extintas. La lista de objetos de conservación incluye 115 especies.",
+                        "La mayoría de estos anfibios son ranas que han sido afectadas por la pérdida de hábitat, por especies invasoras, la explotación y las enfermedades.",
+                            "La ranita de Iberia es una de las ranas más pequeñas del mundo. Se encuentra en unas pocas localidades en Cuba."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/rana-rio.jpg",
+            "alt1": "Rana de río (Eleutherodactylus riparius), Cuba.",
+            "name1": "Rana de río (Eleutherodactylus riparius), Cuba.",
+
+            "imagen2": "./imagenes/sala1/ranita-iberia.jpg",
+            "alt2": "Ranita de Iberia (Eleutherodactylus iberia), Cuba.",
+            "name2": "Ranita de Iberia (Eleutherodactylus iberia), Cuba."
+        },
+        "background": "#103A62",
+        "colorText": "#FFFFFF"
+    },
+
     "section16" : {
         "indicador" : "Otras especies de importancia para la conservación",
         "colorIndicador" : "#103A62",
@@ -63,6 +133,26 @@
         "colorText": "#181818"
     },
     
+    "section17" : {
+        "indicador" : "Otras especies de importancia para la conservación",
+        "colorIndicador" : "#85BD70",
+        "title": "Cocodrilo Americano",
+        "contenido": ["Es un reptil vulnerable a la extinción y su población en La Española, restringida a los lagos Enriquillo y Azuei, está en peligro crítico de extinción.",
+                        "Sus mayores amenazas son la caza ilegal para la extracción de su piel, la pérdida de sus hábitats a causa del desarrollo costero y el cambio climático.",
+                            "Es un gran depredador. Casi cualquier animal acuático o terrestre que se encuentre en su territorio puede ser su presa."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/cocodrilo-americano1.jpg",
+            "alt1": "Cocodrilo Americano (Crocodylus acutus).",
+            "name1": "Cocodrilo Americano (Crocodylus acutus).",
+
+            "imagen2": "./imagenes/sala2/cocodrilo-americano2.jpg",
+            "alt2": "Cocodrilo Americano (Crocodylus acutus).",
+            "name2": "Cocodrilo Americano (Crocodylus acutus)."
+        },
+        "background": "#103A62",
+        "colorText": "#FFFFFF"
+    },
+
     "section19" : {
         "indicador" : "Otras especies de importancia para la conservación",
         "colorIndicador" : "#103A62",
@@ -75,5 +165,126 @@
         "description": "Diablotín (Pterodroma hasitata) sobrevolando el mar Caribe. ",
         "background": "#ffffff",
         "colorText": "#181818"
+    },
+
+    "section20" : {
+        "indicador" : "Otras especies de importancia para la conservación",
+        "colorIndicador" : "#85BD70",
+        "title": "Manatí antillano",
+        "contenido": ["Es un mamífero marino herbívoro amenazado, vulnerable a la extinción y, en el caso del Caribe, en peligro de extinción.",
+                        "Controla la flotabilidad y horizontalidad de su cuerpo por la elevada cantidad de gases que produce con la digestión de la materia vegetal que consume.",
+                            "Las principales amenazas que enfrenta son: caza ilegal, pérdida de hábitat, contaminación costera, colisiones con embarcaciones, y mareas rojas."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/manati-antillano.jpg",
+            "alt1": "Manatí antillano (Trichechus manatus).",
+            "name1": "Manatí antillano (Trichechus manatus).",
+
+            "imagen2": "./imagenes/sala2/habitad-manati.jpg",
+            "alt2": "Hábitat del manatí antillano (Trichechus manatus) en Estero Hondo (República Dominicana).",
+            "name2": "Hábitat del manatí antillano (Trichechus manatus) en Estero Hondo (República Dominicana)."
+        },
+        "background": "#103A62",
+        "colorText": "#FFFFFF"
+    },
+
+    "section21" : {
+        "indicador" : "Otras especies de importancia para la conservación",
+        "colorIndicador" : "#103A62",
+        "title": "Cachalote",
+        "contenido": ["Es una especie considerada vulnerable a la extinción.",
+                        "Se encuentra en las áreas marinas de todo el mundo desde océanos hasta golfos, menos en zonas heladas.",
+                            "Emiten una amplia gama de sonidos ya sea para orientarse, comunicarse o localizar a sus presas."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/cachalote.jpg",
+            "alt1": "Cachalote (Physeter macrocephalus) y su particular cola.",
+            "name1": "Cachalote (Physeter macrocephalus) y su particular cola.",
+
+            "imagen2": "./imagenes/sala2/cabeza-cachalote.jpg",
+            "alt2": "Cabeza de cachalote (Physeter macrocephalus) que presenta su mandíbula dentada.",
+            "name2": "Cabeza de cachalote (Physeter macrocephalus) que presenta su mandíbula dentada."
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section24" : {
+        "indicador" : "Otras especies de interés para el CBC",
+        "colorIndicador" : "#103A62",
+        "title": "Águila pescadora",
+        "contenido": ["Se alimenta principalmente de peces (el 99% de su dieta), razón por la que habita mayormente en áreas cerca de cuerpos de agua.",
+                        "La migración de la especie es objeto de monitoreo del CBC, y se considera de preocupación menor de extinción.",
+                            "Ha sufrido debido a la caza, sobre todo en sus sitios de invernada, donde las aves juveniles son más propensas a ser cazadas; también, cuando permanece alrededor de los criaderos de peces."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/anidacion-aguila.jpg",
+            "alt1": "Anidación de águila pescadora (Pandion halietus)",
+            "name1": "Anidación de águila pescadora (Pandion halietus)",
+
+            "imagen2": "./imagenes/sala2/aguila-pescadora.jpg",
+            "alt2": "Águila pescadora (Pandion halietus).",
+            "name2": "Águila pescadora (Pandion halietus)."
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section26" : {
+        "indicador" : "Otras especies de interés para el CBC",
+        "colorIndicador" : "#85BD70",
+        "title": "Aves Paseriformes",
+        "contenido": ["Las paseriformes constituyen el 60% de las especies de aves del mundo y muchas son migratorias, como los Azulejos (Passerinacyanea), Mariposas (Passerina cyris), y las numerosas especies de Bijiritas (Setophaga sp.)",
+                        "Durante sus migraciones pueden formar grupos de millones de individuos que se extienden por más de 100 km para cruzar determinados territorios, como sucede en las migraciones a través del Estrecho de La Florida.",
+                            "Por su importancia para la conectividad ecológica, estas especies son objeto de monitoreo del CBC. Dos veces al año, los equipos de trabajo del CBC y sus socios en el terreno, en Cuba y la República Dominicana, monitorean la migración invernal y primaveral de numerosas especies de este importante grupo de aves."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/candelita-norteña.jpg",
+            "alt1": "Candelita norteña (Setophaga ruticilla)",
+            "name1": "Candelita norteña (Setophaga ruticilla)",
+
+            "imagen2": "./imagenes/sala2/chipe-garganta.jpg",
+            "alt2": "Chipe garganta amarilla (Setophaga dominica)",
+            "name2": "Chipe garganta amarilla (Setophaga dominica)"
+        },
+        "background": "#103A62",
+        "colorText": "#FFFFFF"
+    },
+
+    "section27" : {
+        "indicador" : "Otras especies de interés para el CBC",
+        "colorIndicador" : "#103A62",
+        "title": "Ballena Jorobada",
+        "contenido": ["La ballena jorobada se encuentra en todos los océanos del mundo y es indicadora de conectividad.",
+                        "Puede medir hasta 19 metros de largo.",
+                            "Solía estar en alto peligro por la cacería, pero desde que se han implementado prohibiciones para su cacería, las poblaciones han ido en aumento."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/ballena-jorobada.jpg",
+            "alt1": "Ballena Jorobada (Megaptera novaeangliae)",
+            "name1": "Ballena Jorobada (Megaptera novaeangliae)",
+
+            "imagen2": "./imagenes/sala2/bahia-samana.jpg",
+            "alt2": "Bahía de Samaná (República Dominicana), puerto de embarque para las actividades de observación reglamentada de ballenas.",
+            "name2": "Bahía de Samaná (República Dominicana), puerto de embarque para las actividades de observación reglamentada de ballenas."
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section28" : {
+        "indicador" : "Otras especies de interés para el CBC",
+        "colorIndicador" : "#85BD70",
+        "title": "Pez loro",
+        "contenido": ["El pez loro es abundante en los arrecifes tropicales de todo el mundo.",
+                        "Se han identificado 80 diferentes especies del pez loro de diferentes tamaños, colores y patrones.",
+                            "Una de las características más especiales es que puede cambiar su sexo repetidamente a través de su vida."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/pez-loro1.jpg",
+            "alt1": "Pez loro (Sparisoma viride) en arrecifes de coral de las Antillas Mayores",
+            "name1": "Pez loro (Sparisoma viride) en arrecifes de coral de las Antillas Mayores",
+
+            "imagen2": "./imagenes/sala2/pez-loro2.jpg",
+            "alt2": "Pez loro (Sparisoma viride) en arrecifes de coral de las Antillas Mayores",
+            "name2": "Pez loro (Sparisoma viride) en arrecifes de coral de las Antillas Mayores"
+        },
+        "background": "#103A62",
+        "colorText": "#FFFFFF"
     }
+
 }
