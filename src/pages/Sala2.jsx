@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import Modelimg from '../components/Modelimg'
 import CardAnimales from '../components/Cards/CardAnimales'
 import ModelOneImg from '../components/ModelOneImg'
@@ -10,7 +10,6 @@ const Sala2 = () => {
   const isDesktop = useMediaQuery({query: '(min-width: 1440px)'})
   const istablet = useMediaQuery({query: '(min-width: 1280px)'})
   const dataSala2 = require('../bd/Sala2.json')
-  const [screem, setScreem] = useState(0)
 
   function renderizadoAux(){
    
@@ -46,11 +45,22 @@ const Sala2 = () => {
     <div className='pt-[85px] overflow-x-hidden'>
       <section
         id='section1'
-        className='imgBack bg-[url("/public/imagenes/sala2/hero-sala2-min.jpg")] '>
+        className='imgBack bg-slate-500 relative 
+        xl:bg-[url("/public/imagenes/sala2/hero-sala2-min.jpg")] '>
+        {
+          !istablet &&
+            <img 
+              src='./imagenes/sala2/hero-sala2-min.jpg' 
+              alt=''
+              className=' z-0'
+            />
+        }
         <div
-          className='contSalas flex'>
+          className='contSalas flex top-[-10%] md:top-0  absolute xl:top-0 xl:relative'>
           <h1 
-            className='text-left w-auto mt-[3rem]'>
+            className='text-left w-auto mt-[3rem] text-[20px] ml-[17%] 
+            sm:w-[100px] md:text-[32px] md:w-[150px]
+            xl:ml-0 xl:text-[56px] xl:w-auto'>
             SALA 2
             <span className='lineAux'/>
           </h1>

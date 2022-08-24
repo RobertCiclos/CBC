@@ -3,24 +3,34 @@ import Modelimg from '../components/Modelimg'
 import ModelMap from '../components/ModelMap'
 import ModelOneImg from '../components/ModelOneImg'
 import ModelSlider from '../components/ModelSlider'
+import { useMediaQuery } from 'react-responsive'
 
 const Sala1 = () => {
-  
+
+  const istablet = useMediaQuery({query: '(min-width: 1280px)'})  
   const dataSala1 = require('../bd/Sala1.json')
-
-  const numParrafos = dataSala1.section5.contenido.length
-
 
   return (
     <div className='pt-[85px] overflow-x-hidden'>
       
       <section
         id='section1'
-        className='imgBack bg-[url("/public/imagenes/sala1/hero-sala1.jpg")] '>
+        className='imgBack bg-slate-500 relative
+        xl:bg-[url("/public/imagenes/sala1/hero-sala1.jpg")] '>
+        {
+          !istablet &&
+            <img 
+              src='./imagenes/sala1/hero-sala1.jpg' 
+              alt=''
+              className=' z-0'
+            />
+        }
         <div
-          className='contSalas flex'>
+          className='contSalas flex top-[-10%]  md:top-0  xl:top-0   absolute xl:relative'>
           <h1 
-            className='text-left w-auto mt-[3rem]'>
+            className='text-left w-auto mt-[3rem] text-[20px] ml-[17%] 
+            sm:w-[100px] md:text-[32px] md:w-[150px]
+            xl:ml-0 xl:text-[56px] xl:w-auto'>
             SALA 1
             <span className='lineAux'/>
           </h1>
