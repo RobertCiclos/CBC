@@ -2,7 +2,6 @@ import React from 'react'
 import ModelOneImg from '../components/ModelOneImg'
 import ModelSlider from '../components/ModelSlider'
 
-
 const Sala2 = () => {
   const dataSala2 = require('../bd/Sala2.json')
 
@@ -61,9 +60,7 @@ const Sala2 = () => {
 
       <section
         id='section10'
-        style={{background: dataSala2.section10.background, color: dataSala2.section10.colorText}} 
         className='pySection'>
-        <ModelMap {...dataSala2.section10} />
       </section>
 
       <section
@@ -93,9 +90,7 @@ const Sala2 = () => {
 
       <section
         id='section15'
-        style={{background: dataSala2.section15.background, color: dataSala2.section15.colorText}} 
         className='pySection'>
-        <ModelMap {...dataSala2.section15} />
       </section>
 
       <section
