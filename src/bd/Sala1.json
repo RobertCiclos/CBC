@@ -255,5 +255,10 @@
         },
         "background": "#528641",
         "colorText": "#FFFFFF"
+    },
+
+    "section21" : {
+        "img": "./imagenes/sala1/apicultura-cosecha2.jpg",
+        "description": "cosecha"
     }
 }

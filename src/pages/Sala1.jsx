@@ -1,4 +1,5 @@
 import React from 'react'
+import Modelimg from '../components/Modelimg'
 import ModelMap from '../components/ModelMap'
 import ModelOneImg from '../components/ModelOneImg'
 import ModelSlider from '../components/ModelSlider'
@@ -171,14 +172,10 @@ const Sala1 = () => {
       </section>
 
       <section
-        id='section6'
+        id='section21'
         className='pb-[28px] md:pb-[56px]'>
-        <div className='item grid gap-[16px] md:gap-[32px] text-center'>
-          <img src='./imagenes/sala1/pescadores-artesanales.jpg' alt="Pescadores artesanales" className="w-full h-full pointer-events-none" />
-          <cite className='contSalas'>Pescadores artesanales en la barrera de arrecifes coral, Les Cayemites, Haití.</cite>
-        </div>
+        <Modelimg {...dataSala1.section21}/>
       </section>
-
     </div>
   )
 }
