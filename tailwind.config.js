@@ -11,6 +11,9 @@ module.exports = {
       colors: {
         'blueCBC': '#103A62',
       },
+      screens: {
+        'desktop': '1440px',
+      },
     },
   },
   plugins: [],

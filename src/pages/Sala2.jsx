@@ -1,17 +1,56 @@
-import React from 'react'
+import React, { useState } from 'react'
 import Modelimg from '../components/Modelimg'
 import CardAnimales from '../components/Cards/CardAnimales'
 import ModelOneImg from '../components/ModelOneImg'
 import ModelSlider from '../components/ModelSlider'
+import { useMediaQuery } from 'react-responsive'
 
 const Sala2 = () => {
+
+  const isDesktop = useMediaQuery({query: '(min-width: 1440px)'})
+  const istablet = useMediaQuery({query: '(min-width: 1280px)'})
   const dataSala2 = require('../bd/Sala2.json')
+  const [screem, setScreem] = useState(0)
+
+  switch(screem){
+    case isDesktop: 
+      return  <div
+                className='col-span-5 grid grid-cols-4 gap-[26px]'>
+                <CardAnimales />
+                <CardAnimales />
+                <CardAnimales />
+                <CardAnimales />
+              </div>
+
+    case isDesktop:     
+      return  <>
+              <CardAnimales />
+              <CardAnimales />
+              <div
+                className='col-span-4 grid grid-cols-2 gap-[26px]'>
+                <CardAnimales />
+                <CardAnimales />
+              </div>
+              </>
+              
+    case isDesktop:
+
+      return  <>
+              <CardAnimales />
+              <CardAnimales />
+              <div
+                className='col-span-4 grid grid-cols-2 gap-[26px]'>
+                <CardAnimales />
+                <CardAnimales />
+              </div>
+              </>
+  }
 
   return (
     <div className='pt-[85px] overflow-x-hidden'>
       <section
         id='section1'
-        className='imgBack bg-[url("/public/imagenes/sala1/hero-sala1.jpg")] '>
+        className='imgBack bg-[url("/public/imagenes/sala2/hero-sala2-min.jpg")] '>
         <div
           className='contSalas flex'>
           <h1 
@@ -40,8 +79,29 @@ const Sala2 = () => {
       </section>
 
       <section
-        id='section3'>
-        <CardAnimales />
+        id='section3'
+        style={{paddingTop: 0}}
+        className='pySection'>
+        <div className='contSalasAux'>
+          <CardAnimales />
+          <CardAnimales />
+          <CardAnimales />
+          <CardAnimales />
+          <CardAnimales />
+          <CardAnimales />
+          <CardAnimales />
+          <CardAnimales />
+          
+          <CardAnimales />
+          <CardAnimales />
+
+          <div
+            className='col-span-3 grid grid-cols-2 gap-[26px]'>
+            <CardAnimales />
+            <CardAnimales />
+          </div>
+          
+        </div>
       </section>
 
       <section
