@@ -44,23 +44,27 @@ const Sala2 = () => {
       </section>
 
       <section
-        id='section8'>
-        {/*type A*/}
+        id='section8'
+        className='pySection'>
+        <ModelSlider {...dataSala2.section8} />
       </section>
 
       <section
-        id='section9'>
-        {/*type A*/}
+        id='section9'
+        className='pySection'>
+        <ModelSlider {...dataSala2.section9} />
       </section>
 
       <section
-        id='section10'>
-        {/*type C*/}
+        id='section10'
+        className='pySection'>
+        <ModelMap {...dataSala2.section10} />
       </section>
 
       <section
-        id='section11'>
-        {/*type B*/}
+        id='section11'
+        className='pySection'>
+        <ModelOneImg {...dataSala2.section11} />
       </section>
 
       <section
@@ -68,27 +72,33 @@ const Sala2 = () => {
       </section>
 
       <section
-        id='section13'>
-        {/*type B*/}
+        id='section13'
+         className='pySection'>
+        <ModelOneImg {...dataSala2.section13} />
       </section>
 
       <section
-        id='section14'>
-        {/*type A*/}
+        id='section14'
+         className='pySection'>
+        <ModelOneImg {...dataSala2.section14} />
       </section>
 
       <section
-        id='section15'>
-        {/*type C*/}
+        id='section15'
+        className='pySection'>
+        <ModelMap {...dataSala2.section15} />
       </section>
 
       <section
-        id='section16'>
-        {/*type B*/}
+        id='section16'
+         className='pySection'>
+        <ModelOneImg {...dataSala2.section16} />
       </section>
 
       <section
-        id='section17'>
+        id='section17'
+         className='pySection'>
+        <ModelSlider {...dataSala2.section17} />
       </section>
 
       <section
@@ -96,8 +106,9 @@ const Sala2 = () => {
       </section>
 
       <section
-        id='section19'>
-        {/*type B*/}
+        id='section19'
+        className='pySection'>
+        <ModelOneImg {...dataSala2.section19} />
       </section>
 
       <section
