@@ -1,8 +1,10 @@
 import React from 'react'
 import ModelOneImg from '../components/ModelOneImg'
+import ModelSlider from '../components/ModelSlider'
+
 
 const Sala2 = () => {
-  const dataSala1 = require('../bd/Sala2.json')
+  const dataSala2 = require('../bd/Sala2.json')
 
   return (
     <div className='pt-[85px] overflow-x-hidden'>
@@ -31,13 +33,14 @@ const Sala2 = () => {
 
       <section
         id='section6'
-        className='pySection bg-red-500'>
-        <ModelOneImg {...dataSala1.section6} />
+        className='pySection'>
+        <ModelOneImg {...dataSala2.section6} />
       </section>
 
       <section
-        id='section7'>
-        {/*type A*/}
+        id='section7'
+        className='pySection'>
+        <ModelSlider {...dataSala2.section7} />
       </section>
 
       <section
