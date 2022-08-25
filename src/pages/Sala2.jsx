@@ -4,6 +4,8 @@ import CardAnimales from '../components/Cards/CardAnimales'
 import ModelOneImg from '../components/ModelOneImg'
 import ModelSlider from '../components/ModelSlider'
 import { useMediaQuery } from 'react-responsive'
+import { AnimatePresence, motion } from 'framer-motion'
+import ModelNavigation from '../components/ModelNavigation'
 
 const Sala2 = () => {
 
@@ -42,7 +44,13 @@ const Sala2 = () => {
   }
 
   return (
-    <div className='pt-[85px] overflow-x-hidden'>
+    <AnimatePresence>
+    <motion.div
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
+      exit={{ opacity: 0 }}
+      transition={{ duration: 1.5 }} 
+      className='pt-[85px] overflow-x-hidden'>
       <section
         id='section1'
         className='imgBack bg-slate-500 relative 
@@ -231,8 +239,9 @@ const Sala2 = () => {
 
       <section
         id='section22'
+        style={{background: dataSala2.section22.background, color: dataSala2.section22.colorText}} 
         className='pySection'>
-
+        <ModelSlider {...dataSala2.section22} />
       </section>
 
       <section
@@ -285,9 +294,11 @@ const Sala2 = () => {
 
       <section
         id='section30'>
+        <ModelNavigation />
       </section>
 
-    </div>
+    </motion.div>
+    </AnimatePresence>
 
   )
 }

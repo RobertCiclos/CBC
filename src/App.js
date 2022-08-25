@@ -6,10 +6,12 @@ import Sala2 from './pages/Sala2'
 import Sala3 from './pages/Sala3'
 import Sala4 from './pages/Sala4'
 import Sala5 from './pages/Sala5'
+import ScrollToTop from './hooks/ScrollToTop';
 
 function App() {
   return (
     <div className="App">
+      <ScrollToTop />
       <Routes>
         <Route path="/" element={<Main/>}>
           <Route index element={<Home/>}/>
