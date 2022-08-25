@@ -229,49 +229,64 @@ const Home = () => {
         <section>
           <div 
             className='w-[311px] mx-auto pt-[48px]
-            sm:w-[600px] lg:w-[844px] lg:pt-[96px]'>
+            sm:w-[600px] lg:w-[848px] lg:pt-[96px]'>
             <h2 
               className='text-center'>
                 PAÍSES
             </h2>
             <div 
-              className='grid justify-center mt-[32px] gap-y-[56px]
-              md:grid-cols-3 lg:grid-cols-5 lg:gap-x-[56px] lg:gap-y-0'>
-              <img src="./imagenes/home/cuba.png" alt="Bandera de Cuba" />
-              <img src="./imagenes/home/haiti.png" alt="Bandera de Haiti" />
-              <img src="./imagenes/home/dominicana.png" alt="Bandera de República Dominicana"/>
-              <img src="./imagenes/home/puertorico.png" alt="Bandera de Puerto Rico"/>
-              <img src="./imagenes/home/jamaica.png" alt="Bandera de Jamaica"/>
-              {isDesktop &&
+              className='grid justify-center justify-items-center mt-[32px] gap-y-[56px]
+              md:grid-cols-3 lg:flex lg:gap-[56px]'>
+              <div>
+                <img 
+                  className='w-[129px] h-auto md:w-auto md:h-[72px]' 
+                  src="./imagenes/home/CubaDesk.png" 
+                  alt="Bandera de Cuba" />
                 <p
-                  className='font-Public font-[500] text-[16px] mt-[15.75px] '>
+                  className='font-Public font-[500] text-[16px] mt-[8px]'>
                   Cuba
                 </p>
-              }
-              {isDesktop &&
+              </div>
+              <div>
+                <img 
+                  className='w-[129px] h-auto  md:w-auto md:h-[72px]'  
+                  src="./imagenes/home/HaitiDesk.png"
+                   alt="Bandera de Haiti" />
                 <p
-                  className='font-Public font-[500] text-[16px] mt-[15.75px] '>
+                  className='font-Public font-[500] text-[16px] mt-[8px]'>
                   Haiti
                 </p>
-              }
-              {isDesktop &&
+              </div>
+              <div>
+                <img 
+                  className='w-[129px] h-auto  md:w-auto md:h-[72px]'  
+                  src="./imagenes/home/RepublicaDominicanaDesktop.png" 
+                  alt="Bandera de República Dominicana"/>
                 <p
-                  className='font-Public font-[500] text-[16px] mt-[15.75px] '>
+                  className='font-Public font-[500] text-[16px] mt-[8px]'>
                   R. Dominicana
                 </p>
-              }
-              {isDesktop &&
+              </div>
+              <div className='md:col-span-2 lg:col-span-2 md:translate-x-[-45%] lg:translate-x-[0]'>
+                <img 
+                  className='w-[129px] h-auto md:w-auto md:h-[72px]' 
+                  src="./imagenes/home/PuertoRicoDesk.png" 
+                  alt="Bandera de Puerto Rico"/>
                 <p
-                  className='font-Public font-[500] text-[16px] mt-[15.75px] '>
+                  className='font-Public font-[500] text-[16px] mt-[8px]'>
                   Puerto Rico
                 </p>
-              }
-              {isDesktop &&
+              </div>
+              <div className='md:translate-x-[-65%] lg:translate-x-[0]'>
+                <img 
+                  className='w-[129px] h-auto  md:w-auto md:h-[72px]'  
+                  src="./imagenes/home/JamaicaDesk.png" 
+                  alt="Bandera de Jamaica"/>
                 <p
-                  className='font-Public font-[500] text-[16px] mt-[15.75px] '>
+                  className='font-Public font-[500] text-[16px] mt-[8px]'>
                   Jamaica
                 </p>
-              }
+              </div>
             </div>
           </div>
         </section>
