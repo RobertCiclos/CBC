@@ -25,6 +25,7 @@ const Navbar = () => {
         <option value="Ingles">Ingles</option>
         <option value="Creole">Creole</option>
       </select>
+      
       <img 
         className='sm:justify-self-center' 
         src="./svg/logo-navbar.svg" alt="" />

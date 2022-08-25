@@ -1,60 +1,74 @@
-import React, { useState } from 'react'
+import React from 'react'
 import Modelimg from '../components/Modelimg'
 import CardAnimales from '../components/Cards/CardAnimales'
 import ModelOneImg from '../components/ModelOneImg'
 import ModelSlider from '../components/ModelSlider'
 import { useMediaQuery } from 'react-responsive'
+import { AnimatePresence, motion } from 'framer-motion'
+import ModelNavigation from '../components/ModelNavigation'
 
 const Sala2 = () => {
 
   const isDesktop = useMediaQuery({query: '(min-width: 1440px)'})
   const istablet = useMediaQuery({query: '(min-width: 1280px)'})
   const dataSala2 = require('../bd/Sala2.json')
-  const [screem, setScreem] = useState(0)
 
-  switch(screem){
-    case isDesktop: 
-      return  <div
-                className='col-span-5 grid grid-cols-4 gap-[26px]'>
+  function renderizadoAux(){
+   
+      if(isDesktop){
+        return  <div
+                  className='col-span-5 grid grid-cols-4 gap-[26px]'>
+                  <CardAnimales />
+                  <CardAnimales />
+                  <CardAnimales />
+                  <CardAnimales />        
+                </div>
+      }else if (istablet){
+        return  <>
+                <CardAnimales />
+                <CardAnimales />
+                <div
+                  className='col-span-4 grid grid-cols-2 gap-[26px]'>
+                  <CardAnimales />
+                  <CardAnimales />
+                </div>
+                </>
+      }else{
+        return <>
                 <CardAnimales />
                 <CardAnimales />
                 <CardAnimales />
                 <CardAnimales />
-              </div>
-
-    case isDesktop:     
-      return  <>
-              <CardAnimales />
-              <CardAnimales />
-              <div
-                className='col-span-4 grid grid-cols-2 gap-[26px]'>
-                <CardAnimales />
-                <CardAnimales />
-              </div>
               </>
-              
-    case isDesktop:
-
-      return  <>
-              <CardAnimales />
-              <CardAnimales />
-              <div
-                className='col-span-4 grid grid-cols-2 gap-[26px]'>
-                <CardAnimales />
-                <CardAnimales />
-              </div>
-              </>
+      }
   }
 
   return (
-    <div className='pt-[85px] overflow-x-hidden'>
+    <AnimatePresence>
+    <motion.div
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
+      exit={{ opacity: 0 }}
+      transition={{ duration: 1.5 }} 
+      className='pt-[85px] overflow-x-hidden'>
       <section
         id='section1'
-        className='imgBack bg-[url("/public/imagenes/sala2/hero-sala2-min.jpg")] '>
+        className='imgBack bg-slate-500 relative 
+        xl:bg-[url("/public/imagenes/sala2/hero-sala2-min.jpg")] '>
+        {
+          !istablet &&
+            <img 
+              src='./imagenes/sala2/hero-sala2-min.jpg' 
+              alt=''
+              className=' z-0'
+            />
+        }
         <div
-          className='contSalas flex'>
+          className='contSalas flex top-[-10%] md:top-0  absolute xl:top-0 xl:relative'>
           <h1 
-            className='text-left w-auto mt-[3rem]'>
+            className='text-left w-auto mt-[3rem] text-[20px] ml-[17%] 
+            sm:w-[100px] md:text-[32px] md:w-[150px]
+            xl:ml-0 xl:text-[56px] xl:w-auto'>
             SALA 2
             <span className='lineAux'/>
           </h1>
@@ -83,6 +97,7 @@ const Sala2 = () => {
         style={{paddingTop: 0}}
         className='pySection'>
         <div className='contSalasAux'>
+          <CardAnimales img='./imagenes/sala2/animales/prueba.jpg' nombre ="Tordo de bicknell" />
           <CardAnimales />
           <CardAnimales />
           <CardAnimales />
@@ -91,16 +106,8 @@ const Sala2 = () => {
           <CardAnimales />
           <CardAnimales />
           <CardAnimales />
-          
           <CardAnimales />
-          <CardAnimales />
-
-          <div
-            className='col-span-3 grid grid-cols-2 gap-[26px]'>
-            <CardAnimales />
-            <CardAnimales />
-          </div>
-          
+          {renderizadoAux()}
         </div>
       </section>
 
@@ -232,8 +239,9 @@ const Sala2 = () => {
 
       <section
         id='section22'
+        style={{background: dataSala2.section22.background, color: dataSala2.section22.colorText}} 
         className='pySection'>
-
+        <ModelSlider {...dataSala2.section22} />
       </section>
 
       <section
@@ -286,9 +294,11 @@ const Sala2 = () => {
 
       <section
         id='section30'>
+        <ModelNavigation />
       </section>
 
-    </div>
+    </motion.div>
+    </AnimatePresence>
 
   )
 }

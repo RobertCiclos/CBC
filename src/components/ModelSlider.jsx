@@ -1,5 +1,5 @@
 import React from 'react'
-import Slider from '../components/Slider'
+import Slider from './Slider'
 
 const ModelSlider = (props) => {
     const numParrafos = props.contenido.length

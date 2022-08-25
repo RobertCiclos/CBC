@@ -18,7 +18,7 @@
     }
 
     h4 {
-        @apply font-[600] font-Public text-[20px] leading-[39.68px] text-center
+        @apply font-[600] font-Public text-[20px] leading-[39.68px] text-left
         sm:text-[34px] sm:leading-[40px]
         md:text-[40px] md:leading-[55px]
         lg:text-[40px] lg:leading-[54px]
@@ -30,9 +30,9 @@
     }
 
     ul {
-        @apply font-[500] text-[20px]  leading-[28.4px] font-Public
-        sm:text-[23px] sm:leading-[35px]
-        lg:text-[33px] lg:leading-[43px]
+        @apply font-[500] text-[16px]  leading-[20px] font-Public
+        sm:text-[22px] sm:leading-[38px] md:pl-[3.5%]
+        md:text-[32px] md:leading-[48px] 
         xl:text-[40px] xl:leading-[56px]
     }
 
@@ -58,7 +58,7 @@
 
 @layer components {
     .imgBack {
-        @apply bg-cover bg-no-repeat bg-top h-[calc(100vh-85px)]
+        @apply bg-cover bg-no-repeat bg-top h-auto xl:h-[calc(100vh-85px)]
     }
 
     .transicion {
@@ -81,6 +81,7 @@
 
     .contSalasAux {
         @apply  w-[311px] mx-auto grid justify-items-center
+                gap-y-[20px]
                 sm:px-[8%] sm:w-auto grid-cols-2
                 lg:grid-cols-3 xl:grid-cols-4 lg:gap-y-[32px]
                 desktop:grid-cols-5 desktop:px-0 desktop:w-[1440px]

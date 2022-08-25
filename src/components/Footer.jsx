@@ -62,12 +62,14 @@ const Footer = () => {
           {TitleFooter}
         </h4>
         <p
-          className='font-[600] text-[24px] mt-[32px] mb-[16px] '>
+          className='font-[500] text-[20px] mt-[32px] mb-[16px]
+          sm:text-[22px] sm:font-[700] 
+          md:text-[24px] md:mt-[64px] '>
           Instituciones relacionadas
         </p>
         <ul 
           className="grid font-[400] text-[16px] leading-[24px] gap-[16px]
-          md:grid-cols-2
+          md:grid-cols-2 md:translate-x-[-3.2%]
           lg:grid-cols-3">
           <li>Ministerio de Ciencia, Tecnología y Medio Ambiente de la República de Cuba</li>
           <li>Ministerio de Medio Ambiente y Recursos Naturales de República Dominicana</li>
