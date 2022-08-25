@@ -206,6 +206,26 @@
         "colorText": "#181818"
     },
 
+    "section22" : {
+        "indicador" : "Otras especies de importancia para la conservación",
+        "colorIndicador" : "#85BD70",
+        "title": "CORALes formadores de arrecife",
+        "contenido": ["Los corales formadores de arrecife, también conocidos como corales duros, juegan un papel clave en estos ecosistemas.",
+                    "Los pólipos de coral que viven en colonias, son capaces de extraer calcio disuelto en el agua y de solidificarlo para formar su esqueleto. Estas estructuras de carbonato de calcio forman la base de los arrecifes, convirtiéndose en hogar para muchas de las especies que habitan en estos ecosistemas.",
+                    "Existen varias especies consideradas formadoras de arrecife, entre las cuales están:"],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/coral-cuerno-siervo-min.jpg",
+            "alt1": "Coral cuerno siervo (Acropora cervicornis)",
+            "name1": "Coral cuerno siervo (Acropora cervicornis)",
+
+            "imagen2": "./imagenes/sala2/aguila-pescadora.jpg",
+            "alt2": "Coral cuerno de alce (Acropora palmata).",
+            "name2": "Coral cuerno de alce (Acropora palmata)."
+        },
+        "background": "#103A62",
+        "colorText": "#fff"
+    },
+
     "section24" : {
         "indicador" : "Otras especies de interés para el CBC",
         "colorIndicador" : "#103A62",
@@ -231,14 +251,14 @@
         "colorIndicador" : "#85BD70",
         "title": "Aves Paseriformes",
         "contenido": ["Las paseriformes constituyen el 60% de las especies de aves del mundo y muchas son migratorias, como los Azulejos (Passerinacyanea), Mariposas (Passerina cyris), y las numerosas especies de Bijiritas (Setophaga sp.)",
-                        "Durante sus migraciones pueden formar grupos de millones de individuos que se extienden por más de 100 km para cruzar determinados territorios, como sucede en las migraciones a través del Estrecho de La Florida.",
-                            "Por su importancia para la conectividad ecológica, estas especies son objeto de monitoreo del CBC. Dos veces al año, los equipos de trabajo del CBC y sus socios en el terreno, en Cuba y la República Dominicana, monitorean la migración invernal y primaveral de numerosas especies de este importante grupo de aves."],
+                      "Durante sus migraciones pueden formar grupos de millones de individuos que se extienden por más de 100 km para cruzar determinados territorios, como sucede en las migraciones a través del Estrecho de La Florida.",
+                      "Por su importancia para la conectividad ecológica, estas especies son objeto de monitoreo del CBC. Dos veces al año, los equipos de trabajo del CBC y sus socios en el terreno, en Cuba y la República Dominicana, monitorean la migración invernal y primaveral de numerosas especies de este importante grupo de aves."],
         "imagenes": {
-            "imagen1": "./imagenes/sala2/candelita-norteña.jpg",
+            "imagen1": "./imagenes/sala2/candelita-nortena.jpg",
             "alt1": "Candelita norteña (Setophaga ruticilla)",
             "name1": "Candelita norteña (Setophaga ruticilla)",
 
-            "imagen2": "./imagenes/sala2/chipe-garganta.jpg",
+            "imagen2": "./imagenes/sala2/coral-cuerno-alce-min.jpg",
             "alt2": "Chipe garganta amarilla (Setophaga dominica)",
             "name2": "Chipe garganta amarilla (Setophaga dominica)"
         },
