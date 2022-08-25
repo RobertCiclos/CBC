@@ -97,7 +97,7 @@ const Sala2 = () => {
         style={{paddingTop: 0}}
         className='pySection'>
         <div className='contSalasAux'>
-          <CardAnimales />
+          <CardAnimales img='./imagenes/sala2/animales/prueba.jpg' nombre ="Tordo de bicknell" />
           <CardAnimales />
           <CardAnimales />
           <CardAnimales />
