@@ -8,6 +8,7 @@ const Sala3 = () => {
   return (
     <div
       className='pt-[85px] overflow-x-hidden'>
+
       <section
         id='section1'
         className='imgBack bg-slate-500 relative 
@@ -15,7 +16,7 @@ const Sala3 = () => {
         {
           !istablet &&
             <img 
-              src='./imagenes/sala2/hero-sala2-min.jpg' 
+              src='./imagenes/sala3/fondo-sala3.jpg' 
               alt=''
               className=' z-0'
             />
@@ -31,6 +32,23 @@ const Sala3 = () => {
           </h1>
         </div>
       </section>
+
+      <section
+        id='section2'
+        className='pySection'>
+        <main 
+          className='contSalas'>
+          <p>
+            La iniciativa del CBC contribuye a alcanzar múltiples metas de los Objetivos de Desarrollo Sostenible (ODS) al promover e implementar acciones para la protección de los ecosistemas costeros, marinos y terrestres.<br/>
+            <br/>
+            Una de sus acciones ha sido la identificación de algunos  grupos de ecosistemas marinos y terrestres prioritarios para la conservación en el corredor. Los ecosistemas fueron evaluados espacialmente para determinar los sitios dentro de sus áreas de distribución que tienen mayor prioridad para la conservación, de acuerdo con los criterios de selección escogidos.<br/>
+            <br/>   
+            Los grupos de ecosistemas priorizados para la conservación en el CBC son: los bosques húmedos y pinares, los bosques secos y matorrales xerofíticos, los manglares y los arrecifes de coral.
+          </p>
+        </main>
+      </section>
+
+      
     </div>
   )
 }

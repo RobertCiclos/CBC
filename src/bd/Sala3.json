@@ -1,3 +1,267 @@
 {
-     
+    "section3" : {
+        "title": "Ecosistemas prioritarios para el CBC",
+        "contenido": ["El mar Caribe cubre un área de 2.754 millones km². Su zona costera es compartida por cerca de 25 países, incluyendo islas y tierras continentales.",
+                        "Los ecosistemas prioritarios para el CBC son sitios clave para mantener la conectividad regional yáreas que preservan ecosistemas representativos de las eco-regiones compartidas y amenazadas,  resilientes al cambio climático; y que son claves para la conservación de especies migratorias, especies endémicas altamente amenazadas, o de elevado potencial de dispersión."],
+        "subtitle": null,
+        "imagen":  "./imagenes/sala3/mapa-ecosistema.jpg",
+        "description": ["Mapa resaltando los ecosistemas prioritarios del CBC, así como sitios de importancia para especies que son objeto de conservación y monitoreo en el corredor."],
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+
+    "section4" : {
+        "title": "Arrecifes de Coral",
+        "contenido": ["Los arrecifes de coral son ecosistemas muy ricos, diversos y únicos de las zonas costeras y poco profundas  en las regiones tropicales. Forman estructuras pétreas conformadas por especies de corales duros y blandos así como algas, que proporcionan refugio y alimento a una gran cantidad de especies de peces, reptiles e invertebrados.",
+                        "Están interconectados con otros ecosistemas como las praderas de pastos marinos y los manglares, por los ciclos de nutrientes que forman parte del desarrollo de diferentes especies."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala3/arrecife1.jpg",
+            "alt1": "Corales blandos y duros, algas, esponjas y diversos invertebrados conforman este arrecife somero",
+            "name1": "Corales blandos y duros, algas, esponjas y diversos invertebrados conforman este arrecife somero",
+
+            "imagen2": "./imagenes/sala3/arrecife2.jpg",
+            "alt2": "Corales blandos y duros, algas, esponjas y diversos invertebrados conforman este arrecife somero",
+            "name2": "Corales blandos y duros, algas, esponjas y diversos invertebrados conforman este arrecife somero"
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section6" : {
+        "title": "Arrecifes de Coral",
+        "contenido": ["Los arrecifes de coral son ecosistemas muy ricos, diversos y únicos de las zonas costeras y poco profundas  en las regiones tropicales. Forman estructuras pétreas conformadas por especies de corales duros y blandos así como algas, que proporcionan refugio y alimento a una gran cantidad de especies de peces, reptiles e invertebrados.",
+                        "Están interconectados con otros ecosistemas como las praderas de pastos marinos y los manglares, por los ciclos de nutrientes que forman parte del desarrollo de diferentes especies."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala3/pez-mariposa.jpg",
+            "alt1": "Pez mariposa bandado (Chaetodon striatus) en arrecife de coral, Cuba.",
+            "name1": "Pez mariposa bandado (Chaetodon striatus) en arrecife de coral, Cuba.",
+
+            "imagen2": "./imagenes/sala3/alevinimg.jpg",
+            "alt2": "Alevín en pólipo de coral.",
+            "name2": "Alevín en pólipo de coral."
+        },
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+
+    "section7" : {
+        "title": "Manglares en el CBC",
+        "contenido": ["Cuba, el mayor archipiélago del Caribe, con más de 5000 km de costa y más de 4000 islas y cayos predominantemente bajos, alberga más de 5000 km2 de manglares, que representan más del 80% de todos los del área. Le siguen en importancia los de la isla La Española.",
+                        "En La Española se encuentran manglares en Montecristi, la costa norte desde Samaná hasta Punta Cana, la punta El Aljibe y en la punta Beata, y destacan con importancia alta para la conectividad los manglares de Tres Bahías, los del Bajo Yuna, y los situados hacia el extremo oriental de la isla.",
+                            "En Jamaica se encuentran en pequeños parches de la costa sur del país, con algunos parches de conectividad de importancia en el norte de la isla. En el resto de las Antillas se encuentran parches de prioridad alta."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala3/isladelavaca.jpg",
+            "alt1": "Manglares, Isla de la Vaca, Haití.",
+            "name1": "Manglares, Isla de la Vaca, Haití.",
+
+            "imagen2": "./imagenes/sala3/isladelavaca2.jpg",
+            "alt2": "Manglares, Isla de la Vaca, Haití.",
+            "name2": "Manglares, Isla de la Vaca, Haití."
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section11" : {
+        "title": "Importancia de los Manglares",
+        "contenido": ["En el Caribe, los manglares funcionan como criaderos de una variedad de peces e invertebrados que pasan su vida adulta en los arrecifes de coral. Los manglares, arrecifes de coral y pastos marinos son ecosistemas conectados.",
+                        "Estos tres hábitats proporcionan espacios para la vida, alimento, protección y refugio a más de 500 especies diferentes de peces, crustáceos y moluscos en la región del Caribe."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala3/importancia-manglares-1.jpg",
+            "alt1": "Manglares, República Dominicana.",
+            "name1": "Manglares, República Dominicana.",
+
+            "imagen2": "./imagenes/sala3/importancia-manglares-2.jpg",
+            "alt2": "Manglares, República Dominicana.",
+            "name2": "Manglares, República Dominicana."
+        },
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+
+    "section13" : {
+        "title": "Ecosistemas boscosos en el CBC",
+        "contenido": ["Los ecosistemas boscosos son fundamentales para lograr una seguridad hídrica en el Caribe.",
+                        "Sin embargo, la cobertura boscosa en el Caribe ha sido gravemente reducida en las últimas décadas.",
+                            "Por ejemplo, en Haití, solo queda el 2% de la cobertura boscosa original, mientras que en República Dominicana queda el 10%. Esta pérdida se ha dado por la explotación humana para tener terrenos para la agricultura y vivienda.",
+                                "A causa de la deforestación, la biodiversidad de la región ha sido afectada, como los anfibios que se han visto muy amenazados por estos cambios, causando que sus poblaciones se reduzcan."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala3/parquemacaya.jpg",
+            "alt1": "Parque Nacional Pic Macayá, Haiti.",
+            "name1": "Parque Nacional Pic Macayá, Haiti.",
+
+            "imagen2": "./imagenes/sala3/parquehaitises.jpg",
+            "alt2": "Parque Nacional los Haitises",
+            "name2": "Parque Nacional los Haitises"
+        },
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+
+    "section14" : {
+        "title": "bosque húmedo y pinar",
+        "contenido": ["Los bosques húmedos y pinares son ecosistemas que propician el ciclo del agua, regulan el caudal de los ríos, previenen la erosión de los suelos y contribuyen a la seguridad hídrica.",
+                        "Los bosques húmedos y pinares en Cuba se encuentran principalmente en la zona occidental de la cordillera de Guaniguanico, en las zonas más altas de la Sierra Maestra; y hacia el extremo oriental de la isla en el Pico Cristal y en la Reserva de la Biosfera de Cuchillas del Toa, estas últimas áreas en el macizo de Nipe-Sagua-Baracoa."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala3/cascadabosquehumedo.jpg",
+            "alt1": "Cascada en bosque húmedo.",
+            "name1": "Cascada en bosque húmedo.",
+
+            "imagen2": "./imagenes/sala3/pinarrepublicadominicana.jpg",
+            "alt2": "Pinar en República Dominicana.",
+            "name2": "Pinar en República Dominicana."
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section15" : {
+        "title": "Bosque Húmedo",
+        "contenido": ["Los bosques son el hábitat de especies representativas de las Antillas Mayores.",
+                        "En Haití, las áreas de máxima prioridad para la conservación de bosque húmedo se encuentran en el macizo de la Selle, Foret de Pins y el Pico Macayá.",
+                            "En República Dominicana, se hallan en  la sierra de Bahoruco, la Cordillera Central, Los Haitises y en otras zonas cercanas a la costa norte de República Dominicana.",
+                                "En Puerto Rico, los bosques de mayor prioridad de conservación se hallan en el área de El Yunque; y en Jamaica resultaron en Cockpit Country y en la cordillera del Blue Mountain."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala3/reptilesimg.jpg",
+            "alt1": "Reptiles y anfibios habitan en bosques húmedos, como el Pic Macayá haitiano.",
+            "name1": "Reptiles y anfibios habitan en bosques húmedos, como el Pic Macayá haitiano.",
+
+            "imagen2": "./imagenes/sala3/reptiles2img.jpg",
+            "alt2": "Bosque húmedo.",
+            "name2": "Bosque húmedo."
+        },
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+
+    "section16" : {
+        "title": "Bosques secos y matorrales cactáceos",
+        "contenido": ["Este grupo de ecosistemas presenta zonas semidesérticas, bosques secos y matorrales adaptados a condiciones extremas, resultado de la sequía, salinidad y suelos pobres. Las especies se han adaptado a estas condiciones por lo cual predomina la vegetación espinosa, que incluye cactáceas, arbustos achaparrados, pastizales semidesérticos e incluso árboles de hojas muy pequeñas o que pierden sus hojas en un periodo del año.",
+                        "Sobrevivir en estas condiciones cuesta mucha energía a las especies, por lo que se encuentran diferentes adaptaciones. Por ejemplo, la presencia de espinas en la vegetación permite almacenar agua a la vez que sirven de mecanismo de protección contra la fauna herbívora."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala3/flordesectas.jpg",
+            "alt1": "Flor de cactus, en República Dominicana.",
+            "name1": "Flor de cactus, en República Dominicana.",
+
+            "imagen2": "./imagenes/sala3/bosqueseco.jpg",
+            "alt2": "Bosque seco, República Dominicana.",
+            "name2": "Bosque seco, República Dominicana."
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section17" : {
+        "title": "Bosques Secos y Matorrales Xerofíticos",
+        "contenido": ["Los bosques secos y matorrales xerofíticos se extienden en las Antillas Mayores formando corredores asociados a zonas costeras presentes o, en el caso de La Española, que existieron en épocas geológicas recientes.",
+                        "De ellos, los de mayor importancia para la conectividad son los del Parque Nacional Jaragua, seguidos por los situados en la cayería norte de Cuba, el norte de Cuba entre La Habana y Varadero, los extremos oeste y sureste de Cuba, el extremo noroeste de Haití y el sureste de República Dominicana.",
+                            "Las áreas más representativas en Cuba se hallan en Guanahacabibes, costa norte entre La Habana y Varadero, cabo Cruz, y el corredor costero sureste de Cuba, desde Santiago hasta Maisí.",
+                                "En La Española, se hallan en el Parque Nacional Jaragua y en península de Beata hasta Belle Anse. En Puerto Rico, en la costa suroeste; y en Jamaica, en la costa sur en la zona de Hellshire."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala3/cactaceoimg.jpg",
+            "alt1": "Bosque seco y matorral cactáceo en Republica Dominicana.",
+            "name1": "Bosque seco y matorral cactáceo en Republica Dominicana.",
+
+            "imagen2": "./imagenes/sala3/cactaceo2img.jpg",
+            "alt2": "Bosque seco y matorral cactáceo en Republica Dominicana.",
+            "name2": "Bosque seco y matorral cactáceo en Republica Dominicana."
+        },
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+
+    "section18" : {
+        "title": "Importancia de los bosques secos y matorrales xerofíticos",
+        "contenido": ["Los bosques secos y matorrales xerofíticos albergan gran cantidad de especies endémicas y juegan un importante papel en la conectividad de los ecosistemas.",
+                        "Son ejemplo de resiliencia y adaptabilidad de la naturaleza, por la capacidad de tolerar condiciones extremas resultado de la sequía, salinidad y suelos pobres."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala3/matorralcactaceo.jpg",
+            "alt1": "Matorral cactáceo, República Dominicana",
+            "name1": "Matorral cactáceo, República Dominicana",
+
+            "imagen2": "./imagenes/sala3/matorralcactaceo2.jpg",
+            "alt2": "Bosque seco, República Dominicana.",
+            "name2": "Bosque seco, República Dominicana."
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section19" : {
+        "title": "conectividad cuenca arrecife",
+        "contenido": ["Las cuencas hidrográficas captan cerca de 300 km3 de lluvia en las Antillas Mayores cada año, casi la única fuente de agua dulce en estas islas.",
+                        "Las cuencas hidrográficas deforestadas arrastran enormes cantidades de sedimentos hasta la desembocadura. Esto afecta los ecosistemas de manglar así como la formación de arrecifes coralinos.",
+                            "Por ello, el CBC trabaja con enfoque de conservación de cuencas hidrográficas, desde la montaña hasta los arrecifes, para mejorar la calidad y disponibilidad de agua y reducir presiones a los ecosistemas marino-costeros.",
+                                "De esa forma, se  aumentaría  la capacidad de resiliencia al cambio climático de los ecosistemas."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala3/ravinedesud.jpg",
+            "alt1": "Ravine du Sud, río que conecta el Pic Macaya y Les Cayes, en Haití, presenta el efecto de la sedimentación por la deforestación cuenca arriba.",
+            "name1": "Ravine du Sud, río que conecta el Pic Macaya y Les Cayes, en Haití, presenta el efecto de la sedimentación por la deforestación cuenca arriba.",
+
+            "imagen2": "./imagenes/sala3/abanicodemar.jpg",
+            "alt2": "Abanico de mar",
+            "name2": "Abanico de mar"
+        },
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+
+    "section20" : {
+        "title": "cuenca del caribe",
+        "contenido": ["En la cuenca del Caribe, se ha registrado la mayor proporción de corales clasificados con alto riesgo de extinción, ya que, desde los años 70s, se han reducido en un 80%."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala3/pecesimg.jpg",
+            "alt1": "Vivero de peces en Les Cayes, Haití.",
+            "name1": "Vivero de peces en Les Cayes, Haití.",
+
+            "imagen2": "./imagenes/sala3/peces2img.jpg",
+            "alt2": "Vivero de peces en Les Cayes, Haití.",
+            "name2": "Vivero de peces en Les Cayes, Haití."
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section22" : {
+        "indicador" : "Otros ecosistemas presentes en el CBC",
+       "colorIndicador" : "#85BD70",
+       "title": "Pastos Marinos",
+       "contenido": ["Los pastos marinos en el Caribe se encuentran en todas las costas de las islas de la región.",
+                        "Estas áreas son importantes para los peces que habitan en el Caribe, ya que muchos se alimentan y residen en las praderas de pastos marinos."],
+       "imagenes": {
+           "imagen1": "./imagenes/sala3/pastosmarinos.jpg",
+           "alt1": "Pastos marinos en el Caribe.",
+           "name1": "Pastos marinos en el Caribe.",
+
+           "imagen2": "./imagenes/sala3/pastosmarinos2.jpg",
+           "alt2": "Pastos marinos en el Caribe.",
+           "name2": "Pastos marinos en el Caribe."
+       },
+       "background": "#FFFFFF",
+        "colorText": "#181818"
+   },
+
+   "section23" : {
+        "indicador" : "Otros ecosistemas presentes en el CBC",
+       "colorIndicador" : "#103A62",
+       "title": "Lagunas",
+       "contenido": ["Las lagunas costeras de las Antillas corren alto riesgo por el cambio climático ya que el aumento del nivel del mar y la intrusión de agua salina afectan su balance natural, productividad y a las especies que las habitan.",
+                        "Entre las principales amenazas está también la desecación para el desarrollo de infraestructura costera y la alteración de los drenajes naturales y suministro de agua dulce asociados al desarrollo de carreteras."],
+       "imagenes": {
+           "imagen1": "./imagenes/sala3/laguna1.jpg",
+           "alt1": "Pastos marinos en el Caribe.",
+           "name1": "Pastos marinos en el Caribe.",
+
+           "imagen2": "./imagenes/sala3/laguna2.jpg",
+           "alt2": "Laguna, Haití.",
+           "name2": "Laguna, Haití."
+       },
+       "background": "#528641",
+       "colorText": "#FFFFFF"
+   },
+
+   "section24" : {
+        "img": "./imagenes/sala3/medusa.jpg",
+        "description": "Medusa en aguas Caribeñas."
+    }
 }
