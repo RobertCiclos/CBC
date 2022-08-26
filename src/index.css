@@ -11,10 +11,10 @@
     }
 
     h2 {
-        @apply font-bold font-Public text-[32px] leading-[39.68px]
+        @apply font-bold font-Public text-[30px] leading-[39.68px]
         sm:text-[34px] sm:leading-[40px]
         md:text-[40px] md:leading-[55px]
-        lg:text-[48px] lg:leading-[63px]
+        lg:text-[46px] lg:leading-[63px]
     }
 
     h4 {

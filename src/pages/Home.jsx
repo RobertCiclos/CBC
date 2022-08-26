@@ -3,7 +3,7 @@ import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { useMediaQuery } from 'react-responsive'
 const Home = () => {
-  const isDesktop = useMediaQuery({query: '(min-width: 1024px)'})
+  const ismovil = useMediaQuery({query: '(min-width: 625px)'})
   const imagen1 = './imagenes/home/SALA1.png'
   const imagen2 = './imagenes/home/SALA2.png'
   const imagen3 = './imagenes/home/SALA3.png'
@@ -170,7 +170,7 @@ const Home = () => {
             className="contenedor xl:w-[1102.52px]">
             <h2 
               className='text-[#103A62]'>
-              MENSAJE DEL SECRETARIO EJECUTIVO DEL CBC
+              MENSAJE {!ismovil && <br/>} DEL SECRETARIO EJECUTIVO DEL CBC
             </h2>
             <div 
               className='grid  text-[#103A62]
@@ -195,7 +195,7 @@ const Home = () => {
               </div>
               <blockquote 
                 className='mt-[24px] 
-                xl:grid xl:grid-cols-[87px_493px_87px] xl:gap-[20px] xl:mt-[32px]'>
+                xl:grid xl:grid-cols-[87px_493px_87px] xl:gap-[20px] md:mt-[32px] xl:mt-0'>
                 <img 
                   src="./imagenes/home/comillasInit.png" alt="comillas" 
                   className="w-[70px] sm:w-[87px]" />
@@ -329,9 +329,8 @@ const Home = () => {
               AGRADECIMIENTOS
             </p>
             <div 
-              className='grid gap-[24px]
+              className='grid gap-[24px] lg:gap-0 w-full
               md:grid-cols-2 lg:grid-cols-3 lg:justify-items-center'>
-              
               <div
                 className='font-Public md:justify-self-end lg:justify-self-center'>
                 <p
@@ -340,8 +339,8 @@ const Home = () => {
                   FOTOGRAFÍAS
                 </p>
                 <ul
-                  className='font-[400] text-[24px] leading-[26.44px] mt-[16px]
-                  lg:text-[24px] lg:leading-[32.16px] lg:mt-[32px] md:ml-[-3%]'>
+                  className='font-[400] text-[24px] leading-[26.44px] mt-[16px] 
+                  lg:text-[24px] lg:leading-[32.16px] lg:mt-[32px] md:ml-[-3%] w-[230px]'>
                   <li>Nicasio Viña</li>
                   <li>Jose Luis Gerhartz</li>
                   <li>SOH Conservación</li>
@@ -351,7 +350,7 @@ const Home = () => {
                   <li>Matias Balaguer</li>
                   <li>Alejandro Balaguer</li>
                   <li>Nobert Dechanel</li>
-                  <li>Manuel Félix</li>
+                  <li>Manuel Feliz Perez</li>
                 </ul>
               </div>
               
@@ -362,7 +361,7 @@ const Home = () => {
                   lg:text-[24px]'>TEXTOS</p>
                 <ul
                   className='font-[400] text-[24px] leading-[26.44px] mt-[16px]
-                  lg:text-[24px] lg:leading-[32.16px] lg:mt-[32px] md:ml-[-3%]'>
+                  lg:text-[24px] lg:leading-[32.16px] lg:mt-[32px] md:ml-[-3%] w-[230px]'>
                   <li>Jose L. Gerhartz</li>
                   <li>Nicasio Viña</li>
                   <li>Juan Carlos Duque</li>
