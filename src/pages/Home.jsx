@@ -74,7 +74,7 @@ const Home = () => {
                 sm:leading-[38px] sm:text-[22px]
                 md:leading-[48px] md:text-[32px]'>
                 Te invitamos a conocer los sorprendentes tesoros naturales del Corredor Biológico en el Caribe al recorrer esta exhibición fotográfica. 
-                A través de las cinco salas podrás conocer la importancia de la conectividad ecológica en el Caribe, nuestra historia y el trabajo en 
+                <br/><br/>A través de las cinco salas podrás conocer la importancia de la conectividad ecológica en el Caribe, nuestra historia y el trabajo en 
                 conservación que se ha adelantado en los 15 años de esta Iniciativa. 
               </p>
               <ul style={{listStyleType: "disc"}}
@@ -92,17 +92,17 @@ const Home = () => {
           className="pySection">
           <div 
             className='contenedor grid sm:justify-items-center
-            xl:grid-cols-[550px_440px] xl:gap-[86px] xl:justify-items-start
+            xl:grid-cols-[550px_440px] xl:gap-[140px] xl:justify-items-start
             xl:w-[1078px]'>
             <div
-              className='text-center relative'>
+              className='text-center relative mt-[2%]'>
               CONOCE LAS SALAS
               <h2
                 className='text-center mt-[8px] lg:w-[317px] mx-auto'>
                 UNA MIRADA AL CARIBE DE CERCA
               </h2>
               <img src={imagen} alt="imagen de la sala" 
-                className="mt-[24px] md:w-[550px] md:mt-[48px] xl:mt-[220px] mx-auto" />
+                className="mt-[24px] md:w-[550px] md:mt-[48px] xl:mt-[116px] mx-auto" />
               <img src="./svg/arrow-bottom.svg" alt="flecha" 
                 className="absolute bottom-0 right-[50%] translate-x-[50%]
                 invisible xl:visible" />
@@ -115,7 +115,7 @@ const Home = () => {
                 <li
                   value={1}
                   onMouseOver={(e)=>changeImage(e)}
-                  className='cursor-pointer'>
+                  className='cursor-pointer hover:font-[600]'>
                   <span style={imagen === imagen1 ? styleActive:{}}>La conectividad</span><br/>
                   <span style={imagen === imagen1 ? styleActive:{}}>ecológica y el Corredor </span><br/>
                   <span style={imagen === imagen1 ? styleActive:{}}>Biológico en el Caribe</span>
@@ -125,7 +125,7 @@ const Home = () => {
                 <li
                   value={2}
                   onMouseOver={(e)=>changeImage(e)}
-                  className='mt-[32px] lg:mt-[72px] cursor-pointer'>
+                  className='mt-[32px] lg:mt-[72px] cursor-pointer hover:font-[600]'>
                   <span style={imagen === imagen2 ? styleActive:{}}>Especies prioritarias para</span><br/>
                   <span style={imagen === imagen2 ? styleActive:{}}>el Corredor Biológico </span><br/>
                   <span style={imagen === imagen2 ? styleActive:{}}>en el Caribe</span>
@@ -135,7 +135,7 @@ const Home = () => {
                 <li
                   value={3}
                   onMouseOver={(e)=>changeImage(e)}
-                  className='mt-[32px] lg:mt-[72px] lg:mr-[55px] cursor-pointer'>
+                  className='mt-[32px] lg:mt-[72px] lg:mr-[55px] cursor-pointer hover:font-[600]'>
                   <span style={imagen === imagen3 ? styleActive:{}}>Ecosistemas prioritarios</span><br/>
                   <span style={imagen === imagen3 ? styleActive:{}}>para el Corredor </span><br/>
                   <span style={imagen === imagen3 ? styleActive:{}}>Biológico en el Caribe</span>
@@ -222,7 +222,7 @@ const Home = () => {
           bg-cover bg-no-repeat bg-center bg-[url('/public/imagenes/home/naturaleza.jpg')]">
           <div 
             className='w-full text-center text-white font-Public absolute bottom-[8%] right-[50%] translate-x-[50%]
-            font-bold text-[24px] md:text-[50px] lg:text-[100px] '>
+            font-bold text-[32px] md:text-[50px] lg:text-[100px] '>
             NATURALEZA VIVA
           </div>
         </section>

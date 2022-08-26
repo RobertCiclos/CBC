@@ -18,7 +18,7 @@ const Navbar = () => {
       className="w-[311px]  grid grid-cols-2 sm:grid-cols-3 items-center mx-auto 
       sm:w-[1095px] sm:px-[10%] xl:px-0">
       <select 
-        className='justify-self-start invisible absolute sm:relative sm:visible'
+        className='justify-self-start invisible absolute sm:relative '
         name="idioma" id="">
         <option value="Español">Español</option>
         <option value="Frances">Frances</option>
