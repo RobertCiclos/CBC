@@ -22,27 +22,27 @@ const Sala2 = () => {
     if (isDesktop) {
       return <div
         className='col-span-5 grid grid-cols-4 gap-[26px]'>
-        <CardAnimales />
-        <CardAnimales />
-        <CardAnimales />
-        <CardAnimales />
+        <CardAnimales img={dataSala2.section3.img11} name={dataSala2.section3.nombre11}/>
+        <CardAnimales img={dataSala2.section3.img12} name={dataSala2.section3.nombre12}/>
+        <CardAnimales img={dataSala2.section3.img13} name={dataSala2.section3.nombre13}/>
+        <CardAnimales img={dataSala2.section3.img14} name={dataSala2.section3.nombre14}/>
       </div>
     } else if (istablet) {
       return <>
-        <CardAnimales />
-        <CardAnimales />
+        <CardAnimales img={dataSala2.section3.img11} name={dataSala2.section3.nombre11}/>
+        <CardAnimales img={dataSala2.section3.img12} name={dataSala2.section3.nombre12}/>
         <div
           className='col-span-4 grid grid-cols-2 gap-[26px]'>
-          <CardAnimales />
-          <CardAnimales />
+          <CardAnimales img={dataSala2.section3.img13} name={dataSala2.section3.nombre13}/>
+          <CardAnimales img={dataSala2.section3.img14} name={dataSala2.section3.nombre14}/>
         </div>
       </>
     } else {
       return <>
-        <CardAnimales/>
-        <CardAnimales/>
-        <CardAnimales/>
-        <CardAnimales />
+        <CardAnimales img={dataSala2.section3.img11} name={dataSala2.section3.nombre11}/>
+        <CardAnimales img={dataSala2.section3.img12} name={dataSala2.section3.nombre12}/>
+        <CardAnimales img={dataSala2.section3.img13} name={dataSala2.section3.nombre13}/>
+        <CardAnimales img={dataSala2.section3.img14} name={dataSala2.section3.nombre14}/>
       </>
     }
   }
@@ -77,16 +77,16 @@ const Sala2 = () => {
           style={{ paddingTop: 0 }}
           className='pySection'>
           <div className='contSalasAux'>
-            <CardAnimales/>
-            <CardAnimales/>
-            <CardAnimales/>
-            <CardAnimales/>
-            <CardAnimales/>
-            <CardAnimales/>
-            <CardAnimales/>
-            <CardAnimales/>
-            <CardAnimales/>
-            <CardAnimales/>
+            <CardAnimales img={dataSala2.section3.img1} name={dataSala2.section3.nombre1}/>
+            <CardAnimales img={dataSala2.section3.img2} name={dataSala2.section3.nombre2}/>
+            <CardAnimales img={dataSala2.section3.img3} name={dataSala2.section3.nombre3}/>
+            <CardAnimales img={dataSala2.section3.img4} name={dataSala2.section3.nombre4}/>
+            <CardAnimales img={dataSala2.section3.img5} name={dataSala2.section3.nombre5}/>
+            <CardAnimales img={dataSala2.section3.img6} name={dataSala2.section3.nombre6}/>
+            <CardAnimales img={dataSala2.section3.img7} name={dataSala2.section3.nombre7}/>
+            <CardAnimales img={dataSala2.section3.img8} name={dataSala2.section3.nombre8}/>
+            <CardAnimales img={dataSala2.section3.img9} name={dataSala2.section3.nombre9}/>
+            <CardAnimales img={dataSala2.section3.img10} name={dataSala2.section3.nombre10}/>
             {renderizadoAux()}
           </div>
         </section>
