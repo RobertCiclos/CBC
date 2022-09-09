@@ -39,10 +39,17 @@ const Sala2 = () => {
       </>
     } else {
       return <>
+<<<<<<< Updated upstream
         <CardAnimales img={dataSala2.section3.img11} name={dataSala2.section3.nombre11}/>
         <CardAnimales img={dataSala2.section3.img12} name={dataSala2.section3.nombre12}/>
         <CardAnimales img={dataSala2.section3.img13} name={dataSala2.section3.nombre13}/>
         <CardAnimales img={dataSala2.section3.img14} name={dataSala2.section3.nombre14}/>
+=======
+       C <ardAnimales />
+        <CardAnimales />
+        <CardAnimales />
+        <CardAnimales />
+>>>>>>> Stashed changes
       </>
     }
   }

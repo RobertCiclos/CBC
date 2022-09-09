@@ -202,19 +202,19 @@
     },
 
     "section17" : {
-        "title": "Bosques Secos y Matorrales Xerofíticos",
+        "title": "Distribución de los Bosques Secos y Matorrales Xerofíticos",
         "contenido": ["Los bosques secos y matorrales xerofíticos se extienden en las Antillas Mayores formando corredores asociados a zonas costeras presentes o, en el caso de La Española, que existieron en épocas geológicas recientes.",
                         "De ellos, los de mayor importancia para la conectividad son los del Parque Nacional Jaragua, seguidos por los situados en la cayería norte de Cuba, el norte de Cuba entre La Habana y Varadero, los extremos oeste y sureste de Cuba, el extremo noroeste de Haití y el sureste de República Dominicana.",
                             "Las áreas más representativas en Cuba se hallan en Guanahacabibes, costa norte entre La Habana y Varadero, cabo Cruz, y el corredor costero sureste de Cuba, desde Santiago hasta Maisí.",
                                 "En La Española, se hallan en el Parque Nacional Jaragua y en península de Beata hasta Belle Anse. En Puerto Rico, en la costa suroeste; y en Jamaica, en la costa sur en la zona de Hellshire."],
         "imagenes": {
             "imagen1": "./imagenes/sala3/cactaceoimg.jpg",
-            "alt1": "Bosque seco y matorral cactáceo en Republica Dominicana.",
-            "name1": "Bosque seco y matorral cactáceo en Republica Dominicana.",
+            "alt1": "Bosque seco y matorral xerofíticos en Republica Dominicana. ",
+            "name1": "Bosque seco y matorral xerofíticos en Republica Dominicana. ",
 
             "imagen2": "./imagenes/sala3/cactaceo2img.jpg",
-            "alt2": "Bosque seco y matorral cactáceo en Republica Dominicana.",
-            "name2": "Bosque seco y matorral cactáceo en Republica Dominicana."
+            "alt2": "Bosque seco y matorral xerofíticos en Republica Dominicana. ",
+            "name2": "Bosque seco y matorral xerofíticos en Republica Dominicana."
         },
         "background": "#528641",
         "colorText": "#FFFFFF"
@@ -283,13 +283,13 @@
        "contenido": ["Los pastos marinos en el Caribe se encuentran en todas las costas de las islas de la región.",
                         "Estas áreas son importantes para los peces que habitan en el Caribe, ya que muchos se alimentan y residen en las praderas de pastos marinos."],
        "imagenes": {
-           "imagen1": "./imagenes/sala3/pastosmarinos.jpg",
+           "imagen1": "./imagenes/sala3/pastosmarinos2.jpg",
            "alt1": "Pastos marinos en el Caribe.",
            "name1": "Pastos marinos en el Caribe.",
 
-           "imagen2": "./imagenes/sala3/pastosmarinos2.jpg",
-           "alt2": "Pastos marinos en el Caribe.",
-           "name2": "Pastos marinos en el Caribe."
+           "imagen2": "./imagenes/sala3/pastosmarinos.jpg",
+           "alt2": "Ecosistemas de pastos marinos en el Caribe.",
+           "name2": "Ecosistemas de pastos marinos en el Caribe."
        },
        "background": "#FFFFFF",
         "colorText": "#181818"

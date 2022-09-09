@@ -393,9 +393,35 @@ const Home = () => {
             </div>
           </div>
         </section>
+
+        <section
+          style={{paddingTop: 0}}
+          className='font-Public bg-[#F7F7F7] 
+          py-[56px] md:py-[88px] lg:py-[104px]'>
+          <Link to="/Sala1"
+            style={styleNavRow}
+            className=' w-[150px]
+            mx-auto sm:w-[300px] lg:w-[400px]'>
+            <span className='text-right font-bold text-[24px]' >
+              “INICIA EL
+              RECORRIDO POR LA
+              EXHIBICIÓN”
+            </span>
+            <img
+              src="./svg/arrowRight.svg"
+              alt="arrow"/>
+          </Link>
+        </section>
+
       </motion.div>
     </AnimatePresence>
   )
+}
+
+const styleNavRow = {
+  display: "flex",
+  alignItems: "center",
+  gap: 24
 }
 
 export default Home

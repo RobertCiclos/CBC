@@ -26,7 +26,7 @@ const ModelSlider = (props) => {
     }
 
   return (
-    <div className='contSalas '>
+    <div className='contSalas relative '>
         { props.indicador &&
             <ul 
                className='pl-[4.5%] pb-[18px] sm:pb-[24px] lg:pb-[40px] sm:pl-[2.5%]' 
@@ -51,6 +51,10 @@ const ModelSlider = (props) => {
                 }
             )}
         </p>
+        <div 
+        className='w-[50px] h-[50px] bg-red-600 absolute top-0 '>
+
+        </div>
         {OptionSlider()}
     </div>
   )

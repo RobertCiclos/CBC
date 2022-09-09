@@ -18,7 +18,8 @@ const Slider = (props) => {
         }
     }
   return (
-    <motion.div className="slider-container overflow-hidden mt-[56px] w-[1640px]">
+    <motion.div 
+      className="slider-container overflow-hidden relative mt-[56px] w-[1640px] cursor-grab">
       <motion.div 
         className='slider grid grid-cols-[343px_343px] gap-[16px]
         sm:grid-cols-[83vw_83vw] sm:gap-[48px]
@@ -33,7 +34,7 @@ const Slider = (props) => {
             <img src={props.imagen2} alt={props.alt2} className="w-full h-full pointer-events-none" />
             <cite>{props.name2}</cite>
         </motion.div>
-      </motion.div>
+      </motion.div> 
     </motion.div>
   )
 }
