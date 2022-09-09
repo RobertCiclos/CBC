@@ -13,6 +13,37 @@
                     "A partir de las 138 especies, se hizo un análisis y reagrupación según características biológicas y como resultado se obtuvo un total de 14 especies o grupos  de especies amenazadas que son objeto de conservación prioritaria del CBC:" ]
     },
 
+    "section3":{
+        "nombre1": "Tordo de bicknell",
+        "img1": "./imagenes/sala2/animales/tordo-min.png",
+        "nombre2": "Diablotín",
+        "img2":"./imagenes/sala2/animales/diablotin-min.png",
+        "nombre3": "Aves rapaces",
+        "img3":"./imagenes/sala2/animales/rapaces-min.png",
+        "nombre4": "Anfibios (100)",
+        "img4":"./imagenes/sala2/animales/anfibios-min.png",
+        "nombre5": "Iguanas endémicas altamente amenazadas (3)",
+        "img5":"./imagenes/sala2/animales/iguanas-min.png",
+        "nombre6": "Mamiferos marinos amenazados (3)",
+        "img6":"./imagenes/sala2/animales/mamiferos-min.png",
+        "nombre7": "Solenodontes",
+        "img7":"./imagenes/sala2/animales/solenodontes-min.png",
+        "nombre8": "Roedores endémicos (4)",
+        "img8":"./imagenes/sala2/animales/roedores-min.png",
+        "nombre9": "Tortugas marinas (4)",
+        "img9":"./imagenes/sala2/animales/tortugas-min.png",
+        "nombre10": "Cocodrilos altamente amenazadas (3)",
+        "img10":"./imagenes/sala2/animales/cocodrilos-min.png",
+        "nombre11": "Corales formadores de arrecifes(4)",
+        "img11":"./imagenes/sala2/animales/corales-min.png",
+        "nombre12": "Tiburones y rayas (7)",
+        "img12":"./imagenes/sala2/animales/tiburones-min.png",
+        "nombre13": "Pargos y meros (6)",
+        "img13":"./imagenes/sala2/animales/pargos-min.png",
+        "nombre14": "Anguila americana",
+        "img14":"./imagenes/sala2/animales/anguila-min.png"
+
+    },
 
     "section5" : {
         "img" : "./imagenes/sala2/especies-migratorias.jpg",

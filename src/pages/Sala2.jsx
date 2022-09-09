@@ -39,9 +39,9 @@ const Sala2 = () => {
       </>
     } else {
       return <>
-        <CardAnimales />
-        <CardAnimales />
-        <CardAnimales />
+        <CardAnimales/>
+        <CardAnimales/>
+        <CardAnimales/>
         <CardAnimales />
       </>
     }
@@ -77,16 +77,16 @@ const Sala2 = () => {
           style={{ paddingTop: 0 }}
           className='pySection'>
           <div className='contSalasAux'>
-            <CardAnimales />
-            <CardAnimales />
-            <CardAnimales />
-            <CardAnimales />
-            <CardAnimales />
-            <CardAnimales />
-            <CardAnimales />
-            <CardAnimales />
-            <CardAnimales />
-            <CardAnimales />
+            <CardAnimales/>
+            <CardAnimales/>
+            <CardAnimales/>
+            <CardAnimales/>
+            <CardAnimales/>
+            <CardAnimales/>
+            <CardAnimales/>
+            <CardAnimales/>
+            <CardAnimales/>
+            <CardAnimales/>
             {renderizadoAux()}
           </div>
         </section>
