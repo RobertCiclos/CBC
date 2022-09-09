@@ -6,8 +6,9 @@
 @layer base {
     h1 {
         @apply font-Public text-white text-left font-bold transicion
-         text-[40px] leading-[56px] sm:text-[30px] sm:text-center
-         md:text-[36px] lg:text-[40px] xl:text-[56px]
+         text-[40px] leading-[35px] sm:text-[30px] sm:text-center
+         md:text-[36px] lg:text-[40px] lg:leading-[48px]
+         xl:text-[56px] xl:leading-[72px] 
     }
 
     h2 {
@@ -18,15 +19,15 @@
     }
 
     h4 {
-        @apply font-[600] font-Public text-[20px] leading-[39.68px] text-left
+        @apply font-[700] font-Public text-[20px] leading-[39.68px] text-left
         sm:text-[34px] sm:leading-[40px]
         md:text-[40px] md:leading-[55px]
         lg:text-[40px] lg:leading-[54px]
     }
 
     h5 {
-        @apply font-[600] font-Public text-[20px] leading-[32px] 
-        sm:text-[32px] sm:leading-[39.68px] sm:font-bold
+        @apply font-[600] font-Public text-[12px] leading-[14px] 
+        sm:text-[32px] sm:leading-[39.68px] sm:font-bold text-center
     }
 
     ul {
@@ -95,27 +96,41 @@
     }
 
     .pySection {
-        @apply py-[56px] md:py-[88px] lg:py-[112px]
+        @apply py-[56px] md:py-[88px] lg:py-[104px]
     }
 
     .mtPharagraphs {
         @apply mt-[16px] sm:mt-[24px] md:mt-[32px] xl:mt-[44px]
     }
 
-    .descriptionPhotos {
-
-    }
-
-    .paragraphs {
-
-    }
-
     .overflow {
         overflow-x: auto;
     }
 
-    .titleFooter {
-
+    .textSpam {
+        @apply  font-Public font-[600] text-[16px] leading-[22px]
+                md:text-[40px] md:leading-[55px]
     }
 
+    .liNav {
+        @apply  grid grid-cols-[96px_25px] text-[32px] gap-[15px] items-center
+                md:grid-cols-[194px_55px]  md:gap-[24px] md:text-[64px]
+    }
+
+    .liNumNavActive {
+        @apply text-[24px] leading-[33px] md:text-[32px] md:leading-[44px] text-black
+                
+    }
+
+    .liNumNavDisabled {
+        @apply text-[24px] leading-[33px] md:text-[32px] md:leading-[44px] text-[#828282]
+    }
+
+    .spamNumNavActive {
+        @apply h-[2px] w-[20px] bg-black block
+    }
+
+    .spamNumNavDisabled {
+        @apply h-[2px] w-[20px] bg-[#828282] block
+    }
 }

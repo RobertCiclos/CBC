@@ -8,7 +8,9 @@ const Modelimg = (props) => {
       gap-[16px] pb-[28px]
       md:gap-[32px] md:pb-[56px]'>
         <img src={props.img} alt="Pescadores artesanales" className="separador" />
-        <cite className='contSalas'>{props.description}</cite>
+        { props.description &&
+          <cite className='contSalas'>{props.description}</cite>
+        }
     </div>
   )
 }

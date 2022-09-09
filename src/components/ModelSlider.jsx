@@ -1,8 +1,30 @@
 import React from 'react'
+import SliderRecorted from './SliderRecorted'
+import SliderRecorted2 from './SliderRecorted2'
+import SliderRecorted3 from './SliderRecorted3'
+import SliderRecorted4 from './SliderRecorted4'
+import SliderRecorted5 from './SliderRecorted5'
 import Slider from './Slider'
 
 const ModelSlider = (props) => {
     const numParrafos = props.contenido.length
+
+    function OptionSlider(){
+        if(props.type === 'Recorted'){
+            return <SliderRecorted {...props.imagenes}/>
+        }else if (props.type === 'Recorted2'){
+            return <SliderRecorted2 {...props.imagenes}/>
+        }else if (props.type === 'Recorted3'){
+            return <SliderRecorted3 {...props.imagenes}/>
+        }else if (props.type === 'Recorted4'){
+            return <SliderRecorted4 {...props.imagenes}/>
+        }else if (props.type === 'Recorted5'){
+            return <SliderRecorted5 {...props.imagenes}/>
+        }else{
+            return <Slider {...props.imagenes}/>
+        }
+    }
+
   return (
     <div className='contSalas '>
         { props.indicador &&
@@ -29,7 +51,7 @@ const ModelSlider = (props) => {
                 }
             )}
         </p>
-        <Slider {...props.imagenes}/>
+        {OptionSlider()}
     </div>
   )
 }

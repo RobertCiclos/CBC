@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import { Link, useLocation } from 'react-router-dom'
 import { AnimatePresence, motion } from 'framer-motion'
 
@@ -20,10 +20,12 @@ const Navbar = () => {
       boxShadow: "0 0 #0000"
    }
 
+   /***** */
+
    return (
       <header
          style={styles}
-         className='w-full h-[85px] flex items-center absolute z-10 text-[24px] '>
+         className='w-full h-[65px] sm:h-[85px] flex items-center absolute z-10 text-[24px] '>
          <nav
             className="w-[311px]  grid grid-cols-2 sm:grid-cols-3 items-center mx-auto 
             sm:w-[1095px] sm:px-[10%] xl:px-0">
@@ -43,7 +45,7 @@ const Navbar = () => {
                   src="./svg/logo-navbar.svg"
                   alt="" />
             </Link>
-            {!navbar &&
+            {navbar &&
                <img
                   className='justify-self-end cursor-pointer sm:scale-[1.15]'
                   onClick={() => setNavbar(!navbar)}
@@ -52,24 +54,24 @@ const Navbar = () => {
             }
 
             <AnimatePresence>
-               {navbar &&
+               {!navbar &&
                   <motion.div
-                     initial={{ opacity: 0, right: -100 }}
+                     initial={{ opacity: 0, right: -200 }}
                      animate={{ opacity: 1, right: 0 }}
-                     exit={{ opacity: 0, right: -100 }}
-                     transition={{ duration: 1 }}
+                     exit={{ opacity: 0, right: -200 }}
+                     transition={{ duration: 1.2 }}
                      style={stylesNav}
                      className='h-[100vh] fixed right-0 top-0 pt-[1%] 
-                     w-full md:w-[25vh] lg:w-[20vw] '>
+                     w-[40vh] md:w-[25vh] lg:w-[20vw] '>
                      <div
                         className='grid grid-cols-2 h-[64px] items-center px-[10%]'>
                         <img
                            onClick={() => setNavbar(!navbar)}
                            className='justify-self-start cursor-pointer'
-                           src={location === "/" || location === "/Home"  ? "./svg/x-Black.svg": "./svg/x-White.svg" }
+                           src={location === "/" || location === "/Home" ? "./svg/x-Black.svg" : "./svg/x-White.svg"}
                            alt="hola" />
                         <div
-                           style={{borderColor: location === "/" || location === "/Home" ? "#000" : "#fff"}}
+                           style={{ borderColor: location === "/" || location === "/Home" ? "#000" : "#fff" }}
                            className='justify-self-end border-b-[1.5px] font-[400]'>
                            {
                               (() => {
@@ -94,21 +96,21 @@ const Navbar = () => {
                      <div
                         className='grid grid-rows-[repeat(6,72px)] items-center'>
                         <Link to="/"
-                           style={{ borderColor: location === "/" || location === "/Home"  ? "black" : "white" }} c
-                           lassName=''
+                           style={{ borderColor: location === "/" || location === "/Home" ? "black" : "white" }}
+                           className=''
                            onClick={() => setNavbar(!navbar)}>
                            <div
                               className='h-full px-[10%]'>
-                              Home 
+                              Home
                               <img
                                  className='ml-[5%]  inline'
-                                 src={location==='/'? './svg/arrow-right-45-Black.svg' : './svg/arrow-right-45-White.svg' }
+                                 src={location === '/' ? './svg/arrow-right-45-Black.svg' : './svg/arrow-right-45-White.svg'}
                                  alt='Flecha de navegacion' />
                            </div>
                         </Link>
 
                         <Link to="/Sala1"
-                           style={{ borderColor: location === "/" || location === "/Home"  ? "black" : "white" }}
+                           style={{ borderColor: location === "/" || location === "/Home" ? "black" : "white" }}
                            className='border-t-[1.5px] h-full'
                            onClick={() => setNavbar(!navbar)} >
                            <div
@@ -116,13 +118,13 @@ const Navbar = () => {
                               Sala 1
                               <img
                                  className='ml-[5%] inline'
-                                 src={location==='/'? './svg/arrow-right-45-Black.svg' : './svg/arrow-right-45-White.svg' }
+                                 src={location === '/' ? './svg/arrow-right-45-Black.svg' : './svg/arrow-right-45-White.svg'}
                                  alt='Flecha de navegacion' />
                            </div>
                         </Link>
 
                         <Link to="/Sala2"
-                           style={{ borderColor: location === "/" || location === "/Home"  ? "black" : "white" }}
+                           style={{ borderColor: location === "/" || location === "/Home" ? "black" : "white" }}
                            className='border-t-[1.5px] h-full'
                            onClick={() => setNavbar(!navbar)} >
                            <div
@@ -130,13 +132,13 @@ const Navbar = () => {
                               Sala 2
                               <img
                                  className='ml-[5%] inline'
-                                 src={location==='/'? './svg/arrow-right-45-Black.svg' : './svg/arrow-right-45-White.svg' }
+                                 src={location === '/' ? './svg/arrow-right-45-Black.svg' : './svg/arrow-right-45-White.svg'}
                                  alt='Flecha de navegacion' />
                            </div>
                         </Link>
 
                         <Link to="/Sala3"
-                           style={{ borderColor: location === "/" || location === "/Home"  ? "black" : "white" }}
+                           style={{ borderColor: location === "/" || location === "/Home" ? "black" : "white" }}
                            className='border-t-[1.5px] h-full px-[10%]'
                            onClick={() => setNavbar(!navbar)} >
                            <div
@@ -144,13 +146,13 @@ const Navbar = () => {
                               Sala 3
                               <img
                                  className='ml-[5%] inline'
-                                 src={location==='/'? './svg/arrow-right-45-Black.svg' : './svg/arrow-right-45-White.svg' }
+                                 src={location === '/' ? './svg/arrow-right-45-Black.svg' : './svg/arrow-right-45-White.svg'}
                                  alt='Flecha de navegacion' />
                            </div>
                         </Link>
 
                         <Link to="/Sala4"
-                           style={{ borderColor: location === "/" || location === "/Home"  ? "black" : "white" }}
+                           style={{ borderColor: location === "/" || location === "/Home" ? "black" : "white" }}
                            className='border-t-[1.5px] h-full'
                            onClick={() => setNavbar(!navbar)} >
                            <div
@@ -158,13 +160,13 @@ const Navbar = () => {
                               Sala 4
                               <img
                                  className='ml-[5%] inline'
-                                 src={location==='/'? './svg/arrow-right-45-Black.svg' : './svg/arrow-right-45-White.svg' }
+                                 src={location === '/' ? './svg/arrow-right-45-Black.svg' : './svg/arrow-right-45-White.svg'}
                                  alt='Flecha de navegacion' />
                            </div>
                         </Link>
 
                         <Link to="/Sala5"
-                           style={{ borderColor: location === "/" || location === "/Home"  ? "black" : "white" }}
+                           style={{ borderColor: location === "/" || location === "/Home" ? "black" : "white" }}
                            className='border-y-[1.5px] h-full'
                            onClick={() => setNavbar(!navbar)} >
                            <div
@@ -172,17 +174,14 @@ const Navbar = () => {
                               Sala 5
                               <img
                                  className='ml-[5%] inline'
-                                 src={location==='/'? './svg/arrow-right-45-Black.svg' : './svg/arrow-right-45-White.svg' }
+                                 src={location === '/' ? './svg/arrow-right-45-Black.svg' : './svg/arrow-right-45-White.svg'}
                                  alt='Flecha de navegacion' />
                            </div>
                         </Link>
                         <select
                            className='invisible'
                            name="idioma" id="">
-                           <option value="Español">
-                              <img id="español" src='./svg/espaniol.svg' alt='hola'/>
-                              Español
-                           </option>
+                           <option value="Español">Español</option>
                            <option value="Frances">Frances</option>
                            <option value="Ingles">Ingles</option>
                            <option value="Creole">Creole</option>

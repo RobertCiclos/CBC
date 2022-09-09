@@ -1,5 +1,24 @@
 {
 
+    "section1" : {
+        "img" : "./imagenes/sala2/hero-sala2-min.jpg",
+        "title": "Especies prioritarias para el Corredor Biológico en el Caribe",
+        "sala": "Sala 2"
+    },
+
+    "section2" : {
+        "contenido": ["Debido a la elevada riqueza de la biodiversidad en el CBC, realizar acciones de conservación y monitoreo para las especies prioritarias es imprescindible.",
+                       "Por ello, el CBC ha priorizado algunas especies, grupos de especies y ecosistemas representativos, compartidos, con amenazas identificadas, y que son altamente  vulnerables al cambio climático, como objetos de conservación y monitoreo.",
+                     "Actualmente, el CBC cuenta con una lista de 138 especies como potenciales objetos para la conservación y el monitoreo; algunas de las cuales presentaremos en esta sala.  Este listado es un elemento clave en el desarrollo de la estrategia de conservación para el Corredor Biológico en el Caribe (CBC).",
+                    "A partir de las 138 especies, se hizo un análisis y reagrupación según características biológicas y como resultado se obtuvo un total de 14 especies o grupos  de especies amenazadas que son objeto de conservación prioritaria del CBC:" ]
+    },
+
+
+    "section5" : {
+        "img" : "./imagenes/sala2/especies-migratorias.jpg",
+        "title": "Especies Migratorias"
+    },
+
     "section6" : {
         "indicador" : "Especies Migratorias ",
         "colorIndicador" : "#85BD70",
@@ -71,6 +90,11 @@
         "colorText": "#181818"
     },
 
+    "section10" : {
+        "img" : "./imagenes/sala2/especies-endemicas.jpg",
+        "title": "ESPECIES ENDÉMICAS"
+    },
+
     "section11" : {
         "indicador" : "Especies endémicas",
         "colorIndicador" : "#85BD70",
@@ -79,8 +103,8 @@
                      "Son mamíferos nocturnos, altamente amenazados, en peligro de extinción, que solo se encuentran en Cuba y La Española.",
                      "Están amenazados por la destrucción y fragmentación del hábitat debido a la deforestación y la minería y son depredados por animales exóticos introducidos."],       
         "imagen1": "./imagenes/sala2/solenodontes.jpg",
-        "alt1": "Solenodonte cubano (Solenodon cubanus) o Solenodonte de la Española (Solenodon paradoxus) Imágen cortesía de SOH Conservación.",        
-        "description": "Solenodonte cubano (Solenodon cubanus) o Solenodonte de la Española (Solenodon paradoxus) Imágenes cortesía de SOH Conservación.",
+        "alt1": "Solenodonte de la Española (Solenodon paradoxus) Imágenes cortesía de SOH Conservación.",        
+        "description": "Solenodonte de la Española (Solenodon paradoxus) Imágenes cortesía de SOH Conservación.",
         "background": "#103A62",
         "colorText": "#FFFFFF"
     },
@@ -116,6 +140,12 @@
         },
         "background": "#103A62",
         "colorText": "#FFFFFF"
+    },
+
+    
+    "section15" : {
+        "img" : "./imagenes/sala2/especies-importantes.jpg",
+        "title": "Otras especies de importancia para la conservación"
     },
 
     "section16" : {
@@ -226,6 +256,12 @@
         "colorText": "#fff"
     },
 
+        
+    "section23" : {
+        "img" : "./imagenes/sala2/especies-interes.jpg",
+        "title": "Otras especies de interés para el CBC"
+    },
+
     "section24" : {
         "indicador" : "Otras especies de interés para el CBC",
         "colorIndicador" : "#103A62",
@@ -309,6 +345,23 @@
     "section29" : {
         "img": "./imagenes/sala2/agrupaciones-corales.jpg",
         "description": "Agrupaciones de corales duros y blandos en Les Cayemites, Haití."
+    },
+
+    "section30" : {
+        "contenido": "En la siguiente sala encontrarás más información sobre algunas de las especies priorizadas para la conservación en el CBC.",
+        "backLink": "/Sala1",
+        "nextLink": "/Sala3"
+    },
+
+    "footer": {
+        "title": "“El CBC es Conectividad”",
+        "subtitle": "Instituciones relacionadas",
+        "instituciones": ["Ministerio de Ciencia, Tecnología y Medio Ambiente de la República de Cuba",
+                        "Ministerio de Medio Ambiente y Recursos Naturales de República Dominicana",
+                        "Departamento de Recursos Naturales y Ambientales del Gobierno de Puerto Rico"
+                        ,"Ministerio de Medio Ambiente de Haití","Ministry of Economic Growth and Job Creation of Jamaica (MEGJC)",
+                        "Unión Europea",
+                        "PNUMA"]        
     }
 
 }

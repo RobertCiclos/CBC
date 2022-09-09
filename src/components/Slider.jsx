@@ -25,11 +25,11 @@ const Slider = (props) => {
         xl:grid-cols-[1016px_1016px] xl:gap-[72px]' 
         drag='x'
         dragConstraints={sliderResponsive()}>
-        <motion.div className='item  grid gap-[32px]'>
+        <motion.div className='item  grid gap-[16px] sm:gap-[32px]'>
             <img src={props.imagen1} alt={props.alt1} className="w-full h-full pointer-events-none" />
             <cite>{props.name1}</cite>
         </motion.div>
-        <motion.div className='item grid gap-[32px]'>
+        <motion.div className='item grid gap-[16px] sm:gap-[32px]'>
             <img src={props.imagen2} alt={props.alt2} className="w-full h-full pointer-events-none" />
             <cite>{props.name2}</cite>
         </motion.div>

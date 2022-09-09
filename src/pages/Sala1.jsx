@@ -5,6 +5,9 @@ import ModelOneImg from '../components/ModelOneImg'
 import ModelSlider from '../components/ModelSlider'
 import { useMediaQuery } from 'react-responsive'
 import { AnimatePresence, motion } from 'framer-motion'
+import ModelNavigation from '../components/ModelNavigation'
+import ModelTitle from '../components/ModelTitle'
+import Parrafos from '../components/models/Parrafos'
 
 const Sala1 = () => {
 
@@ -18,48 +21,21 @@ const Sala1 = () => {
         animate={{ opacity: 1 }}
         exit={{ opacity: 0 }}
         transition={{ duration: 1.5 }} 
-        className='pt-[85px] overflow-x-hidden'>
+        className='pt-[65px] sm:pt-[85px] overflow-x-hidden'>
+
         <section
           id='section1'
-          className='imgBack bg-slate-500 relative
-          xl:bg-[url("/public/imagenes/sala1/hero-sala1.jpg")] '>
-          {
-            !istablet &&
-              <img 
-                src='./imagenes/sala1/hero-sala1.jpg' 
-                alt=''
-                className=' z-0'
-              />
-          }
-          <div
-            className='contSalas flex top-[-10%]  md:top-0  xl:top-0   absolute xl:relative'>
-            <h1 
-              className='text-left w-auto mt-[3rem] text-[20px] ml-[17%] 
-              sm:w-[100px] md:text-[32px] md:w-[150px]
-              xl:ml-0 xl:text-[56px] xl:w-auto'>
-              SALA 1
-              <span className='lineAux'/>
-            </h1>
-          </div>
+          style={{ backgroundImage: istablet && `url(${dataSala1.section1.img})` }}
+          className='imgBack bg-slate-500 relative z-0'>
+          <ModelTitle {...dataSala1.section1} />
         </section>
 
         <section
           id='section2'
           className='pySection'>
           <main 
-            className='contSalas'>
-            <p>
-              El Caribe insular es reconocido por su rica biodiversidad y ecosistemas, y por su elevada cantidad de especies endémicas, es decir, únicas del lugar. Por ello, es uno de los “puntos calientes” de la biodiversidad global.
-              <br/>
-              <br/>
-              Además, al servir las Antillas Mayores como puente para la conectividad ecológica entre Norte y Sur América, se le conoce como un valioso corredor biológico por lo cual su conservación es prioritaria.
-              <br/>
-              <br/>   
-              Ante las amenazas a las que se ve sometido, es necesaria la protección de sus ecosistemas y de sus procesos naturales, para asegurar un futuro próspero para la región.
-              <br/>
-              <br/>
-              Por todo ello, es que se crea el Corredor Biológico en el Caribe (CBC); una iniciativa de los gobiernos de Cuba, Haití, República Dominicana y Puerto Rico, a la cual se ha unido recientemente Jamaica, que trabaja para fomentar acciones coordinadas que contribuyan a la conservación, conectividad y el mantenimiento de los servicios ecosistémicos en la región.
-            </p>
+            className='contSalas '>
+            <Parrafos {...dataSala1.section2} />
           </main>
         </section>
 
@@ -192,6 +168,13 @@ const Sala1 = () => {
           className=''>
           <Modelimg {...dataSala1.section21}/>
         </section>
+
+        <section
+          id='section22'
+          className=''>
+          <ModelNavigation {...dataSala1.section22} />
+        </section>
+        
       </motion.div>
     </AnimatePresence>
   )

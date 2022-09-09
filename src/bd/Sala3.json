@@ -1,13 +1,24 @@
-{
+{   
+    "section1" : {
+        "img" : "./imagenes/sala3/fondo-sala3.jpg",
+        "title": "Ecosistemas prioritarios para el Corredor Biológico en el Caribe",
+        "sala": "Sala 3"
+    },
+
+    "section2" : {
+        "contenido": ["La iniciativa del CBC contribuye a alcanzar múltiples metas de los Objetivos de Desarrollo Sostenible (ODS) al promover e implementar acciones para la protección de los ecosistemas costeros, marinos y terrestres.",
+                       "Una de sus acciones ha sido la identificación de algunos  grupos de ecosistemas marinos y terrestres prioritarios para la conservación en el corredor. Los ecosistemas fueron evaluados espacialmente para determinar los sitios dentro de sus áreas de distribución que tienen mayor prioridad para la conservación, de acuerdo con los criterios de selección escogidos.",
+                     "Los grupos de ecosistemas priorizados para la conservación en el CBC son: los bosques húmedos y pinares, los bosques secos y matorrales xerofíticos, los manglares y los arrecifes de coral. " ]
+    },
+
     "section3" : {
-        "title": "Ecosistemas prioritarios para el CBC",
-        "contenido": ["El mar Caribe cubre un área de 2.754 millones km². Su zona costera es compartida por cerca de 25 países, incluyendo islas y tierras continentales.",
-                        "Los ecosistemas prioritarios para el CBC son sitios clave para mantener la conectividad regional yáreas que preservan ecosistemas representativos de las eco-regiones compartidas y amenazadas,  resilientes al cambio climático; y que son claves para la conservación de especies migratorias, especies endémicas altamente amenazadas, o de elevado potencial de dispersión."],
+        "title": "Corredor Biológico en las Antillas Mayores",
+        "contenido": ["La imagen satelital ilustra algunas rutas migratorias y diferentes conexiones en el CBC. Vemos ejemplos de conectividad regional como las rutas migratorias de aves rapaces, tortugas marinas y el tiburón ballena, también se pueden ver los sitios de desove de pargos y meros y las áreas de dispersión de larvas de peces de arrecife."],
         "subtitle": null,
         "imagen":  "./imagenes/sala3/mapa-ecosistema.jpg",
-        "description": ["Mapa resaltando los ecosistemas prioritarios del CBC, así como sitios de importancia para especies que son objeto de conservación y monitoreo en el corredor."],
+        "description": ["Mapa de las Antillas Mayores que ilustra algunos ejemplos de conectividad en el CBC."],
         "background": "#528641",
-        "colorText": "#FFFFFF"
+        "colorText": "#fff"
     },
 
     "section4" : {
@@ -28,9 +39,10 @@
     },
 
     "section6" : {
-        "title": "Arrecifes de Coral",
-        "contenido": ["Los arrecifes de coral son ecosistemas muy ricos, diversos y únicos de las zonas costeras y poco profundas  en las regiones tropicales. Forman estructuras pétreas conformadas por especies de corales duros y blandos así como algas, que proporcionan refugio y alimento a una gran cantidad de especies de peces, reptiles e invertebrados.",
-                        "Están interconectados con otros ecosistemas como las praderas de pastos marinos y los manglares, por los ciclos de nutrientes que forman parte del desarrollo de diferentes especies."],
+        "title": "Arrecifes de Cuba y la española",
+        "contenido": ["Los arrecifes de coral, junto con otros ecosistemas marino-costeros, sustentan a la mayoría de la biodiversidad marina de las Antillas. ",
+                        "En particular, los arrecifes de Cuba y La Española (tanto en República Dominicana como en Haití) son de gran importancia para la conectividad regional.",
+                        "Especies como los peces de arrecife, crustáceos y corales fertilizan sus huevos y los liberan para ser transportados por las corrientes marinas hasta sitios donde puedan asentarse sus larvas, alimentarse y crecer, hasta convertirse en juveniles, y desarrollarse hasta llegar a edad reproductiva. "],
         "imagenes": {
             "imagen1": "./imagenes/sala3/pez-mariposa.jpg",
             "alt1": "Pez mariposa bandado (Chaetodon striatus) en arrecife de coral, Cuba.",
@@ -45,6 +57,28 @@
     },
 
     "section7" : {
+        "title": "Otros arrecifes en el Caribe",
+        "contenido": ["Los arrecifes de coral constituyen verdaderos viveros para muchas especies, importantes para el sustento de las comunidades costeras en el CBC. Aportan al sector pesquero global un valor de 6,800 millones de dólares al año y casi 400 millones de dólares al Caribe.",
+                    "Protegen las costas y son clave para mantener la pesca artesanal, comercial y recreacional. Además, son fuente de productos farmacológicos.",
+                    "Su belleza indiscutible y biodiversidad son atractivas para el turismo y el buceo recreativo, y se ha estimado que aportan al Caribe entre 700 y 2200 millones de dólares cada año."],
+        "imagen1": "./imagenes/sala3/otro-arrecife.jpg",
+        "alt1": "Cardúmenes en arrecifes de Las Antillas Mayores.",        
+        "description": "Cardúmenes en arrecifes de Las Antillas Mayores.",
+        "background": "#fff",
+        "colorText": "#181818"
+    },
+
+    "section8" : {
+        "title": "Manglares",
+        "contenido": ["Los manglares son ricos productores de nutrientes derivados de la descomposición de materia orgánica; además, son refugio de valiosas especies en sus etapas larvaria y juvenil."],
+        "imagen1": "./imagenes/sala3/manglares.jpg",
+        "alt1": "Manglares saludables, Cuba.",        
+        "description": "Manglares saludables, Cuba.",
+        "background": "#528641",
+        "colorText": "#FFF"
+    },
+
+    "section10" : {
         "title": "Manglares en el CBC",
         "contenido": ["Cuba, el mayor archipiélago del Caribe, con más de 5000 km de costa y más de 4000 islas y cayos predominantemente bajos, alberga más de 5000 km2 de manglares, que representan más del 80% de todos los del área. Le siguen en importancia los de la isla La Española.",
                         "En La Española se encuentran manglares en Montecristi, la costa norte desde Samaná hasta Punta Cana, la punta El Aljibe y en la punta Beata, y destacan con importancia alta para la conectividad los manglares de Tres Bahías, los del Bajo Yuna, y los situados hacia el extremo oriental de la isla.",
@@ -78,6 +112,20 @@
         "background": "#528641",
         "colorText": "#FFFFFF"
     },
+
+    "section12" : {
+        "title": "los humedales y el cambio climático",
+        "contenido": ["La ciénaga de Zapata es el mayor humedal del Caribe insular, donde el ecosistema de manglar ocupa gran parte de su superficie.",
+                        "Estos bosques inundables ayudan a frenar los efectos del cambio climático. Capturan y almacenan el CO2, filtran las aguas residuales y el aire; hacen de barrera contra el oleaje, impiden el avance de la intrusión salina y previenen la erosión costera. ",
+                            "Sin embargo, es posible que muchas áreas costeras y humedales en el Caribe sufran los impactos del cambio climático. Por ejemplo, la Ciénaga de Zapata en Cuba, podría reducirse hasta en un 20 por ciento para finales de siglo debido al aumento en el nivel del mar, la intrusión salina y el impacto de los huracanes.",
+                                "Proteger y recuperar los manglares es una medida de adaptación basada en ecosistemas que puede ayudar a reducir el impacto del cambio climático en el CBC, y mejorar las condiciones de vida de las comunidades que dependen de ellos."],
+        "imagen1": "./imagenes/sala3/cienaga-cuba.jpg",
+        "alt1": "Ciénaga de Zapata, Cuba.",        
+        "description": "Ciénaga de Zapata, Cuba.",
+        "background": "#fff",
+        "colorText": "#181818"
+    },
+
 
     "section13" : {
         "title": "Ecosistemas boscosos en el CBC",
@@ -222,6 +270,10 @@
         "colorText": "#181818"
     },
 
+    "section21" : {
+        "img": "./imagenes/sala3/paisajesection21.jpg"
+    },
+
     "section22" : {
         "indicador" : "Otros ecosistemas presentes en el CBC",
        "colorIndicador" : "#85BD70",
@@ -263,5 +315,22 @@
    "section24" : {
         "img": "./imagenes/sala3/medusa.jpg",
         "description": "Medusa en aguas Caribeñas."
+    },
+
+    "section25" : {
+        "backLink": "/Sala2",
+        "nextLink": "/Sala4"
+    },
+
+    "footer": {
+        "title": "“El CBC es vida”",
+        "contenido": ["Iniciativa gubernamental de cuatro países: Cuba, Haití, República Dominicana y Puerto Rico. Financiada por la Unión Europea (UE) y apoyada por el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA).",
+                    "Sede de la Secretaría del CBC República Dominicana, Miembros",
+                    "© 2020, Centro de Información y Gestión Tecnológica de Santiago de Cuba, MEGACEN."],
+        "subtitle": "Instituciones que participan",
+        "instituciones": ["Ministerio de Ciencia, Tecnología y Medio Ambiente de la República de Cuba",
+                        "Ministerio de Medio Ambiente de Haití","Ministerio de Medio Ambiente y Recursos Naturales de República Dominicana",
+                        "Unión Europea","PNUMA","Naciones Unidas en Cuba","Naciones Unidas en Haití","Naciones Unidas en República Dominicana",
+                        "Portal del Medio Ambiente de Cuba","BIOECO","CEDAF"]        
     }
 }

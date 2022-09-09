@@ -62,9 +62,9 @@ const Footer = () => {
           {TitleFooter}
         </h4>
         <p
-          className='font-[500] text-[20px] mt-[32px] mb-[16px]
+          className='font-[500] text-[20px] mt-[24px] mb-[16px]
           sm:text-[22px] sm:font-[700] 
-          md:text-[24px] md:mt-[64px] '>
+          md:text-[24px] md:mt-[48px] '>
           Instituciones relacionadas
         </p>
         <ul 

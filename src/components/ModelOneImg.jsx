@@ -2,7 +2,6 @@ import React from 'react'
 
 const ModelOneImg = (props) => {
    const numParrafos = props.contenido.length
-   console.log(props.indicador)
    return (
       <div className='contSalas '>
          { props.indicador &&
@@ -17,7 +16,7 @@ const ModelOneImg = (props) => {
                </li>
             </ul>
          }
-         <h2>{props.title}</h2>
+         <h2 className='uppercase'>{props.title}</h2>
          <p className='mtPharagraphs'>
             {props.contenido.map(
                (parrafo, index) => {

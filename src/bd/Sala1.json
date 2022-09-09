@@ -1,4 +1,17 @@
 {   
+    "section1" : {
+        "img" : "./imagenes/sala1/hero-sala1.jpg",
+        "title": "La conectividad ecológica y el Corredor Biológico en el Caribe",
+        "sala": "Sala 1"
+    },
+    
+    "section2" : {
+        "contenido": ["El Caribe insular es reconocido por su rica biodiversidad y ecosistemas, y por su elevada cantidad de especies endémicas, es decir, únicas del lugar. Por ello, es uno de los “puntos calientes” de la biodiversidad global.",
+                       "Además, al servir las Antillas Mayores como puente para la conectividad ecológica entre Norte y Sur América, se le conoce como un valioso corredor biológico por lo cual su conservación es prioritaria.",
+                     "Ante las amenazas a las que se ve sometido, es necesaria la protección de sus ecosistemas y de sus procesos naturales, para asegurar un futuro próspero para la región.",
+                    "Por todo ello, es que se crea el Corredor Biológico en el Caribe (CBC); una iniciativa de los gobiernos de Cuba, Haití, República Dominicana y Puerto Rico, a la cual se ha unido recientemente Jamaica, que trabaja para fomentar acciones coordinadas que contribuyan a la conservación, conectividad y el mantenimiento de los servicios ecosistémicos en la región." ]
+    },
+
     "section3" : {
         "title": "El Caribe y su biodiversidad",
         "contenido": ["El Caribe alberga una importante proporción de la biodiversidad global, por esta razón es considerado uno de los 35 “puntos calientes” de la biodiversidad en el mundo.",
@@ -68,7 +81,7 @@
         "contenido": ["La actual delimitación del CBC ocupa una superficie total de 199.703 km2, de los que 40.434 km2 (20.2%) corresponden a zonas núcleo de conservación y 159.269 km2 (79.8%) a zonas de conectividad."],
         "subtitle": "Áreas Núcleo de Importancia para la Conservación del Corredor Biológico en el Caribe",
         "colorSubtitle": "#103A62",
-        "imagen":  "./imagenes/sala1/mapa-areas-identificadas.jpg",
+        "imagen":  "./imagenes/sala1/mapa-actual.jpg",
         "description": ["Mapa de las áreas identificadas como núcleo de conservación dentro de la delimitación del Corredor Biológico en el Caribe, tomado del Sistema Integrado de Gestión del conocimiento del CBC (IKMS)."],
         "background": "#FFFFFF",
         "colorText": "#181818"
@@ -144,7 +157,7 @@
     },
 
     "section14" : {
-        "title": "áreas de importancia para la conectividad en el CBC",
+        "title": "Áreas de importancia para la conectividad en el CBC",
         "contenido": ["Este mapa resalta las áreas que han sido priorizadas para la conectividad en el corredor, a la vez que muestra las zonas núcleo de conservación y de importancia para la restauración de la conectividad.",
                         "Cabe aclarar que en el ámbito marino el 92.5% corresponde a zonas de importancia para la conectividad y en el ámbito terrestre el 56.7%."],
         "subtitle": "Áreas de Conectividad en el Corredor Biológico  en el Caribe",
@@ -260,5 +273,22 @@
     "section21" : {
         "img": "./imagenes/sala1/barcosala1.jpg",
         "description": "Pescadores artesanales en la barrera de arrecifes coral, Les Cayemites, Haití."
+    },
+
+    "section22" : {
+        "contenido": "En la siguiente sala encontrarás más información sobre algunas de las especies priorizadas para la conservación en el CBC.",
+        "backLink": "/",
+        "nextLink": "/Sala2"
+    },
+
+    "footer": {
+        "title": "“El CBC es Conectividad”",
+        "subtitle": "Instituciones relacionadas",
+        "instituciones": ["Ministerio de Ciencia, Tecnología y Medio Ambiente de la República de Cuba",
+                        "Ministerio de Medio Ambiente y Recursos Naturales de República Dominicana",
+                        "Departamento de Recursos Naturales y Ambientales del Gobierno de Puerto Rico"
+                        ,"Ministerio de Medio Ambiente de Haití","Ministry of Economic Growth and Job Creation of Jamaica (MEGJC)",
+                        "Unión Europea",
+                        "PNUMA"]        
     }
 }
