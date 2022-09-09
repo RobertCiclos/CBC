@@ -12,8 +12,10 @@
     },
 
     "section3" : {
-        "title": "Corredor Biológico en las Antillas Mayores",
-        "contenido": ["La imagen satelital ilustra algunas rutas migratorias y diferentes conexiones en el CBC. Vemos ejemplos de conectividad regional como las rutas migratorias de aves rapaces, tortugas marinas y el tiburón ballena, también se pueden ver los sitios de desove de pargos y meros y las áreas de dispersión de larvas de peces de arrecife."],
+        "title": "Ecosistemas prioritarios para el CBC",
+        "contenido": ["El mar Caribe cubre un área de 2.754 millones km². Su zona costera es compartida por cerca de 25 países, incluyendo islas y tierras continentales.",
+                        "Los ecosistemas prioritarios para el CBC son sitios clave para mantener la conectividad regional yáreas que preservan ecosistemas representativos de las eco-regiones compartidas y amenazadas,  resilientes al cambio climático; y que son claves para la conservación de especies migratorias, especies endémicas altamente amenazadas, o de elevado potencial de dispersión."],
+
         "subtitle": null,
         "imagen":  "./imagenes/sala3/mapa-ecosistema.jpg",
         "description": ["Mapa de las Antillas Mayores que ilustra algunos ejemplos de conectividad en el CBC."],
