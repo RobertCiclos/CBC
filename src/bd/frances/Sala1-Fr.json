@@ -2,75 +2,75 @@
     "section1" : {
         "img" : "./imagenes/sala1/hero-sala1.jpg",
         "title": "La connectivité écologique et le Corridor Biologique dans la Caraïbe",
-        "sala": "Sala 1"
+        "sala": "Salle 1"
     },
     
     "section2" : {
-        "contenido": ["El Caribe insular es reconocido por su rica biodiversidad y ecosistemas, y por su elevada cantidad de especies endémicas, es decir, únicas del lugar. Por ello, es uno de los “puntos calientes” de la biodiversidad global.",
-                       "Además, al servir las Antillas Mayores como puente para la conectividad ecológica entre Norte y Sur América, se le conoce como un valioso corredor biológico por lo cual su conservación es prioritaria.",
-                     "Ante las amenazas a las que se ve sometido, es necesaria la protección de sus ecosistemas y de sus procesos naturales, para asegurar un futuro próspero para la región.",
-                    "Por todo ello, es que se crea el Corredor Biológico en el Caribe (CBC); una iniciativa de los gobiernos de Cuba, Haití, República Dominicana y Puerto Rico, a la cual se ha unido recientemente Jamaica, que trabaja para fomentar acciones coordinadas que contribuyan a la conservación, conectividad y el mantenimiento de los servicios ecosistémicos en la región." ]
+        "contenido": ["La Caraïbe insulaire sest reconnues pour la richesse de sa biodiversité et de ses écosystèmes, ainsi que pour le nombre élevé d'espèces endémiques, c'est-à-dire uniques au lieu. Elle est donc l'un des “points chauds” de la biodiversité mondiale.",
+                       "De plus, les Grandes Antilles, en servant de pont de connectivité écologique entre l'Amérique du Nord et l'Amérique du Sud, sont connus comme un précieux corridor biologique dont la conservation est une priorité.",
+                     "Face aux menaces auxquelles il est soumis, la protection de ses écosystèmes et de ses processus naturels est nécessaire pour assurer un avenir prospère à la région.",
+                    "C'est pourquoi il a été créé le Corridor Biologique dans la Caraïbe (CBC), une initiative des gouvernements de Cuba, d'Haïti, de la République Dominicaine, de Porto Rico et à laquelle s’est unie la Jamaïque récemment qui vise à promouvoir des actions coordonnées contribuant à la conservation, à la connectivité et au maintien des services écosystémiques dans la région." ]
     },
 
     "section3" : {
-        "title": "El Caribe y su biodiversidad",
-        "contenido": ["El Caribe alberga una importante proporción de la biodiversidad global, por esta razón es considerado uno de los 35 “puntos calientes” de la biodiversidad en el mundo.",
-                     "Son zonas del planeta que poseen un porcentaje elevado de especies endémicas, exclusivas de ese lugar, o especies altamente amenazadas."],
+        "title": "La Caraïbe et son importante biodiversité",
+        "contenido": ["La Caraïbe abrite une part importante de la biodiversité mondiale, c'est pourquoi elle est considérée comme l'un des 35 “points chauds” de la biodiversité dans le monde.",
+                     "Il s'agit de zones de la planète qui présentent un pourcentage élevé d'espèces endémiques, exclusives à ce lieu, ou d'espèces fortement menacées."],
         "subtitle": null,
         "imagen":  "./imagenes/sala1/mapa-puntos-calientes.jpg",
-        "description": ["Mapa de ‘’puntos calientes’’ de biodiversidad. Myers, N., Mittermeier, R., Mittermeier, C. et al. Biodiversity hotspots for conservation priorities. Nature 403, 853–858 (2000).",
+        "description": ["Carte des points chauds de la biodiversité. Myers, N., Mittermeier, R., Mittermeier, C. et al. Biodiversity hotspots for conservation priorities. Nature 403, 853-858 (2000).",
                         "https://doi.org/10.1038/35002501"],
         "background": "#528641",
         "colorText": "#FFFFFF"
     },
     
     "section4" : {
-        "title": "Biodiversidad única en la región Caribe",
-        "contenido": ["En las Antillas Mayores existen hábitats y ecosistemas únicos, lo cual ha derivado en altos niveles de endemismo. Es decir, especies que sólo se encuentran en estos lugares, como la iguana de Ricord en Isla Cabritos, en el Parque Nacional Lago Enriquillo (República Dominicana)."],
+        "title": "Biodiversité unique dans la région de la Caraïbe",
+        "contenido": ["Il existe des habitats et des écosystèmes uniques dans les Grandes Antilles, ce qui entraîne des niveaux élevés d'endémisme. C'est-à-dire avec des espèces qui ne se trouvent que dans ces endroits, comme l'iguane Ricordi à Isla Cabritos, dans le Parc National Lago Enriquillo (République Dominicaine)."],
         "imagenes": {
             "imagen1": "./imagenes/sala1/iguana-ricord.jpg",
-            "alt1": "Iguana de Ricord (Cyclura ricordii).",
-            "name1": "Iguana de Ricord (Cyclura ricordii).",
+            "alt1": "Iguane Ricordi (Cyclura ricordii).",
+            "name1": "Iguane Ricordi (Cyclura ricordii).",
 
             "imagen2": "./imagenes/sala1/isla-cabritos.jpg",
-            "alt2": "Isla Cabritos, Lago Enriquillo, República Dominicana.",
-            "name2": "Isla Cabritos, Lago Enriquillo, República Dominicana."
+            "alt2": "Isla Cabritos, Lago Enriquillo, République Dominicaine.",
+            "name2": "Isla Cabritos, Lago Enriquillo, République Dominicaine."
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
     
     "section5" : {
-        "title": "¿Qué es un corredor biológico?",
-        "contenido": ["Es un espacio terrestre o marino que proporciona conectividad entre paisajes, ecosistemas y hábitats para mantener la biodiversidad y los procesos ecológicos y evolutivos; y a su vez, espacios de concertación social para promover la conservación y uso sostenible de los recursos naturales."],        
+        "title": "Qu'est-ce qu'un corridor biologique ?",
+        "contenido": ["C'est un espace terrestre ou marin qui assure la connectivité entre les paysages, les écosystèmes et les habitats afin de maintenir la biodiversité et les processus écologiques et évolutifs; et, à son tour, des espaces de concertation sociale pour promouvoir la conservation et l'utilisation durable des ressources naturelles."],        
         "imagen1": "./imagenes/sala1/img-ecosistema-manglar.jpg",
-        "alt1": "Ecosistema manglar del Caribe, vivero de peces e invertebrados.",
-        "description": "Ecosistema manglar del Caribe, vivero de peces e invertebrados.",
+        "alt1": "Un écosystème de mangrove de la Caraïbe, une pépinière de poissons et d'invertébrés.",
+        "description": "Un écosystème de mangrove de la Caraïbe, une pépinière de poissons et d'invertébrés.",
         "background": "#528641",
         "colorText": "#FFFFFF"
     },
 
     "section7" : {
-        "title": "Corredor Biológico en las Antillas Mayores",
-        "contenido": ["La imagen satelital ilustra algunas rutas migratorias y diferentes conexiones en el CBC. Vemos ejemplos de conectividad regional como las rutas migratorias de aves rapaces, tortugas marinas y el tiburón ballena, también se pueden ver los sitios de desove de pargos y meros y las áreas de dispersión de larvas de peces de arrecife."],
+        "title": "Corridor biologique dans les Grandes Antilles",
+        "contenido": ["L'image satellite illustre certaines routes migratoires et différentes connexions dans le CBC. Nous voyons des exemples de connectivité régionale tels que les routes migratoires des oiseaux rapaces, des tortues de mer et du requin-baleine, vous pouvez également voir les sites de frai des vivaneaux et des mérous et les zones de dispersion des larves de poissons de récif."],
         "subtitle": null,
         "imagen":  "./imagenes/sala1/mapa-antillas.jpg",
-        "description": ["Mapa de las Antillas Mayores que ilustra algunos ejemplos de conectividad en el CBC."],
+        "description": ["Carte des Grandes Antilles illustrant quelques exemples de connectivité dans le CBC."],
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
 
     "section8" : {
-        "title": "Conservando la biodiversidad en el Caribe Insular",
-        "contenido": ["En las Antillas Mayores el CBC ha identificado áreas con altos valores en riqueza de especies y bajos niveles de transformación antrópica. Estas áreas han sido priorizadas para ser preservadas y son conocidas como “áreas núcleo” de importancia para la conservación."],
+        "title": "Conserver la biodiversité dans la Caraïbe insulaire",
+        "contenido": ["Dans les Grandes Antilles, le CBC a identifié des zones présentant une grande richesse en espèces et de faibles niveaux de transformation humaine. Ces zones ont été classées prioritaires pour la préservation et sont connues sous le nom de “zones noyaux” d'importance pour la conservation."],
         "imagenes": {
             "imagen1": "./imagenes/sala1/bosque-seco.jpg",
-            "alt1": "Bosque seco del Parque Nacional Desembarco del Granma en Cuba.",
-            "name1": "Bosque seco del Parque Nacional Desembarco del Granma en Cuba.",
+            "alt1": "Forêt sèche du parc national de Desembarco del Granma à Cuba.",
+            "name1": "Forêt sèche du parc national de Desembarco del Granma à Cuba.",
 
             "imagen2": "./imagenes/sala1/reinita-azulada.jpg",
-            "alt2": "Reinita azulada (Dendroica caerulescens).",
-            "name2": "Reinita azulada (Dendroica caerulescens)."
+            "alt2": "La paruline bleue (Dendroica caerulescens).",
+            "name2": "La paruline bleue (Dendroica caerulescens)."
         },
         "background": "#528641",
         "colorText": "#FFFFFF"
@@ -78,125 +78,125 @@
 
     "section9" : {
         "title": "Áreas núcleo de conservación en el CBC",
-        "contenido": ["La actual delimitación del CBC ocupa una superficie total de 199.703 km2, de los que 40.434 km2 (20.2%) corresponden a zonas núcleo de conservación y 159.269 km2 (79.8%) a zonas de conectividad."],
+        "contenido": ["La délimitation actuelle du CBC couvre une superficie totale de 199,703 kilomètres carrés, dont 40,434 kilomètres carrés (20,2%) sont des zones noyaux de conservation et 159,269 kilomètres carrés (79,8%) sont des zones de connectivité."],
         "subtitle": "Áreas de Núcleo en el Corredor Biológico  en el Caribe",
         "colorSubtitle": "#103A62",
         "imagen":  "./imagenes/sala1/mapa-areas-identificadas.jpg",
-        "description": ["Mapa de las áreas identificadas como núcleo de conservación dentro de la delimitación del Corredor Biológico en el Caribe, tomado del Sistema Integrado de Gestión del conocimiento del CBC (IKMS)."],
+        "description": ["Carte des zones identifiées comme noyaux de conservation dans la limite du Corridor Biologique dans la Caraïbe, tirée du Système intégré de gestion des connaissances (IKMS) du CBC"],
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
 
     "section10" : {
-        "title": "Otras áreas núcleo para la conservación",
-        "contenido": ["Los bosques húmedos en el Caribe conforman algunas de las áreas núcleo de importancia para la conservación y para la seguridad hídrica en el CBC.",
-                        "Estos ecosistemas capturan agua, protegen y contienen el caudal de los ríos, reduciendo las posibilidades de inundaciones."],
+        "title": "Autres zones noyaux de conservation",
+        "contenido": ["Les forêts humides de la Caraïbe constituent certaines des zones noyaux d'importance pour la conservation et la sécurité hydraulique dans le CBC.",
+                        "Ces écosystèmes captent l'eau, protègent et contiennent le débit des rivières, réduisant ainsi les risques d'inondation."],
         "imagenes": {
             "imagen1": "./imagenes/sala1/el-yunque.jpg",
-            "alt1": "El Yunque, Puerto Rico.",
-            "name1": "El Yunque, Puerto Rico.",
+            "alt1": "El Yunque, Porto Rico",
+            "name1": "El Yunque, Porto Rico",
 
             "imagen2": "./imagenes/sala1/bosque-humedo.jpg",
-            "alt2": "Bosque húmedo.",
-            "name2": "Bosque húmedo."
+            "alt2": "Forêt humide",
+            "name2": "Forêt humide"
         },
         "background": "#528641",
         "colorText": "#FFFFFF"
     },
 
     "section11" : {
-        "title": "Conectividad Ecológica",
-        "contenido": ["La conectividad ecológica se considera una propiedad del paisaje en la que existe un flujo natural de materia y energía entre diferentes ecosistemas, y es clave para la conservación de la naturaleza.",
-                        "La conectividad ecológica permite el movimiento y la dispersión segura de especies silvestres entre núcleos preservados.",
-                            "Si se perdiera dicha conectividad, se afectarían tanto a las especies dentro de los ecosistemas, como la productividad, la resiliencia, y la capacidad de los ecosistemas para generar servicios ambientales para los seres humanos."],
+        "title": "Connectivité écologique",
+        "contenido": ["La connectivité écologique est considérée comme une propriété du paysage dans laquelle il existe un flux naturel de matière et d'énergie entre différents écosystèmes, et elle est essentielle à la conservation de la nature.",
+                        "La connectivité écologique permet le déplacement et la dispersion en toute sécurité des espèces sauvages entre les noyaux préservés.",
+                            "Si cette connectivité était perdue, cela affecterait à la fois les espèces au sein des écosystèmes, la productivité, la résilience et la capacité des écosystèmes à générer des services environnementaux pour les humains."],
         "imagenes": {
             "imagen1": "./imagenes/sala1/manglares-montecristi1.jpg",
-            "alt1": "Manglares de Montecristi conectados con arrecifes de coral en República Dominicana.",
-            "name1": "Manglares de Montecristi conectados con arrecifes de coral en República Dominicana.",
+            "alt1": "Mangroves de Montecristi connectées aux récifs coralliens en République Dominicaine",
+            "name1": "Mangroves de Montecristi connectées aux récifs coralliens en République Dominicaine",
 
             "imagen2": "./imagenes/sala1/manglares-montecristi2.jpg",
-            "alt2": "Manglares de Montecristi conectados con arrecifes de coral en República Dominicana.",
-            "name2": "Manglares de Montecristi conectados con arrecifes de coral en República Dominicana."
+            "alt2": "Mangroves de Montecristi connectées aux récifs coralliens en République Dominicaine",
+            "name2": "Mangroves de Montecristi connectées aux récifs coralliens en République Dominicaine"
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
 
     "section12" : {
-        "title": "De la montaña al mar",
-        "contenido": ["Un ejemplo de conectividad ecológica se da entre ecosistemas costeros y de montaña en diferentes lugares del CBC, que permiten el movimiento de algunas especies, así como los  servicios ambientales que brinda la naturaleza.",
-                        "El CBC busca mantener y recuperar la conectividad ecológica en sus áreas de intervención, así como reducir sus presiones y amenazas."],
+        "title": "De la montagne à la mer",
+        "contenido": ["Un exemple de connectivité écologique est donné entre les écosystèmes côtiers et de montagne dans différents endroits du CBC, qui permettent le déplacement de certaines espèces, ainsi que les services environnementaux que la nature fournit.",
+                        "Le CBC cherche à maintenir et à restaurer la connectivité écologique dans ses zones d'intervention, ainsi qu'à réduire les pressions et les menaces qui pèsent sur elle."],
         "imagenes": {
             "imagen1": "./imagenes/sala1/transicion-parque.jpg",
-            "alt1": "Transición del Parque Nacional Pic Macayá a la costa del Caribe haitiano.",
-            "name1": "Transición del Parque Nacional Pic Macayá a la costa del Caribe haitiano.",
+            "alt1": "Transition du Pic Macaya à la côte caribéenne haïtienne.",
+            "name1": "Transition du Pic Macaya à la côte caribéenne haïtienne.",
 
             "imagen2": "./imagenes/sala1/colibri-mellisuga.jpg",
-            "alt2": "Colibrí (Mellisuga helenae) alimentándose.",
-            "name2": "Colibrí (Mellisuga helenae) alimentándose."
+            "alt2": "Costa Sur, République Dominicaine",
+            "name2": "Costa Sur, République Dominicaine"
         },
         "background": "#528641",
         "colorText": "#FFFFFF"
     },
 
     "section13" : {
-        "title": "Importancia de la conectividad",
-        "contenido": ["Especies, como el águila pescadora, que migra periódicamente, no reconocen las fronteras político-administrativas entre naciones.",
-                        "Para mantener la conectividad en la región, es necesario contar con acciones coordinadas a nivel regional más allá de las fronteras del Caribe insular."],
+        "title": "Importance de la connectivité",
+        "contenido": ["Les espèces, telles que le balbuzard pêcheur, qui migrent périodiquement, ne reconnaissent pas les frontières politico-administratives entre les nations.",
+                        "Pour maintenir la connectivité dans la région, il est nécessaire de mener une action coordonnée au niveau régional au-delà des frontières de la Caraïbe insulaire."],
         "imagenes": {
             "imagen1": "./imagenes/sala1/matorral-cactaceo.jpg",
-            "alt1": "Matorral Cactáceo en conexión con ecosistemas marinos.",
-            "name1": "Matorral Cactáceo en conexión con ecosistemas marinos.",
+            "alt1": "Broussailles cactacées en lien avec les écosystèmes marins.",
+            "name1": "Broussailles cactacées en lien avec les écosystèmes marins.",
 
             "imagen2": "./imagenes/sala1/aguila-pescadora.jpg",
-            "alt2": "Águila pescadora (Pandion haliaetus), República Dominicana.",
-            "name2": "Águila pescadora (Pandion haliaetus), República Dominicana."
+            "alt2": "Balbuzard pêcheur (Pandion haliaetus), République Dominicaine.",
+            "name2": "Balbuzard pêcheur (Pandion haliaetus), République Dominicaine."
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
 
     "section14" : {
-        "title": "Áreas de importancia para la conectividad en el CBC",
-        "contenido": ["Este mapa resalta las áreas que han sido priorizadas para la conectividad en el corredor, a la vez que muestra las zonas núcleo de conservación y de importancia para la restauración de la conectividad.",
-                        "Cabe aclarar que en el ámbito marino el 92.5% corresponde a zonas de importancia para la conectividad y en el ámbito terrestre el 56.7%."],
+        "title": "Zones d'importance pour la connectivité dans le CBC",
+        "contenido": ["Cette carte met en évidence les zones qui ont été jugées prioritaires pour la connectivité dans le corridor, tout en montrant les zones noyaux de conservation et d'importance pour la restauration de la connectivité.",
+                        "Il est à noter que 92,5% de la zone marine correspondent à des zones d'importance pour la connectivité et pour la zone terrestre, elles correspondent à 56,7%."],
         "subtitle": "Áreas de Conectividad en el Corredor Biológico  en el Caribe",
         "colorSubtitle": "#FFFFFF",
         "imagen":  "./imagenes/sala1/mapa-actual.jpg",
-        "description": ["Mapa de la actual demarcación del corredor resaltando áreas identificadas de importancia para la conectividad en el Corredor Biológico del Caribe, así como áreas núcleo de importancia para la conservación."],
+        "description": ["Carte de la délimitation actuelle du corridor, mettant en évidence les zones identifiées comme importantes pour la connectivité dans le Corridor Biologique dans la Caraïbe, ainsi que les zones noyaux importantes pour la conservation."],
         "background": "#528641",
         "colorText": "#FFFFFF"
     },
 
     "section15" : {
-        "title": "Amenazas a la biodiversidad en el Caribe",
-        "contenido": ["La biodiversidad caribeña se ha vuelto vulnerable por el uso irracional de los recursos naturales, la contaminación y degradación de ecosistemas.",
-                        "Las actividades humanas insostenibles, el crecimiento poblacional desorganizado y la demanda por recursos, han impulsado la deforestación y la degradación de ecosistemas marino-costeros.",
-                            "El incremento en el nivel del mar, la mayor intensidad y frecuencia de huracanes, tormentas tropicales y sequías son algunos de los impactos del cambio climático, el cual afecta ecosistemas, comunidades locales y sus modos de vida, así como la biodiversidad de la región."],
+        "title": "Menaces sur la biodiversité dans la Caraïbe",
+        "contenido": ["La biodiversité de la Caraïbe est devenue vulnérable en raison de l'utilisation irrationnelle des ressources naturelles, de la pollution et de la dégradation des écosystèmes.",
+                        "Les activités humaines non durables, la croissance démographique désordonnée et la demande de ressources ont alimenté la déforestation et la dégradation des écosystèmes marins et côtiers.",
+                            "L'élévation du niveau des mers, l'augmentation de l'intensité et de la fréquence des ouragans, des tempêtes tropicales et des sécheresses sont quelques-unes des conséquences du changement climatique, qui affectent les écosystèmes, les communautés locales et leurs moyens de subsistance, ainsi que la biodiversité de la région."],
         "imagenes": {
             "imagen1": "./imagenes/sala1/redes-abandonadas.jpg",
-            "alt1": "Redes abandonadas en arrecife: mala práctica pesquera.",
-            "name1": "Redes abandonadas en arrecife: mala práctica pesquera.",
+            "alt1": "Filets de récifs abandonnés: mauvaises pratiques de pêche.",
+            "name1": "Filets de récifs abandonnés: mauvaises pratiques de pêche.",
 
             "imagen2": "./imagenes/sala1/suelos-degradados.jpg",
-            "alt2": "Suelos degradados.",
-            "name2": "Suelos degradados."
+            "alt2": "Sols dégradés",
+            "name2": "Sols dégradés"
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
 
     "section16" : {
-        "title": "Enfoque de trabajo del CBC",
-        "contenido": ["El equipo del CBC enfoca su trabajo en la conservación de la biodiversidad; específicamente, en asegurar las conexiones que se producen entre los paisajes, ecosistemas y hábitats del Caribe."],
+        "title": "Approche de travail du CBC",
+        "contenido": ["L'équipe CBC se concentre sur la conservation de la biodiversité, notamment en assurant les liens entre les paysages, les écosystèmes et les habitats de la Caraïbes."],
         "imagenes": {
             "imagen1": "./imagenes/sala1/monitoreo-arrecifes.jpg",
-            "alt1": "Monitoreo de arrecifes en Jardines de la Reina, Cuba.",
-            "name1": "Monitoreo de arrecifes en Jardines de la Reina, Cuba.",
+            "alt1": "Étude des récifs à Jardines de la Reina, Cuba.",
+            "name1": "Étude des récifs à Jardines de la Reina, Cuba.",
 
             "imagen2": "./imagenes/sala1/equipo-CBC.jpg",
-            "alt2": "Equipo del CBC adelantando acciones de monitoreo de la biodiversidad en las Antillas Mayores.",
-            "name2": "Equipo del CBC adelantando acciones de monitoreo de la biodiversidad en las Antillas Mayores."
+            "alt2": "L'équipe du CBC réalisant des activités d’études de la biodiversité dans les Grandes Antilles.",
+            "name2": "L'équipe du CBC réalisant des activités d’études de la biodiversité dans les Grandes Antilles."
         },
         "background": "#528641",
         "colorText": "#FFFFFF"
@@ -204,67 +204,67 @@
 
     
     "section17" : {
-        "title": "Conservación, uso sostenible y restauración",
-        "contenido": ["Las zonas núcleo, marinas y terrestres, están conformadas por áreas protegidas y otras áreas de importancia para la conectividad.",
-                        "Para mantener las conexiones, es vital promover la restauración de los ecosistemas, como la siembra de especies de corales, la reforestación, y la sostenibilidad del uso de los recursos naturales."],
+        "title": "Conservation, utilisation durable et restauration",
+        "contenido": ["Les zones noyaux, marines et terrestres, sont constituées de zones protégées et d'autres zones importantes pour la connectivité.",
+                        "Pour maintenir les connexions, il est essentiel de promouvoir la restauration des écosystèmes, comme la plantation d'espèces coralliennes, la reforestation et la durabilité de l'utilisation des ressources naturelles."],
         "imagenes": {
             "imagen1": "./imagenes/sala1/pinares-cuba.jpg",
-            "alt1": "Pinares de Cuba.",
-            "name1": "Pinares de Cuba.",
+            "alt1": "Forêts de pins de Cuba",
+            "name1": "Forêts de pins de Cuba",
 
             "imagen2": "./imagenes/sala1/peces-cirujano.jpg",
-            "alt2": "Peces cirujano en arrecifes de coral de La Española.",
-            "name2": "Peces cirujano en arrecifes de coral de La Española."
+            "alt2": "Poissons chirurgiens sur les récifs coralliens d'Hispaniola.",
+            "name2": "Poissons chirurgiens sur les récifs coralliens d'Hispaniola."
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
 
     "section18" : {
-        "title": "Apoyo a la gestión de áreas protegidas",
-        "contenido": ["La Iniciativa busca fomentar la conservación y mejorar la gestión de áreas protegidas de importancia regional; una labor que el CBC realiza de manera conjunta con los sistemas de áreas protegidas, los Ministerios de Ambiente, y los socios y actores locales de los países del CBC."],
+        "title": "Soutien à la gestion des aires protégées",
+        "contenido": ["L'initiative vise à promouvoir la conservation et à améliorer la gestion des aires protégées d'importance régionale, un travail que le CBC mène conjointement avec les systèmes d'aires protégées, les ministères de l'environnement et les partenaires et acteurs locaux dans les pays du CBC."],
         "imagenes": {
             "imagen1": "./imagenes/sala1/salto-guayabo.jpg",
-            "alt1": "Salto del Guayabo en área de amortiguación del Parque Nacional la Mensura, en Cuba.",
-            "name1": "Salto del Guayabo en área de amortiguación del Parque Nacional la Mensura, en Cuba.",
+            "alt1": "Cascade de Guayabo dans la zone tampon du Parc National de La Mensura, Cuba.",
+            "name1": "Cascade de Guayabo dans la zone tampon du Parc National de La Mensura, Cuba.",
 
             "imagen2": "./imagenes/sala1/cardumenes-protegidos.jpg",
-            "alt2": "Cardúmenes protegidos en Cayo Largo, Cuba.",
-            "name2": "Cardúmenes protegidos en Cayo Largo, Cuba."
+            "alt2": "Bancs protégés à Cayo Largo, Cuba.",
+            "name2": "Bancs protégés à Cayo Largo, Cuba."
         },
         "background": "#528641",
         "colorText": "#FFFFFF"
     },
 
     "section19" : {
-        "title": "Trabajo local en el CBC",
-        "contenido": ["El CBC trabaja con socios y actores a nivel local para abordar las problemáticas que amenazan la biodiversidad.",
-                        "A través de estas acciones, se busca promover modos de vida sostenibles para las comunidades que a su vez contribuyan a la conservación."],
+        "title": "Travail local au CBC",
+        "contenido": ["Le CBC travaille avec des partenaires et des acteurs locaux pour s'attaquer aux problèmes qui menacent la biodiversité.",
+                        "Par ces actions, nous cherchons à promouvoir des modes de vie durables pour les communautés qui, à leur tour, contribuent à la conservation."],
         "imagenes": {
             "imagen1": "./imagenes/sala1/cultivos-cafe1.jpg",
-            "alt1": "Cultivos de café en vivero agroforestal en Pic Macayá, Haití.",
-            "name1": "Cultivos de café en vivero agroforestal en Pic Macayá, Haití.",
+            "alt1": "Cultures de café dans une pépinière agroforestière aux Pic Macaya, Haití",
+            "name1": "Cultures de café dans une pépinière agroforestière aux Pic Macaya, Haití",
 
             "imagen2": "./imagenes/sala1/cultivos-cafe2.jpg",
-            "alt2": "Cultivos de café en vivero agroforestal en Pic Macayá, Haití.",
-            "name2": "Cultivos de café en vivero agroforestal en Pic Macayá, Haití.."
+            "alt2": "Cultures de café dans une pépinière agroforestière aux Pic Macaya, Haití",
+            "name2": "Cultures de café dans une pépinière agroforestière aux Pic Macaya, Haití"
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
 
     "section20" : {
-        "title": "Paisajes productivos aportan a la conectividad",
-        "contenido": ["El CBC incluye amplios territorios no protegidos que forman parte de su red ecológica, sitios con paisajes productivos que ayudan a mantener la conectividad ecológica regional y los bienes y servicios proporcionados por los ecosistemas.",
-                        "Al implementar acciones de conservación, restauración ecológica y uso sostenible, como el cultivo de café, la apicultura o la agroforestería, se busca mejorar modos de vida de las comunidades que a su vez aporten a la conectividad entre paisajes y la conservación de la biodiversidad."],
+        "title": "Les paysages productifs contribuent à la connectivité",
+        "contenido": ["Le CBC comprend de vastes territoires non protégés qui font partie de son réseau écologique, des sites avec des paysages productifs qui contribuent à maintenir la connectivité écologique régionale, ainsi que les biens et services fournis par les écosystèmes.",
+                        "En mettant en œuvre des actions de conservation, de restauration écologique et d'utilisation durable, comme la culture du café, l'apiculture ou l'agroforesterie, nous cherchons à améliorer le mode de vie des communautés qui, à leur tour, contribuent à la connectivité entre les paysages et à la conservation de la biodiversité."],
         "imagenes": {
             "imagen1": "./imagenes/sala1/apicultura-cosecha1.jpg",
-            "alt1": "Apicultura y cosecha de granos de café, actividades productivas sostenibles en el Caribe.",
-            "name1": "Apicultura y cosecha de granos de café, actividades productivas sostenibles en el Caribe.",
+            "alt1": "L'apiculture et la récolte des grains de café, des activités productives durables dans la Caraïbe.",
+            "name1": "L'apiculture et la récolte des grains de café, des activités productives durables dans la Caraïbe.",
 
             "imagen2": "./imagenes/sala1/apicultura-cosecha2.jpg",
-            "alt2": "Apicultura y cosecha de granos de café, actividades productivas sostenibles en el Caribe.",
-            "name2": "Apicultura y cosecha de granos de café, actividades productivas sostenibles en el Caribe."
+            "alt2": "L'apiculture et la récolte des grains de café, des activités productives durables dans la Caraïbe.",
+            "name2": "L'apiculture et la récolte des grains de café, des activités productives durables dans la Caraïbe."
         },
         "background": "#528641",
         "colorText": "#FFFFFF"
@@ -272,17 +272,17 @@
 
     "section21" : {
         "img": "./imagenes/sala1/barcosala1.jpg",
-        "description": "Pescadores artesanales en la barrera de arrecifes coral, Les Cayemites, Haití."
+        "description": "Pêcheurs artisanaux dans la barrière de récifs coralliens, Les Cayemites, Haïti."
     },
 
     "section22" : {
-        "contenido": "En la siguiente sala encontrarás más información sobre algunas de las especies priorizadas para la conservación en el CBC.",
+        "contenido": "Dans la salle suivante, vous trouverez plus d'informations sur certaines des espèces dont la conservation est prioritaire dans le cadre du CBC.",
         "backLink": "/",
         "nextLink": "/Sala2"
     },
 
     "footer": {
-        "title": "“El CBC es Conectividad”",
+        "title": "“CBC est Connectivité”",
         "subtitle": "Instituciones relacionadas",
         "instituciones": ["Ministerio de Ciencia, Tecnología y Medio Ambiente de la República de Cuba",
                         "Ministerio de Medio Ambiente y Recursos Naturales de República Dominicana",
