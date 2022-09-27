@@ -22,7 +22,7 @@ const SliderRecorted2 = (props) => {
     }
 
   return (
-    <motion.div className="slider-container overflow-hidden mt-[56px] w-[1640px] ">
+    <motion.div className="slider-container overflow-hidden mt-[56px] w-[1640px] cursor-grab ">
       <motion.div 
         className='slider grid grid-cols-[311px_138px] gap-x-[16px]
         sm:grid-cols-[83vw_37vw] sm:gap-[48px]
@@ -33,11 +33,19 @@ const SliderRecorted2 = (props) => {
             <img src={props.imagen1} alt={props.alt1} className="w-full pointer-events-none " />
             <cite className='translate-y-[-10px] sm:translate-y-0'>{props.name1}</cite>
         </motion.div>
-        <motion.div className='grid '>
+        <motion.div className='grid gap-[16px] sm:gap-[32px]  '>
             <img src={props.imagen2} alt={props.alt2} className="w-full  pointer-events-none " />
             <cite className=''>{props.name2}</cite>
         </motion.div>
       </motion.div>
+      {
+        props.state &&
+        <div
+          className='w-[300px] h-[30px] bg-black/50 text-white absolute top-0
+          flex justify-center items-center text-[14px]'>
+          Arrastre la fotografía de izquiera a derecha
+        </div>
+      }
     </motion.div>
   )
 }

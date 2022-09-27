@@ -5,7 +5,7 @@ const ModelMap = (props) => {
 
   return (
     <>
-      <div className='contSalas'>
+      <div className='contSalas' key={props.title}>
         <h2 className='uppercase'>{props.title}</h2>
         <p className='mtPharagraphs mb-[32px] lg:mb-[56px]'>
           {props.contenido.map(

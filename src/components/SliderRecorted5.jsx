@@ -22,7 +22,7 @@ const SliderRecorted5 = (props) => {
     }
 
   return (
-    <motion.div className="slider-container overflow-hidden mt-[56px] w-[1640px] ">
+    <motion.div className="slider-container overflow-hidden mt-[56px] w-[1640px] cursor-grab">
       <motion.div 
         className='slider grid grid-cols-[311px_410px] gap-x-[16px]
         sm:grid-cols-[83vw_80vw] sm:gap-[48px]
@@ -38,6 +38,14 @@ const SliderRecorted5 = (props) => {
             <cite className=''>{props.name2}</cite>
         </motion.div>
       </motion.div>
+      {
+        props.state &&
+        <div
+          className='w-[300px] h-[30px] bg-black/50 text-white absolute top-0
+          flex justify-center items-center text-[14px]'>
+          Arrastre la fotografía de izquiera a derecha
+        </div>
+      }
     </motion.div>
   )
 }

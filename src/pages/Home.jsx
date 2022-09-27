@@ -94,12 +94,13 @@ const Home = () => {
           id=''
           className="h-[100vh]">
           <div
-            className='mx-auto xl:max-w-[1440px]'>
+            className='mx-auto xl:max-w-[1440px] contSalas'>
 
             <div
               className='relative'>
               <div
-                className='text-center absolute top-[] bg-red-500'>
+                className='text-center 
+                 absolute ml-[-50px]'>
                 CONOCE LAS SALAS
                 <h2
                   className='text-center mt-[8px] lg:w-[317px] mx-auto'>
@@ -110,7 +111,8 @@ const Home = () => {
               </div>
             </div>
 
-            <div className=' bg-green-400 overflow-y-auto flex justify-end mt-[10px]'>
+            <div className='
+             top-[50%] translate-y-[20%]  mr-[-50px] overflow-y-auto flex justify-end mt-[10px]'>
               <ol
                 style={{ listStyleType: "decimal" }}
                 className=' h-[80vh] '>
@@ -223,14 +225,15 @@ const Home = () => {
         </section>
 
         <section
-          className="w-full h-[100vh] relative z-0
+          className="w-full h-[100vh] relative z-0 snap-y
           bg-cover bg-no-repeat bg-center bg-[url('/public/imagenes/home/naturaleza.jpg')]">
           <div
             className='w-full text-center text-white font-Public absolute bottom-[8%] right-[50%] translate-x-[50%]
-            font-bold text-[32px] md:text-[50px] lg:text-[100px] '>
+            font-bold text-[32px] md:text-[50px] lg:text-[100px] snap-center '>
             NATURALEZA VIVA
           </div>
         </section>
+
         <section>
           <div
             className='w-[311px] mx-auto pt-[48px]

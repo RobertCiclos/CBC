@@ -55,7 +55,7 @@ const Sala4 = () => {
           id='section5'
           style={{ background: dataSala4.section5.background, color: dataSala4.section5.colorText }}
           className='pySection'>
-          <ModelSlider  {...dataSala4.section5} />
+          <ModelSlider  state={true} {...dataSala4.section5} />
         </section>
 
         <section

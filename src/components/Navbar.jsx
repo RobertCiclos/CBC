@@ -181,7 +181,7 @@ const Navbar = () => {
                         <select
                            className='invisible'
                            name="idioma" id="">
-                           <option value="Español">Español</option>
+                           <option value="Español"> Español</option>
                            <option value="Frances">Frances</option>
                            <option value="Ingles">Ingles</option>
                            <option value="Creole">Creole</option>

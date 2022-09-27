@@ -11,17 +11,17 @@ const ModelSlider = (props) => {
 
     function OptionSlider(){
         if(props.type === 'Recorted'){
-            return <SliderRecorted {...props.imagenes}/>
+            return <SliderRecorted state={props.state} {...props.imagenes}/>
         }else if (props.type === 'Recorted2'){
-            return <SliderRecorted2 {...props.imagenes}/>
+            return <SliderRecorted2 state={props.state} {...props.imagenes}/>
         }else if (props.type === 'Recorted3'){
-            return <SliderRecorted3 {...props.imagenes}/>
+            return <SliderRecorted3 state={props.state} {...props.imagenes}/>
         }else if (props.type === 'Recorted4'){
-            return <SliderRecorted4 {...props.imagenes}/>
+            return <SliderRecorted4 state={props.state} {...props.imagenes}/>
         }else if (props.type === 'Recorted5'){
-            return <SliderRecorted5 {...props.imagenes}/>
+            return <SliderRecorted5 state={props.state} {...props.imagenes}/>
         }else{
-            return <Slider {...props.imagenes}/>
+            return <Slider state={props.state} {...props.imagenes}/>
         }
     }
 
@@ -51,10 +51,7 @@ const ModelSlider = (props) => {
                 }
             )}
         </p>
-        <div 
-        className='w-[50px] h-[50px] bg-red-600 absolute top-0 '>
-
-        </div>
+        
         {OptionSlider()}
     </div>
   )

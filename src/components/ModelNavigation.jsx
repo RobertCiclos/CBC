@@ -15,13 +15,13 @@ const ModelNavigation = (props) => {
                         case '/Sala1':
                             return 'En la siguiente sala encontrarás más información sobre algunas de las especies priorizadas para la conservación en el CBC.';
                         case '/Sala2':
-                            return  'En la siguiente sala encontrarás más información sobre algunas de las especies priorizadas para la conservación en el CBC.'
+                            return 'En la siguiente sala encontrarás más información sobre algunas de las especies priorizadas para la conservación en el CBC.'
                         case '/Sala3':
                             return 'En la siguiente sala encontrarás más información sobre algunas de las especies priorizadas para la conservación en el CBC.'
                         case '/Sala4':
                             return 'En la siguiente sala encontrarás más información sobre algunas de las especies priorizadas para la conservación en el CBC.';
                         case '/Sala5':
-                            return '' 
+                            return ''
                         case 'error':
                             return ''
                         default:
@@ -101,24 +101,34 @@ const ModelNavigation = (props) => {
                         className='grid grid-cols-5 w-[180px]  mx-auto justify-items-center
                     md:grid-cols-5 md:w-[275px]'>
                         <li className={location !== '/Sala1' ? "liNumNavDisabled" : "liNumNavActive"}>
-                            <span className='flex justify-center'>1</span>
-                            <span className={location !== '/Sala1' ? "spamNumNavDisabled" : "spamNumNavActive"} />
+                            <Link to='/Sala1'>
+                                <span className='flex justify-center'>1</span>
+                                <span className={location !== '/Sala1' ? "spamNumNavDisabled" : "spamNumNavActive"} />
+                            </Link>
                         </li>
                         <li className={location !== '/Sala2' ? "liNumNavDisabled" : "liNumNavActive"}>
-                            <span className='flex justify-center'>2</span>
-                            <span className={location !== '/Sala2' ? "spamNumNavDisabled" : "spamNumNavActive"} />
+                            <Link to='/Sala2'>
+                                <span className='flex justify-center'>2</span>
+                                <span className={location !== '/Sala2' ? "spamNumNavDisabled" : "spamNumNavActive"} />
+                            </Link>
                         </li>
                         <li className={location !== '/Sala3' ? "liNumNavDisabled" : "liNumNavActive"}>
-                            <span className='flex justify-center'>3</span>
-                            <span className={location !== '/Sala3' ? "spamNumNavDisabled" : "spamNumNavActive"} />
+                            <Link to='/Sala3'>
+                                <span className='flex justify-center'>3</span>
+                                <span className={location !== '/Sala3' ? "spamNumNavDisabled" : "spamNumNavActive"} />
+                            </Link>
                         </li>
                         <li className={location !== '/Sala4' ? "liNumNavDisabled" : "liNumNavActive"}>
-                            <span className='flex justify-center'>4</span>
-                            <span className={location !== '/Sala4' ? "spamNumNavDisabled" : "spamNumNavActive"} />
+                            <Link to='/Sala4'>
+                                <span className='flex justify-center'>4</span>
+                                <span className={location !== '/Sala4' ? "spamNumNavDisabled" : "spamNumNavActive"} />
+                            </Link>
                         </li>
                         <li className={location !== '/Sala5' ? "liNumNavDisabled" : "liNumNavActive"}>
-                            <span className='flex justify-center'>5</span>
-                            <span className={location !== '/Sala5' ? "spamNumNavDisabled" : "spamNumNavActive"} />
+                            <Link to='/Sala5'>
+                                <span className='flex justify-center'>5</span>
+                                <span className={location !== '/Sala5' ? "spamNumNavDisabled" : "spamNumNavActive"} />
+                            </Link>
                         </li>
                     </ul>
                 </div>

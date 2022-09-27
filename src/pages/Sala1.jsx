@@ -9,20 +9,20 @@ import ModelNavigation from '../components/ModelNavigation'
 import ModelTitle from '../components/ModelTitle'
 import Parrafos from '../components/models/Parrafos'
 
+
 const Sala1 = () => {
 
-  const istablet = useMediaQuery({query: '(min-width: 1280px)'})  
+  const istablet = useMediaQuery({ query: '(min-width: 1280px)' })
   const dataSala1 = require('../bd/Sala1.json')
 
   return (
     <AnimatePresence>
-      <motion.div 
+      <motion.div
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         exit={{ opacity: 0 }}
-        transition={{ duration: 1.5 }} 
+        transition={{ duration: 1.5 }}
         className='pt-[65px] sm:pt-[85px] overflow-x-hidden'>
-
         <section
           id='section1'
           style={{ backgroundImage: istablet && `url(${dataSala1.section1.img})` }}
@@ -33,7 +33,7 @@ const Sala1 = () => {
         <section
           id='section2'
           className='pySection'>
-          <main 
+          <main
             className='contSalas '>
             <Parrafos {...dataSala1.section2} />
           </main>
@@ -41,21 +41,21 @@ const Sala1 = () => {
 
         <section
           id='section3'
-          style={{background: dataSala1.section3.background, color: dataSala1.section3.colorText}} 
+          style={{ background: dataSala1.section3.background, color: dataSala1.section3.colorText }}
           className='pySection'>
           <ModelMap {...dataSala1.section3} />
         </section>
 
         <section
           id='section4'
-          style={{background: dataSala1.section4.background, color: dataSala1.section4.colorText}} 
+          style={{ background: dataSala1.section4.background, color: dataSala1.section4.colorText }}
           className='pySection'>
-          <ModelSlider {...dataSala1.section4}/>
+          <ModelSlider state={true} {...dataSala1.section4} />
         </section>
 
         <section
           id='section5'
-          style={{background: dataSala1.section5.background, color: dataSala1.section5.colorText}} 
+          style={{ background: dataSala1.section5.background, color: dataSala1.section5.colorText }}
           className='pySection'>
           <ModelOneImg {...dataSala1.section5} />
         </section>
@@ -67,106 +67,106 @@ const Sala1 = () => {
 
         <section
           id='section7'
-          style={{background: dataSala1.section7.background, color: dataSala1.section7.colorText}} 
+          style={{ background: dataSala1.section7.background, color: dataSala1.section7.colorText }}
           className='pySection'>
-          <ModelMap {...dataSala1.section7}/>
+          <ModelMap {...dataSala1.section7} />
         </section>
 
         <section
           id='section8'
-          style={{background: dataSala1.section8.background, color: dataSala1.section8.colorText}} 
+          style={{ background: dataSala1.section8.background, color: dataSala1.section8.colorText }}
           className='pySection'>
-          <ModelSlider {...dataSala1.section8}/>
+          <ModelSlider {...dataSala1.section8} />
         </section>
 
         <section
           id='section9'
-          style={{background: dataSala1.section9.background, color: dataSala1.section9.colorText}} 
+          style={{ background: dataSala1.section9.background, color: dataSala1.section9.colorText }}
           className='pySection'>
-          <ModelMap {...dataSala1.section9}/>
+          <ModelMap {...dataSala1.section9} />
         </section>
 
         <section
           id='section10'
-          style={{background: dataSala1.section10.background, color: dataSala1.section10.colorText}} 
+          style={{ background: dataSala1.section10.background, color: dataSala1.section10.colorText }}
           className='pySection'>
-          <ModelSlider {...dataSala1.section10}/>
+          <ModelSlider {...dataSala1.section10} />
         </section>
 
         <section
           id='section11'
-          style={{background: dataSala1.section11.background, color: dataSala1.section11.colorText}} 
+          style={{ background: dataSala1.section11.background, color: dataSala1.section11.colorText }}
           className='pySection'>
-          <ModelSlider {...dataSala1.section11}/>
+          <ModelSlider {...dataSala1.section11} />
         </section>
 
         <section
           id='section12'
-          style={{background: dataSala1.section12.background, color: dataSala1.section12.colorText}} 
+          style={{ background: dataSala1.section12.background, color: dataSala1.section12.colorText }}
           className='pySection'>
-          <ModelSlider {...dataSala1.section12}/>
+          <ModelSlider {...dataSala1.section12} />
         </section>
 
         <section
           id='section13'
-          style={{background: dataSala1.section13.background, color: dataSala1.section13.colorText}} 
+          style={{ background: dataSala1.section13.background, color: dataSala1.section13.colorText }}
           className='pySection'>
-          <ModelSlider {...dataSala1.section13}/>
+          <ModelSlider {...dataSala1.section13} />
         </section>
 
         <section
           id='section14'
-          style={{background: dataSala1.section14.background, color: dataSala1.section14.colorText}} 
+          style={{ background: dataSala1.section14.background, color: dataSala1.section14.colorText }}
           className='pySection'>
-          <ModelMap {...dataSala1.section14}/>
+          <ModelMap {...dataSala1.section14} />
         </section>
 
         <section
           id='section15'
-          style={{background: dataSala1.section15.background, color: dataSala1.section15.colorText}} 
+          style={{ background: dataSala1.section15.background, color: dataSala1.section15.colorText }}
           className='pySection'>
-          <ModelSlider {...dataSala1.section15}/>
+          <ModelSlider {...dataSala1.section15} />
         </section>
 
         <section
           id='section16'
-          style={{background: dataSala1.section16.background, color: dataSala1.section16.colorText}} 
+          style={{ background: dataSala1.section16.background, color: dataSala1.section16.colorText }}
           className='pySection'>
-          <ModelSlider {...dataSala1.section16}/>
+          <ModelSlider {...dataSala1.section16} />
         </section>
 
         <section
           id='section17'
-          style={{background: dataSala1.section17.background, color: dataSala1.section17.colorText}} 
+          style={{ background: dataSala1.section17.background, color: dataSala1.section17.colorText }}
           className='pySection'>
-          <ModelSlider {...dataSala1.section17}/>
+          <ModelSlider {...dataSala1.section17} />
         </section>
 
         <section
           id='section18'
-          style={{background: dataSala1.section18.background, color: dataSala1.section18.colorText}} 
+          style={{ background: dataSala1.section18.background, color: dataSala1.section18.colorText }}
           className='pySection'>
-          <ModelSlider {...dataSala1.section18}/>
+          <ModelSlider {...dataSala1.section18} />
         </section>
 
         <section
           id='section19'
-          style={{background: dataSala1.section19.background, color: dataSala1.section19.colorText}} 
+          style={{ background: dataSala1.section19.background, color: dataSala1.section19.colorText }}
           className='pySection'>
-          <ModelSlider {...dataSala1.section19}/>
+          <ModelSlider {...dataSala1.section19} />
         </section>
 
         <section
           id='section20'
-          style={{background: dataSala1.section20.background, color: dataSala1.section20.colorText}} 
+          style={{ background: dataSala1.section20.background, color: dataSala1.section20.colorText }}
           className='pySection'>
-          <ModelSlider {...dataSala1.section20}/>
+          <ModelSlider {...dataSala1.section20} />
         </section>
 
         <section
           id='section21'
           className=''>
-          <Modelimg {...dataSala1.section21}/>
+          <Modelimg {...dataSala1.section21} />
         </section>
 
         <section
@@ -174,7 +174,7 @@ const Sala1 = () => {
           className=''>
           <ModelNavigation {...dataSala1.section22} />
         </section>
-        
+
       </motion.div>
     </AnimatePresence>
   )
