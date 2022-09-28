@@ -1,0 +1,312 @@
+{   
+    "section1" : {
+        "img" : "./imagenes/sala4/hero-sala4.jpg",
+        "title": "Le Corridor Biologique dans la Caraïbe, l'initiative",
+        "sala": "Salle 4"
+    },
+    
+    "section2" : {
+        "contenido": ["L'initiative du Corridor Biologique dans la Caraïbe (CBC) est une plateforme de coopération entre les Ministères de l'Environnement d'Haïti, de la République Dominicaine et de Cuba, et le Département des Ressources Naturelles et Environnementales de Porto Rico, avec la Jamaïque comme pays observateur (et est récemment devenu un membre à part entière).",
+                        "Depuis sa création, avec la signature de la Déclaration de Saint-Domingue le 10 juillet 2007, le CBC a progressé avec le soutien du Programme des Nations Unies pour l'environnement (PNUE) et le financement de l'Union Européenne (UE), et avec la collaboration d'autres organismes financiers et de coopération, avec la participation d'ONG et d'institutions nationales et internationales.",
+                            "Sur la base de l'accord entre les pays mentionnés ci-dessus, le CBC a travaillé avec succès pour la conservation de la biodiversité et l'intégration des communautés des Grandes Antilles, dans le cadre d'un développement harmonieux avec la nature, comme présenté ci-dessous." ]
+    },
+
+    "section4" : {
+        "title": "Initiative CBC",
+        "contenido": ["En novembre 2014, un accord interministériel est signé qui établit un cadre général de réglementation et de gouvernance pour  le CBC, en formalisant les comités techniques et ministériels et en créant le Secrétariat  du CBC en tant qu'organe exécutif et de coordination de l'Initiative."],
+        "imagen1": "./imagenes/sala4/firma-declaracion.jpg",
+        "alt1": "Déclaration de Santo Domingo signée",        
+        "description": "Déclaration de Santo Domingo signée",
+        "background": "#103A62",
+        "colorText": "#FFF"
+    },
+
+    "section5" : {
+        "title": "Mission",
+        "contenido": ["La mission du CBC est d'assurer la conservation efficace de la biodiversité marine et terrestre d'importance régionale, le maintien de la connectivité écologique et la fourniture de services écosystémiques sur des sites clés des Caraïbes insulaires, en tenant compte des défis posés par le changement climatique et des besoins de développement des communautés, et en assurant la coordination, l'intégration et la coopération de tous les acteurs concernés."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala4/reserva-ecologica.jpg",
+            "alt1": "Réserve écologique de Siboney Jutici, Santiago de Cuba",
+            "name1": "Réserve écologique de Siboney Jutici, Santiago de Cuba",
+
+            "imagen2": "./imagenes/sala4/matorral-cactaceo.jpg",
+            "alt2": "Dans le maquis des cactus de la République Dominicaine, les cactus produisent leurs fleurs et leurs fruits dans une structure appelée céphalium.",
+            "name2": "Dans le maquis des cactus de la République Dominicaine, les cactus produisent leurs fleurs et leurs fruits dans une structure appelée céphalium."
+        },
+        "background": "#FFF",
+        "colorText": "#181818"
+    },
+
+    "section6" : {
+        "title": "Objectifs",
+        "contenido": ["L'objectif du CBC est de construire une approche régionale institutionnelle, forte et collectivement soutenue pour la conservation et la gestion de la biodiversité terrestre et marine partagée d'importance régionale dans les îles des Caraïbes, qui contribue à la fois à la conservation globale et à la réduction de la pauvreté dans la région."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala4/cayo-coco.jpg",
+            "alt1": "Cayo Coco, Cuba",
+            "name1": "Cayo Coco, Cuba",
+
+            "imagen2": "./imagenes/sala4/helecho-bosque.jpg",
+            "alt2": "Fougère dans la forêt tropicale en République Dominicaine",
+            "name2": "Fougère dans la forêt tropicale en République Dominicaine"
+        },
+        "background": "#103A62",
+        "colorText": "#fff"
+    },
+
+    "section7" : {
+        "title": "5 axes conceptuels du CBC",
+        "contenido": ["Les cinq axes conceptuels stratégiques de l'initiative ont été définis à la suite du dialogue et des ordonnances du comité ministériel du CBC.",
+                        "Il s'agit du maintien de la connectivité écologique, de la conservation et de la restauration des écosystèmes clés et des espèces les plus représentatives et les plus menacées des Caraïbes insulaires, du renforcement de la résilience au changement climatique, du développement communautaire durable, du renforcement des capacités de gouvernance, de la coopération sud-sud et du travail coordonné entre de multiples acteurs et à de multiples échelles."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala4/trabajador-plantones.jpg",
+            "alt1": "Travailleur avec des semis dans une pépinière à Pic Macayá.",
+            "name1": "Travailleur avec des semis dans une pépinière à Pic Macayá.",
+
+            "imagen2": "./imagenes/sala4/canal-auras.jpg",
+            "alt2": "Canal de las Auras - Parc national Jardines de la Reina à Cuba.",
+            "name2": "Canal de las Auras - Parc national Jardines de la Reina à Cuba."
+        },
+        "background": "#FFF",
+        "colorText": "#181818"
+    },
+
+    "section8" : {
+        "title": " Champ d'action du CBC ",
+        "subtitle": "Demarcación Original del Corredor Biológico en el Caribe (2012-2021)",
+        "subtitleNew": "Nueva Demarcación  del Corredor Biológico en el Caribe (2022)",
+        "colorSubtitle": "#FFF",
+        "contenido": ["Dès son lancement en 2007, l'initiative CBC a concentré ses efforts sur l'est de Cuba et l'ouest d'Hispaniola.",
+                        "Lors du Comité ministériel de 2014, les pays ont chargé le Secrétariat de travailler à la mise à jour de la démarcation du corridor.",
+                            "La nouvelle délimitation comprend actuellement des zones centrales de conservation et des zones importantes pour la connectivité de toutes les Grandes Antilles, tant terrestres que marines. Ces derniers comprennent des parties des mers territoriales, des eaux archipélagiques et intérieures, ainsi que des zones économiques exclusives des pays et territoires mentionnés."],
+        "imagen":  "./imagenes/sala4/oldMapa.jpg",
+        "imagenNew":  "./imagenes/sala4/newMapa.jpg",
+        "description": ["Cartes montrant l'évolution de la démarcation originale et actuelle du Corridor Biologique dans la Caraïbe."],
+        "background": "#103A62",
+        "colorText": "#FFF"
+    },
+
+    "section9" : {
+        "title": "Plateforme de coopération Sud-Sud",
+        "contenido": ["La CBC est conçue comme une plate-forme pour la coopération Sud-Sud, dans laquelle ses principes fondamentaux et ses priorités sont promus; et quiconque souhaite y contribuer est invité à participer., soit avec des projets développés par le Secrétariat, soit avec des projets coordonnés et impliquant le Secrétariat, soit avec des projets totalement indépendants."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala4/monitoreo-aves.jpg",
+            "alt1": "Étude des oiseaux dans le paysage naturel protégé de Gran Piedra à Cuba, mené par BIOECO, l'un des partenaires du CBC, avec le soutien du Secrétariat du CBC.",
+            "name1": "Étude des oiseaux dans le paysage naturel protégé de Gran Piedra à Cuba, mené par BIOECO, l'un des partenaires du CBC, avec le soutien du Secrétariat du CBC.",
+
+            "imagen2": "./imagenes/sala4/encuentro-entre.jpg",
+            "alt2": "Rencontre entre Leo Heilemann directeur du bureau régional du PNUE pour l'Amérique latine et les Caraïbes avec Elba Rosa Perez Montoya, ministre de la science, de la technologie et de l'environnement de Cuba et Joseph Joute, ministre de l'environnement d'Haïti à l'issue du comité ministériel à La Havane, Cuba en 2019.",
+            "name2": "Rencontre entre Leo Heilemann directeur du bureau régional du PNUE pour l'Amérique latine et les Caraïbes avec Elba Rosa Perez Montoya, ministre de la science, de la technologie et de l'environnement de Cuba et Joseph Joute, ministre de l'environnement d'Haïti à l'issue du comité ministériel à La Havane, Cuba en 2019."
+        },
+        "background": "#FFF",
+        "colorText": "#181818"
+    },
+
+    "section10" : {
+        "title": "Mécanisme de gouvernance du CBC",
+        "contenido": ["Au niveau régional, le réseau de gouvernance au plus haut niveau de l'Initiative, dirigé par son Comité ministériel et comprenant le Comité scientifique et technique et le Secrétariat du CBC, est soutenu par le Programme des Nations Unies pour l'Environnement (PNUE) et d'autres institutions partenaires internationales ou multilatérales qui contribuent au financement et à la mise en œuvre de projets  à échelle régionale."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala4/caseta-vigilancia.jpg",
+            "alt1": "Poste de garde dans le secteur El Limón de la Réserve binationale La Selle-Jaragua, Bahoruco-Enriquillo, à Hispaniola.",
+            "name1": "Poste de garde dans le secteur El Limón de la Réserve binationale La Selle-Jaragua, Bahoruco-Enriquillo, à Hispaniola.",
+
+            "imagen2": "./imagenes/sala4/ministros-equipos.jpg",
+            "alt2": "Ministres, équipes techniques et collaborateurs à l'issue du Comité ministériel de la CBC 2019, qui s'est tenu à La Havane, à Cuba.",
+            "name2": "Ministres, équipes techniques et collaborateurs à l'issue du Comité ministériel de la CBC 2019, qui s'est tenu à La Havane, à Cuba."
+        },
+        "background": "#103A62",
+        "colorText": "#FFF"
+    },
+
+    "section11" : {
+        "title": "Participation au niveau national des pays du CBC",
+        "contenido": ["Au niveau national, les pays participent à l'Initiative sous la direction de leurs ministères de l'environnement et de différentes institutions nationales qui soutiennent la mise en œuvre des politiques et des actions. Au niveau local, les administrations des zones protégées, les communautés locales, les gouvernements locaux ainsi que les acteurs de la société civile et du secteur privé sont responsables de la mise en œuvre des actions sur le terrain."],
+        "imagen1": "./imagenes/sala4/coral-cuerno.jpg",
+        "alt1": "Corail Elkhorn dans le parc national Jardines de la Reina, à Cuba.",        
+        "description": "Corail Elkhorn dans le parc national Jardines de la Reina, à Cuba.",
+        "background": "#FFF",
+        "colorText": "#181818"
+    },
+
+    "section12" : {
+        "title": "Comité Ministériel et Scientifique-Techniqueo",
+        "contenido": ["Le Comité Ministériel est l'organe de décision le plus élevé de l'Initiative. Il est dirigé par les ministres chargés de l'environnement dans les pays membres, les points focaux désignés par les pays, le Secrétariat et des invités d'autres organisations. Il se réunit périodiquement pour examiner et évaluer les progrès de l'Initiative et de ses projets, approuver les plans d'action et prendre des décisions pour orienter les travaux futurs. Le PNUE est un invité permanent à ces sessions.",
+                        "Pour prendre ses décisions, il s'appuie sur les recommandations d'un Comité Scientifique-Technique composé d'experts désignés et du Secrétariat Exécutif. Ce comité examine, et finalement approuve, tous les plans, projets et autres documents scientifiques et techniques soumis et fait des recommandations sur les décisions à prendre par le comité ministériel."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala4/reunion-ministerial.jpg",
+            "alt1": "Réunion Ministérielle du Corridor Biologique dans la Caraïbe tenue à Saint-Domingue en 2014.",
+            "name1": "Réunion Ministérielle du Corridor Biologique dans la Caraïbe tenue à Saint-Domingue en 2014.",
+
+            "imagen2": "./imagenes/sala4/comite-ministerial.jpg",
+            "alt2": "Comité Ministériel du Corridor Biologique dans la Caraïbe tenu à Cuba en 2019.",
+            "name2": "Comité Ministériel du Corridor Biologique dans la Caraïbe tenu à Cuba en 2019."
+        },
+        "background": "#103A62",
+        "colorText": "#FFF"
+    },
+
+    "section13" : {
+        "title": "Secrétariat Exécutif",
+        "contenido": ["Le Secrétariat est le bras technique et exécutif de l'Initiative entre les réunions du Comité Ministériel et du Comité Scientifique-Technique. Il a donc un rôle très important dans l'exécution des tâches scientifiques et techniques et de coordination, conformément aux décisions du Comité ministériel et aux projets. En outre, elle travaille main dans la main avec les ministères, le monde universitaire, la société civile, les communautés locales et le secteur privé pour assurer la mise en œuvre de la stratégie de l'Initiative."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala4/secretaria-actividades.jpg",
+            "alt1": "Secrétariat du CBC dans les activités de suivi sur le terrain",
+            "name1": "Secrétariat du CBC dans les activités de suivi sur le terrain",
+
+            "imagen2": "./imagenes/sala4/secretaria-haciendo.jpg",
+            "alt2": "Le Secrétariat du CBC prend des photos dans une forêt de pins à Pelempito, en République Dominicaine",
+            "name2": "Le Secrétariat du CBC prend des photos dans une forêt de pins à Pelempito, en République Dominicaine"
+        },
+        "background": "#FFF",
+        "colorText": "#181818"
+    },
+
+    "section14" : {
+        "title": "Réseau de partenaires du CBC",
+        "contenido": ["Les acteurs clés du CBC proviennent d'un large éventail d'institutions et de secteurs ayant des intérêts et des rôles divers dans l'utilisation et la conservation des ressources de la biodiversité. Ils exécutent leurs actions au niveau local, national ou régional, et interagissent à chacun de ces niveaux, par le biais de règles de gouvernance formelles ou informelles qui conduisent à une connectivité sociale."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala4/red-socios1.jpg",
+            "alt1": "Actions sur le terrain pour la conservation de la biodiversité.",
+            "name1": "Actions sur le terrain pour la conservation de la biodiversité.",
+
+            "imagen2": "./imagenes/sala4/red-socios2.jpg",
+            "alt2": "Schéma du réseau de partenaires du CBC.",
+            "name2": "Schéma du réseau de partenaires du CBC."
+        },
+        "background": "#103A62",
+        "colorText": "#FFF"
+    },
+
+    "section15" : {
+        "title": "Relations entre les parties prenantes",
+        "contenido": ["Tous les acteurs du CBC ont des liens entre eux qui peuvent soutenir ou entraver la gestion du CBC, ainsi que la réalisation de ses objectifs et la concrétisation de ses priorités. Par conséquent, la fonction de coordination et de négociation au sein du réseau de partenaires du CBC est essentielle pour maintenir une approche coopérative et synergique dans les relations entre les acteurs clés de l'Initiative et pour orienter les efforts vers la réalisation de ses objectifs stratégiques."],
+        "imagen1": "./imagenes/sala4/trabajo-colaborativo.jpg",
+        "alt1": "Travail en collaboration pour l’étude des espèces CBC",        
+        "description": "Travail en collaboration pour l’étude des espèces CBC",
+        "background": "#FFF",
+        "colorText": "#181818"
+    },
+
+    
+    "section16" : {
+        "title": "Le CBC en tant que système socio-écologique",
+        "contenido": ["Pour maintenir la connectivité écologique à l'échelle régionale et assurer la coordination et l'intégration de tous les acteursclés afin d'atteindre ses objectifs, il faut considérer le CBC comme un système socio-écologique complexe, interconnectant non seulement les unités territoriales de conservation de la biodiversité qui constituent un réseau écologique, mais aussi les parties prenantes qui gouvernent et utilisent les ressources par le biais du réseau de partenaires du CBC."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala4/cbc-sistema1.jpg",
+            "alt1": "Les décisions visant à protéger les écosystèmes améliorent la santé de ces derniers et les ressources halieutiques au profit des communautés locales.",
+            "name1": "Les décisions visant à protéger les écosystèmes améliorent la santé de ces derniers et les ressources halieutiques au profit des communautés locales.",
+
+            "imagen2": "./imagenes/sala4/cbc-sistema2.jpg",
+            "alt2": "Les décisions visant à protéger les écosystèmes améliorent la santé de ces derniers et les ressources halieutiques au profit des communautés locales.",
+            "name2": "Les décisions visant à protéger les écosystèmes améliorent la santé de ces derniers et les ressources halieutiques au profit des communautés locales."
+        },
+        "background": "#103A62",
+        "colorText": "#FFF"
+    },
+
+    "section17" : {
+        "title": "Financement",
+        "contenido": ["Le Secrétariat du CBC, en collaboration avec le PNUE et les pays, identifie les opportunités de financement, développe et met en œuvre des projets régionaux, comme par exemple la Démarcation du CBC financée par l'UE et le projet actuel: Renforcement du CBC.",
+                        "De même, le CBC cherche à établir des partenariats et encourage ses partenaires à identifier les possibilités de financement, à développer de manière coordonnée et à mettre en œuvre des projets qui répondent aux priorités de l'Initiative.",
+                            "Dans le cadre du réseau de partenaires du CBC, d'autres acteurs peuvent identifier et développer des projets de manière indépendante et être pris en compte par l'Initiative, pour autant qu'ils contribuent directement aux objectifs et aux priorités du CBC."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala4/delfin-moteado.jpg",
+            "alt1": "Delfín moteado del Atlántico (Stenella frontalis).",
+            "name1": "Delfín moteado del Atlántico (Stenella frontalis).",
+
+            "imagen2": "./imagenes/sala4/transicion-parque.jpg",
+            "alt2": "Transition du Parc National de Pic Macaya à la côte caribéenne haïtienne.",
+            "name2": "Transition du Parc National de Pic Macaya à la côte caribéenne haïtienne."
+        },
+        "background": "#FFF",
+        "colorText": "#181818"
+    },
+
+    "section18" : {
+        "title": "Renforcement des capacités et sensibilisation",
+        "contenido": ["Le CBC contribue à la sensibilisation aux valeurs de la biodiversité et aux étapes pour son utilisation durable, en cherchant à créer et à démontrer les liens positifs entre la conservation, la connectivité, les moyens de subsistance et la réduction de la pauvreté, par le biais d'activités de terrain et d'un programme de communication sociale."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala4/laguna-oviedo.jpg",
+            "alt1": "Laguna de Oviedo, Parc National Jaragua, République Dominicaine",
+            "name1": "Laguna de Oviedo, Parc National Jaragua, République Dominicaine",
+
+            "imagen2": "./imagenes/sala4/seminario-fortalecimiento.jpg",
+            "alt2": "Séminaire de renforcement des capacités des guides d'écotourisme à Laguna de Oviedo",
+            "name2": "Séminaire de renforcement des capacités des guides d'écotourisme à Laguna de Oviedo"
+        },
+        "background": "#103A62",
+        "colorText": "#FFF"
+    },
+
+    "section19" : {
+        "title": "Importance des actions sur le terrain",
+        "contenido": ["Pour le CBC, il est important de parvenir à un développement durable des communautés au niveau local, de réduire les menaces pesant sur la biodiversité et d'améliorer ou de maintenir la connectivité écologique. Pour y parvenir, les projets menés avec les partenaires des pays membres s'attaquent directement aux différents problèmes de chaque territoire, et contribuent à la conservation, à l'amélioration de la gestion et à la restauration des écosystèmes dégradés, tout en générant des opportunités pour les personnes qui vivent et dépendent de ces espaces, réduisant ainsi la vulnérabilité au changement climatique."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala4/trabajo-monitoreo.jpg",
+            "alt1": "Travail d’études des écosystèmes",
+            "name1": "Travail d’études des écosystèmes",
+
+            "imagen2": "./imagenes/sala4/trabajo-apicultura.jpg",
+            "alt2": "Travail d'apiculture en Haïti ",
+            "name2": "Travail d'apiculture en Haïti "
+        },
+        "background": "#FFF",
+        "colorText": "#181818"
+    },
+
+    
+    "section20" : {
+        "title": "Durabilité à long terme de l'Initiative",
+        "contenido": ["Le CBC a élaboré une stratégie financière dans le cadre de laquelle il travaille avec les pays et les partenaires pour formuler de nouveaux projets qui répondent aux priorités de travail régional, et  la gestion des ressources afin de remplir deux fonds fiduciaires grâce auxquels elle espère obtenir un financement pour le fonctionnement du mécanisme de gouvernance du CBC à long terme."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala4/palma-real.jpg",
+            "alt1": "Palma Real, Cuba",
+            "name1": "Palma Real, Cuba",
+
+            "imagen2": "./imagenes/sala4/lago-enriquillo.jpg",
+            "alt2": "Lago Enriquillo, República Dominicana.",
+            "name2": "Lago Enriquillo, República Dominicana."
+        },
+        "background": "#103A62",
+        "colorText": "#FFF"
+    },
+
+    "section21" : {
+        "title": "La vision du CBC pour l'avenir",
+        "contenido": ["D'ici 2030, le CBC devrait être une Initiative consolidée, durable et efficace pour la conservation de la biodiversité des Caraïbes insulaires, qui assure et surveille sa connectivité écologique sur des sites clés et promeut le développement durable dans un contexte de changement climatique.",
+                        "D'ici 2050, nous espérons que les Caraïbes insulaires seront une région où la nature sera maintenue en vie, diverse, entière et saine, et sera utilisée de manière judicieuse et durable par une société caribéenne hétérogène, mais pacifique, juste, inclusive et prospère."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala4/vision-futuro1.jpg",
+            "alt1": "Étude de la biodiversité dans les Grandes Antilles",
+            "name1": "Étude de la biodiversité dans les Grandes Antilles",
+
+            "imagen2": "./imagenes/sala4/vision-futuro2.jpg",
+            "alt2": "Étude de la biodiversité dans les Grandes Antilles",
+            "name2": "Étude de la biodiversité dans les Grandes Antilles"
+        },
+        "background": "#FFF",
+        "colorText": "#181818"
+    },
+
+    "section22" : {
+        "img": "./imagenes/sala4/velero-sala4.jpg",
+        "description": "Bateau à voile, Les Cayes, Haïti"
+    },
+
+    "section23" : {
+        "contenido": "Dans la salle suivante, vous trouverez plus d'informations sur les 15 ans de l'Initiative du Corridor Biologique dans la Caraïbe (CBC).",
+        "backLink": "/Sala3",
+        "nextLink": "/Sala5"
+    },
+
+    "footer": {
+        "title": "“CBC est Paix”",
+        "contenido": ["Iniciativa gubernamental de cuatro países: Cuba, Haití, República Dominicana y Puerto Rico. Financiada por la Unión Europea (UE) y apoyada por el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA).",
+                    "Sede de la Secretaría del CBC República Dominicana, Miembros",
+                    "© 2020, Centro de Información y Gestión Tecnológica de Santiago de Cuba, MEGACEN."],
+        "subtitle": "Instituciones que participan",
+        "instituciones": ["Ministerio de Ciencia, Tecnología y Medio Ambiente de la República de Cuba",
+                        "Ministerio de Medio Ambiente de Haití","Ministerio de Medio Ambiente y Recursos Naturales de República Dominicana",
+                        "Unión Europea","PNUMA","Naciones Unidas en Cuba","Naciones Unidas en Haití","Naciones Unidas en República Dominicana",
+                        "Portal del Medio Ambiente de Cuba","BIOECO","CEDAF"]        
+    }
+}
