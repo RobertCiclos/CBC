@@ -351,50 +351,50 @@
     },
 
     "section26" : {
-        "title": "Mensaje 8: Acciones para asegurar la sostenibilidad financiera del CBC",
-        "contenido": ["Es importante asegurar la sostenibilidad financiera del CBC a mediano y largo plazo. Para ello, se trabaja en la formulación de nuevos proyectos, así como en el establecimiento de dos fondos fiduciarios, cuyos rendimientos estén dedicados al funcionamiento de la Iniciativa.",
-                    "La continuidad del CBC depende de que los socios, aliados y donantes se interesen y comprometan recursos que permitan seguir aportando al desarrollo sostenible y la conservación de este importante corredor biológico."],
+        "title": "Message 8: Actions visant à assurer la viabilité financière de la CBC",
+        "contenido": ["Il est important d'assurer la viabilité financière du CBC à moyen et long terme. À cette fin, des travaux sont en cours pour formuler de nouveaux projets, ainsi que pour établir deux fonds fiduciaires, dont les revenus seront consacrés aux opérations de l'Initiative.",
+                    "La continuité du CBC dépend de l'intérêt et de l'engagement des partenaires, alliés et donateurs à engager des ressources qui lui permettront de continuer à contribuer au développement durable et à la conservation de cet important corridor biologique."],
         "imagenes": {
             "imagen1": "./imagenes/sala5/municipoguama.jpg",
-            "alt1": "Municipio Guamá, al sur de la Sierra Maestra en Cuba.",
-            "name1": "Municipio Guamá, al sur de la Sierra Maestra en Cuba.",
+            "alt1": "Municipalité de Guamá, au sud de la Sierra Maestra à Cuba.",
+            "name1": "Municipalité de Guamá, au sud de la Sierra Maestra à Cuba.",
 
             "imagen2": "./imagenes/sala5/ecosistemacostero.jpg",
-            "alt2": "Ecosistemas costeros en Costa Este, playa cercana a Samaná.",
-            "name2": "Ecosistemas costeros en Costa Este, playa cercana a Samaná."
+            "alt2": "Écosystèmes côtiers à Costa Este, une plage près de Samaná.",
+            "name2": "Écosystèmes côtiers à Costa Este, une plage près de Samaná."
         },
         "background": "#fff",
         "colorText": "#181818"
     },
 
     "section27" : {
-        "title": "Mensaje 9: Contribución a cumplir metas plasmadas en la Agenda 2030",
-        "contenido": ["Con la implementación de su plan de Acción Estratégico, la Iniciativa del CBC busca continuar fortaleciendo la conservación de la biodiversidad en la región del Caribe. A la vez, apoya el cumplimiento de los compromisos de los países con la Agenda 2030 para el cumplimiento de los Objetivos de Desarrollo Sostenible y otras metas relacionadas con la conservación de la diversidad biológica, la lucha contra la desertificación y el cambio climático."],
+        "title": "Message 9: Contribution à la réalisation des objectifs fixés par l'Agenda 2030.",
+        "contenido": ["Avec la mise en œuvre de son plan d'action stratégique, l'initiative CBC cherche à continuer à renforcer la conservation de la biodiversité dans la région des Caraïbes. Dans le même temps, elle soutient le respect des engagements pris par les pays dans le cadre de l'Agenda 2030 pour"],
         "imagenes": {
             "imagen1": "./imagenes/sala5/palmeras.jpg",
-            "alt1": "Palmas, en Cuba.",
-            "name1": "Palmas, en Cuba.",
+            "alt1": "Palmas, Cuba.",
+            "name1": "Palmas, Cuba.",
 
             "imagen2": "./imagenes/sala5/lagoenrique.jpg",
-            "alt2": "Lago Enriquillo, República Dominicana.",
-            "name2": "Lago Enriquillo, República Dominicana."
+            "alt2": "Lac Enriquillo, République Dominicaine.",
+            "name2": "Lac Enriquillo, République Dominicaine."
         },
         "background": "#528641",
         "colorText": "#fff"
     },
 
     "section28" : {
-        "title": "Mensaje final",
-        "contenido": ["Con su historia de éxito probado, la Iniciativa del CBC tiene la oportunidad de crecer y contribuir, desde uno de los puntos calientes de la biodiversidad mundial a las agendas globales más apremiantes para la humanidad. Pretende ayudar a forjar con nuestras acciones la esperanza de un futuro mejor, en el que nuestras islas exhiban una naturaleza llena de vida, diversa, integral y saludable, y donde sus recursos sean utilizados de manera inteligente y sostenible por una sociedad caribeña inclusiva, equitativa y próspera.",
-                    "El CBC espera que la naturaleza compartida del Caribe se perciba como una región sin fronteras, como un solo cuerpo por conservar para las presentes y futuras generaciones."],
+        "title": "Message final",
+        "contenido": ["Forte de son succès avéré, l'initiative CBC a la possibilité de se développer et de contribuer, à partir de l'un des points chauds de la biodiversité mondiale, aux programmes mondiaux les plus urgents pour l'humanité. Elle entend contribuer à forger par ses actions l'espoir d'un avenir meilleur, où nos îles présenteront une nature vivante, diverse, holistique et saine, et où ses ressources seront utilisées avec sagesse et de manière durable par une société caribéenne inclusive, équitable et prospère.",
+                    "La CBC espère que la nature partagée des Caraïbes sera perçue comme une région sans frontières, comme un seul corps à conserver pour les générations actuelles et futures."],
         "imagenes": {
             "imagen1": "./imagenes/sala5/generacionfutura.jpg",
-            "alt1": "Las generaciones futuras son fundamentales para la conservacion de la biodiversidad a largo plazo y el desarrollo sostenible en el Caribe.",
-            "name1": "Las generaciones futuras son fundamentales para la conservacion de la biodiversidad a largo plazo y el desarrollo sostenible en el Caribe.",
+            "alt1": "Les générations futures sont essentielles à la conservation à long terme de la biodiversité et au développement durable dans les Caraïbes.",
+            "name1": "Les générations futures sont essentielles à la conservation à long terme de la biodiversité et au développement durable dans les Caraïbes.",
 
             "imagen2": "./imagenes/sala5/atardecerfinal.jpg",
-            "alt2": "Atardecer en ecosistema costero en Montecristi, República Dominicana.",
-            "name2": "Atardecer en ecosistema costero en Montecristi, República Dominicana."
+            "alt2": "Coucher de soleil dans un écosystème côtier à Montecristi, République Dominicaine.",
+            "name2": "Coucher de soleil dans un écosystème côtier à Montecristi, République Dominicaine"
         },
         "background": "#fff",
         "colorText": "#181818"
