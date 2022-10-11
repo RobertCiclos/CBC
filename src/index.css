@@ -6,13 +6,13 @@
 @layer base {
     h1 {
         @apply font-Public text-white text-left font-bold transicion
-         text-[40px] leading-[35px] sm:text-[30px] sm:text-center
+         text-[40px] leading-[45px] sm:text-[30px] sm:text-center
          md:text-[36px] lg:text-[40px] lg:leading-[48px]
          xl:text-[56px] xl:leading-[72px] 
     }
 
     h2 {
-        @apply font-bold font-Public text-[30px] leading-[39.68px]
+        @apply font-bold font-Public text-[28px] leading-[39.68px]
         sm:text-[34px] sm:leading-[40px]
         md:text-[40px] md:leading-[55px]
         lg:text-[46px] lg:leading-[63px]
@@ -40,7 +40,7 @@
     ol {
         @apply font-[500] font-Public text-[18px] leading-[27.72px] text-[#181818]
         sm:text-[18px] sm:leading-[27.72px]
-        lg:text-[32px] lg:leading-[48px]
+        md:text-[32px] md:leading-[48px]
     }
 
     p {
@@ -82,7 +82,7 @@
 
     .contSalasAux {
         @apply  w-[311px] mx-auto grid justify-items-center
-                gap-y-[20px]
+                gap-y-[10px]
                 sm:px-[8%] sm:w-auto grid-cols-2
                 lg:grid-cols-3 xl:grid-cols-4 lg:gap-y-[32px]
                 desktop:grid-cols-5 desktop:px-0 desktop:w-[1440px]
@@ -132,5 +132,33 @@
 
     .spamNumNavDisabled {
         @apply h-[2px] w-[20px] bg-[#828282] block
+    }
+
+    .dropDow :hover{
+        background: red;
+    }
+
+    .salas::-webkit-scrollbar {
+        -webkit-appearance: none;
+        background-color: rgb(184, 184, 184);
+        border-radius: 10px;  
+    }
+    
+    .salas::-webkit-scrollbar:vertical {
+        width:13px;
+    }
+    
+    .salas::-webkit-scrollbar-button:increment,.salas::-webkit-scrollbar-button {
+        display: none;
+    } 
+    
+    .salas::-webkit-scrollbar-thumb {
+        background-color: #103A62;
+        border-radius: 20px;
+        border: 2px solid #103A62;
+    }
+    
+    .salas::-webkit-scrollbar-track {
+        border-radius: 10px;  
     }
 }

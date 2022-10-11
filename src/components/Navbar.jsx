@@ -1,12 +1,16 @@
 import React, { useState, useEffect } from 'react'
 import { Link, useLocation } from 'react-router-dom'
 import { AnimatePresence, motion } from 'framer-motion'
+import { useMediaQuery } from 'react-responsive'
+
 
 const Navbar = () => {
 
    const [navbar, setNavbar] = useState('false')
    const location = useLocation().pathname
-
+   const smAux = useMediaQuery({
+      query: '(min-width: 650px)'
+   })
    const styles = {
       background: location === "/" || location === "/Home" ? "none" : "#000",
       boxShadow: "0 0 #0000",
@@ -29,14 +33,60 @@ const Navbar = () => {
          <nav
             className="w-[311px]  grid grid-cols-2 sm:grid-cols-3 items-center mx-auto 
             sm:w-[1095px] sm:px-[10%] xl:px-0">
-            <select
-               className='justify-self-start invisible absolute sm:relative '
-               name="idioma" id="">
-               <option value="Español">Español</option>
-               <option value="Frances">Frances</option>
-               <option value="Ingles">Ingles</option>
-               <option value="Creole">Creole</option>
-            </select>
+
+            {smAux &&
+               <div className="dropdown">
+                  <button
+                     
+                     className="btn btn-secondary dropdown-toggle flex items-center
+                     border-none rounded-none  dropDow
+                     active:outline-none"
+                     type="button"
+                     id="dropdownMenuButton1"
+                     data-bs-toggle="dropdown"
+                     aria-expanded="false">
+                     <div className='flex items-center gap-[6px]'>
+                        <img src="/svg/espaniol.svg" alt="" className="h-[15px]" />
+                        Español
+                     </div>
+                  </button>
+                  <ul className="dropdown-menu " aria-labelledby="dropdownMenuButton1">
+                     <li>
+                        <a className="dropdown-item" href="#">
+                           <div className='flex items-center gap-[6px]'>
+                              <img src="/svg/espaniol.svg" alt="" className="h-[15px]" />
+                              Español
+                           </div>
+                        </a>
+                     </li>
+                     <li>
+                        <a className="dropdown-item" href="#">
+                           <div className='flex items-center gap-[6px]'>
+                              <img src="/svg/frances.svg" alt="" className="h-[15px]" />
+                              Francès
+                           </div>
+                        </a>
+                     </li>
+                     <li>
+                        <a className="dropdown-item" href="#">
+                           <div className='flex items-center gap-[6px]'>
+                              <img src="/svg/ingles.svg" alt="" className="h-[15px]" />
+                              Inglès
+                           </div>
+                        </a>
+                     </li>
+                     <li>
+                        <a className="dropdown-item" href="#">
+                           <div className='flex items-center gap-[6px]'>
+                              <img src="/svg/creole.svg" alt="" className="h-[15px]" />
+                              Creolè
+                           </div>
+                        </a>
+                     </li>
+                  </ul>
+               </div>
+            }
+
 
             <Link to='/'
                className='sm:justify-self-center'>

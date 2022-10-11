@@ -116,9 +116,9 @@
         "contenido": ["Le CBC mène des actions d’observation de la biodiversité soutenues par des partenaires stratégiques dans chacun de ses pays membres."
                      ,"Les informations obtenues sur les migrations des oiseaux et d'autres espèces, sur l'état des populations d'espèces prioritaires, ainsi que sur les écosystèmes et les menaces auxquelles ils sont confrontés, nous permettent de comprendre les processus écologiques, leurs tendances et l'état de conservation de ces priorités. La disponibilité de ces données permet d'éclairer la prise de décision en matière de conservation de la biodiversité et de restauration des écosystèmes."],
         "imagenes": {
-            "imagen1": "./imagenes/sala5/monitoreo.jpg",
-            "alt1": "Observation des écosystèmes terrestres.",
-            "name1": "Observation des écosystèmes terrestres.",
+            "imagen1": "./imagenes/sala5/buso.jpg",
+            "alt1": "Observation des récifs et des prairies marines.",
+            "name1": "Observation des récifs et des prairies marines.",
 
             "imagen2": "./imagenes/sala5/monitoreo2.jpg",
             "alt2": "Observation des écosystèmes terrestres.",
@@ -217,9 +217,9 @@
         "title": "Projet CEDAF",
         "contenido": ["En collaboration avec le Centre pour le Développement Agricole et Forestier (CEDAF), un projet pilote s'est concentré sur la reproduction de l'apiculture dans l'une des régions les plus déprimées de la République Dominicaine, dans la zone frontalière. Dix ruchers communautaires ont été installés et favorisent actuellement la production apicole. Ce travail contribue à la biodiversité; les pollinisateurs aident à maintenir des écosystèmes sains. En outre, une source de revenus supplémentaire a été générée pour les habitants de ce territoire, à savoir la production de miel et de ses dérivés."],
         "imagenes": {
-            "imagen1": "./imagenes/sala5/abeja.jpg",
-            "alt1": "Abeille visitant une fleur dans une forêt sèche de la République Dominicaine.",
-            "name1": "Abeille visitant une fleur dans une forêt sèche de la République Dominicaine.",
+            "imagen1": "./imagenes/sala5/cajasAbeja.jpg",
+            "alt1": "Boîtes utilisées pour les travaux d'apiculture.",
+            "name1": "Boîtes utilisées pour les travaux d'apiculture.",
 
             "imagen2": "./imagenes/sala5/abeja2.jpg",
             "alt2": "Abeille visitant une fleur dans une forêt sèche de la République Dominicaine.",
@@ -327,9 +327,9 @@
         "contenido": ["L'initiative CBC reconnaît le rôle que jouent les communautés dans l'utilisation et la gestion des ressources naturelles.",
                     "Conformément à son engagement à contribuer à l'éradication de la pauvreté, elle travaille en étroite collaboration avec les gouvernements et les communautés locales pour identifier les options de développement et de moyens de subsistance qui sont écologiquement durables, économiquement viables et socialement justes pour ceux qui vivent dans les écosystèmes et en dépendent.",
                     "Par ces actions, nous espérons également contribuer à la bonne santé des écosystèmes et des services qu'ils nous fournissent."],
-        "imagen1": "./imagenes/sala5/elnicho.jpg",
-        "alt1": "El Nicho, Cuba.",        
-        "description": "El Nicho, Cuba.",
+        "imagen1": "./imagenes/sala5/valleCuba.jpg",
+        "alt1": "Vallée de Viñales, Cuba, Paysage Culturel Patrimoine Mondial.",        
+        "description": "Vallée de Viñales, Cuba, Paysage Culturel Patrimoine Mondial.",
         "background": "#fff",
         "colorText": "#181818"
     },

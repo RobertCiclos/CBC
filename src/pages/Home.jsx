@@ -92,30 +92,32 @@ const Home = () => {
 
         <section
           id=''
-          className="h-[100vh]">
+          className=" py-[48px] md:py-[96px] xl:py-0">
           <div
-            className='mx-auto xl:max-w-[1440px] contSalas'>
+            className='mx-auto xl:max-w-[1200px] xl:h-[100vh] relative px-[5%]'>
 
             <div
-              className='relative'>
+              className='xl:absolute top-[50%] xl:translate-y-[-50%]'>
               <div
-                className='text-center 
-                 absolute ml-[-50px]'>
+                className='text-center '>
                 CONOCE LAS SALAS
                 <h2
-                  className='text-center mt-[8px] lg:w-[317px] mx-auto'>
+                  className='text-center mt-[8px] w-[313px] sm:w-[400px] xl:w-[500px] mx-auto'>
                   UNA MIRADA AL CARIBE DE CERCA
                 </h2>
                 <img src={imagen} alt="imagen de la sala"
-                  className="mt-[24px] md:w-auto md:mt-[48px] xl:mt-[56px] mx-auto" />
+                  className="mt-[24px] md:w-auto md:mt-[40px]  w-[313px] sm:w-[400px]  xl:mt-[56px] mx-auto">
+                </img>
               </div>
             </div>
 
-            <div className='
-             top-[50%] translate-y-[20%]  mr-[-50px] overflow-y-auto flex justify-end mt-[10px]'>
+            <div className='salas right-0 top-[50%] mt-[56px] 
+              overflow-y-auto flex justify-center  
+              xl:translate-x-[-10%] 
+              xl:justify-end xl:translate-y-[-50%] xl:mt-0 xl:absolute xl:max-h-[80vh] overflow-x-hidden'>
               <ol
                 style={{ listStyleType: "decimal" }}
-                className=' h-[80vh] '>
+                className='xl:translate-x-[40px] '>
                 <Link to="/Sala1">
                   <li
                     value={1}
@@ -130,7 +132,7 @@ const Home = () => {
                   <li
                     value={2}
                     onMouseOver={(e) => changeImage(e)}
-                    className='mt-[32px] lg:mt-[72px] cursor-pointer hover:font-[600]'>
+                    className='mt-[32px] md:mt-[56px]  lg:mt-[72px] cursor-pointer hover:font-[600]'>
                     <span style={imagen === imagen2 ? styleActive : {}}>Especies prioritarias para</span><br />
                     <span style={imagen === imagen2 ? styleActive : {}}>el Corredor Biológico </span><br />
                     <span style={imagen === imagen2 ? styleActive : {}}>en el Caribe</span>
@@ -140,7 +142,7 @@ const Home = () => {
                   <li
                     value={3}
                     onMouseOver={(e) => changeImage(e)}
-                    className='mt-[32px] lg:mt-[72px] lg:mr-[55px] cursor-pointer hover:font-[600]'>
+                    className='mt-[32px] md:mt-[56px]  lg:mt-[72px] lg:mr-[55px] cursor-pointer hover:font-[600]'>
                     <span style={imagen === imagen3 ? styleActive : {}}>Ecosistemas prioritarios</span><br />
                     <span style={imagen === imagen3 ? styleActive : {}}>para el Corredor </span><br />
                     <span style={imagen === imagen3 ? styleActive : {}}>Biológico en el Caribe</span>
@@ -150,7 +152,7 @@ const Home = () => {
                   <li
                     value={4}
                     onMouseOver={(e) => changeImage(e)}
-                    className='mt-[32px] lg:mt-[72px] cursor-pointer'>
+                    className='mt-[32px] md:mt-[56px]  lg:mt-[72px] cursor-pointer'>
                     <span style={imagen === imagen4 ? styleActive : {}}>El Corredor Biológico en</span><br />
                     <span style={imagen === imagen4 ? styleActive : {}}>el Caribe, la Iniciativa</span>
                   </li>
@@ -159,7 +161,7 @@ const Home = () => {
                   <li
                     value={5}
                     onMouseOver={(e) => changeImage(e)}
-                    className='mt-[32px] lg:mt-[72px] lg:mr-[55px] cursor-pointer'>
+                    className='mt-[32px] md:mt-[56px] lg:mt-[72px] lg:mr-[55px] cursor-pointer'>
                     <span style={imagen === imagen5 ? styleActive : {}}>15 años de la Iniciativa</span><br />
                     <span style={imagen === imagen5 ? styleActive : {}}>del Corredor Biológico en </span><br />
                     <span style={imagen === imagen5 ? styleActive : {}}>el Caribe (CBC):  Logros,</span><br />
@@ -177,7 +179,7 @@ const Home = () => {
             className="contenedor xl:w-[1102.52px]">
             <h2
               className='text-[#103A62]'>
-              MENSAJE {!ismovil && <br />} DEL SECRETARIO EJECUTIVO DEL CBC
+              MENSAJE DEL SECRETARIO EJECUTIVO DEL CBC
             </h2>
             <div
               className='grid  text-[#103A62]
@@ -398,21 +400,21 @@ const Home = () => {
         </section>
 
         <section
-          style={{paddingTop: 0}}
+          style={{ paddingTop: 0 }}
           className='font-Public bg-[#F7F7F7] 
           py-[56px] md:py-[88px] lg:py-[104px]'>
           <Link to="/Sala1"
             style={styleNavRow}
-            className=' w-[150px]
+            className=' w-[200px]
             mx-auto sm:w-[300px] lg:w-[400px]'>
-            <span className='text-right font-bold text-[24px]' >
+            <span className='sm:text-right font-bold text-[20px] sm:text-[24px]' >
               “INICIA EL
               RECORRIDO POR LA
               EXHIBICIÓN”
             </span>
             <img
               src="./svg/arrowRight.svg"
-              alt="arrow"/>
+              alt="arrow" />
           </Link>
         </section>
 

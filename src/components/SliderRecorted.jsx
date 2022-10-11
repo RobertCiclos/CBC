@@ -22,10 +22,10 @@ const SliderRecorted = (props) => {
     }
 
   return (
-    <motion.div className="slider-container overflow-hidden mt-[56px] w-[1640px] cursor-grab ">
+    <motion.div className="slider-container overflow-hidden relative mt-[56px] w-[1640px] cursor-grab ">
       <motion.div 
         className='slider grid grid-cols-[311px_155px] gap-x-[16px]
-        sm:grid-cols-[83vw_41.8vw] sm:gap-[48px]
+        sm:grid-cols-[83vw_41.8vw] sm:gap-[48px] 
         xl:grid-cols-[1016px_509px] xl:gap-[72px]' 
         drag='x'
         dragConstraints={sliderResponsive()}>

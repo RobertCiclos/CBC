@@ -8,6 +8,7 @@ import { AnimatePresence, motion } from 'framer-motion'
 import ModelNavigation from '../components/ModelNavigation'
 import ModelTitle from '../components/ModelTitle'
 import Parrafos from '../components/models/Parrafos'
+import { Link } from "react-scroll";
 
 const Sala2 = () => {
 
@@ -21,29 +22,53 @@ const Sala2 = () => {
 
     if (isDesktop) {
       return <div
-        className='col-span-5 grid grid-cols-4 gap-[12px]
+        className='col-span-5 grid grid-cols-4 gap-[26px]
         w-[1080px]'>
-        <CardAnimales img={dataSala2.section3.img11} name={dataSala2.section3.nombre11}/>
-        <CardAnimales img={dataSala2.section3.img12} name={dataSala2.section3.nombre12}/>
-        <CardAnimales img={dataSala2.section3.img13} name={dataSala2.section3.nombre13}/>
-        <CardAnimales img={dataSala2.section3.img14} name={dataSala2.section3.nombre14}/>
+        <Link to='section22' className='hover:bg-slate-200 p-3 rounded-md'>
+          <CardAnimales img={dataSala2.section3.img11} name={dataSala2.section3.nombre11} />
+        </Link>
+        <Link to='section8' className='hover:bg-slate-200 p-3 rounded-md' >
+          <CardAnimales img={dataSala2.section3.img12} name={dataSala2.section3.nombre12} />
+        </Link>
+        <Link to='section16' className='hover:bg-slate-200 p-3 rounded-md'>
+          <CardAnimales img={dataSala2.section3.img13} name={dataSala2.section3.nombre13} />
+        </Link>
+        <div className=' p-3 '>
+          <CardAnimales img={dataSala2.section3.img14} name={dataSala2.section3.nombre14} />
+        </div>
       </div>
     } else if (istablet) {
       return <>
-        <CardAnimales img={dataSala2.section3.img11} name={dataSala2.section3.nombre11}/>
-        <CardAnimales img={dataSala2.section3.img12} name={dataSala2.section3.nombre12}/>
+        <Link to='section22' className='hover:bg-slate-200 p-3 rounded-md'>
+          <CardAnimales img={dataSala2.section3.img11} name={dataSala2.section3.nombre11} />
+        </Link>
+        <Link to='section8' className='hover:bg-slate-200 p-3 rounded-md'>
+          <CardAnimales img={dataSala2.section3.img12} name={dataSala2.section3.nombre12} />
+        </Link>
         <div
-          className='col-span-4 grid grid-cols-2 gap-[26px]'>
-          <CardAnimales img={dataSala2.section3.img13} name={dataSala2.section3.nombre13}/>
-          <CardAnimales img={dataSala2.section3.img14} name={dataSala2.section3.nombre14}/>
+          className='col-span-4 grid grid-cols-2 gap-[10px]'>
+          <Link to='section16' className='hover:bg-slate-200 p-3 rounded-md'>
+            <CardAnimales img={dataSala2.section3.img13} name={dataSala2.section3.nombre13} />
+          </Link>
+          <div className=' p-3 '>
+            <CardAnimales img={dataSala2.section3.img14} name={dataSala2.section3.nombre14} />
+          </div>
         </div>
       </>
     } else {
       return <>
-        <CardAnimales img={dataSala2.section3.img11} name={dataSala2.section3.nombre11}/>
-        <CardAnimales img={dataSala2.section3.img12} name={dataSala2.section3.nombre12}/>
-        <CardAnimales img={dataSala2.section3.img13} name={dataSala2.section3.nombre13}/>
-        <CardAnimales img={dataSala2.section3.img14} name={dataSala2.section3.nombre14}/>
+        <Link to='section22' className='hover:bg-slate-200 p-3 rounded-md' >
+          <CardAnimales img={dataSala2.section3.img11} name={dataSala2.section3.nombre11} />
+        </Link>
+        <Link to='section8' className='hover:bg-slate-200 p-3 rounded-md' >
+          <CardAnimales img={dataSala2.section3.img12} name={dataSala2.section3.nombre12} />
+        </Link>
+        <Link to='section16' className='hover:bg-slate-200 p-3 rounded-md'>
+          <CardAnimales img={dataSala2.section3.img13} name={dataSala2.section3.nombre13} />
+        </Link>
+        <div className=' p-3 '>
+          <CardAnimales img={dataSala2.section3.img14} name={dataSala2.section3.nombre14} />
+        </div>
       </>
     }
   }
@@ -66,7 +91,7 @@ const Sala2 = () => {
         <section
           id='section2'
           className='pySection'>
-          <main 
+          <main
             className='contSalas '>
             <Parrafos {...dataSala2.section2} />
           </main>
@@ -77,16 +102,36 @@ const Sala2 = () => {
           style={{ paddingTop: 0 }}
           className='pySection'>
           <div className='contSalasAux'>
-            <CardAnimales img={dataSala2.section3.img1} name={dataSala2.section3.nombre1}/>
-            <CardAnimales img={dataSala2.section3.img2} name={dataSala2.section3.nombre2}/>
-            <CardAnimales img={dataSala2.section3.img3} name={dataSala2.section3.nombre3}/>
-            <CardAnimales img={dataSala2.section3.img4} name={dataSala2.section3.nombre4}/>
-            <CardAnimales img={dataSala2.section3.img5} name={dataSala2.section3.nombre5}/>
-            <CardAnimales img={dataSala2.section3.img6} name={dataSala2.section3.nombre6}/>
-            <CardAnimales img={dataSala2.section3.img7} name={dataSala2.section3.nombre7}/>
-            <CardAnimales img={dataSala2.section3.img8} name={dataSala2.section3.nombre8}/>
-            <CardAnimales img={dataSala2.section3.img9} name={dataSala2.section3.nombre9}/>
-            <CardAnimales img={dataSala2.section3.img10} name={dataSala2.section3.nombre10}/>
+            <Link to='section6' className='hover:bg-slate-200 p-3 rounded-md'>
+              <CardAnimales img={dataSala2.section3.img1} name={dataSala2.section3.nombre1} />
+            </Link>
+            <Link to="section19" className='hover:bg-slate-200 p-3 rounded-md'>
+              <CardAnimales img={dataSala2.section3.img2} name={dataSala2.section3.nombre2} />
+            </Link>
+            <Link to="section24" className='hover:bg-slate-200 p-3 rounded-md'>
+              <CardAnimales img={dataSala2.section3.img3} name={dataSala2.section3.nombre3} />
+            </Link>
+            <Link to="section14" className='hover:bg-slate-200 p-3 rounded-md'>
+              <CardAnimales img={dataSala2.section3.img4} name={dataSala2.section3.nombre4} />
+            </Link>
+            <Link to="section13" className='hover:bg-slate-200 p-3 rounded-md'>
+              <CardAnimales img={dataSala2.section3.img5} name={dataSala2.section3.nombre5} />
+            </Link>
+            <Link to="section20" className='hover:bg-slate-200 p-3 rounded-md'>
+              <CardAnimales img={dataSala2.section3.img6} name={dataSala2.section3.nombre6} />
+            </Link>
+            <Link to="section11" className='hover:bg-slate-200 p-3 rounded-md'>
+              <CardAnimales img={dataSala2.section3.img7} name={dataSala2.section3.nombre7} />
+            </Link>
+            <div className=' p-3 '>
+              <CardAnimales img={dataSala2.section3.img8} name={dataSala2.section3.nombre8} />
+            </div>
+            <Link to="section7" className='hover:bg-slate-200 p-3 rounded-md'>
+              <CardAnimales img={dataSala2.section3.img9} name={dataSala2.section3.nombre9} />
+            </Link>
+            <Link to="section17" className='hover:bg-slate-200 p-3 rounded-md'>
+              <CardAnimales img={dataSala2.section3.img10} name={dataSala2.section3.nombre10} />
+            </Link>
             {renderizadoAux()}
           </div>
         </section>

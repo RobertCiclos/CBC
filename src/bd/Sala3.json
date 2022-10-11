@@ -1,7 +1,7 @@
 {   
     "section1" : {
         "img" : "./imagenes/sala3/fondo-sala3.jpg",
-        "title": "Ecosistemas prioritarios para el Corredor Biológico en el Caribe",
+        "title": "Ecosistemas prioritarios para el CBC",
         "sala": "Sala 3"
     },
 
@@ -303,8 +303,8 @@
                         "Entre las principales amenazas está también la desecación para el desarrollo de infraestructura costera y la alteración de los drenajes naturales y suministro de agua dulce asociados al desarrollo de carreteras."],
        "imagenes": {
            "imagen1": "./imagenes/sala3/laguna1.jpg",
-           "alt1": "Pastos marinos en el Caribe.",
-           "name1": "Pastos marinos en el Caribe.",
+           "alt1": "Laguna, Haití.",
+           "name1": "Laguna, Haití.",
 
            "imagen2": "./imagenes/sala3/laguna2.jpg",
            "alt2": "Laguna, Haití.",
@@ -320,6 +320,7 @@
     },
 
     "section25" : {
+        "contenido": "En la siguiente sala encontrará información sobre la Iniciativa CBC y cómo funciona para proteger estos importantes ecosistemas.",
         "backLink": "/Sala2",
         "nextLink": "/Sala4"
     },

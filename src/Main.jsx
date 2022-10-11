@@ -14,7 +14,9 @@ const Main = () => {
 
   const prevScrollY = useRef(0) 
   const [goingUp, setGoingUp] = useState(false);
+  
   useEffect(()=>{ 
+
     const handleScroll = () => {
       const currentScrollY = window.scrollY;
       if (prevScrollY.current < currentScrollY && goingUp) {
@@ -25,13 +27,18 @@ const Main = () => {
       }
       prevScrollY.current = currentScrollY;
     };
+
     window.addEventListener("scroll", handleScroll, { passive: true });
+
     return () => window.removeEventListener("scroll", handleScroll);
+    
   },[goingUp])
+
 
   useEffect(()=>
     setTimeout(()=>setSplash(!splash),3000)
   ,[])
+
 
   return (
     <div className=''>

@@ -3,17 +3,18 @@ import React from 'react'
 const CardAnimales = (props) => {
   return (
     <div
-        className='text-center'>
-        <img 
-            src={props.img}
-            alt='Tordo de bicknell' 
-            className='w-[136px]  border-[#103A62] border-[5px] rounded-full
-            sm:w-[230px] md:border-[7px] mx-auto' />
-        <span 
-            className='font-[600] text-center text-[16px] leading-[26.88px]
-            sm:text-[32px] sm:leading-[53.78px]'>
-            {props.name}
-        </span>
+      className='cursor-pointer'>
+      <img
+        src={props.img}
+        alt='Tordo de bicknell'
+        className='w-[130px] mx-auto rounded-full  bg-[#103A62] p-[4px] 
+              sm:w-[230px] sm:p-[6px]'>
+      </img>
+      <p
+        className='font-[600] text-[12px] leading-[14px] mt-[10px] text-center
+            sm:text-[24px] sm:leading-[24px]'>
+        {props.name}
+      </p>
     </div>
   )
 }

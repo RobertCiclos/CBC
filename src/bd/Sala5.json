@@ -1,7 +1,7 @@
 {   
     "section1" : {
         "img" : "./imagenes/sala5/fondosala5.jpg",
-        "title": "15 años de la Iniciativa del Corredor Biológico en el Caribe (CBC):  Logros, retos y futuro",
+        "title": "15 años de la Iniciativa del CBC:  Logros, retos y futuro",
         "sala": "Sala 5"
     },
     
@@ -116,9 +116,9 @@
         "contenido": ["El CBC realiza acciones de monitoreo de la biodiversidad apoyado por socios estratégicos en cada uno de los países que lo integran."
                      ,"La información obtenida sobre las migraciones de aves y otras especies, sobre el estado de las poblaciones de especies prioritarias, además de los ecosistemas y de las amenazas que enfrentan, permite entender los procesos ecológicos, sus tendencias y el estado de conservación de dichas prioridades. La disponibilidad de estos datos, sirve para informar la toma de decisiones sobre la conservación de la biodiversidad y la restauración de ecosistemas."],
         "imagenes": {
-            "imagen1": "./imagenes/sala5/monitoreo.jpg",
-            "alt1": "Monitoreo en ecosistemas terrestres.",
-            "name1": "Monitoreo en ecosistemas terrestres.",
+            "imagen1": "./imagenes/sala5/buso.jpg",
+            "alt1": "Monitoreo de arrecifes y pastos marinos.",
+            "name1": "Monitoreo de arrecifes y pastos marinos.",
 
             "imagen2": "./imagenes/sala5/monitoreo2.jpg",
             "alt2": "Monitoreo en ecosistemas terrestres.",
@@ -217,9 +217,9 @@
         "title": "Proyecto CEDAF",
         "contenido": ["De manera conjunta con el Centro para el Desarrollo Agropecuario y Forestal, (CEDAF), se adelantó un proyecto piloto enfocado en la reproducción de la apicultura en una de las zonas más deprimidas de República Dominicana en la zona fronteriza. Se instalaron 10 apiarios comunitarios que hasta el día de hoy están fomentando la producción apícola. Con este trabajo se hace una contribución a la biodiversidad, los polinizadores ayudan al mantenimiento de ecosistemas saludables. Además, se ha generado una fuente de ingreso adicional para la gente en ese territorio, que es la producción de miel y sus derivados."],
         "imagenes": {
-            "imagen1": "./imagenes/sala5/abeja.jpg",
-            "alt1": "Abeja visitando una flor en un bosque seco en República Dominicana.",
-            "name1": "Abeja visitando una flor en un bosque seco en República Dominicana.",
+            "imagen1": "./imagenes/sala5/cajasAbeja.jpg",
+            "alt1": "Cajas usadas para el trabajo de apicultura.",
+            "name1": "Cajas usadas para el trabajo de apicultura..",
 
             "imagen2": "./imagenes/sala5/abeja2.jpg",
             "alt2": "Abeja visitando una flor en un bosque seco en República Dominicana.",
@@ -327,9 +327,9 @@
         "contenido": ["La Iniciativa del CBC reconoce el rol que juegan las comunidades en el uso y manejo de los recursos naturales.",
                     "Atendiendo al compromiso de ayudar a erradicar  la pobreza, se trabaja de manera cercana a los gobiernos locales y comunidades para identificar opciones de desarrollo y medios de vida ecológicamente sostenibles, económicamente viables y socialmente justos para quienes viven y dependen de los ecosistemas.",
                     "A través de estas acciones, se espera contribuir además, a la buena salud de los ecosistemas y los servicios que estos nos prestan."],
-        "imagen1": "./imagenes/sala5/elnicho.jpg",
-        "alt1": "El Nicho, Cuba.",        
-        "description": "El Nicho, Cuba.",
+        "imagen1": "./imagenes/sala5/valleCuba.jpg",
+        "alt1": "Valle de Viñales, Cuba, Paisaje Cultural Patrimonio de la Humanidad",        
+        "description": "Valle de Viñales, Cuba, Paisaje Cultural Patrimonio de la Humanidad.",
         "background": "#fff",
         "colorText": "#181818"
     },

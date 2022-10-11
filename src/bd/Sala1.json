@@ -1,7 +1,7 @@
 {   
     "section1" : {
         "img" : "./imagenes/sala1/hero-sala1.jpg",
-        "title": "La conectividad ecológica y el Corredor Biológico en el Caribe",
+        "title": "La conectividad ecológica y el CBC",
         "sala": "Sala 1"
     },
     
@@ -79,7 +79,7 @@
     "section9" : {
         "title": "Áreas núcleo de conservación en el CBC",
         "contenido": ["La actual delimitación del CBC ocupa una superficie total de 199.703 km2, de los que 40.434 km2 (20.2%) corresponden a zonas núcleo de conservación y 159.269 km2 (79.8%) a zonas de conectividad."],
-        "subtitle": "Áreas de Núcleo en el Corredor Biológico  en el Caribe",
+        "subtitle": "Áreas  Núcleo de importancia para la conservación en el CBC",
         "colorSubtitle": "#103A62",
         "imagen":  "./imagenes/sala1/mapa-areas-identificadas.jpg",
         "description": ["Mapa de las áreas identificadas como núcleo de conservación dentro de la delimitación del Corredor Biológico en el Caribe, tomado del Sistema Integrado de Gestión del conocimiento del CBC (IKMS)."],

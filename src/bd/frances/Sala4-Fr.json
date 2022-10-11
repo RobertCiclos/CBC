@@ -45,9 +45,9 @@
             "alt1": "Cayo Coco, Cuba",
             "name1": "Cayo Coco, Cuba",
 
-            "imagen2": "./imagenes/sala4/helecho-bosque.jpg",
-            "alt2": "Fougère dans la forêt tropicale en République Dominicaine",
-            "name2": "Fougère dans la forêt tropicale en République Dominicaine"
+            "imagen2": "./imagenes/sala4/iguana.jpg",
+            "alt2": "Lézard (Leiocephalus carinatus)",
+            "name2": "Lézard (Leiocephalus carinatus)."
         },
         "background": "#103A62",
         "colorText": "#fff"

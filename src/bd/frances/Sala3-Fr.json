@@ -320,6 +320,7 @@
     },
 
     "section25" : {
+        "contenido": "Dans la salle suivante, vous trouverez des informations sur l'Initiative CBC et sur la manière dont elle travaille pour protéger ces écosystèmes importants.",
         "backLink": "/Sala2",
         "nextLink": "/Sala4"
     },

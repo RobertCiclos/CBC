@@ -45,9 +45,9 @@
             "alt1": "Cayo Coco, Cuba",
             "name1": "Cayo Coco, Cuba",
 
-            "imagen2": "./imagenes/sala4/helecho-bosque.jpg",
-            "alt2": "Helecho en bosque húmedo en República Dominicana",
-            "name2": "Helecho en bosque húmedo en República Dominicana"
+            "imagen2": "./imagenes/sala4/iguana.jpg",
+            "alt2": "Lagartija (Leiocephalus carinatus)",
+            "name2": "Lagartija (Leiocephalus carinatus)."
         },
         "background": "#103A62",
         "colorText": "#fff"
@@ -204,7 +204,7 @@
     },
 
     "section17" : {
-        "title": "Sostenibilidad financiera",
+        "title": "Financiamiento",
         "contenido": ["La Secretaría del CBC junto con el PNUMA y los países identifican oportunidades de financiamiento y elaboran e implementan proyectos de carácter regional; ejemplos de los cuales han sido los financiados por la Unión Europea para la Demarcación del CBC y el actual proyecto de Fortalecimiento del CBC.",
                     "De manera similar, el CBC busca crear asociaciones y estimula a sus socios a identificar oportunidades de financiamiento, para elaborar de forma coordinada e implementar proyectos que respondan a las prioridades de la Iniciativa.",
                     "En el marco de la red de socios del CBC, otros actores pueden identificar y desarrollar proyectos de manera independiente, siendo considerados dentro de la Iniciativa, siempre que aporten directamente a los objetivos y prioridades del CBC."],
@@ -263,8 +263,8 @@
             "name1": "Palma Real, en Cuba",
 
             "imagen2": "./imagenes/sala4/lago-enriquillo.jpg",
-            "alt2": "Lago Enriquillo, República Dominicana.",
-            "name2": "Lago Enriquillo, República Dominicana."
+            "alt2": "Transición del Parque Nacional Pic Macayá a la costa del Caribe haitiano.",
+            "name2": "Transición del Parque Nacional Pic Macayá a la costa del Caribe haitiano."
         },
         "background": "#103A62",
         "colorText": "#FFF"

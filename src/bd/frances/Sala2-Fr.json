@@ -27,9 +27,9 @@
         "nombre6": "Mammifères marins menacés (2)",
         "img6":"./imagenes/sala2/animales/mamiferos-min.png",
         "nombre7": "Solénodons (2)",
-        "img7":"./imagenes/sala2/animales/solenodontes-min.png",
+        "img7":"./imagenes/sala2/animales/roedores-min.png",
         "nombre8": "Rongeurs endémiques (4)",
-        "img8":"./imagenes/sala2/animales/roedores-min.png",
+        "img8":"./imagenes/sala2/animales/solenodontes-min.png",
         "nombre9": "Tortues de mer (4)",
         "img9":"./imagenes/sala2/animales/tortugas-min.png",
         "nombre10": "Crocodiles très menacés (2)",
@@ -276,12 +276,11 @@
                             "Il existe plusieurs espèces considérées comme des espèces constructrices de récifs, notamment:"],
         "imagenes": {
             "imagen1": "./imagenes/sala2/coral-cuerno-siervo-min.jpg",
-            "alt1": "Corail corne de cerf (Acropora cervicornis)",
-            "name1": "Corail corne de cerf (Acropora cervicornis)",
-
-            "imagen2": "./imagenes/sala2/aguila-pescadora.jpg",
             "alt2": "Corail corne d’élan (Acropora palmata).",
-            "name2": "Corail corne d’élan (Acropora palmata)."
+            "name2": "Corail corne d’élan (Acropora palmata).",
+            "imagen2": "./imagenes/sala2/coral-cuerno-alce-min.jpg",
+            "alt1": "Corail corne de cerf (Acropora cervicornis)",
+            "name1": "Corail corne de cerf (Acropora cervicornis)"
         },
         "background": "#103A62",
         "colorText": "#fff"

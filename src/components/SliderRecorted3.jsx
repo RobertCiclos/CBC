@@ -22,7 +22,7 @@ const SliderRecorted3 = (props) => {
     }
 
   return (
-    <motion.div className="slider-container overflow-hidden mt-[56px] w-[1640px] cursor-grab ">
+    <motion.div className="slider-container overflow-hidden mt-[56px] w-[1640px] cursor-grab relative">
       <motion.div 
         className='slider grid grid-cols-[138px_311px] gap-x-[16px]
         sm:grid-cols-[37vw_83vw] sm:gap-[48px]

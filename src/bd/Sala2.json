@@ -27,9 +27,9 @@
         "nombre6": "Mamiferos marinos amenazados (3)",
         "img6":"./imagenes/sala2/animales/mamiferos-min.png",
         "nombre7": "Solenodontes",
-        "img7":"./imagenes/sala2/animales/solenodontes-min.png",
+        "img7":"./imagenes/sala2/animales/roedores-min.png",
         "nombre8": "Roedores endémicos (4)",
-        "img8":"./imagenes/sala2/animales/roedores-min.png",
+        "img8":"./imagenes/sala2/animales/solenodontes-min.png",
         "nombre9": "Tortugas marinas (4)",
         "img9":"./imagenes/sala2/animales/tortugas-min.png",
         "nombre10": "Cocodrilos altamente amenazadas (3)",
@@ -41,7 +41,7 @@
         "nombre13": "Pargos y meros (6)",
         "img13":"./imagenes/sala2/animales/pargos-min.png",
         "nombre14": "Anguila americana",
-        "img14":"./imagenes/sala2/animales/anguila-min.png"
+        "img14":"./imagenes/sala2/animales/anguila.jpg"
 
     },
 
@@ -279,7 +279,7 @@
             "alt1": "Coral cuerno siervo (Acropora cervicornis)",
             "name1": "Coral cuerno siervo (Acropora cervicornis)",
 
-            "imagen2": "./imagenes/sala2/aguila-pescadora.jpg",
+            "imagen2": "./imagenes/sala2/coral-cuerno-alce-min.jpg",
             "alt2": "Coral cuerno de alce (Acropora palmata).",
             "name2": "Coral cuerno de alce (Acropora palmata)."
         },
