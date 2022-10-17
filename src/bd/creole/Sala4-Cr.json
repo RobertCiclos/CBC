@@ -1,0 +1,312 @@
+{   
+    "section1" : {
+        "img" : "./imagenes/sala4/hero-sala4.jpg",
+        "title": "Koridò Byolojik nan Karayib la, inisyativ la",
+        "sala": "Sal 4"
+    },
+    
+    "section2" : {
+        "contenido": ["Inisyativ Koridò Byolojik nan Karayib la (ki gen sig li an france CBC) se yon platfòm kowoperasyon ant Ministè Anviwònman Ayiti, Repiblik Dominikèn (Peyi panyìl), Kiba, Depatman Resous Natirèl ak Anviwònman Pòtoriko, ki te genyen Jamayik kòm mam obsèvatè e ki resaman konvèti li kòm peyi manm.",
+                        "Depi kreyasyon li a, ak siyati Deklarasyon Sendomeng nan 10 jiyè 2007, CBC te pwogrese ak sipò Pwogram Anviwònman Nasyonzini an (UNEP), bourad lajan Inyon Ewopeyèn (EU), kolaborasyon lòt òganizasyon finansye ak ajans koperasyon, avèk patisipasyon ONG ak enstitisyon nasyonal ak entènasyonal.",
+                            "Dapre akò ant peyi ki mansyone pi wo yo, CBC te travay avèk siksè pou konsèvasyon divèsite biyolojik ak entegrasyon kominote nan Gwo Zantiy yo, nan kad devlopman amonik ak lanati, jan nou prezante li pi ba a." ]
+    },
+
+    "section4" : {
+        "title": "Inisyativ CBC",
+        "contenido": ["Nan mwa novanm 2014, yon akò ant ministè yo ki te etabli yon kad jeneral regilasyon ak gouvènans pou CBC a, fòmalize komite teknik ak ministeryèl yo epi kreye Sekretarya CBC a kòm kò egzekitif ak kòdinasyon Inisyativ la te siyen."],
+        "imagen1": "./imagenes/sala4/firma-declaracion.jpg",
+        "alt1": "Deklarasyon Sendomeng lan siyen",        
+        "description": "Deklarasyon Sendomeng lan siyen",
+        "background": "#103A62",
+        "colorText": "#FFF"
+    },
+
+    "section5" : {
+        "title": "Misyon",
+        "contenido": ["Misyon CBC se asire konsèvasyon efikas nan divèsite biyolojik nan lanmè a sou tè  ki gen enpòtans rejyonal, antretyen nan koneksyon ekolojik ak dispozisyon sèvis ekosistèm nan zòn kle nan Karayib ensilè a, pandan lap pran an kont defi akòz chanjman nan klima ak bezwen devlopman kominote yo, epi asire nan tèt ansanm pou entegrasyon ak nan kole zepol tout aktè ki enpòtan yo."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala4/reserva-ecologica.jpg",
+            "alt1": "Rezèv Ekolojik Siboney Jutici, Santiago Kiba",
+            "name1": "Rezèv Ekolojik Siboney Jutici, Santiago Kiba",
+
+            "imagen2": "./imagenes/sala4/matorral-cactaceo.jpg",
+            "alt2": "Nan chan kaktis atizanal Repiblik Dominikèn(nan  peyi panyòl), kaktis yo fè flè ak fwi yo nan yon estrikti ki rele cephalium.",
+            "name2": "Nan chan kaktis atizanal Repiblik Dominikèn(nan  peyi panyòl), kaktis yo fè flè ak fwi yo nan yon estrikti ki rele cephalium."
+        },
+        "background": "#FFF",
+        "colorText": "#181818"
+    },
+
+    "section6" : {
+        "title": "Objektif",
+        "contenido": ["Objektif CBC a se pou konstwi yon apwòch enstitisyonèl rejyonal solid eki sipòte pa tout moun pou konsèvasyon ak jesyon divèsite biyolojik tè a ak lanmè a pataje ki gen siyifikasyon rejyonal nan zile Karayib yo, epi ki pote kole nan konsèvasyon an jeneral ak nan rediksyon la mizè nan rejyon an."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala4/cayo-coco.jpg",
+            "alt1": "Cayo Coco, Cuba",
+            "name1": "Cayo Coco, Cuba",
+
+            "imagen2": "./imagenes/sala4/iguana.jpg",
+            "alt2": "Leza (Leiocephalus carinatus)",
+            "name2": "Leza (Leiocephalus carinatus)"
+        },
+        "background": "#103A62",
+        "colorText": "#fff"
+    },
+
+    "section7" : {
+        "title": "5 aks konseptyèl CBC",
+        "contenido": ["Senk aks konseptyèl estratejik inisyativ la te defini aprè dyalòg ak otorizasyon Komite Ministeryèl CBC an.",
+                        "Yo se : antretyen koneksyon ekolojik, konsèvasyon ak restorasyon ekosistèm kle yo ak espès ki pi reprezante ak ki pi menase nan ensilè Karayib Ensilè a, ranfòsman rezilyans fas ak chanjman klimatik la, devlopman kominotè dirab, ranfòsman kapasite gouvènans, koperasyon (kole Zepòl) sid-sid ak travay tèt kole pami plizyè aktè sou plizyè nivo."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala4/trabajador-plantones.jpg",
+            "alt1": "Travayè ak plant nan yon pepinyè, Pik Macayá.",
+            "name1": "Travayè ak plant nan yon pepinyè, Pik Macayá.",
+
+            "imagen2": "./imagenes/sala4/canal-auras.jpg",
+            "alt2": "Kanal las Auras - Pak nasyonal Jardines de la Reina, Kiba.",
+            "name2": "Kanal las Auras - Pak nasyonal Jardines de la Reina, Kiba."
+        },
+        "background": "#FFF",
+        "colorText": "#181818"
+    },
+
+    "section8" : {
+        "title": "Zòn aksyon CBC",
+        "subtitle": "Demarcación Original del Corredor Biológico en el Caribe (2012-2021)",
+        "subtitleNew": "Nueva Demarcación  del Corredor Biológico en el Caribe (2022)",
+        "colorSubtitle": "#FFF",
+        "contenido": ["Depi lansman li an 2007, inisyativ CBC a te konsantre efò li sou lès Kiba ak lwès Ispanyola.",
+                        "Nan Komite Ministè 2014 la, peyi yo te mande Sekretarya pou travay sou aktyalizasyon delimitasyon koridò a.",
+                            "Nouvo delimitasyon an gen ladan kounye a zòn nwayo pou konsèvasyon ak zòn ki enpòtan pou koneksyon tout Gwo Zantiy yo, kit li sou latè, kit li nan lanmè. Zòn lanmè yo gen ladan yo pati nan lanmè teritwa yo, dlo achipelajik ak dlo ki anndan tè yo, yo gen tou zòn ekonomik eksklizif nan peyi ak teritwa ki mansyone yo."],
+        "imagen":  "./imagenes/sala4/oldMapa.jpg",
+        "imagenNew":  "./imagenes/sala4/newMapa.jpg",
+        "description": ["Kat ki montre evolisyon delimitasyon orijinal ak aktyèl Koridò Byolojik nan Karayib la."],
+        "background": "#103A62",
+        "colorText": "#FFF"
+    },
+
+    "section9" : {
+        "title": "Platfòm Kole zepòl Sid-Sid",
+        "contenido": ["CBC konsevwa tankou yon platfòm pou Kole zepòl Sid-Sid, kote prensip fondamantal li yo ak priyorite li yo gaye toupatou; e nenpòt moun ki vle pote kole, swa ak pwojè ki devlope pa Sekretarya, ki nan tèt kole ak oswa ki enplike Sekretarya a, swa ak pwojè konplètman endepandan, envite pou patisipe."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala4/monitoreo-aves.jpg",
+            "alt1": "Etid zwazo nan peyizaj natirèl pwoteje Gran Piedra nan Kiba, ki te òganize pa BIOECO, youn nan patnè CBC yo, ak sipò Sekretarya CBC.",
+            "name1": "Etid zwazo nan peyizaj natirèl pwoteje Gran Piedra nan Kiba, ki te òganize pa BIOECO, youn nan patnè CBC yo, ak sipò Sekretarya CBC.",
+
+            "imagen2": "./imagenes/sala4/encuentro-entre.jpg",
+            "alt2": "Rankont ant Leo Heilemann Direktè Biwo Rejyonal UNEP pou Amerik Latin ak Karayib la ak Elba Rosa Perez Montoya, Minis Syans, Teknoloji ak Anviwònman Kiba ak Joseph Jouthe, Minis Anviwònman Ayiti a apre komite ministeryèl la nan Lahavàn, Kiba an 2019.",
+            "name2": "Rankont ant Leo Heilemann Direktè Biwo Rejyonal UNEP pou Amerik Latin ak Karayib la ak Elba Rosa Perez Montoya, Minis Syans, Teknoloji ak Anviwònman Kiba ak Joseph Jouthe, Minis Anviwònman Ayiti a apre komite ministeryèl la nan Lahavàn, Kiba an 2019."
+        },
+        "background": "#FFF",
+        "colorText": "#181818"
+    },
+
+    "section10" : {
+        "title": "Mekanis Gouvènans CBC a",
+        "contenido": ["Sou nivo rejyonal, rezo gouvènans nan pi wo nivo Inisyativ la, ki dirije pa Komite Ministeryèl li a e ki gen ladan Komite Syantifik ak Teknik la epi Sekretarya CBC a, resevwa bourad Pwogram Nasyonzini  pou Anviwònman (ki gen sig angle UNEP) ak lòt enstitisyon, patnè entènasyonal oswa miltilateral ki kontribiye nan bourad lajan ak aplikasyon pwojè nan nivo rejyonal la."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala4/caseta-vigilancia.jpg",
+            "alt1": "Pòs siveyans nan sektè El Limón, Rezèv binasyonal La Selle-Jaragua, Bahoruco-Enriquillo, nan Hispaniola.",
+            "name1": "Pòs siveyans nan sektè El Limón, Rezèv binasyonal La Selle-Jaragua, Bahoruco-Enriquillo, nan Hispaniola.",
+
+            "imagen2": "./imagenes/sala4/ministros-equipos.jpg",
+            "alt2": "Minis, ekip teknik ak kolaboratè yo apre Komite Minisyèl CBC 2019 la, ki te fèt nan Lahavàn, Kiba.",
+            "name2": "Minis, ekip teknik ak kolaboratè yo apre Komite Minisyèl CBC 2019 la, ki te fèt nan Lahavàn, Kiba."
+        },
+        "background": "#103A62",
+        "colorText": "#FFF"
+    },
+
+    "section11" : {
+        "title": "Patisipasyon nan nivo nasyonal peyi CBC yo",
+        "contenido": ["Nan nivo nasyonal, peyi yo patisipe nan Inisyatiy la anba direksyon Ministè Anviwonman yo ak diferan enstitisyon nasyonal ki sipòte aplikasyon politik ak aksyon yo. Nan nivo lokal, administrasyon zòn pwoteje yo, kominote lokal yo, gouvènman lokal yo ansanm ak aktè sosyete sivil epi sektè prive yo responsab pou egzekite aksyon yo sou teren an."],
+        "imagen1": "./imagenes/sala4/coral-cuerno.jpg",
+        "alt1": "Corail Elkhorn nan pak nsyonal Jardines de la Reina, Kiba.",        
+        "description": "Corail Elkhorn nan pak nsyonal Jardines de la Reina, Kiba.",
+        "background": "#FFF",
+        "colorText": "#181818"
+    },
+
+    "section12" : {
+        "title": "Komite Ministeryèl ak Komite Syantifik-Teknik la",
+        "contenido": ["Komite Ministeryèl la se pi gwo kò ki pran desizyon nan Inisyativ la. Li dirije pa minis anviwònman nan peyi manm yo, pwen fokal peyi yo deziynye yo, Sekretarya a ak envite nan lòt òganizasyon. Li reyini detanzantan pou revize ak evalye pwogrè Inisyativ la ak pwojè li yo, apwouve plan aksyon ak pran desizyon pou gide travay ki ap gen pou fèt yo. UNEP se yon envite pèmanan nan sesyon sa yo.",
+                        "Pou pran desizyon l yo, li konte sou rekòmandasyon yon Komite Syantifik-Teknik ki fòme pa ekspè ki dezinye epi Sekretarya Egzekitif la. Komite sa a egzamine, epi apwouve, tout plan, pwojè ak lòt dokiman syantifik ak teknik ki soumèt epi li fè rekòmandasyon sou desizyon komite ministeryèl la dwe pran."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala4/reunion-ministerial.jpg",
+            "alt1": "Reyinyon Ministeryèl Koridò Byolojik nan Karayib la ki te fèt nan Sendomeng an 2014.",
+            "name1": "Reyinyon Ministeryèl Koridò Byolojik nan Karayib la ki te fèt nan Sendomeng an 2014.",
+
+            "imagen2": "./imagenes/sala4/comite-ministerial.jpg",
+            "alt2": "Komite Ministeryèl Koridò Byolojik nan Karayib la ki te fèt Kiba an 2019.",
+            "name2": "Komite Ministeryèl Koridò Byolojik nan Karayib la ki te fèt Kiba an 2019."
+        },
+        "background": "#103A62",
+        "colorText": "#FFF"
+    },
+
+    "section13" : {
+        "title": "Sekretarya Egzekitif",
+        "contenido": ["Sekretarya a se bra teknik ak egzekitif Inisyativ la ant reyinyon Komite Ministè a ak Komite Syantifik-Teknik la. Se poutèt sa, li gen yon wòl ki enpòtan anpil nan ekzekisyon travay syantifik ak teknik yo epi nan tèt kole ak desizyon Komite Ministeryèl la epi pwojè yo. Anplis de sa, li travay men nan men ak ministè yo, mond inivèsitè a, sosyete sivil la, kominote lokal yo ak sektè prive a pou asire aplikasyon estrateji Inisyativ la."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala4/secretaria-actividades.jpg",
+            "alt1": "Sekretarya CBC nan aktivite swivi sou teren",
+            "name1": "Sekretarya CBC nan aktivite swivi sou teren",
+
+            "imagen2": "./imagenes/sala4/secretaria-haciendo.jpg",
+            "alt2": "Sekretarya CBC a kap pran foto nan yon forè pen nan Pelempito, Repiblik Dominikèn (nan peyi panyòl)",
+            "name2": "Sekretarya CBC a kap pran foto nan yon forè pen nan Pelempito, Repiblik Dominikèn (nan peyi panyòl)"
+        },
+        "background": "#FFF",
+        "colorText": "#181818"
+    },
+
+    "section14" : {
+        "title": "Rezo patnè CBC yo",
+        "contenido": ["Aktè kle CBC yo soti nan yon pakèt enstitisyon ak sektè ki gen divès enterè ak wòl nan itilizasyon ak konsèvasyon resous divèsite biyolojik yo. Yo egzekite aksyon yo nan nivo lokal, nasyonal oswa rejyonal, epi aji nan chak nivo sa yo, atravè règ fòmèl oswa enfòmèl nan gouvènans ki mennen a yon koneksyon sosyal."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala4/red-socios1.jpg",
+            "alt1": "Aksyon sou teren pou konsèvasyon byodivèsite.",
+            "name1": "Aksyon sou teren pou konsèvasyon byodivèsite.",
+
+            "imagen2": "./imagenes/sala4/red-socios2.jpg",
+            "alt2": "Chema rezo patnè CBC yo.",
+            "name2": "Chema rezo patnè CBC yo."
+        },
+        "background": "#103A62",
+        "colorText": "#FFF"
+    },
+
+    "section15" : {
+        "title": "Relasyon ant pati ki gen enterè yo",
+        "contenido": ["Tout aktè CBC yo genyen lyen ant yo ki ka sipòte oswa anpeche jesyon CBC, ansanm ak akonplisman objektif li yo epi reyalizasyon priyorite li yo. Se poutèt sa, fonksyon tèt kole ak negosyasyon nan rezo patnè CBC yo esansyèl pou kenbe yon apwòch kole zepol ak sinèjik nan relasyon ki genyen ant aktè kle yo nan Inisyativ la epi dirije efò yo nan direksyon pou reyalize objektif estratejik Inisyativ yo."],
+        "imagen1": "./imagenes/sala4/trabajo-colaborativo.jpg",
+        "alt1": "Travay tèt ansanm pou etid espès CBC",        
+        "description": "Travay tèt ansanm pou etid espès CBC",
+        "background": "#FFF",
+        "colorText": "#181818"
+    },
+
+    
+    "section16" : {
+        "title": "CBC yon sistèm sosyoekolojik",
+        "contenido": ["Pou kenbe koneksyon ekolojik nan nivo rejyonal la epi asire nan tèt kole entegrasyon tout paktè kle yo nan lide pou atenn objektif li yo, fòk yo konsidere CBC tankou yon sistèm sosyo-ekolojik konplèks, ki pa sèlman entèkonekte inite teritoryal konsèvasyon divèsite biyolojik yo ki konstitye yon rezo ekolojik, men tou, ki konekte aktè kap gouvène epi ki sèvi ak resous sa yo atravè rezo patnè CBC yo."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala4/cbc-sistema1.jpg",
+            "alt1": "Desizyon pou pwoteje ekosistèm yo amelyore sante ekosistèm sa yo ansanm ak resous lapèch pou benefis kominote lokal yo.",
+            "name1": "Desizyon pou pwoteje ekosistèm yo amelyore sante ekosistèm sa yo ansanm ak resous lapèch pou benefis kominote lokal yo.",
+
+            "imagen2": "./imagenes/sala4/cbc-sistema2.jpg",
+            "alt2": "Desizyon pou pwoteje ekosistèm yo amelyore sante ekosistèm sa yo ansanm ak resous lapèch pou benefis kominote lokal yo.",
+            "name2": "Desizyon pou pwoteje ekosistèm yo amelyore sante ekosistèm sa yo ansanm ak resous lapèch pou benefis kominote lokal yo."
+        },
+        "background": "#103A62",
+        "colorText": "#FFF"
+    },
+
+    "section17" : {
+        "title": "Financement",
+        "contenido": ["Sekretarya CBC a, an kolaborasyon ak PNUE epi peyi yo, idantifye opòtinite pou jwen bourad lajan epi devlope ak aplike pwojè rejyonal, tankou Demarkasyon CBC a ki te jwenn bourad lajan Inyon Ewopeyèn epi Pwojè Ranfòsman CBC ki genyen kounye a te jwenn bourad lajan saa tou.",
+                        "Menm jan an tou, CBC ap chache etabli patenarya epi ankouraje patnè li yo pou yo idantifye opòtinite bourad lajan, pou yo devlope yon fason nan tèt kole epi pou yo aplike pwojè ki reponn a priyorite Inisyativ la.",
+                            "Kòm yon pati nan rezo patnè CBC a, lòt aktè ka idantifye epi devlope pwojè poukont yo epi yo ka konsidere yo pou Inisyativ la, toutotan yo pote kole dirèkteman nan objektif ak priyorite CBC yo."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala4/delfin-moteado.jpg",
+            "alt1": "Dofen ak tach Atlantik (Stenella frontalis)",
+            "name1": "Dofen ak tach Atlantik (Stenella frontalis)",
+
+            "imagen2": "./imagenes/sala4/transicion-parque.jpg",
+            "alt2": "Transition du Parc National de Pic Macaya à la côte caribéenne haïtienne.",
+            "name2": "Transition du Parc National de Pic Macaya à la côte caribéenne haïtienne."
+        },
+        "background": "#FFF",
+        "colorText": "#181818"
+    },
+
+    "section18" : {
+        "title": "Ranfòsman kapasite ak sansibilizasyon",
+        "contenido": ["CBC kontribye nan ogmante konsyantizasyon sou valè divèsite biyolojik yo ak etap itilizasyon dirab li yo, pandan lap chache kreye ak demontre lyen ki pozitif ant konsèvasyon, koneksyon, mwayen pou viv ak bese mizè a, atravè aktivite teren epi yon pwogram kominikasyon sosyal."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala4/laguna-oviedo.jpg",
+            "alt1": "Laguna de Oviedo, pak nasyonal Jaragua, Repiblik Dominikèn (nan peyi panyòl)",
+            "name1": "Laguna de Oviedo, pak nasyonal Jaragua, Repiblik Dominikèn (nan peyi panyòl)",
+
+            "imagen2": "./imagenes/sala4/seminario-fortalecimiento.jpg",
+            "alt2": "Seminè ranfòsman kapasite gid ekotourism yo nan Laguna de Oviedo",
+            "name2": "Seminè ranfòsman kapasite gid ekotourism yo nan Laguna de Oviedo"
+        },
+        "background": "#103A62",
+        "colorText": "#FFF"
+    },
+
+    "section19" : {
+        "title": "Enpòtans aksyon sou teren yo genyen",
+        "contenido": ["Pou CBC, li enpòtan pou reyalize devlopman dirab kominote yo nan nivo lokal, pou redwi menas ki genyen pou divèsite biyolojik epi pou amelyore oswa kenbe koneksyon ekolojik la. Pou reyalize sa yo, pwojè yo fè ak patnè ki soti nan peyi manm yo atake dirèkteman pwoblèm chak teritwa, epi pote kole nan konsèvasyon, amelyorasyon nan jesyon ak restorasyon ekosistèm ki degrade yo, pandan yap jenere opòtinite pou moun kap viv epi ki depann de espas sa yo, sa ki pèmèt diminye vilnerabilite a chanjman klimatik la."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala4/trabajo-monitoreo.jpg",
+            "alt1": "Travay etid ekosistèm yo",
+            "name1": "Travay etid ekosistèm yo",
+
+            "imagen2": "./imagenes/sala4/trabajo-apicultura.jpg",
+            "alt2": "Travay apikilti an Ayiti",
+            "name2": "Travay apikilti an Ayiti"
+        },
+        "background": "#FFF",
+        "colorText": "#181818"
+    },
+
+    
+    "section20" : {
+        "title": "Dirabilite pou lontan Inisyativ la",
+        "contenido": ["CBC devlope yon estrateji poul jwenn bourad lajan kote li travay ak peyi yo epi patnè li yo pou fòmile nouvo pwojè ki reponn a priyorite travay rejyonal yo, epi pou jere resous pou yo ka plen sa save yo rele fon fidisyè  a ke li espere jwenn yon bourad lajan pou yo, sa ki pral pèmèt fonksyonman pou lontan mekanis gouvènans CBC a."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala4/palma-real.jpg",
+            "alt1": "Palmye Ròyal, Cuba",
+            "name1": "Palmye Ròyal, Cuba",
+
+            "imagen2": "./imagenes/sala4/lago-enriquillo.jpg",
+            "alt2": "Lago Enriquillo, República Dominicana.",
+            "name2": "Lago Enriquillo, República Dominicana."
+        },
+        "background": "#103A62",
+        "colorText": "#FFF"
+    },
+
+    "section21" : {
+        "title": "Vision CBC pou lavni",
+        "contenido": ["Rive 2030, CBC a ta dwe yon Inisyativ konsolide, dirab epi efikas pou konsèvasyon divèsite biyolojik nan Karayib Ensilè a, ki asire epi kontwole koneksyon ekolojik li yo nan zòn kle yo epi kap ankouraje devlopman dirab nan yon kontèks chanjman klimatik.",
+                        "Nan lane 2050, nou espere ke Karayib Ensilè a pral tounen yon rejyon kote lanati ap rete vivan, divès, antye, an sante, epi itilize yon fason saj epi dirab pa yon sosyete karayibeyèn etewojèn, men ki pasifik, jis, enklizif epi pwospè."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala4/vision-futuro1.jpg",
+            "alt1": "Etid Byodivèsi nan Gwo Zanti yo",
+            "name1": "Etid Byodivèsi nan Gwo Zanti yo",
+
+            "imagen2": "./imagenes/sala4/vision-futuro2.jpg",
+            "alt2": "Etid Byodivèsi nan Gwo Zanti yo",
+            "name2": "Etid Byodivèsi nan Gwo Zanti yo"
+        },
+        "background": "#FFF",
+        "colorText": "#181818"
+    },
+
+    "section22" : {
+        "img": "./imagenes/sala4/velero-sala4.jpg",
+        "description": "Bato vwalye, Les Cayes, Haïti"
+    },
+
+    "section23" : {
+        "contenido": "Nan sal kap vini an w ap jwenn plis enfòmasyon sou 15 ane Inisyativ Koridò Byolojik nan Karayib la (CBC).",
+        "backLink": "/Sala3",
+        "nextLink": "/Sala5"
+    },
+
+    "footer": {
+        "title": "“CBC se Lapè”",
+        "contenido": ["Iniciativa gubernamental de cuatro países: Cuba, Haití, República Dominicana y Puerto Rico. Financiada por la Unión Europea (UE) y apoyada por el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA).",
+                    "Sede de la Secretaría del CBC República Dominicana, Miembros",
+                    "© 2020, Centro de Información y Gestión Tecnológica de Santiago de Cuba, MEGACEN."],
+        "subtitle": "Instituciones que participan",
+        "instituciones": ["Ministerio de Ciencia, Tecnología y Medio Ambiente de la República de Cuba",
+                        "Ministerio de Medio Ambiente de Haití","Ministerio de Medio Ambiente y Recursos Naturales de República Dominicana",
+                        "Unión Europea","PNUMA","Naciones Unidas en Cuba","Naciones Unidas en Haití","Naciones Unidas en República Dominicana",
+                        "Portal del Medio Ambiente de Cuba","BIOECO","CEDAF"]        
+    }
+}

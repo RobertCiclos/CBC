@@ -1,0 +1,418 @@
+{   
+    "section1" : {
+        "img" : "./imagenes/sala5/fondosala5.jpg",
+        "title": "15 ane inisyativ Koridò Byolojik Karayib la (CBC): Reyalizasyon, defi ak avni",
+        "sala": "Sal 5"
+    },
+    
+    "section2" : {
+        "contenido": ["Inisyativ CBC a ap selebre 15 ane travay. Pandan 15 lane sa yo li te rive jwenn anpil rezilta enpòtan nan sak gen pou wè ak tèt kole epi nan kole zepòl ant peyi manm li yo pou konsèvasyon ak jesyon dirab divèsite biyolojik la.",
+                       "Reyalizasyon prensipal yo, defi ak apwòch travay pou fè Karayib enzilè a, an patikilye Koridò Byolojik nan Karayib la, yon refij pou bèt sovaj yo kote kominote yo ka benefisye mwayen pou viv ki dirab, yo prezante isit la." ]
+    },
+
+    "section3" : {
+        "title" : "CBC ak sib ODD",
+        "contenido": "Aksyon ke CBC ankouraje yo lye ak plizyè nan Objektif Devlopman Dirab yo, an patikilye Objektif 14 ak 15 sou lavi anba dlo ak lavi ekosistèm ki sou latè yo, men tou ak lòt, tankou, pou egzanp, objektif 1 sou derasinen mizè ak Objektif 2 sou Zewo Grangou, nan kreye opòtinite pou devlopman lokal dirab; nan Objektif 5 sou Egalite Sèks; ak Objektif 13 sou Aksyon Klima, nan mete ann aplikasyon politik ak estrateji devlopman lokal dirab."
+    },
+
+    "section4" : {
+        "title": "Mesaj 1: Enpòtans konsèvasyon zòn nwayo yo",
+        "contenido": ["Zòn nwayo CBC yo pwoteje valè divèsite biyolojik ki pi reprezantatif ak esansyèl pou kenbe koneksyon ak pwovizyon sèvis ekosistèm pou benefis kominote Karayib yo. 95% nan zòn nwayo CBC yo blayi kò  yo nan zòn ki pwoteje, sa ki ba yo pi gwo pwoteksyon legal.",
+                        "Siveyans ki pa janm kanpe, sipò pou jesyon ak ranfòsman zòn pwoteje sa yo, ansanm ak fè pwopagann pou mwayen pou viv dirab nan kominote ki antoure yo esansyèl pou konsèvasyon efikas epi se yon priyorite pou CBC."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala5/reservacuchillas1.jpg",
+            "alt1": "Pik Macaya, Ayiti",
+            "name1": "Pik Macaya, Ayiti",
+
+            "imagen2": "./imagenes/sala5/reservacuchillas3.jpg",
+            "alt2": "Rezèv byosfè Cuchillas del Toa, Kiba",
+            "name2": "Rezèv byosfè Cuchillas del Toa, Kiba"
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section5" : {
+        "title": "Mesaj 2: Enpòtans koneksyon ak restorasyon ekolojik e ki bay rannman",
+        "contenido": ["Pou inisyativ CBC a, kenbe koneksyon ant zòn nwayo yo esansyèl pou garanti entegrite ekolojik, bon fonksyonman ekosistèm yo epi asire sèvis ekosistèm yo."
+                     ,"Pou sa, li bay travay ak kominote lokal yo epi ak divès patnè priyorite pou asire itilizasyon dirab resous yo, restorasyon ekosistèm ki degrade yo ak restorasyon peyizaj ki peple  yo."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala5/vegetacion.jpg",
+            "alt1": "Vejetasyon epifit kap grandi nan yon pyebwa forè twopikal, El Yunque.",
+            "name1": "Vejetasyon epifit kap grandi nan yon pyebwa forè twopikal, El Yunque.",
+
+            "imagen2": "./imagenes/sala5/restauracion.jpg",
+            "alt2": "Fanm kap fè restorasyon forè nan Sierra del Rosario, Kiba.",
+            "name2": "Fanm kap fè restorasyon forè nan Sierra del Rosario, Kiba."
+        },
+        "background": "#528641",
+        "colorText": "#fff"
+    },
+
+    "section6" : {
+        "title": "Mesaj 3: Travay pou konsèvasyon espès ak ekosistèm priyorite CBC",
+        "contenido": ["CBC te idantifye espès ak ekosistèm priyoritè pou konsèvasyon ki reprezantif rejyon an, ki menase, epi ki esansyèl pou kenbe koneksyon rejyonal ak bay sèvis ekosistèm yo."
+                     ,"Asire yon relasyon dirab epi ki sen ant kominote imen ak vi sovaj lan se youn nan priyorite travay nan inisyativ CBC a pou garanti konsèvasyon efikas lanati, epi kontinite ak entegrite pwosesis ekolojik ki nesesè pou mwayen pou popilasyon yo ka viv ka pi dire. Pou sa, li entegre nan rezo patnè li yo moun ki ka pran desizyon, otorite, aktè sosyete sivil la, reprezantan sektè prive a ak itilizatè resous natirèl yo."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala5/esponjamarina.jpg",
+            "alt1": "Eponj lanmè nan resif koray",
+            "name1": "Eponj lanmè nan resif koray",
+
+            "imagen2": "./imagenes/sala5/tiburonballena.jpg",
+            "alt2": "Reken balèn nan dlo Karayib la",
+            "name2": "Reken balèn nan dlo Karayib la"
+        },
+        "background": "#fff",
+        "colorText": "#181818"
+    },
+
+    "section7" : {
+        "title": "Forè ak chanjman klimatik",
+        "contenido": ["Rekonstriksyon eleman nan ekosistèm forè imid yo se yon bourad ki enpòtan nan koneksyon ak konsèvasyon divèsite biyolojik la, men tou, nan repwann sèvis anviwònman ke ekosistèm sa yo, bay epi nan adaptasyon ak chanjman klimatik la.",
+                        "Peyi CBC yo ap travay pou restore ekosistèm yo, kreye enfrastrikti vèt pou adaptasyon yo epi redwi vilnerabilite a efè chanjman klimatik yo."],
+        "imagen1": "./imagenes/sala5/bosquehumedo.jpg",
+        "alt1": "Forè imid (nan peyi panyòl)Repiblik Dominikèn.",        
+        "description": "Forè imid (nan peyi panyòl)Repiblik Dominikèn.",
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+
+    "section8" : {
+        "title": "Konsèvasyon ak chanjman klimatik",
+        "contenido": ["Lè seleksyon zòn nwayo ak zòn koneksyon yo tap fèt pou nouvo delimitasyon CBC a, yo te konsidere rezilyans ak vilnerabilite fas a chanjman klimatik kòm yon faktè kle."
+                     ,"Resif koray ak lòt ekosistèm priyoritè yo vilnerab anpil a chanjman klimatik la; se poutèt sa, li se yon priyorite pou CBC pou diminye presyon yo gen sou ekosistèm sa yo nan lide pou amelyore rezilyans yo ak kapasite adaptasyon yo."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala5/barreradecoral.jpg",
+            "alt1": "Baryè Koray, Île-à-Vache, Ayiti",
+            "name1": "Baryè Koray, Île-à-Vache, Ayiti",
+
+            "imagen2": "./imagenes/sala5/barreradecoral2.jpg",
+            "alt2": "Baryè Koray, Île-à-Vache, Ayiti",
+            "name2": "Baryè Koray, Île-à-Vache, Ayiti"
+        },
+        "background": "#fff",
+        "colorText": "#181818"
+    },
+
+    "section9" : {
+        "title": "Mesaj 4: Obsèvasyon Byodivèsite",
+        "contenido": ["CBC ap devlope yon sistèm obsèvasyon divèsite biyolojik ki gen yon enpòtans rejyonal, ki pèmèt etid ak siveyans objè konsèvasyon ki gen enpòtans rejyonal yo."
+                     ,"Nan sistèm sa nou jwenn etid zwazo, lamantin, tòti lanmè, kayiman Ameriken ak resif. Anplis de sa, etid te fèt sou wout migrasyon divès espès epi tou sou enpak siklòn yo gen sou divèsite biyolojik la ; enfòmasyon ki itil anpil pou lasyans epi pou pran desizyon nan sak gen pou wè ak konsèvasyon ak jesyon yo."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala5/tortugacarey.jpg",
+            "alt1": "Obsèvasyon tòti lanmè yo",
+            "name1": "Obsèvasyon tòti lanmè yo",
+
+            "imagen2": "./imagenes/sala5/instalaciondered.jpg",
+            "alt2": "Enstalasyon yon rezo pou obsèvasyon zwazo",
+            "name2": "Enstalasyon yon rezo pou obsèvasyon zwazo"
+        },
+        "background": "#528641",
+        "colorText": "#fff"
+    },
+
+    "section10" : {
+        "title": "Obsèvasyon pou rive genyen enfòmasyon",
+        "contenido": ["CBC fè aksyon obsèvasyon byodivèsite ki sipòte pa patnè estratejik nan chak nan peyi manm li yo."
+                     ,"Enfòmasyon yo jwenn sou migrasyon zwazo ak lòt espès yo, sou estati popilasyon espès priyorite yo, sou ekosistèm yo ak menas ki nan degwann yo, pèmèt nou konprann pwosesis ekolojik, tandans yo ak sitiyasyon konsèvasyon priyorite sa yo. Disponibilite done sa yo fè li posib pou pwan desizyon nan sak gen pou wè ak konsèvasyon byodivisète ak restorasyon ekosistèm yo."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala5/buso.jpg",
+            "alt1": "Obsèvasyon resif ak zèb lanmè yo",
+            "name1": "Obsèvasyon resif ak zèb lanmè yo",
+
+            "imagen2": "./imagenes/sala5/monitoreo2.jpg",
+            "alt2": "Obsèvasyon ekosistèm terès yo",
+            "name2": "Obsèvasyon ekosistèm terès yo"
+        },
+        "background": "#fff",
+        "colorText": "#181818"
+    },
+
+    "section11" : {
+        "title": "Obsèvasyon zwazo",
+        "contenido": ["Inisyativ CBC a rapousib plizyè espès zwazo migratè ki sèvi ak koridò byolojik la; sa gen ladann voye je sou pwosesis met bag pou zwazo pasren yo, konte rapas kap migre yo ak etidye Griv Biknèl la."
+                     ,"Aktivite sa yo bay endikatè kle sou koneksyon ak sante popilasyon zwazo yo lè yo anrejistre espès ki prezan nan koridò a, ak done tankou kantite endividi pou chak espès, moman migrasyon an, direksyon ak wotè vòl la, e menm sèks. ak laj apwoksimatif endividi yo, lè sa ka detèmine."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala5/moniaves.jpg",
+            "alt1": "Etid zwazo; note sèks ak laj endividi yo pou anrejistre yo.",
+            "name1": "Etid zwazo; note sèks ak laj endividi yo pou anrejistre yo.",
+
+            "imagen2": "./imagenes/sala5/aguila.jpg",
+            "alt2": "Èg pechè (Pandion halietus)",
+            "name2": "Èg pechè (Pandion halietus)"
+        },
+        "background": "#528641",
+        "colorText": "#fff"
+    },
+
+    "section12" : {
+        "title": "Sistèm entegre pou jesyon konesans yo",
+        "contenido": ["Inisyativ CBC a devlope yon Sistèm Jesyon Konesans Entegre (IKMS), ki deja gen plis pase 4.6 milyon dosye ki jeoreferanse ki gen enfòmasyon sou jiska 18 sijè ki enpòtan pou CBC. Sistèm sa a toujou ap mete ajou e li disponib pou fasilite yo pwan desizyon nan peyi manm CBC yo. Zouti espasyal li a “BioAtlas” ou ka jwen lie gade sak ladan li  nan https://bioatlas.cbcbio.org/."],
+        "imagen":  "./imagenes/sala5/bioatlas.jpg",
+        "description": ["Paj akèy BioAtlas la"],
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+    
+    "section13" : {
+        "title": "Mesaj 5: Aksyon ak pwojè CBC",
+        "contenido": ["Atravè aplikasyon aksyon ak pwojè nan nivo lokal, CBC te reyisi amelyore dirabilite kondisyon ak mwayen pou viv plis pase 5,000 moun nan kominote riral yo, konsa lipote kole nan diminye presyon sou byodivèsite a."
+                     ,"Jiska prezan, plis pase 10 pwojè te devlope nan twa peyi yo, anplis te gen plizyè pwojè devlope pa lòt enstitisyon ki fè pati rezo patnè CBC yo, ki pote kole tou nan objektif Inisyativ la."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala5/trabajodecampo.jpg",
+            "alt1": "Travay teren nan kad on etid.",
+            "name1": "Travay teren nan kad on etid.",
+
+            "imagen2": "./imagenes/sala5/trabajodecampo2.jpg",
+            "alt2": "Travay teren nan kad on etid.",
+            "name2": "Travay teren nan kad on etid."
+        },
+        "background": "#528641",
+        "colorText": "#fff"
+    },
+
+    "section14" : {
+        "title": "Aksyon pou konsèvasyon ak devlopman",
+        "contenido": ["CBC te aplike ak ankouraje aksyon konsèvasyon ak dirabilite nan plis pase 20 zòn ak kominote priyoritè, ki ranje kò yo pou diminye presyon sou byodivèsite ki asosye ak pratik ki ka dirab. Yo te sitou vize jesyon dirab resous natirèl yo, itilizasyon enèji pwòp oswa yon itilizasyon pi efikas nan sous enèji tradisyonèl yo, pwopagann pou  mwayen pou ka viv epi kap dire, ansanm ak adaptasyon a chanjman klimatik ki baze sou ekosistèm yo."],
+        "imagen1": "./imagenes/sala5/expedicioncbc.jpg",
+        "alt1": "Ekspedisyon CBC nan Pak Nasyonal El Morro, Montecristi, (nan peyi panyòl) Repiblik Dominikèn",        
+        "description": "Ekspedisyon CBC nan Pak Nasyonal El Morro, Montecristi, (nan peyi panyòl) Repiblik Dominikèn",
+        "background": "#fff",
+        "colorText": "#181818"
+    },
+
+    "section15" : {
+        "title": "Fondasyon Seguin (Ayiti).",
+        "contenido": ["An Ayiti, pwojè CBC ak Fondasyon Seguin an vize pwoteje ak retabli 70 ekta forè natif natal, 3 ekta tè degrade epi aplike yon pwogram jaden gad manje ak gwo patisipasyon fanm yo."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala5/vivero.jpg",
+            "alt1": "Pepinyè, Pik Makaya, Ayiti",
+            "name1": "Pepinyè, Pik Makaya, Ayiti",
+
+            "imagen2": "./imagenes/sala5/entregadesemillas.jpg",
+            "alt2": "Livrezon semans bay fanm chèf fanmi pou kreyasyon jaden fanmi.",
+            "name2": "Livrezon semans bay fanm chèf fanmi pou kreyasyon jaden fanmi."
+        },
+        "background": "#528641",
+        "colorText": "#fff"
+    },
+
+    "section16" : {
+        "title": " Pwojè UCATEBA (Repiblik Dominikèn) na peyi panyòl",
+        "contenido": ["Nan peyi panyòl (An Repiblik Dominikèn), gen yon pwojè sou pye ak Universidad Católica Tecnológica de Barahona (UCATEBA) ki ankouraje mwayen pou moun ka viv  ak pratik kap pi dire pou diminye presyon sou Rezèv Biosfè Jaragua-Bahoruco-Enriquillo. Pwojè sa a gen pou objektif pou amelyore kapasite moun ki gen enterè yo pou jere konsèvasyon ak itilizasyon dirab byodivèsite a, epi amelyore kondisyon enfrastrikti pou vizitè yo ak ekotouris."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala5/capacitacion.jpg",
+            "alt1": "Fòmasyon nan kad pwojè CBC ak UCATEBA ak diferan moun ki gen enterè sou touris dirab nan Lak Enriquillo, (nan Peyi panyòl)Repiblik Dominikèn.",
+            "name1": "Fòmasyon nan kad pwojè CBC ak UCATEBA ak diferan moun ki gen enterè sou touris dirab nan Lak Enriquillo, (nan Peyi panyòl)Repiblik Dominikèn.",
+
+            "imagen2": "./imagenes/sala5/capacitacion2.jpg",
+            "alt2": "Fòmasyon nan kad pwojè CBC ak UCATEBA ak diferan moun ki gen enterè sou touris dirab nan Lak Enriquillo, (nan Peyi panyòl)Repiblik Dominikèn.",
+            "name2": "Fòmasyon nan kad pwojè CBC ak UCATEBA ak diferan moun ki gen enterè sou touris dirab nan Lak Enriquillo, (nan Peyi panyòl)Repiblik Dominikèn."
+        },
+        "background": "#fff",
+        "colorText": "#181818"
+    },
+
+    "section17" : {
+        "title": "Pwojè CEDAF",
+        "contenido": ["An kole zepòl ak Sant pou Devlopman Agrikòl ak Forè (CEDAF), yon pwojè pilòt ki chita sou fè gadinay myèl nan youn nan rejyon ki pi deprime nan peyi panyòl (Repiblik Dominikèn), nan zòn fwontyè a. Yo enstale dis riche kominotè ki favorize pou koulia gadinay myèl la. Travay sa a ede byodivèste a; polinizatè yo ede kenbe ekosistèm yo an sante. Anplis de sa, sa te kreye yon lòt sous revni pou moun kap viv sou teritwa sa a, tankou fè siwo myèl ak derive li yo."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala5/cajasAbeja.jpg",
+            "alt1": "Bwat yo itilize pou travay apikol",
+            "name1": "Bwat yo itilize pou travay apikol",
+
+            "imagen2": "./imagenes/sala5/abeja2.jpg",
+            "alt2": "Abèy kap vizite yon flè nan yon forè sèk nan peyi panyòl ( Repiblik Dominikèn).",
+            "name2": "Abèy kap vizite yon flè nan yon forè sèk nan peyi panyòl ( Repiblik Dominikèn)."
+        },
+        "background": "#528641",
+        "colorText": "#fff"
+    },
+
+    "section18" : {
+        "title": "Agrikilti byolojik",
+        "contenido": ["Pak Nasyonal Makaya an Ayiti se youn nan zòn ki gen plis espès nan Karayib ensilè a epi li anba gwo presyon imen. Se poutèt sa, se youn nan priyorite CBC nan peyi sa a.",
+                    "Isit la, menm jan ak lòt kote nan koridò a, travay òganizasyon lokal yo se yon fòs vital nan reyalize konsèvasyon ak itilizasyon dirab nan zòn priyorite Inisyativ la. Fondasyon Nouvelle Grande-Anse (FNGA) devlope epi kenbe pepinyè kafe ak legim ki sitiye a 800 mèt anwo nivo lanmè a nan zòn tanpon pak la.",
+                    "Jèn nan rejyon an aprann avantaj ak benefis agrikilti òganik. Apwòch sosyo-anviwònmantal FNGA anglobe yon pakèt pwojè ak aktivite ki vize pou amelyore kalite lavi popilasyon lokal la epi fè popagann pou konsèvasyon nati inik rejyon an. Se yon egzanp pou f`popagann tou pou lòt domenn ki enpòtan pou CBC."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala5/miembrosdelacomun.jpg",
+            "alt1": "Grenn kafe, Ayiti",
+            "name1": "Grenn kafe, Ayiti",
+
+            "imagen2": "./imagenes/sala5/miembrosdelacomun2.jpg",
+            "alt2": "Grenn kafe, Ayiti",
+            "name2": "Grenn kafe, Ayiti"
+        },
+        "background": "#fff",
+        "colorText": "#181818"
+    },
+
+    "section19" : {
+        "title": "Pepinyè ak yon apwòch sou sèks moun",
+        "contenido": ["Nan Pak Nasyonal Pik Makaya an Ayiti, ant 40 ak 50% fanm ki fè pati Fondation Nouvelle Grande-Anse (patnè CBC) patisipe nan fòmasyon ak kanpay sansibilizasyon sou agrikilti ak ijyèn piblik. Nan pepinyè a, yo patisipe nan aktivite ranpli sache tè, kiltive ak transpòte plant kafe ak lòt pwodi agrikòl. Ilia Henry, teknisyen agrikòl epi manadjè Pik Makaya di: “Rèv fanm kap travay nan agrikilti se kapab bay pitit nou manje, pran swen mari nou epi voye pitit nou lekòl."],
+        "imagen1": "./imagenes/sala5/viveros.jpg",
+        "alt1": "Pepinyè, ke fanm dirije an Ayiti",        
+        "description": "Pepinyè, ke fanm dirije an Ayiti",
+        "background": "#528641",
+        "colorText": "#fff"
+    },
+
+    
+    "section20" : {
+        "title": "Aksyon ak lòt patnè yo",
+        "contenido": ["CBC travay ak lòt patnè tou pou devlope pwojè ki gen pou objektif:",
+                    "1) Bay jarèt ak FUNDEMAR etid lamanten nan peyi panyòl (Repiblik Dominikèn.)",
+                    "2) Bay jarèt ak enstitisyonèl ak fòmasyon aktè lokal yo pou ankouraje ekotouris nan Pak Nasyonal La Visite an Ayiti, ki fè pati Rezèv Biosfè Transfwontalyè Jaragua, Bahoruco-Enriquillo, ak Ministè Anviwònman Ayiti a.",
+                    "3) Rapousib aksyon etid zwazo BIOECO fè nan Kiba."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala5/miembrosdelacomun.jpg",
+            "alt1": "Manm kominote yo ap prepare pakè zèb lanmè pou bay lamanten yo manje.",
+            "name1": "Manm kominote yo ap prepare pakè zèb lanmè pou bay lamanten yo manje.",
+
+            "imagen2": "./imagenes/sala5/miembrosdelacomun2.jpg",
+            "alt2": "Manm kominote a kap bay lamanten manje",
+            "name2": "Manm kominote a kap bay lamanten manje"
+        },
+        "background": "#fff",
+        "colorText": "#181818"
+    },
+
+
+    "section21" : {
+        "title": "Pwojè rezilyans chanjman klimatik.",
+        "contenido": ["Ekonomi pifò peyi antiyè yo baze sou aktivite ki lye dirèkteman oswa endirèkteman ak ekosistèm yo. Aktivite tankou touris, lapèch ak agrikilti depann de ekosistèm ki an sante epi ki vilnerab anpil ak sak gen pou wè ak move tan yo. Aspè sa yo kondisyone ke vilnerabilite ak rezilyans nan chanjman klimatik yo dwe eleman esansyèl nan nenpòt refleksyon sou devlopman fiti inisyativ sa a."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala5/pescador.jpg",
+            "alt1": "Pechè atizanal sou kòt sidwès Ayiti.",
+            "name1": "Pechè atizanal sou kòt sidwès Ayiti.",
+
+            "imagen2": "./imagenes/sala5/cardumen.jpg",
+            "alt2": "Bank pwason chirijyen trase (Acanthurus chirurgus)",
+            "name2": "Bank pwason chirijyen trase (Acanthurus chirurgus)"
+        },
+        "background": "#528641",
+        "colorText": "#fff"
+    },
+
+    "section22" : {
+        "title": "Mesaj 6: Idantifye solisyon natirèl pou defi ki lakòz chanjman klimatik yo",
+        "contenido": ["CBC travay yon fason nan tèt kole ak lòt aktè yo pou pote chanjman kap redwi menas dirèk pou byodivèsite, diminye ak adapte yo ak chanjman klimatik, epi ankouraje modèl devlopman dirab e ki egal selon tout moun nan rejyon an.",
+                    "Aplikasyon solisyon ki baze sou lanati se yon pati nan estrateji pou konbat chanjman klimatik la. Yo gen ladann yo restorasyon ekosistèm yo, jesyon entegre basen vèsan yo ak bay jarèt ak zòn pwoteje yo."],
+        "imagen1": "./imagenes/sala5/coralcerebro.jpg",
+        "alt1": "Koray ki gen kòn sèf, lanmè Karayib la",        
+        "description": "Koray ki gen kòn sèf, lanmè Karayib la",
+        "background": "#fff",
+        "colorText": "#181818"
+    },
+
+    "section23" : {
+        "title": "Bay jarèt ak kapasite nan CBC",
+        "contenido": ["CBC òganize epi delivre plis pase 100 fòmasyon ak aktivite fòmasyon kapasite ak plis pase 4,000 patisipan, kote li pote konesans sou sijè tankou byodivèsite Karayib la, jesyon menas ki peze sou byodivèsitè, adaptasyon ak chanjman klimatik, teknik etid, taksonomi ak jesyon entegre kot yo."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala5/primeraferiacbc.jpg",
+            "alt1": "CBC nan premye Gran Fwa Agrikòl Atizanal ak Biodivèsite COPRELAM ki te fèt an 2021 nan Anse-à-Pitre, Ayiti.",
+            "name1": "CBC nan premye Gran Fwa Agrikòl Atizanal ak Biodivèsite COPRELAM ki te fèt an 2021 nan Anse-à-Pitre, Ayiti.",
+
+            "imagen2": "./imagenes/sala5/seminario.jpg",
+            "alt2": "Seminè nan kad pwojè ak UCATEBA sou enpòtans koridò a ak objektif konsèvasyon li yo pou patnè CBC yo, gid touris yo ak antreprenè nan Pedernales nan peyi panyòl( Repiblik Dominikèn).",
+            "name2": "Seminè nan kad pwojè ak UCATEBA sou enpòtans koridò a ak objektif konsèvasyon li yo pou patnè CBC yo, gid touris yo ak antreprenè nan Pedernales nan peyi panyòl( Repiblik Dominikèn)."
+        },
+        "background": "#528641",
+        "colorText": "#fff"
+    },
+
+    "section24" : {
+        "title": "Mesaj 7: Ankouraje mwayen pou moun ka viv e ki dire pou lontan nan men nan men ak lanati",
+        "contenido": ["Inisyativ CBC a rekonèt wòl kominote yo jwe nan itilizasyon ak jesyon resous natirèl yo.",
+                    "Nan menm sans ak angajman li pou pote kole nan derasinen mizè, li travay kole kole ak gouvènman yo ak kominote lokal yo pou idantifye opsyon devlopman ak mwayen pou moun viv  ki ekolojikman ap pi dire, ekonomikman vyab epi sosyalman jis pou moun ki abite epi ki depann de ekosistèm yo.",
+                    "Atravè aksyon sa yo, nou espere pote kole tou nan bon sante ekosistèm yo ak sèvis yo bay nou yo."],
+        "imagen1": "./imagenes/sala5/valleCuba.jpg",
+        "alt1": "Vale Viñales, Kiba, Peyizaj Kiltirel, Patrimwàn Mondyal",        
+        "description": "Vale Viñales, Kiba, Peyizaj Kiltirel, Patrimwàn Mondyal",
+        "background": "#fff",
+        "colorText": "#181818"
+    },
+
+    "section25" : {
+        "title": "Ki jan CBC travay jiskaprezan?",
+        "contenido": ["Depi lansman li a, Inisyativ CBC a te reyisi aplike twa pwojè ki pwòp a li, ak bourad lajan Inyon Ewopeyèn ak kout men PNUE ki te pèmèt pwogrè li yo. Pwojè sa yo se: Pwojè Delimitasyon ak Etablisman Koridò Byolojik nan Karayib la (CBC), Pwojè Bati Kapasite peyi panyòl (Repiblik Dominikèn) pou Planifikasyon ak Devlopman Aksyon nan kad CBC a, ak Pwojè Bay jarèt ak CBC."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala5/matorralcbc.jpg",
+            "alt1": "Cactus Scrub nan peyi panyòl (Repiblik Dominikèn)",
+            "name1": "Cactus Scrub nan peyi panyòl (Repiblik Dominikèn)",
+
+            "imagen2": "./imagenes/sala5/matorralcbc2.jpg",
+            "alt2": "Cactus Scrub nan peyi panyòl (Repiblik Dominikèn)",
+            "name2": "Cactus Scrub nan peyi panyòl (Repiblik Dominikèn)"
+        },
+        "background": "#528641",
+        "colorText": "#fff"
+    },
+
+    "section26" : {
+        "title": "Mesaj 8: Aksyon pou asire vyabilite bourad lajan pou CBC la",
+        "contenido": ["Li enpòtan pou asire vyabilite CBC a nan yon tan kip a long e tou pou lantan. Pou sa, travay ap fèt pou fòmile nouvo pwojè, epi tou etabli sa save yo rele fon fidisyè a kote benefis yo pwale pou operasyon Inisyativ la.",
+                    "Kontinite CBC a depann de enterè ak angajman patnè li yo, alye ak donatè pou angaje resous ki pwal pèmèt li kontinye pote kole nan devlopman dirab ak konsèvasyon koridò byolojik enpòtan sa a."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala5/municipoguama.jpg",
+            "alt1": "Minisipalite Guamá, nan sid Sierra Maestra nan Kiba.",
+            "name1": "Minisipalite Guamá, nan sid Sierra Maestra nan Kiba.",
+
+            "imagen2": "./imagenes/sala5/ecosistemacostero.jpg",
+            "alt2": "Ekosistèm kotyè yo nan Costa Este, yon plaj toupre Samaná",
+            "name2": "Ekosistèm kotyè yo nan Costa Este, yon plaj toupre Samaná"
+        },
+        "background": "#fff",
+        "colorText": "#181818"
+    },
+
+    "section27" : {
+        "title": "Mesaj 9: Kontribisyon nan akonplisman objektif ki fikse nan Ajenda 2030 la.",
+        "contenido": ["Avèk aplikasyon plan aksyon estratejik li a, inisyativ CBC a ap chache rapousib bay jarèt  ak konsèvasyon byodivèsite nan rejyon Karayib la. An menm tan, li sipòte akonplisman angajman peyi yo te pran nan kad Ajenda 2030 pou akonplisman Objektif Devlopman Dirab yo ak lòt objektif ki gen rapò ak konsèvasyon byodivèsite ak batay kont dezètifikasyon epi chanjman klimatik la."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala5/palmeras.jpg",
+            "alt1": "Palmye, Kiba",
+            "name1": "Palmye, Kiba",
+
+            "imagen2": "./imagenes/sala5/lagoenrique.jpg",
+            "alt2": "Lak Enriquillo, nan peyi panyòl (Repiblik Dominikèn)",
+            "name2": "Lak Enriquillo, nan peyi panyòl (Repiblik Dominikèn)"
+        },
+        "background": "#528641",
+        "colorText": "#fff"
+    },
+
+    "section28" : {
+        "title": "Mesaj final",
+        "contenido": ["Avèk istwa siksè li ki pwouve, inisyativ CBC a gen opòtinite pou grandi ak pote kole, depi youn nan pwen cho byodivèsite nan mond lan, nan pwogram mondyal ki pi ijan pou limanite yo. Li gen entansyon pote kole ak aksyon li yo nan fòje espwa pou yon avni pi bon, kote zile nou yo ap prezante yon nati vivan, divès, olistik ak an sante, epi kote resous yo ap itilize avèk sajès epi yon fason ki dirab pa yon sosyete karibeyèn ki enklizif, egal epi pwospè.",
+                    "CBC espere ke ya va wè nati pataje Karayib la tankou yon rejyon san fwontyè, tankou yon sèl kò ke yo dwe konsève pou jenerasyon jodia  ak sa kap vini demen yo."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala5/generacionfutura.jpg",
+            "alt1": "Jenerasyon kap vini yo esansyèl pou konsèvasyon pou lontan byodivèsite ak devlopman dirab nan Karayib la.",
+            "name1": "Jenerasyon kap vini yo esansyèl pou konsèvasyon pou lontan byodivèsite ak devlopman dirab nan Karayib la.",
+
+            "imagen2": "./imagenes/sala5/atardecerfinal.jpg",
+            "alt2": "Kouche solèy nan yon ekosistèm zòn kote yo nan Montecristi nan peyi panyòl, (Repiblik Dominikèn)",
+            "name2": "Kouche solèy nan yon ekosistèm zòn kote yo nan Montecristi nan peyi panyòl, (Repiblik Dominikèn)"
+        },
+        "background": "#fff",
+        "colorText": "#181818"
+    },
+
+    "section29" : {
+        "backLink": "/Sala4",
+        "nextLink": "/"
+    },
+
+    "footer": {
+        "title": "“El CBC es Paz”",
+        "contenido": ["Iniciativa gubernamental de cuatro países: Cuba, Haití, República Dominicana y Puerto Rico. Financiada por la Unión Europea (UE) y apoyada por el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA).",
+                    "Sede de la Secretaría del CBC República Dominicana, Miembros",
+                    "© 2020, Centro de Información y Gestión Tecnológica de Santiago de Cuba, MEGACEN."],
+        "subtitle": "Instituciones que participan",
+        "instituciones": ["Ministerio de Ciencia, Tecnología y Medio Ambiente de la República de Cuba",
+                        "Ministerio de Medio Ambiente de Haití","Ministerio de Medio Ambiente y Recursos Naturales de República Dominicana",
+                        "Unión Europea","PNUMA","Naciones Unidas en Cuba","Naciones Unidas en Haití","Naciones Unidas en República Dominicana",
+                        "Portal del Medio Ambiente de Cuba","BIOECO","CEDAF"]        
+    }
+}

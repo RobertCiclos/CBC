@@ -1,0 +1,294 @@
+{   
+    "section1" : {
+        "img" : "./imagenes/sala1/hero-sala1.jpg",
+        "title": "Koneksyon Ekolojik ak Koridò Byolojik nan Karayib la",
+        "sala": "Sal 1"
+    },
+    
+    "section2" : {
+        "contenido": ["Yo rekonèt Karayib Ensilè a pou richès nan sa ki gen pou wè ak tout espès ki vivan sa gwo save yo rele biodivèsite li yo ak ekosistèm li yo, omenm jan ak gwo kantite espès endemik, sa vle di inik nan kote a. Se poutèt sa li se youn nan “pwen cho” byodivèsite mondyal la.",
+                       "Anplis de sa, Gwo Zantiy yo, lè yo sèvi kòm yon pon koneksyon ekolojik ant Amerik di Nò ak Amerik di Sid, yo konnen kòm yon koridò byolojik ki gen anpil valè ki gen konsèvasyon se yon priyorite.",
+                     "Fè fas ak menas li anba yo, pwoteksyon ekosistèm li yo ak pwosesis natirèl ki nesesè pou asire yon demen miyò pou rejyon an.",
+                    "Se poutèt sa yo te kreye Koridò Byolojik nan Karayib la (ki gen sig li an franse CBC), yon inisyativ gouvènman Kiba, Ayiti, Repiblik Dominikèn, Pòtoriko ak Jamayik te fèk rantre ladan, ki gen pou objektif ankouraje aksyon nan tèt ansanm kop pote kole nan konsèvasyon, koneksyon. ak antretyen sèvis ekosistèm nan rejyon an." ]
+    },
+
+    "section3" : {
+        "title": "Karayib la ak byodivèsite ki enpòtan anpil li yo",
+        "contenido": ["Karayib la abrite yon pòsyon enpòtan nan nan sa ki gen pou wè ak tout espès ki vivan sa gwo save yo rele byodivèsite mondyal la, se poutèt sa yo konsidere li kòm youn nan 35 “pwen cho” byodivèsite nan mond lan.",
+                     "Se zòn nan planèt la ki gen yon gwo pousantaj espès andemik, ki ekziste nan kote sa sèlman, oswa espès ki anba anpil  menas."],
+        "subtitle": null,
+        "imagen":  "./imagenes/sala1/mapa-puntos-calientes.jpg",
+        "description": ["Kat jeyografik pwen cho byodivèsite yo. Myers, N., Mittermeier, R, Mittermeier, C. et al. Biodiversity hotspots for conservation priorities. Nature 403, 853-858 (2000).",
+                        "https://doi.org/10.1038/35002501"],
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+    
+    "section4" : {
+        "title": "Divèsite biyolojik inik nan rejyon Karayib la",
+        "contenido": ["Gen abita (kote yo rete) ak ekosistèm ki inik nan Gwo Zantiy yo, sa ki lakòz nivo ki wo nan sak gen pou wè ak kantite ou jwenn selman nan zòn saa sou latè, sa gwo save rele andemis la. Sa vle di ak espès yo jwenn sèlman nan kote sa yo, tankou leza je wouj la nan Isla Cabritos, nan Pak Nasyonal Lago Enriquillo (Repiblik Dominikèn)."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala1/iguana-ricord.jpg",
+            "alt1": "Leza je wouj (Cyclura ricordii).",
+            "name1": "Leza je wouj (Cyclura ricordii).",
+
+            "imagen2": "./imagenes/sala1/isla-cabritos.jpg",
+            "alt2": "Isla Cabritos, Lago Enriquillo, Repiblik Dominikèn.",
+            "name2": "Isla Cabritos, Lago Enriquillo, Repiblik Dominikèn."
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+    
+    "section5" : {
+        "title": "Ki sa ki se yon koridò byolojik?",
+        "contenido": ["Li se yon espas sou latè oswa nan lanmè ki asire koneksyon ant peyizaj, ekosistèm ak abita yo nan objektif pou kenbe byodivèsite a ak pwosesis ekolojik ak tout lòt chanjman yo; epi tou, sou bò pal, asire espas pou konsiltasyon sosyal pou ankouraje konsèvasyon ak itilizasyon dirab resous natirèl yo."],        
+        "imagen1": "./imagenes/sala1/img-ecosistema-manglar.jpg",
+        "alt1": "Yon ekosistèm mangwòv Karayib la, yon pepinyè pou pwason ak sa yo ki pa gen eskèlèt sa gwo save yo rele envètebre yo.",
+        "description": "Yon ekosistèm mangwòv Karayib la, yon pepinyè pou pwason ak sa yo ki pa gen eskèlèt sa gwo save yo rele envètebre yo.",
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+
+    "section7" : {
+        "title": "Koridò Byolojik nan Karayib ensilè a",
+        "contenido": ["Imaj satelit la montre kèk wout migrasyon ak diferan koneksyon nan CBC. Nou wè egzanp koneksyon rejyonal tankou wout migrasyon zwazo rapas, tòti lanmè ak reken balèn, nou ka wè tou kote pwason ak mewou yo peple ak zòn yo gaye lav pwason resif yo."],
+        "subtitle": null,
+        "imagen":  "./imagenes/sala1/mapa-antillas.jpg",
+        "description": ["Kat jeyografik Gwo Zantiy yo ki montre kèk egzanp koneksyon nan CBC a."],
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section8" : {
+        "title": "Konsève byodivèsite nan Karayib ensilè a",
+        "contenido": ["Nan Gwo Zantiy yo, CBC te idantifye zòn ki gen gwo richès espès ak nivo ki ba nan transfòmasyon imen. Zòn sa yo klase kòm priyoritè pou konsèvasyon epi yo konnen yo kòm “zòn nwayo” ki gen enpòtans pou konsèvasyon."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala1/bosque-seco.jpg",
+            "alt1": "Forè sèk nan pak nasyonal Desembarco del Granma nan Kiba.",
+            "name1": "Forè sèk nan pak nasyonal Desembarco del Granma nan Kiba.",
+
+            "imagen2": "./imagenes/sala1/reinita-azulada.jpg",
+            "alt2": "Paruline ble (Dendroica caerulescens).",
+            "name2": "Paruline ble (Dendroica caerulescens)."
+        },
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+
+    "section9" : {
+        "title": "Zòn nwayo pou konsèvasyon nan CBC",
+        "contenido": ["Delimitasyon aktyèl CBC a kouvri yon sipèfisi total 199 703 kilomèt kare, ki gen 40 434 kilomèt kare (20.2%) ki se zòn nwayo pou konsèvasyon ak 159 269 kilomèt kare (79.8%) ki se zòn koneksyon."],
+        "subtitle": "Zòn nwayo pou konsèvasyon nan CBC",
+        "colorSubtitle": "#103A62",
+        "imagen":  "./imagenes/sala1/mapa-areas-identificadas.jpg",
+        "description": ["Kat zòn ki idantifye kòm nwayo konsèvasyon nan delimitasyon Koridò Byolojik nan Karayib la, ki soti nan sistèm entegre jesyon konesas (IKMS) CBC a."],
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section10" : {
+        "title": "Lòt zòn nwayo pou konsèvasyon",
+        "contenido": ["Forè imid Karayib yo fè pati kèk nan zòn nwayo ki enpòtan pou konsèvasyon ak sekirite dlo nan CBC a.",
+                        "Ekosistèm sa yo pran dlo a, pwoteje epi kenbe debi rivyè yo, kidonk diminye risk inondasyon."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala1/el-yunque.jpg",
+            "alt1": "El Yunque, Pòtoriko",
+            "name1": "El Yunque, Pòtoriko",
+
+            "imagen2": "./imagenes/sala1/bosque-humedo.jpg",
+            "alt2": "Forè imid",
+            "name2": "Forè imid"
+        },
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+
+    "section11" : {
+        "title": "Koneksyon ekolojik",
+        "contenido": ["Koneksyon ekolojik konsidere kòm yon pati peyizaj lagen ki gen matyè ak enèji kap koule natirèlman ant diferan ekosistèm, epi li esansyèl pou konsèvasyon lanati.",
+                        "Koneksyon ekolojik pèmèt deplasman ak gaye an sekirite bèt sovaj yo nan nwayo ki konsève yo.",
+                            "Si koneksyon sa a ta pèdi, li ta deranje espès ki nan ekosistèm yo, jan yo peple, nan jan yo ka kenbe fòm yo nan tan ki pa fasil yo (rezilyans) ak kapasite ekosistèm yo pou yo kapab rapousib ak  sèvis anviwònmantal pou moun."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala1/manglares-montecristi1.jpg",
+            "alt1": "Mangwòv Montecristi konekte ak resif koray (nan peyi panyòl) Repiblik Dominikèn",
+            "name1": "Mangwòv Montecristi konekte ak resif koray (nan peyi panyòl) Repiblik Dominikèn",
+
+            "imagen2": "./imagenes/sala1/manglares-montecristi2.jpg",
+            "alt2": "Mangwòv Montecristi konekte ak resif koray (nan peyi panyòl) Repiblik Dominikèn",
+            "name2": "Mangwòv Montecristi konekte ak resif koray (nan peyi panyòl) Repiblik Dominikèn"
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section12" : {
+        "title": "Depi mòn lan rive nan lanmè a",
+        "contenido": ["Nan diferan kote nan CBC a, ou ka wè yon egzanp koneksyon ekolojik ant ekosistèm kotyè ak mòn, ki pèmèt mouvman kèk espès, epi tou sèvis anviwònmantal ke lanati bay.",
+                        "CBC ap chèche kenbe ak retabli koneksyon ekolojik la nan zòn entèvansyon li yo, epi tou redwi presyon ak menas ki sou tèt li yo."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala1/transicion-parque.jpg",
+            "alt1": "Tranzisyon soti Pic Makaya pou rive nan kòt ayisyen Karayib la.",
+            "name1": "Tranzisyon soti Pic Makaya pou rive nan kòt ayisyen Karayib la.",
+
+            "imagen2": "./imagenes/sala1/colibri-mellisuga.jpg",
+            "alt2": "Colibrí (Mellisuga helenae) alimentándose.",
+            "name2": "Colibrí (Mellisuga helenae) alimentándose."
+        },
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+
+    "section13" : {
+        "title": "Enpòtans koneksyon",
+        "contenido": ["Espès, tankou èg pechè yo, ki emigre detanzantan pa rekonèt fwontyè politik-administratif ant nasyon yo.",
+                        "Kenbe koneksyon nan rejyon an mande pou tèt kole nan aksyon rejyonal pi lwen pase fwontyè yo nan Karayib ensilè a."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala1/matorral-cactaceo.jpg",
+            "alt1": "Touf bwa ak gwo rakèt ki gen relasyon ak ekosistèm lanmè yo.",
+            "name1": "Touf bwa ak gwo rakèt ki gen relasyon ak ekosistèm lanmè yo.",
+
+            "imagen2": "./imagenes/sala1/aguila-pescadora.jpg",
+            "alt2": "Èg pechè (Pandion haliaetus), nan peyi panyòl, Repiblik Dominikèn.",
+            "name2": "Èg pechè (Pandion haliaetus), nan peyi panyòl, Repiblik Dominikèn."
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section14" : {
+        "title": "Zòn ki enpòtan pou koneksyon nan CBC a",
+        "contenido": ["Kat sa a mete aksan sou zòn ki te idantifye kòm priyoritè pou koneksyon nan koridò a, pandan lap montre zòn nwayo pou konsèvasyon e ki gen enpòtans pou retabli koneksyon an.",
+                        "Fòk sa note ke 92.5% nan zòn maren an ( zòn lanmè a ) se zòn ki gen enpòtans pou koneksyon epi zòn tèrès la se 56.7%."],
+        "subtitle": "Zòn koneksyon nan Koridò Byolojik nan Karayib la",
+        "colorSubtitle": "#FFFFFF",
+        "imagen":  "./imagenes/sala1/mapa-actual.jpg",
+        "description": ["Kat delimitasyon aktyèl koridò a, ki mete aksan sou zòn yo idantifye kòm enpòtan pou koneksyon nan Koridò Byolojik nan Karayib la, ansanm ak zòn nwayo ki enpòtan pou konsèvasyon."],
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+
+    "section15" : {
+        "title": "Menas pou byodivèsite nan Karayib la",
+        "contenido": ["Byodivèsite Karayib la vin vilnerab akòz yo pa byen itilize resous natirèl yo, polisyon ak degradasyon ekosistèm yo.",
+                        "Aktivite moun ki pa dirab, kwasans popilasyon dezòdone ak bezwen resous yo te alimante debwazman ak degradasyon ekosistèm lanmè a  ak zòn mot yo",
+                            "Ogmantasyon nivo lanmè yo, ogmantasyon entansite ak frekans siklòn yo, tanpèt twopikal ak sechrès se kèk nan konsekans chanjman klimatik, ki afekte ekosistèm, kominote lokal yo ak mwayen pou yo viv , ansanm ak byodivèsite rejyon an."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala1/redes-abandonadas.jpg",
+            "alt1": "Filè resif ki abandone: move pratik lapèch.",
+            "name1": "Filè resif ki abandone: move pratik lapèch.",
+
+            "imagen2": "./imagenes/sala1/suelos-degradados.jpg",
+            "alt2": "Tè ki degrade",
+            "name2": "Tè ki degrade"
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section16" : {
+        "title": "CBC travay apwòch",
+        "contenido": ["Ekip CBC a konsantre sou konsèvasyon divèsite biyolojik, an patikilye nan asire lyen ki genyen ant peyizaj, ekosistèm ak abita Karayib la."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala1/monitoreo-arrecifes.jpg",
+            "alt1": "Etid resif yo nan Jardines de la Reina, Kiba.",
+            "name1": "Etid resif yo nan Jardines de la Reina, Kiba.",
+
+            "imagen2": "./imagenes/sala1/equipo-CBC.jpg",
+            "alt2": "Ekip CBC k ap fè aktivite etid divèsite biyolojik nan Gwo Zantiy yo.",
+            "name2": "Ekip CBC k ap fè aktivite etid divèsite biyolojik nan Gwo Zantiy yo."
+        },
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+
+    
+    "section17" : {
+        "title": "Konsèvasyon, itilizasyon dirab ak restorasyon",
+        "contenido": ["Zòn nwayo, maren ak terès yo, se zòn pwoteje ak lòt zòn ki enpòtan pou koneksyon ki fòme yo.",
+                        "Pou kenbe koneksyon sa yo, li esansyèl pou ankouraje restorasyon ekosistèm yo, tankou plante espès koray, rebwazman ak itilizasyon dirab resous natirèl yo."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala1/pinares-cuba.jpg",
+            "alt1": "Forè Pen nan Kiba",
+            "name1": "Forè Pen nan Kiba",
+
+            "imagen2": "./imagenes/sala1/peces-cirujano.jpg",
+            "alt2": "Pwason chirijyen sou resif koray Ispanyola.",
+            "name2": "Pwason chirijyen sou resif koray Ispanyola."
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section18" : {
+        "title": "Sipò pou jesyon zòn ki pwoteje yo",
+        "contenido": ["Inisyativ la gen pou objektif ankouraje konsèvasyon epi amelyore jesyon zòn pwoteje ki gen enpòtans rejyonal yo, se yon travay ke CBC a fè ansanm ak sistèm zòn pwoteje, ministè anviwònman ak patnè epi aktè lokal nan peyi CBC yo."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala1/salto-guayabo.jpg",
+            "alt1": "Kaskad Guayabo nan zòn tanpon Pak Nasyonal La Mensura, Kiba.",
+            "name1": "Kaskad Guayabo nan zòn tanpon Pak Nasyonal La Mensura, Kiba.",
+
+            "imagen2": "./imagenes/sala1/cardumenes-protegidos.jpg",
+            "alt2": "Bank ki pwoteje nan Cayo Largo, Kiba.",
+            "name2": "Bank ki pwoteje nan Cayo Largo, Kiba."
+        },
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+
+    "section19" : {
+        "title": "Travay lokal nan CBC",
+        "contenido": ["CBC travay ak patnè epi aktè lokal yo pou atake pwoblèm ki menase byodivèsite a.",
+                        "Atravè aksyon sa yo, nou chache ankouraje yon fason yap viv ki dirab pou kominote yo, ki bò pa yo, kontribiye nan konsèvasyon an."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala1/cultivos-cafe1.jpg",
+            "alt1": "Kilti kafe nan yon pepinyè agwoforestye nan Pic Makaya, Ayiti.",
+            "name1": "Kilti kafe nan yon pepinyè agwoforestye nan Pic Makaya, Ayiti.",
+
+            "imagen2": "./imagenes/sala1/cultivos-cafe2.jpg",
+            "alt2": "Kilti kafe nan yon pepinyè agwoforestye nan Pic Makaya, Ayiti.",
+            "name2": "Kilti kafe nan yon pepinyè agwoforestye nan Pic Makaya, Ayiti."
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section20" : {
+        "title": "Peyizaj ki peple anpil epi ki pote kole nan koneksyon an",
+        "contenido": ["CBC a gen ladann anpil teritwa san pwoteksyon ki fè pati rezo ekolojik li a, zòn ki gen peyizaj ki peple  ki ede kenbe koneksyon ekolojik rejyonal la, ansanm ak byen ak sèvis ekosistèm yo bay yo.",
+                        "Lè nou mete sou pye aksyon konsèvasyon, restorasyon ekolojik ak itilizasyon dirab, tankou kilti kafe, apikilti oswa agwoforestri, nou chache amelyore lavi kominote yo ki, bò kote pa yo, pote kole nan koneksyon ant peyizaj ak konsèvasyon nan sa ki gen pou wè ak tout espès ki vivan sa gwo save yo rele byodivèsite a."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala1/apicultura-cosecha1.jpg",
+            "alt1": "Apikilti ak rekòt grenn kafe, aktivite ki bay ranman e ki dirab nan Karayib la.",
+            "name1": "Apikilti ak rekòt grenn kafe, aktivite ki bay ranman e ki dirab nan Karayib la.",
+
+            "imagen2": "./imagenes/sala1/apicultura-cosecha2.jpg",
+            "alt2": "Apikilti ak rekòt grenn kafe, aktivite ki bay ranman e ki dirab nan Karayib la.",
+            "name2": "Apikilti ak rekòt grenn kafe, aktivite ki bay ranman e ki dirab nan Karayib la."
+        },
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+
+    "section21" : {
+        "img": "./imagenes/sala1/barcosala1.jpg",
+        "description": "Pechè atizanal nan baryè resif koray, Les Cayemites, Ayiti."
+    },
+
+    "section22" : {
+        "contenido": "Nan sal kap vini an, w ap jwenn plis enfòmasyon sou kèk espès ke konsèvasyon yo ki priyoritè nan kad CBC a.",
+        "backLink": "/",
+        "nextLink": "/Sala2"
+    },
+
+    "footer": {
+        "title": "“CBC se Koneksyon”",
+        "subtitle": "Instituciones relacionadas",
+        "instituciones": ["Ministerio de Ciencia, Tecnología y Medio Ambiente de la República de Cuba",
+                        "Ministerio de Medio Ambiente y Recursos Naturales de República Dominicana",
+                        "Departamento de Recursos Naturales y Ambientales del Gobierno de Puerto Rico"
+                        ,"Ministerio de Medio Ambiente de Haití","Ministry of Economic Growth and Job Creation of Jamaica (MEGJC)",
+                        "Unión Europea",
+                        "PNUMA"]        
+    }
+}

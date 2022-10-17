@@ -230,19 +230,18 @@
     },
 
     "section18" : {
-        "title": "Acciones con otros socios",
-        "contenido": ["El CBC adelanta también acciones con otros socios para el desarrollo de proyectos que apuntan a:",
-                    "1) Fortalecer con FUNDEMAR el monitoreo de manatíes en República Dominicana.",
-                    "2) El fortalecimiento de la institucionalidad y capacitación de actores locales para fomentar el ecoturismo en el Parque Nacional La Visite en Haití, el cual hace parte de la Reserva de la Biósfera Transfronteriza Jaragua, Bahoruco-Enriquillo, a través del Ministerio de Ambiente de Haití.",
-                    "3) La continuación de acciones de monitoreo de aves liderado por BIOECO en Cuba."],
+        "title": "Agricultura orgánica",
+        "contenido": ["El Parque Nacional Macaya de Haití, es uno de los sitios con mayor riqueza de especies de todo el Caribe insular, y se halla bajo fuertes presiones humanas. Por ello, es una de las prioridades del CBC en ese país.",
+                    "Allí, como en otros sitios del corredor, el trabajo de las organizaciones locales constituye una fuerza esencial para materializar la conservación y uso sostenible en los sitios prioritarios de la Iniciativa. La fundación Nouvelle Grande Ansé (FNGA) desarrolla y cuida viveros de café y hortalizas ubicadas a 800 metros de altura en la zona de amortiguamiento del parque.",
+                    "Allí, jóvenes del área están aprendiendo los beneficios y ventajas de la agricultura orgánica. El enfoque socioambiental de la FNGA abarca una amplia variedad de proyectos y actividades que tienen como fin mejorar la calidad de vida de la gente del lugar e impulsar la conservación de la particular naturaleza del área. Este es un ejemplo a impulsar en otras áreas de importancia para el CBC."],
         "imagenes": {
             "imagen1": "./imagenes/sala5/miembrosdelacomun.jpg",
-            "alt1": "Miembros de la comunidad preparando pacas de pasto marino para alimentar manatíes.",
-            "name1": "Miembros de la comunidad preparando pacas de pasto marino para alimentar manatíes.",
+            "alt1": "Semillas de café, Haití.",
+            "name1": "Semillas de café, Haití.",
 
             "imagen2": "./imagenes/sala5/miembrosdelacomun2.jpg",
-            "alt2": "Miembro de la comunidad alimentando manatíes.",
-            "name2": "Miembro de la comunidad alimentando manatíes."
+            "alt2": "Semillas de café, Haití.",
+            "name2": "Semillas de café, Haití."
         },
         "background": "#fff",
         "colorText": "#181818"

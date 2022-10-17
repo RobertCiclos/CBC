@@ -230,19 +230,18 @@
     },
 
     "section18" : {
-        "title": "Actions avec d'autres partenaires",
-        "contenido": ["CBC travaille également avec d'autres partenaires pour développer des projets visant à :",
-                    "1) Renforcer avec FUNDEMAR l’étude des lamantins en République Dominicaine. ",
-                    "2) Renforcement institutionnel et formation des acteurs locaux pour promouvoir l'écotourisme dans le Parc National de La Visite en Haïti, qui fait partie de la réserve de biosphère transfrontalière de Jaragua, Bahoruco-Enriquillo, par le biais du Ministère de l'Environnement d’Haïti.",
-                    "3) La poursuite des actions d’études des oiseaux menées par BIOECO à Cuba."],
+        "title": "Agriculture biologique",
+        "contenido": ["Le Parc National Pic Macaya en Haïti est l'un des sites les plus riches en espèces des Caraïbes insulaires et subit une forte pression humaine. Il constitue donc l'une des priorités de CBC dans ce pays.",
+                    "Là, comme ailleurs dans le corridor, le travail des organisations locales est une force essentielle pour réaliser la conservation et l'utilisation durable dans les sites prioritaires de l'Initiative. La Fondation Nouvelle Grande-Anse (FNGA) développe et entretient des pépinières de café et de légumes situées à 800 mètres d'altitude dans la zone tampon du parc.",
+                    "Les jeunes de la région y apprennent les avantages et les bénéfices de l'agriculture biologique. L'approche socio-environnementale de la FNGA englobe une grande variété de projets et d'activités visant à améliorer la qualité de vie de la population locale et à promouvoir la conservation de la nature unique de la région. C'est un exemple à promouvoir dans d'autres domaines importants pour la CBC."],
         "imagenes": {
             "imagen1": "./imagenes/sala5/miembrosdelacomun.jpg",
-            "alt1": "Des membres de la communauté préparent des ballots d'herbes marines pour nourrir les lamantins.",
-            "name1": "Des membres de la communauté préparent des ballots d'herbes marines pour nourrir les lamantins.",
+            "alt1": "Graines de café, Haïti",
+            "name1": "Graines de café, Haïti",
 
             "imagen2": "./imagenes/sala5/miembrosdelacomun2.jpg",
-            "alt2": "Membre de la communauté nourrissant des lamantins.",
-            "name2": "Membre de la communauté nourrissant des lamantins."
+            "alt2": "Graines de café, Haïti",
+            "name2": "Graines de café, Haïti"
         },
         "background": "#fff",
         "colorText": "#181818"
