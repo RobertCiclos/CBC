@@ -1,0 +1,397 @@
+{
+
+    "section1" : {
+        "img" : "./imagenes/sala2/hero-sala2-min.jpg",
+        "title": "PRIORITY SPECIES FOR THE CARIBBEAN BIOLOGICAL CORRIDOR",
+        "sala": "Room 2"
+    },
+
+    "section2" : {
+        "contenido": ["Due to the high biodiversity richness in the CBC, carrying out conservation and monitoring actions for priority species is essential.",
+                        "For this reason, the CBC has prioritized species, groups of species, and representative ecosystems, shared among countries, with identified threats, and that are highly vulnerable to climate change, as conservation and monitoring targets.",
+                            "Currently, the CBC has a list of 138 species selected as potential conservation and monitoring targets; some of these are presented in this room. This listing is a key element for the development of the conservation strategy of the Caribbean Biological Corridor (CBC).",
+                                "Starting from the 138 identified species, an analysis was carried out that included regrouping them according to their biological characteristics. As a result, a total of 14 species or groups of threatened species, that are conservation priorities of the CBC was obtained:" ]
+    },
+
+    "section3":{
+        "nombre1": "Bicknell’s thrush",
+        "img1": "./imagenes/sala2/animales/tordo-min.png",
+        "nombre2": "Diablotin",
+        "img2":"./imagenes/sala2/animales/diablotin-min.png",
+        "nombre3": "Birds of prey (2)",
+        "img3":"./imagenes/sala2/animales/rapaces-min.png",
+        "nombre4": "Amphibians (100)",
+        "img4":"./imagenes/sala2/animales/anfibios-min.png",
+        "nombre5": "Highly threatened endemic iguanas (3)",
+        "img5":"./imagenes/sala2/animales/iguanas-min.png",
+        "nombre6": "Threatened marine mammals (2)",
+        "img6":"./imagenes/sala2/animales/mamiferos-min.png",
+        "nombre7": "Solenodons (2)",
+        "img7":"./imagenes/sala2/animales/roedores-min.png",
+        "nombre8": "Endemic rodents (4)",
+        "img8":"./imagenes/sala2/animales/solenodontes-min.png",
+        "nombre9": "Sea turtles (4)",
+        "img9":"./imagenes/sala2/animales/tortugas-min.png",
+        "nombre10": "Highly threatened crocodiles (2)",
+        "img10":"./imagenes/sala2/animales/cocodrilos-min.png",
+        "nombre11": "Reef-forming corals (4)",
+        "img11":"./imagenes/sala2/animales/corales-min.png",
+        "nombre12": "Sharks and rays (7)",
+        "img12":"./imagenes/sala2/animales/tiburones-min.png",
+        "nombre13": "Snappers and groupers (6)",
+        "img13":"./imagenes/sala2/animales/pargos-min.png",
+        "nombre14": "American eel",
+        "img14":"./imagenes/sala2/animales/anguila-min.png"
+
+    },
+
+    "section5" : {
+        "img" : "./imagenes/sala2/especies-migratorias.jpg",
+        "title": "MIGRATORY SPECIES"
+    },
+
+    "section6" : {
+        "indicador" : "Migratory species",
+        "colorIndicador" : "#85BD70",
+        "title": "BICKNELL'S THRUSH",
+        "contenido": ["It is one of the few species of passeriform birds in which males assist one or more females by feeding the chicks and where paternity is shared."],       
+        "imagen1": "./imagenes/sala2/tordo-bicknell-min.jpg",
+        "alt1": "Bicknell’s thrush (Catharus bicknelli)",        
+        "description": "Bicknell’s thrush (Catharus bicknelli)",
+        "background": "#103A62",
+        "colorText": "#FFFFFF"
+    },
+
+    "section7" : {
+        "indicador" : "Migratory species",
+        "colorIndicador" : "#103A62",
+        "title": "HAWKSBILL SEA TURTLE",
+        "contenido": ["The Hawksbill Sea Turtle is the most threatened marine species in the Caribbean, and is important for conservation in the CBC. It is critically endangered of extinction.",
+                        "The main threat is the illegal capture to trade its shell, used to make handicrafts. Also, it is pursued to consume some of its parts and eggs, due to the erroneous belief that they are an aphrodisiac."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/tortuga-carey1.jpg",
+            "alt1": "Hawksbill sea turtle (Eretmochelys imbricata)",
+            "name1": "Hawksbill sea turtle (Eretmochelys imbricata)",
+
+            "imagen2": "./imagenes/sala2/tortuga-carey2.jpg",
+            "alt2": "Sur la photo, une tortue carey (Eretmochelys imbricata) à Jardines de la Reina, Cuba.",
+            "name2": "Sur la photo, une tortue carey (Eretmochelys imbricata) à Jardines de la Reina, Cuba."
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section8" : {
+        "indicador" : "Migratory species",
+        "colorIndicador" : "#85BD70",
+        "title": "WHALE SHARK",
+        "contenido": ["Is the largest existing fish that inhabits all the tropical seas of the world.",
+                        "They are differentiated by the stain patterns that are unique to each individual.",
+                            "Given it is highly threatened by fisheries and that it is in danger of extinction, the CBC has prioritized it as a conservation priority."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/tiburon-ballena1.jpg",
+            "alt1": "Whale Shark (Rhincodon typus)",
+            "name1": "Whale Shark (Rhincodon typus)",
+
+            "imagen2": "./imagenes/sala2/tiburon-ballena2.jpg",
+            "alt2": "Whale Shark (Rhincodon typus)",
+            "name2": "Whale Shark (Rhincodon typus)"
+        },
+        "background": "#103A62",
+        "colorText": "#FFFFFF"
+    },
+
+    "section9" : {
+        "indicador" : "Migratory species",
+        "colorIndicador" : "#85BD70",
+        "title": "GIANT MANTA RAY",
+        "contenido": ["This species feeds on zooplankton and inhabits tropical and subtropical marine waters.",
+                        "It is the largest ray there is. Its name comes from the fact that  it can reach a wingspan of up to 7 meters and weigh 2000 kg. Unlike other ray species, this one does not have a venomous stinger on its tail.",
+                            "It is highly threatened by fisheries for the consumption of its gill plates. This highly threatened species has been prioritized for conservation by the CBC."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/manta-gigante1.jpg",
+            "alt1": "Manta ray or Giant manta ray (Mobula birostris)",
+            "name1": "Manta ray or Giant manta ray (Mobula birostris)",
+
+            "imagen2": "./imagenes/sala2/manta-gigante2.jpg",
+            "alt2": "Manta ray or Giant manta ray (Mobula birostris)",
+            "name2": "Manta ray or Giant manta ray (Mobula birostris)"
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section10" : {
+        "img" : "./imagenes/sala2/especies-endemicas.jpg",
+        "title": "ENDEMIC SPECIES"
+    },
+
+    "section11" : {
+        "indicador" : "Endemic species",
+        "colorIndicador" : "#85BD70",
+        "title": "SOLENODONS",
+        "contenido": ["Over the past 60 million years, they practically have not presented any modifications.",
+                        "They are nocturnal mammals, highly threatened, in danger of extinction, that are only found in Cuba and La Hispaniola.",
+                            "They are threatened by habitat destruction and fragmentation due to deforestation and mining and are predated by introduced animals."],       
+        "imagen1": "./imagenes/sala2/solenodontes.jpg",
+        "alt1": "Cuban Solenodon (Solenodon cubanus) or Hispaniolan Solenodon (Solenodon paradoxus). Image courtesy of SOH Conservation.",        
+        "description": "Cuban Solenodon (Solenodon cubanus) or Hispaniolan Solenodon (Solenodon paradoxus). Image courtesy of SOH Conservation.",
+        "background": "#103A62",
+        "colorText": "#FFFFFF"
+    },
+
+    "section13" : {
+        "indicador" : "Endemic species",
+        "colorIndicador" : "#103A62",
+        "title": "RICORD'S IGUANA",
+        "contenido": ["It is an endemic species, highly threatened, critically endangered of extinction, that lives only in the south-central part of the island of La Hispaniola.",
+                        "According to estimates, between 2000 and 4000 individuals remain. Since 1970 the species density has decreased due to the transformation of its habitat for agricultural use and charcoal production. Also due to hunting, illegal trade, limestone mining, and the introduction of exotic species."],
+        "imagen1": "./imagenes/sala2/iguana-ricord-min.jpg",
+        "alt1": "Ricord’s Iguana (Cyclura ricordii)",        
+        "description": "Ricord’s Iguana (Cyclura ricordii)",
+        "background": "#ffffff",
+        "colorText": "#181818"
+    },
+
+    "section14" : {
+        "indicador" : "Endemic species",
+        "colorIndicador" : "#85BD70",
+        "title": "AMPHIBIANS",
+        "contenido": ["In the Caribbean, 75% of amphibian species are endangered or already extinct. The list of conservation priorities includes 115 species.",
+                        "The majority of these amphibians are frogs affected by habitat loss, invasive species, exploitation, and diseases.",
+                            "The Monte Iberia Dwarf Frog is one of the smallest frogs in the world. It is found in a few localities in Cuba."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/rana-rio.jpg",
+            "alt1": "Cuban Streamside Frog (Eleutherodactylus riparius), Cuba.",
+            "name1": "Cuban Streamside Frog (Eleutherodactylus riparius), Cuba.",
+
+            "imagen2": "./imagenes/sala2/ranita-iberia.jpg",
+            "alt2": "Monte Iberia Dwarf Frog (Eleutherodactylus iberia), Cuba.",
+            "name2": "Monte Iberia Dwarf Frog (Eleutherodactylus iberia), Cuba."
+        },
+        "background": "#103A62",
+        "colorText": "#FFFFFF"
+    },
+
+    
+    "section15" : {
+        "img" : "./imagenes/sala2/especies-importantes.jpg",
+        "title": "OTHER SPECIES OF IMPORTANCE FOR CONSERVATION"
+    },
+
+    "section16" : {
+        "indicador" : "Other species of importance for conservation",
+        "colorIndicador" : "#103A62",
+        "title": "GIANT ATLANTIC GROUPER",
+        "contenido": ["Groupers are highly threatened by fisheries because of their valued meat.",
+                        "They can live up to 40 and 50 years.",
+                            "They live in a wide variety of habitats such as mangroves, reefs, and deep waters."],
+        "imagen1": "./imagenes/sala2/mero-gigante-min.jpg",
+        "alt1": "Giant Atlantic Grouper (Epinephelus itajara) in Cuba.",        
+        "description": "Giant Atlantic Grouper (Epinephelus itajara) in Cuba.",
+        "background": "#ffffff",
+        "colorText": "#181818"
+    },
+    
+    "section17" : {
+        "indicador" : "Other species of importance for conservation",
+        "colorIndicador" : "#85BD70",
+        "title": "AMERICAN CROCODILE",
+        "contenido": ["A reptile vulnerable to extinction. Its population in Hispaniola, restricted to lakes Enriquillo and Azuei, is critically endangered.",
+                        "Their main threats are illegal hunting for their skin, the loss of habitats due to coastal development and climate change.",
+                            "An excellent predator; almost any aquatic or terrestrial animal in its territory can become its prey."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/cocodrilo-americano1.jpg",
+            "alt1": "American crocodile (Crocodylus acutus)",
+            "name1": "American crocodile (Crocodylus acutus)",
+
+            "imagen2": "./imagenes/sala2/cocodrilo-americano2.jpg",
+            "alt2": "American crocodile (Crocodylus acutus)",
+            "name2": "American crocodile (Crocodylus acutus)"
+        },
+        "background": "#103A62",
+        "colorText": "#FFFFFF"
+    },
+
+    "section19" : {
+        "indicador" : "Other species of importance for conservation",
+        "colorIndicador" : "#103A62",
+        "title": "BLACK-CAPPED PETREL",
+        "contenido": ["A highly threatened marine bird with a wide area of residence.",
+                        "It is usually a monogamous bird, which means that once they mate, they can spend many years together.",
+                            "Feeds on small fish and squid found close to the sea surface."],
+        "imagen1": "./imagenes/sala2/diablotin-min.jpg",
+        "alt1": "Black-capped Petrel (Pterodroma hasitata) flying over the Caribbean Sea.",        
+        "description": "Black-capped Petrel (Pterodroma hasitata) flying over the Caribbean Sea.",
+        "background": "#ffffff",
+        "colorText": "#181818"
+    },
+
+    "section20" : {
+        "indicador" : "Other species of importance for conservation",
+        "colorIndicador" : "#85BD70",
+        "title": "WEST INDIAN MANATEE",
+        "contenido": ["A threatened herbivorous marine mammal, vulnerable to extinction and, in the case of the Caribbean, in danger of extinction.",
+                        "Controls its buoyancy and the horizontality of its body with the high amount of gasses produced while digesting the plant matter it consumes.",
+                            "The main threats it faces are; illegal hunting, habitat loss, coastal pollution, collisions with boats, and red tides."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/manati-antillano.jpg",
+            "alt1": "West Indian manatee (Trichecherus manatus)",
+            "name1": "West Indian manatee (Trichecherus manatus)",
+
+            "imagen2": "./imagenes/sala2/habitad-manati.jpg",
+            "alt2": "West Indian manatee (Trichechus manatus) habitat in Estero Hondo (Dominican Republic)",
+            "name2": "West Indian manatee (Trichechus manatus) habitat in Estero Hondo (Dominican Republic)"
+        },
+        "background": "#103A62",
+        "colorText": "#FFFFFF"
+    },
+
+    "section21" : {
+        "indicador" : "Other species of importance for conservation",
+        "colorIndicador" : "#103A62",
+        "title": "SPERM WHALE",
+        "contenido": ["A species that is considered vulnerable to extinction.",
+                        "Found in marine areas around the world from oceans to gulfs, except in very cold waters.",
+                            "They emit a wide range of sounds either to orient themselves, communicate or locate their prey."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/cachalote.jpg",
+            "alt1": "Sperm whale (Physeter macrocephalus) and its particular tail",
+            "name1": "Sperm whale (Physeter macrocephalus) and its particular tail",
+
+            "imagen2": "./imagenes/sala2/cabeza-cachalote.jpg",
+            "alt2": "Head of a sperm whale (Physeter macrocephalus) with a toothed jaw",
+            "name2": "Head of a sperm whale (Physeter macrocephalus) with a toothed jaw"
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section22" : {
+        "indicador" : "Other species of importance for conservation",
+        "colorIndicador" : "#85BD70",
+        "title": "Les coraux constructeurs de récifs",
+        "contenido": ["Les coraux constructeurs de récifs, également appelés coraux durs, jouent un rôle essentiel dans ces écosystèmes.",
+                        "Les polypes coralliens vivant en colonies sont capables d'extraire le calcium, dissous dans l'eau, et de le solidifier pour former leur squelette. Ces structures de carbonate de calcium constituent la base des récifs et abritent de nombreuses espèces qui vivent dans ces écosystèmes.",
+                            "Il existe plusieurs espèces considérées comme des espèces constructrices de récifs, notamment:"],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/coral-cuerno-siervo-min.jpg",
+            "alt2": "Corail corne d’élan (Acropora palmata).",
+            "name2": "Corail corne d’élan (Acropora palmata).",
+            "imagen2": "./imagenes/sala2/coral-cuerno-alce-min.jpg",
+            "alt1": "Corail corne de cerf (Acropora cervicornis)",
+            "name1": "Corail corne de cerf (Acropora cervicornis)"
+        },
+        "background": "#103A62",
+        "colorText": "#fff"
+    },
+
+        
+    "section23" : {
+        "img" : "./imagenes/sala2/especies-interes.jpg",
+        "title": "Espèces d'intérêt pour le CBC"
+    },
+
+    "section24" : {
+        "indicador" : "Espèces d'intérêt pour le CBC",
+        "colorIndicador" : "#103A62",
+        "title": "WESTERN OSPREY",
+        "contenido": ["Feeds mainly on fish (99% of its diet), which is why they live in areas close to water bodies",
+                        "The migration of this species is monitored by the CBC. It is considered under low   concern of extinction. ",
+                            "The species has suffered due to hunting, especially at its wintering sites, where juvenile birds are more likely to be hunted; also, when it stays close to fish farms."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/anidacion-aguila.jpg",
+            "alt1": "Nesting of western ospreys (Pandion halietus)",
+            "name1": "Nesting of western ospreys (Pandion halietus)",
+
+            "imagen2": "./imagenes/sala2/aguila-pescadora.jpg",
+            "alt2": "Western ospreys (Pandion halietus)",
+            "name2": "Western ospreys (Pandion halietus)"
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section26" : {
+        "indicador" : "Espèces d'intérêt pour le CBC",
+        "colorIndicador" : "#85BD70",
+        "title": "PASSERINE BIRDS",
+        "contenido": ["The passerines constitute 60% of bird species in the world. Many of them are migratory, such as the Indigo Bunting (Passerina cyanea), the Painted Bunting (Passerina cyris), and numerous species of Setophaga (Setophaga sp.).",
+                        "During their migrations they can form groups that include millions of individuals that can take up over 100km to cross specific areas. An example are the migrations across the Florida Strait.",
+                            "Due to their importance in ecological connectivity, these species are monitored by the CBC. Twice a year, the CBC team, and other partners on the field, in Cuba and Dominican Republic, carry out monitoring actions during the winter and spring migrations of numerous species of this important group of birds."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/candelita-nortena.jpg",
+            "alt1": "American redstart (Setophaga ruticilla)",
+            "name1": "American redstart (Setophaga ruticilla)",
+
+            "imagen2": "./imagenes/sala2/coral-cuerno-alce-min.jpg",
+            "alt2": "Yellow-throated warbler (Setophaga dominica)",
+            "name2": "Yellow-throated warbler (Setophaga dominica)"
+        },
+        "background": "#103A62",
+        "colorText": "#FFFFFF"
+    },
+
+    "section27" : {
+        "indicador" : "Espèces d'intérêt pour le CBC",
+        "colorIndicador" : "#103A62",
+        "title": "HUMPBACK WHALE",
+        "contenido": ["The humpback whale is found in all the oceans of the world and is an indicator of connectivity.",
+                        "It can reach up to 19 meters in length.",
+                            "The species used to be in high danger due to hunting. Since bans on whale hunting have been implemented, populations have been on the rise."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/ballena-jorobada.jpg",
+            "alt1": "Humpback whale (Megaptera novaeangliae).",
+            "name1": "Humpback whale (Megaptera novaeangliae).",
+
+            "imagen2": "./imagenes/sala2/bahia-samana.jpg",
+            "alt2": "Bahía de Samaná (Dominican Republic), boarding site for regulated whale watching activities.",
+            "name2": "Bahía de Samaná (Dominican Republic), boarding site for regulated whale watching activities."
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section28" : {
+        "indicador" : "Espèces d'intérêt pour le CBC",
+        "colorIndicador" : "#85BD70",
+        "title": "PARROTFISH",
+        "contenido": ["Parrotfish are abundant in tropical reefs around the world.",
+                        "Over 80 different species of parrotfish of different sizes, colors, and patterns have been identified.",
+                            "One of the most special characteristics of this species is it able to change its sex repeatedly throughout its life."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/pez-loro1.jpg",
+            "alt1": "Parrotfish (Sparisoma viride) in coral reefs of the Greater Antilles ",
+            "name1": "Parrotfish (Sparisoma viride) in coral reefs of the Greater Antilles ",
+
+            "imagen2": "./imagenes/sala2/pez-loro2.jpg",
+            "alt2": "Parrotfish (Sparisoma viride) in coral reefs of the Greater Antilles ",
+            "name2": "Parrotfish (Sparisoma viride) in coral reefs of the Greater Antilles "
+        },
+        "background": "#103A62",
+        "colorText": "#FFFFFF"
+    },
+
+    "section29" : {
+        "img": "./imagenes/sala2/agrupaciones-corales.jpg",
+        "description": "Groups of hard and soft corals in Les Cayemites, Haiti"
+    },
+
+    "section30" : {
+        "contenido": "In the next room you will find more information on some of the ecosystems prioritized for conservation in the CBC.",
+        "backLink": "/Sala1",
+        "nextLink": "/Sala3"
+    },
+
+    "footer": {
+        "title": "“THE CBC NATURE”",
+        "subtitle": "Instituciones relacionadas",
+        "instituciones": ["Ministerio de Ciencia, Tecnología y Medio Ambiente de la República de Cuba",
+                        "Ministerio de Medio Ambiente y Recursos Naturales de República Dominicana",
+                        "Departamento de Recursos Naturales y Ambientales del Gobierno de Puerto Rico"
+                        ,"Ministerio de Medio Ambiente de Haití","Ministry of Economic Growth and Job Creation of Jamaica (MEGJC)",
+                        "Unión Europea",
+                        "PNUMA"]        
+    }
+
+}

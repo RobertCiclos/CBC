@@ -1,0 +1,339 @@
+{   
+    "section1" : {
+        "img" : "./imagenes/sala3/fondo-sala3.jpg",
+        "title": "PRIORITY ECOSYSTEMS FOR THE CBC",
+        "sala": "ROOM 3"
+    },
+
+    "section2" : {
+        "contenido": ["The CBC Initiative contributes to achieving multiple targets of the Sustainable Development Goals (SDGs) by promoting and implementing actions for the protection of coastal, marine, and terrestrial ecosystems.",
+                        "One of its actions has been the identification of marine and terrestrial groups of priority ecosystems for conservation in the corridor. Ecosystems were evaluated spatially within their area of distribution to determine specific sites that have the highest conservation priority, according to the chosen selection criteria.",
+                            "The ecosystem groups prioritized for conservation in the CBC are: moist forests and pinewoods, dry forests and xerophytic scrubs, mangroves, and coral reefs." ]
+    },
+
+    "section3" : {
+        "title": "PRIORITY ECOSYSTEMS FOR THE CBC",
+        "contenido": ["The Caribbean Sea covers an area of 2.754 million km². Its coastal area is shared by nearly 25 countries, including islands and continental lands.",
+                        "Priority ecosystems for the CBC are key sites to maintain regional connectivity and areas that preserve representative ecosystems in the shared and threatened eco-regions. Such ecosystems are considered resilient to climate change; and are key for the conservation of migratory species, highly threatened endemic species, or with high dispersal potential."],
+
+        "subtitle": null,
+        "imagen":  "./imagenes/sala3/mapa-ecosistema.jpg",
+        "description": ["Map highlighting the priority ecosystems of the CBC, as well as sites of importance for target species for conservation and monitoring in the corridor."],
+        "background": "#528641",
+        "colorText": "#fff"
+    },
+
+    "section4" : {
+        "title": "CORAL REEFS",
+        "contenido": ["Coral reefs are very rich, diverse, and unique ecosystems of coastal and shallow areas in tropical regions. They form stony structures made up of hard and soft coral species as well as algae, providing shelter and food for a large number of fish, reptiles, and invertebrate species.",
+                        "They are interconnected with other ecosystems such as seagrass prairies and mangroves, due to existing nutrient cycles that are also linked to the development of different species."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala3/arrecife1.jpg",
+            "alt1": "Soft and hard corals, algae, sponges, and various invertebrates conform this shallow reef.",
+            "name1": "Soft and hard corals, algae, sponges, and various invertebrates conform this shallow reef.",
+
+            "imagen2": "./imagenes/sala3/arrecife2.jpg",
+            "alt2": "Soft and hard corals, algae, sponges, and various invertebrates conform this shallow reef.",
+            "name2": "Soft and hard corals, algae, sponges, and various invertebrates conform this shallow reef."
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section6" : {
+        "title": "REEFS IN CUBA AND LA HISPANIOLA",
+        "contenido": ["Coral reefs, along with other coastal and marine ecosystems, support most of the marine biodiversity of the Antilles.",
+                        "In particular, the coral reefs in Cuba and La Hispaniola (both in the Dominican Republic and Haiti) are of great importance for regional connectivity.",
+                            "Species such as reef fish, crustaceans, and corals fertilize their eggs and release them to be transported by ocean currents to sites where their larvae can settle, feed, and grow into juveniles and develop until they reach their reproductive age."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala3/pez-mariposa.jpg",
+            "alt1": "Banded butterflyfish (Chaetodon striatus) in a coral reef, Cuba.",
+            "name1": "Banded butterflyfish (Chaetodon striatus) in a coral reef, Cuba.",
+
+            "imagen2": "./imagenes/sala3/alevinimg.jpg",
+            "alt2": "Fry among coral polyps",
+            "name2": "Fry among coral polyps"
+        },
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+
+    "section7" : {
+        "title": "OTHER REEFS IN THE CARIBBEAN",
+        "contenido": ["Coral reefs are true nurseries for many species, and important for the livelihoods of coastal communities in the CBC. They contribute $6.8 billion each year to the global fisheries sector and almost $400 million to the Caribbean.",
+                        "They protect coastlines and are key to sustaining artisanal, commercial, and recreational fisheries. Moreover, they are a source of pharmacological products.",
+                            "Their unquestionable beauty and biodiversity are attractive for tourism and recreational diving, and it has been estimated that they bring between 700 and 2.2 billion dollars to the Caribbean each year."],
+        "imagen1": "./imagenes/sala3/otro-arrecife.jpg",
+        "alt1": "Shoals on reefs in the Greater Antilles.",        
+        "description": "Shoals on reefs in the Greater Antilles.",
+        "background": "#fff",
+        "colorText": "#181818"
+    },
+
+    "section8" : {
+        "title": "MANGROVES",
+        "contenido": ["Mangroves are rich producers of nutrients derived from the decomposition of organic matter; in addition, they also serve as a refuge for valuable species in their larval and juvenile stages."],
+        "imagen1": "./imagenes/sala3/manglares.jpg",
+        "alt1": "Healthy mangroves, Cuba",        
+        "description": "Healthy mangroves, Cuba",
+        "background": "#528641",
+        "colorText": "#FFF"
+    },
+
+    "section10" : {
+        "title": "MANGROVES IN THE CBC",
+        "contenido": ["Cuba, the largest archipelago in the Caribbean, with over 5000 km of coastline and more than 4000 predominantly low-lying islands and cays, is home to more than 5000 km2 of mangroves, representing more than 80% of all mangroves in the area. Next in importance are those on the Island of La Hispaniola.",
+                        "In La Hispaniola, mangroves are found in Montecristi, the northern coast from Samaná to Punta Cana, El Aljibe Point and Beata Point, and the mangroves of Tres Bahías, Bajo Yuna, and those located towards the eastern end of the island, are of high importance for connectivity.",
+                            "In Jamaica, they are found in small patches along the southern coast of the country, with some important connectivity patches north of the island. In the rest of the Antilles, patches of high priority are found."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala3/isladelavaca.jpg",
+            "alt1": "Mangroves, Vaca Island, Haiti.",
+            "name1": "Mangroves, Vaca Island, Haiti.",
+
+            "imagen2": "./imagenes/sala3/isladelavaca2.jpg",
+            "alt2": "Mangroves, Vaca Island, Haiti.",
+            "name2": "Mangroves, Vaca Island, Haiti."
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section11" : {
+        "title": "IMPORTANCE OF MANGROVES",
+        "contenido": ["In the Caribbean, mangroves function as nurseries for a variety of fish and invertebrates that spend their adult lives on coral reefs. Mangroves, coral reefs and seagrasses are connected ecosystems.",
+                        "These three habitats provide living space, food, protection, and shelter for more than 500 different species of fish, crustaceans and mollusks in the Caribbean region."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala3/importancia-manglares-1.jpg",
+            "alt1": "Mangroves, Dominican Republic.",
+            "name1": "Mangroves, Dominican Republic.",
+
+            "imagen2": "./imagenes/sala3/importancia-manglares-2.jpg",
+            "alt2": "Mangroves, Dominican Republic.",
+            "name2": "Mangroves, Dominican Republic."
+        },
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+
+    "section12" : {
+        "title": "WETLANDS AND CLIMATE CHANGE",
+        "contenido": ["The Zapata Swamp is the largest wetland in the insular Caribbean, where the mangrove ecosystem occupies a large part of its surface.",
+                        "These floodplain forests help slow the effects of climate change. They capture and store CO2, filter wastewater and air, act as a barrier against waves, impede the advancement of saline intrusion and prevent coastal erosion.",
+                            "However, many coastal areas and wetlands in the Caribbean are likely to suffer the impacts of climate change. The Zapata Swamp in Cuba, for example, could shrink by as much as 20% by the end of the century due to sea level rise, saline intrusion, and the impact of hurricanes.",
+                                "Protecting and restoring mangroves is an ecosystem-based adaptation measure that can help reduce the impact of climate change in the CBC and improve the livelihoods of the communities that depend on them."],
+        "imagen1": "./imagenes/sala3/cienaga-cuba.jpg",
+        "alt1": "Zapata Swamp, Cuba.",        
+        "description": "Zapata Swamp, Cuba.",
+        "background": "#fff",
+        "colorText": "#181818"
+    },
+
+
+    "section13" : {
+        "title": "FOREST ECOSYSTEMS IN THE CBC",
+        "contenido": ["Forest ecosystems are fundamental for water security in the Caribbean.",
+                        "However, forest cover in the Caribbean has been severely reduced in recent decades.",
+                            "For example, in Haiti, only 2% of the original forest cover remains, while in the Dominican Republic only 10% are left. This loss has been caused by human exploitation for agriculture and housing.",
+                                "As a consequence of deforestation, the region's biodiversity has been affected; amphibians have been greatly threatened by these changes, causing their populations to decline."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala3/parquemacaya.jpg",
+            "alt1": "Pic Macayá National Park, Haiti",
+            "name1": "Pic Macayá National Park, Haiti",
+
+            "imagen2": "./imagenes/sala3/parquehaitises.jpg",
+            "alt2": "Los Haitises National Park, Haiti",
+            "name2": "Los Haitises National Park, Haiti"
+        },
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+
+    "section14" : {
+        "title": "MOIST FORESTS AND PINEWOODS",
+        "contenido": ["Moist forests and pinewoods are ecosystems that support the water cycle, regulate river flows, prevent soil erosion, and contribute to water security.",
+                        "The moist forests and pinewoods in Cuba are found mainly in the western zone of the Guaniguanico mountain range, in the highest zones of the Sierra Maestra; and towards the eastern end of the island in the Pico Cristal and in the Cuchillas del Toa Biosphere Reserve, these last areas in the Nipe-Sagua-Baracoa massif."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala3/cascadabosquehumedo.jpg",
+            "alt1": "Waterfall in a moist forest",
+            "name1": "Waterfall in a moist forest",
+
+            "imagen2": "./imagenes/sala3/pinarrepublicadominicana.jpg",
+            "alt2": "Pinewood in Dominican Republic",
+            "name2": "Pinewood in Dominican Republic"
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section15" : {
+        "title": "MOIST FORESTS",
+        "contenido": ["Forests are the habitat of representative species of the Greater Antilles.",
+                        "In Haiti, the highest priority areas for moist forest conservation are in the Massif de la Selle, Foret de Pins and Pic Macayá.",
+                            "In the Dominican Republic, they are found in the Sierra de Bahoruco, the Cordillera Central, Los Haitises, and other areas near the northern coast of the Dominican Republic.",
+                                "In Puerto Rico, the highest priority forests for conservation are in the El Yunque area; and in Jamaica they are found in Cockpit Country and the Blue Mountain Range."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala3/reptilesimg.jpg",
+            "alt1": "Reptiles and amphibians inhabit moist forests, such as the Haitian Pic Macayá.",
+            "name1": "Reptiles and amphibians inhabit moist forests, such as the Haitian Pic Macayá.",
+
+            "imagen2": "./imagenes/sala3/reptiles2img.jpg",
+            "alt2": "Moist Forest",
+            "name2": "Moist Forest"
+        },
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+
+    "section16" : {
+        "title": "DRY FORESTS AND XEROPHYTIC SHRUBLANDS ",
+        "contenido": ["This group of ecosystems presents semi-desert zones, dry forests and shrublands adapted to extreme conditions that result from drought, salinity and poor soils. Species have adapted to these conditions, which is why thorny vegetation is dominant, including cacti, stunted shrubs, semi-desert grasslands, and even trees with very small leaves or that lose their leaves during a period of the year.",
+                        "Surviving in these conditions costs the species a lot of energy, so different adaptations are found. For example, the presence of thorns in the vegetation allows them to store water while serving as a protection mechanism against herbivorous fauna."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala3/flordesectas.jpg",
+            "alt1": "Cactus flower, Dominican Republic",
+            "name1": "Cactus flower, Dominican Republic",
+
+            "imagen2": "./imagenes/sala3/bosqueseco.jpg",
+            "alt2": "Dry forest, Dominican Republic",
+            "name2": "Dry forest, Dominican Republic"
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section17" : {
+        "title": "DISTRIBUTION OF DRY FORESTS AND XEROPHYTIC SHRUBLANDS",
+        "contenido": ["Dry forests and xerophytic scrublands extend throughout the Greater Antilles forming corridors associated with existing coastal zones or, in the case of La Hispaniola, that existed in recent geological eras.",
+                        "The most important for connectivity are found in the Jaragua National Park, followed by the ones located in the northern keys of Cuba, as well as in the north of Cuba between Havana and Varadero, the in the western and southeastern ends of Cuba, the northwestern end of Haiti and the southeastern Dominican Republic.",
+                            "The most representative areas in Cuba are in Guanahacabibes, in the northern coast between Havana and Varadero, Cape Cruz, and the southeastern coastal corridor of Cuba, from Santiago to Maisí.",
+                                "In La Hispaniola, they are found in the Jaragua National Park and on the Beata peninsula as far as Belle Anse. In Puerto Rico, on the southwest coast; and in Jamaica, on the southern coast in the Hellshire area."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala3/cactaceoimg.jpg",
+            "alt1": "Dry forest and xerophytic shrubs in the Dominican Republic. ",
+            "name1": "Dry forest and xerophytic shrubs in the Dominican Republic. ",
+
+            "imagen2": "./imagenes/sala3/cactaceo2img.jpg",
+            "alt2": "Dry forest and xerophytic shrubs in the Dominican Republic. ",
+            "name2": "Dry forest and xerophytic shrubs in the Dominican Republic. "
+        },
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+
+    "section18" : {
+        "title": "IMPORTANCE OF DRY FORESTS AND XEROPHYTIC SCRUBS",
+        "contenido": ["Dry forests and xerophytic scrublands are home to many endemic species and play an essential role in ecosystem connectivity.",
+                        "They are an example of resilience and adaptability of nature, due to their ability to tolerate extreme conditions that result from drought, salinity and poor soils."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala3/matorralcactaceo.jpg",
+            "alt1": "Cactaceous scrub, Dominican Republic",
+            "name1": "Cactaceous scrub, Dominican Republic",
+
+            "imagen2": "./imagenes/sala3/matorralcactaceo2.jpg",
+            "alt2": "Dry forest, Dominican Republic",
+            "name2": "Dry forest, Dominican Republic"
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section19" : {
+        "title": "RIDGE TO REEF CONNECTIVITY",
+        "contenido": ["Watersheds capture about 300 km3 of rainfall in the Greater Antilles each year, practically the only source of freshwater in these islands.",
+                        "Deforested watersheds carry huge amounts of sediment to the river mouth/estuary. This affects mangrove ecosystems as well as coral reef formation.",
+                            "Therefore, the CBC works with a focus on watershed conservation, from the mountains to the reefs, to improve water quality and availability and reduce pressures on coastal and marine ecosystems.",
+                                "The latter is expected to increase the ecosystems' resilience to climate change."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala3/ravinedesud.jpg",
+            "alt1": "Ravine du Sud, a river connecting Pic Macaya and Les Cayes in Haiti, shows the effect of sedimentation from upstream deforestation.",
+            "name1": "Ravine du Sud, a river connecting Pic Macaya and Les Cayes in Haiti, shows the effect of sedimentation from upstream deforestation.",
+
+            "imagen2": "./imagenes/sala3/abanicodemar.jpg",
+            "alt2": "Abanico de mar",
+            "name2": "Abanico de mar"
+        },
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+
+    "section20" : {
+        "title": "THE CARIBBEAN BASIN",
+        "contenido": ["The Caribbean Basin has registered the highest proportion of corals classified with a high risk of extinction, given they have declined by 80% since the 1970s."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala3/pecesimg.jpg",
+            "alt1": "Fish nursery in Les Cayes, Haiti.",
+            "name1": "Fish nursery in Les Cayes, Haiti.",
+
+            "imagen2": "./imagenes/sala3/peces2img.jpg",
+            "alt2": "Fish nursery in Les Cayes, Haiti.",
+            "name2": "Fish nursery in Les Cayes, Haiti."
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section21" : {
+        "img": "./imagenes/sala3/paisajesection21.jpg"
+    },
+
+    "section22" : {
+        "indicador" : "Other ecosystems present in the CBC",
+       "colorIndicador" : "#85BD70",
+       "title": "SEAGRASSES",
+       "contenido": ["Seagrasses in the Caribbean are found along all the coasts of the islands in the region.",
+                        "These areas are important for the fish that inhabit the Caribbean, as many feed and reside in the seagrass beds."],
+       "imagenes": {
+           "imagen1": "./imagenes/sala3/pastosmarinos2.jpg",
+           "alt1": "Seagrasses in the Caribbean.",
+           "name1": "Seagrasses in the Caribbean.",
+
+           "imagen2": "./imagenes/sala3/pastosmarinos.jpg",
+           "alt2": "Ecosistemas de pastos marinos en el Caribe.",
+           "name2": "Ecosistemas de pastos marinos en el Caribe."
+       },
+       "background": "#FFFFFF",
+        "colorText": "#181818"
+   },
+
+   "section23" : {
+        "indicador" : "Other ecosystems present in the CBC",
+       "colorIndicador" : "#103A62",
+       "title": "LAGOONS",
+       "contenido": ["Coastal lagoons in the Antilles are under high risk of climate change as sea level rise and saline water intrusion affect their natural balance, productivity and the species that inhabit them.",
+                        "Among the main threats we find are dewatering for coastal infrastructure development and the alteration of natural drainage and freshwater supply associated with road development."],
+       "imagenes": {
+           "imagen1": "./imagenes/sala3/laguna1.jpg",
+           "alt1": "Les herbiers marins dans les Caraïbes.",
+           "name1": "Les herbiers marins dans les Caraïbes.",
+
+           "imagen2": "./imagenes/sala3/laguna2.jpg",
+           "alt2": "Lagoon, Haiti.",
+           "name2": "Lagoon, Haiti."
+       },
+       "background": "#528641",
+       "colorText": "#FFFFFF"
+   },
+
+   "section24" : {
+        "img": "./imagenes/sala3/medusa.jpg",
+        "description": "Jellyfish in Caribbean waters"
+    },
+
+    "section25" : {
+        "contenido": "In the next room you will find information about the CBC Initiative and how it works to protect these important ecosystems.",
+        "backLink": "/Sala2",
+        "nextLink": "/Sala4"
+    },
+
+    "footer": {
+        "title": "“THE CBC IS LIFE”",
+        "contenido": ["Iniciativa gubernamental de cuatro países: Cuba, Haití, República Dominicana y Puerto Rico. Financiada por la Unión Europea (UE) y apoyada por el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA).",
+                    "Sede de la Secretaría del CBC República Dominicana, Miembros",
+                    "© 2020, Centro de Información y Gestión Tecnológica de Santiago de Cuba, MEGACEN."],
+        "subtitle": "Instituciones que participan",
+        "instituciones": ["Ministerio de Ciencia, Tecnología y Medio Ambiente de la República de Cuba",
+                        "Ministerio de Medio Ambiente de Haití","Ministerio de Medio Ambiente y Recursos Naturales de República Dominicana",
+                        "Unión Europea","PNUMA","Naciones Unidas en Cuba","Naciones Unidas en Haití","Naciones Unidas en República Dominicana",
+                        "Portal del Medio Ambiente de Cuba","BIOECO","CEDAF"]        
+    }
+}
