@@ -1,0 +1,66 @@
+{
+    "section1":{
+        "title": "Corredor biológico en el caribe",
+        "subtitle": "Conservando Tesoros Compartidos"
+    },
+
+    "section2":{
+        "title": "Exposición: Conservando Tesoros Compartidos",
+        "contenido": ["Te invitamos a conocer los sorprendentes tesoros naturales del Corredor Biológico en el Caribe al recorrer esta exhibición fotográfica.",
+                    "A través de las cinco salas podrás conocer la importancia de la conectividad ecológica en el Caribe, nuestra historia y el trabajo en conservación que se ha adelantado en los 15 años de esta Iniciativa."],
+        "info": ["15 años de la Iniciativa del CBC",
+                "1 agenda compartida de conservación",
+                "4 ecosistemas y 14 grupos de especies prioritarios para la conservación",
+                "Más de 100 entrenamientos sobre conservación y biodiversidad en la región realizados",
+                "Meta de proteger al menos el 30% de los paisajes marinos y terrestres en el CBC"
+            ]
+    },
+
+    "section3":{
+        "description": "Conoce las salas",
+        "title": "Una miradaal Caribe de cerca",
+        "salasTitle": ["La conectividad ecológica y el Corredor Biológico en el Caribe",
+                "Especies prioritarias para el Corredor Biológico en el Caribe",
+                "Ecosistemas prioritarios para el Corredor Biológico en el Caribe",
+                "El Corredor Biológico en el Caribe, la Iniciativa",
+                "15 años de la Iniciativa del Corredor Biológico en el Caribe (CBC):  Logros, retos y futuro"] 
+
+    },
+
+    "section4":{
+        "description": "Mensaje del Secretario Ejecutivo del CBC",
+        "nombre": "Dr. Nicasio Viña Dávila",
+        "rol": "Secretario Ejecutivo del Corredor Biológico en el Caribe (CBC)",
+        "cite": ["La Iniciativa del Corredor Biológico en el Caribe (CBC) lleva 15 años trabajando alrededor de los valores más importantes para la conservación de la diversidad biológica a la vez que ha demostrado ser una plataforma de cooperación exitosa entre los países de las Antillas Mayores."] 
+
+    },
+
+    "section5":{
+        "title": "Naturaleza Viva"
+    },
+
+    "section6":{
+        "title": "Países",
+        "paises": ["Cuba","Haiti","R. Dominicana","Puerto Rico","Jamaica"]
+    },
+
+    "section7":{
+        "title": "Con apoyo de:"
+    },
+
+    "section8":{
+        "title": "Agradecimientos",
+        "subtitle": ["FOTOGRAFÍAS","TEXTOS","DISEÑO Y DIAGRAMACIÓN"]
+    },
+
+    "footer": {
+        "title": "Iniciativa gubernamental de Cuba, Haití, República Dominicana, Puerto Rico y Jamaica.",
+        "subtitle": "Instituciones relacionadas",
+        "instituciones": ["Ministerio de Ciencia, Tecnología y Medio Ambiente de la República de Cuba",
+                        "Ministerio de Medio Ambiente y Recursos Naturales de República Dominicana",
+                        "Departamento de Recursos Naturales y Ambientales del Gobierno de Puerto Rico"
+                        ,"Ministerio de Medio Ambiente de Haití","Ministry of Economic Growth and Job Creation of Jamaica (MEGJC)",
+                        "Unión Europea",
+                        "PNUMA"]        
+    }
+}
