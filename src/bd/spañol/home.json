@@ -5,7 +5,7 @@
     },
 
     "section2":{
-        "title": "Exposición: Conservando Tesoros Compartidos",
+        "title": ["Exposición:", "Conservando Tesoros Compartidos"],
         "contenido": ["Te invitamos a conocer los sorprendentes tesoros naturales del Corredor Biológico en el Caribe al recorrer esta exhibición fotográfica.",
                     "A través de las cinco salas podrás conocer la importancia de la conectividad ecológica en el Caribe, nuestra historia y el trabajo en conservación que se ha adelantado en los 15 años de esta Iniciativa."],
         "info": ["15 años de la Iniciativa del CBC",
@@ -18,7 +18,7 @@
 
     "section3":{
         "description": "Conoce las salas",
-        "title": "Una miradaal Caribe de cerca",
+        "title": "Una mirada al Caribe de cerca",
         "salasTitle": ["La conectividad ecológica y el Corredor Biológico en el Caribe",
                 "Especies prioritarias para el Corredor Biológico en el Caribe",
                 "Ecosistemas prioritarios para el Corredor Biológico en el Caribe",
@@ -45,12 +45,17 @@
     },
 
     "section7":{
-        "title": "Con apoyo de:"
+        "title": "Con apoyo de:",
+        "cite": "Producido con el apoyo financiero de la Unión Europea. Su contenido es responsabilidad exclusiva del PNUMA y no refleja necesariamente las opiniones de la Unión Europea"
     },
 
     "section8":{
         "title": "Agradecimientos",
         "subtitle": ["FOTOGRAFÍAS","TEXTOS","DISEÑO Y DIAGRAMACIÓN"]
+    },
+
+    "section9":{
+        "cite": "“INICIA EL RECORRIDO POR LA EXHIBICIÓN”"
     },
 
     "footer": {

@@ -1,0 +1,71 @@
+{
+    "section1":{
+        "title": "Koridò Byolojik nan Karayib la",
+        "subtitle": "Prezève trezò ki pataje yo"
+    },
+
+    "section2":{
+        "title": ["Egzibisyon:", "Prezève trezò ki pataje yo"],
+        "contenido": ["Nou envite w vizite egzibisyon fotografi CBC sa a pou dekouvri bèl trezò natirèl ki enkwayab ke Karayib la genyen.",
+                    "Atravè senk sal yo, ou ka aprann sou enpòtans koneksyon ekolojik nan Karayib la, istwa nou an ak travay konsèvasyon ki te fèt pandan 15 ane inisyativ sa a."],
+        "info": ["15 ane inisyativ CBC a",
+                "1 agenda compartida de conservación",
+                "4 ekosistèm ak 14 gwoup espès priyorite pou konsèvasyon",
+                "Plis pase 100 fòmasyon sou konsèvasyon ak divèsite biyolojik òganize nan rejyon an",
+                " Objektif pou pwoteje pou pipiti 30% peyizaj lanmè ak peyizaj nan CBC a"
+            ]
+    },
+
+    "section3":{
+        "description": "Vizite sal yo",
+        "title": "ki se yon apèsi Karayib la",
+        "salasTitle": ["Koneksyon Ekolojik ak Koridò Byolojik nan Karayib la",
+                "Espès priyoritè pou Koridò Byolojik nan Karayib la",
+                "Ekosistèm priyoritè pou Koridò Byolojik nan Karayib la",
+                " Koridò Byolojik nan Karayib la, Inisyativ la",
+                "15 Ane Inisyativ Koridò Byolojik Karayib la (CBC): Reyalizasyon, defi ak avni"] 
+
+    },
+
+    "section4":{
+        "description": "Mesaj Sekretè Egzekitif CBC",
+        "nombre": "Nicasio Viña Dávila",
+        "rol": "Sekretè egzekitif Koridò Byolojik nan Karayib la (Ki gen sig li an franse CBC).",
+        "cite": ["Inisyativ Koridò Byolojik nan Karayib la (Ki gen sig li an franse CBC) ap travay depi 15 ane nan sa ki gen pou wè ak valè ki pi enpòtan pou konsèvasyon divèsite biyolojik e li pwouve ke li se yon platfòm ki travay nan kole zepòl ant peyi Gwo Zantiy yo ki reyisi."] 
+
+    },
+
+    "section5":{
+        "title": "Yon nati vivan"
+    },
+
+    "section6":{
+        "title": "Peyi",
+        "paises": ["Kiba","Ayiti","Repiblik Dominikèn","Pòtoriko","Jamayik"]
+    },
+
+    "section7":{
+        "title": "Avèk sipò",
+        "cite": "Producido con el apoyo financiero de la Unión Europea. Su contenido es responsabilidad exclusiva del PNUMA y no refleja necesariamente las opiniones de la Unión Europea"
+    },
+
+    "section8":{
+        "title": "Remèsiman",
+        "subtitle": ["FOTOGRAF","TÈKS","KONSEPSYON AK METE AN PA"]
+    },
+
+    "section9":{
+        "cite": "“CBC se devlopman dirab”"
+    },
+
+    "footer": {
+        "title": "Iniciativa gubernamental de Cuba, Haití, República Dominicana, Puerto Rico y Jamaica.",
+        "subtitle": "Instituciones relacionadas",
+        "instituciones": ["Ministerio de Ciencia, Tecnología y Medio Ambiente de la República de Cuba",
+                        "Ministerio de Medio Ambiente y Recursos Naturales de República Dominicana",
+                        "Departamento de Recursos Naturales y Ambientales del Gobierno de Puerto Rico"
+                        ,"Ministerio de Medio Ambiente de Haití","Ministry of Economic Growth and Job Creation of Jamaica (MEGJC)",
+                        "Unión Europea",
+                        "PNUMA"]        
+    }
+}
