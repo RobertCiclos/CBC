@@ -12,7 +12,7 @@ const Home = () => {
   const imagen5 = './imagenes/home/SALA5.png'
 
   const [imagen, setImagen] = useState(imagen1)
-
+  const data = require('../bd/spañol/home.json')
 
   const changeImage = (e) => {
     const value = e.target.value
@@ -51,8 +51,8 @@ const Home = () => {
           <div
             className='w-[311px] mx-auto 
               sm:mt-[3%] sm:w-auto'>
-            <h1>
-              CORREDOR BIOLÓGICO EN EL CARIBE
+            <h1 className='uppercase'>
+              {data.section1.title}
             </h1>
             <p
               className='text-left font-Public mt-[6px] font-[300] text-[20px] text-white leading-[27px]
@@ -75,7 +75,7 @@ const Home = () => {
                 className='font-Public  font-[400] leading-[24px] text-[16px]
                 sm:leading-[38px] sm:text-[22px]
                 md:leading-[48px] md:text-[32px]'>
-                Te invitamos a conocer los sorprendentes tesoros naturales del Corredor Biológico en el Caribe al recorrer esta exhibición fotográfica.
+                {data.section2.contenido[0]}
                 <br /><br />A través de las cinco salas podrás conocer la importancia de la conectividad ecológica en el Caribe, nuestra historia y el trabajo en
                 conservación que se ha adelantado en los 15 años de esta Iniciativa.
               </p>
@@ -83,8 +83,10 @@ const Home = () => {
                 className="mt-[32px] ml-[18px] 
                 sm:mt-0 sm:ml-0">
                 <li className='sm:mt-[52px] xl:mt-0'>15 años de la Iniciativa del CBC</li>
-                <li className='mt-[24px] sm:mt-[48px] xl:mt-[112px]'>1 agenda compartida de conservación</li>
-                <li className='mt-[24px] sm:mt-[48px] xl:mt-[112px]'>4 ecosistemas y 14 grupos de especies prioritarios para la conservación</li>
+                <li className='mt-[16px] sm:mt-[24px] xl:mt-[48px]'>1 agenda compartida de conservación</li>
+                <li className='mt-[16px] sm:mt-[24px] xl:mt-[48px]'>4 ecosistemas y 14 grupos de especies prioritarios para la conservación</li>
+                <li className='mt-[16px] sm:mt-[24px] xl:mt-[48px]'>Más de 100 entrenamientos sobre conservación y biodiversidad en la región realizados</li>
+                <li className='mt-[16px] sm:mt-[24px] xl:mt-[48px]'>Meta de proteger al menos el 30% de los paisajes marinos y terrestres en el CBC</li>
               </ul>
             </div>
           </div>
@@ -122,20 +124,20 @@ const Home = () => {
                   <li
                     value={1}
                     onMouseOver={(e) => changeImage(e)}
-                    className='cursor-pointer hover:font-[600]'>
-                    <span style={imagen === imagen1 ? styleActive : {}}>La conectividad</span><br />
-                    <span style={imagen === imagen1 ? styleActive : {}}>ecológica y el Corredor </span><br />
-                    <span style={imagen === imagen1 ? styleActive : {}}>Biológico en el Caribe</span>
+                    className='cursor-pointer hover:font-[600] mx-auto w-[250px]  
+                    sm:w-[350px] md:!mx-0'>
+                    <span style={imagen === imagen1 ? styleActive : {}}>
+                      La conectividad ecológica y el Corredor Biológico en el Caribe </span>
                   </li>
                 </Link>
                 <Link to='/Sala2'>
                   <li
                     value={2}
                     onMouseOver={(e) => changeImage(e)}
-                    className='mt-[32px] md:mt-[56px]  lg:mt-[72px] cursor-pointer hover:font-[600]'>
-                    <span style={imagen === imagen2 ? styleActive : {}}>Especies prioritarias para</span><br />
-                    <span style={imagen === imagen2 ? styleActive : {}}>el Corredor Biológico </span><br />
-                    <span style={imagen === imagen2 ? styleActive : {}}>en el Caribe</span>
+                    className='mt-[32px] md:mt-[56px]  lg:mt-[72px] cursor-pointer hover:font-[600] w-[350px]'>
+                    <span style={imagen === imagen2 ? styleActive : {}}>
+                      Especies prioritarias para el Corredor Biológico en el Caribe
+                    </span>
                   </li>
                 </Link>
                 <Link to='/Sala3'>

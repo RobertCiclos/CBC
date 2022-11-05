@@ -14,7 +14,7 @@ const Sala2 = () => {
 
   const isDesktop = useMediaQuery({ query: '(min-width: 1440px)' })
   const istablet = useMediaQuery({ query: '(min-width: 1280px)' })
-  const dataSala2 = require('../bd/Sala2.json')
+  const dataSala2 = require('../bd/spañol/Sala2.json')
 
   console.log(dataSala2.section1.imgBack)
 

@@ -13,7 +13,7 @@ import Parrafos from '../components/models/Parrafos'
 const Sala1 = () => {
 
   const istablet = useMediaQuery({ query: '(min-width: 1280px)' })
-  const dataSala1 = require('../bd/Sala1.json')
+  const dataSala1 = require('../bd/spañol/Sala1.json')
 
   return (
     <AnimatePresence>

@@ -32,9 +32,9 @@
 
     ul {
         @apply font-[500] text-[16px]  leading-[20px] font-Public
-        sm:text-[22px] sm:leading-[38px] md:pl-[3.5%]
-        md:text-[32px] md:leading-[48px] 
-        xl:text-[40px] xl:leading-[56px]
+        sm:text-[18px] sm:leading-[28px] md:pl-[2.5%]
+        md:text-[24px] md:leading-[34px] 
+        xl:text-[36px] xl:leading-[46px]
     }
 
     ol {

@@ -10,7 +10,7 @@ import ModelTitle from '../components/ModelTitle'
 import Parrafos from '../components/models/Parrafos'
 
 const Sala3 = () => {
-  const dataSala3 = require('../bd/Sala3.json')
+  const dataSala3 = require('../bd/spañol/Sala3.json')
   const istablet = useMediaQuery({ query: '(min-width: 1280px)' })
 
   return (

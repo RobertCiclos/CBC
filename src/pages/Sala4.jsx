@@ -12,7 +12,7 @@ import ModelMapAnimation from '../components/ModelMapAnimation'
 
 const Sala4 = () => {
   const istablet = useMediaQuery({ query: '(min-width: 1280px)' })
-  const dataSala4 = require('../bd/Sala4.json')
+  const dataSala4 = require('../bd/spañol/Sala4.json')
 
   return (
     <AnimatePresence>
