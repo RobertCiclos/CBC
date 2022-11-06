@@ -1,66 +1,67 @@
 {
     "section1":{
-        "title": "Corredor biológico en el caribe",
-        "subtitle": "Conservando Tesoros Compartidos"
+        "title": "Caribbean Biological Corridor",
+        "subtitle": "Conservation of Shared Treasures"
     },
 
     "section2":{
-        "title": ["Exposición:", "Conservando Tesoros Compartidos"],
-        "contenido": ["Te invitamos a conocer los sorprendentes tesoros naturales del Corredor Biológico en el Caribe al recorrer esta exhibición fotográfica.",
-                    "A través de las cinco salas podrás conocer la importancia de la conectividad ecológica en el Caribe, nuestra historia y el trabajo en conservación que se ha adelantado en los 15 años de esta Iniciativa."],
-        "info": ["15 años de la Iniciativa del CBC",
-                "1 agenda compartida de conservación",
-                "4 ecosistemas y 14 grupos de especies prioritarios para la conservación",
-                "Más de 100 entrenamientos sobre conservación y biodiversidad en la región realizados",
-                "Meta de proteger al menos el 30% de los paisajes marinos y terrestres en el CBC"
+        "title": ["Exhibition:", "Conservation of Shared Treasures"],
+        "contenido": ["We invite you to learn about the amazing natural treasures of the Caribbean Biological Corridor in this photographic exhibition.",
+                    "Across the following five rooms you will learn about the importance of ecological connectivity in the Caribbean, our history and conservation work carried out throughout the 15 years of this Initiative."],
+        "info": ["15 years of the CBC Initiative ",
+                "1 common conservation agenda",
+                "4 groups of ecosystems and 14 species or groups of species prioritized for conservation",
+                "More than 100 conservation and biodiversity trainings conducted in the region",
+                "Our Goal: protecting at least 30% of the marine and terrestrial landscapes in the CBC"
             ]
     },
 
     "section3":{
-        "description": "Conoce las salas",
-        "title": "Una mirada al Caribe de cerca",
-        "salasTitle": ["La conectividad ecológica y el Corredor Biológico en el Caribe",
-                "Especies prioritarias para el Corredor Biológico en el Caribe",
-                "Ecosistemas prioritarios para el Corredor Biológico en el Caribe",
-                "El Corredor Biológico en el Caribe, la Iniciativa",
-                "15 años de la Iniciativa del Corredor Biológico en el Caribe (CBC):  Logros, retos y futuro"] 
+        "description": "Exhibition rooms",
+        "title": "A GLIMPSE OF THE CARIBBEAN",
+        "salasTitle": ["Ecological connectivity and the Caribbean Biological Corridor",
+                "Priority species for the Caribbean Biological Corridor",
+                "Priority ecosystems for the Caribbean Biological Corridor",
+                "The Caribbean Biological Corridor, the Initiative",
+                "15 years of the CBC Initiative: Achievements, challenges and future"] 
 
     },
 
     "section4":{
-        "description": "Mensaje del Secretario Ejecutivo del CBC",
+        "description": "Message from the Executive Secretary of the CBC",
         "nombre": "Dr. Nicasio Viña Dávila",
-        "rol": "Secretario Ejecutivo del Corredor Biológico en el Caribe (CBC)",
-        "cite": ["La Iniciativa del Corredor Biológico en el Caribe (CBC) lleva 15 años trabajando alrededor de los valores más importantes para la conservación de la diversidad biológica a la vez que ha demostrado ser una plataforma de cooperación exitosa entre los países de las Antillas Mayores."] 
+        "rol": "Executive Secretary of the Caribbean Biological Corridor (CBC).",
+        "cite": ["The Caribbean Biological Corridor (CBC) Initiative has been working for 15 years around the most important values for biodiversity conservation and has proven to be a successful cooperation platform among the countries of the Greater Antilles."] 
 
     },
 
     "section5":{
-        "title": "Naturaleza Viva"
+        "title": "Living nature"
     },
 
     "section6":{
-        "title": "Países",
-        "paises": ["Cuba","Haiti","R. Dominicana","Puerto Rico","Jamaica"]
+        "title": "Countries",
+        "paises": ["Cuba","Haiti","Dominican Republic","Puerto Rico","Jamaica"]
     },
 
     "section7":{
-        "title": "Con apoyo de:"
+        "title": "Supported by: "
     },
 
     "section8":{
-        "title": "Agradecimientos",
-        "subtitle": ["FOTOGRAFÍAS","TEXTOS","DISEÑO Y DIAGRAMACIÓN"]
+        "title": "ACKNOWLEDGEMENTS",
+        "subtitle": ["PHOTOGRAPHS ","TEXTS","LAYOUT AND DESIGN"]
     },
 
     "footer": {
-        "title": "Iniciativa gubernamental de Cuba, Haití, República Dominicana, Puerto Rico y Jamaica.",
-        "subtitle": "Instituciones relacionadas",
-        "instituciones": ["Ministerio de Ciencia, Tecnología y Medio Ambiente de la República de Cuba",
-                        "Ministerio de Medio Ambiente y Recursos Naturales de República Dominicana",
-                        "Departamento de Recursos Naturales y Ambientales del Gobierno de Puerto Rico"
-                        ,"Ministerio de Medio Ambiente de Haití","Ministry of Economic Growth and Job Creation of Jamaica (MEGJC)",
-                        "Unión Europea",
+        "title": "An Initiative of the governments of Cuba, Dominican Republic, Haiti, Puerto Rico and Jamaica. Financed by the European Union (EU) with support of the United Nations Environment Programme (UNEP).",
+        "subtitle": "Associated Institutions",
+        "instituciones": ["Ministry of Science, technology and the Environment of the Republic of Cuba",
+                        "Ministry of the Environment and Natural Resources of the Dominican Republic",
+                        "Department of Natural and Environmental Resources of the Government of Puerto Rico",
+                        "Ministry of the Environment of Haiti",
+                        "Ministry of Economic Growth and Job Creation of Jamaica (MEGJC)",
+                        "European Union (EU)",
                         "PNUMA"]        
     }
 }
