@@ -40,7 +40,7 @@
 
     "section6":{
         "title": "Pays",
-        "paises": ["Cuba","Haïti","République dominicaine","Porto Rico","Jamaïque"]
+        "paises": ["Cuba","Haïti","R. Dominicaine","Porto Rico","Jamaïque"]
     },
 
     "section7":{
@@ -60,7 +60,7 @@
 
 
     "footer": {
-        "title": "“a CBC est Développement Durable”",
+        "title": "“A CBC est Développement Durable”",
         "subtitle": "Associated Institutions",
         "instituciones": ["Ministry of Science, technology and the Environment of the Republic of Cuba",
                         "Ministry of the Environment and Natural Resources of the Dominican Republic",

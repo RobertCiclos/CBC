@@ -6,8 +6,9 @@
 @layer base {
     h1 {
         @apply font-Public text-white text-left font-bold transicion
-         text-[40px] leading-[45px] sm:text-[30px] sm:text-center
-         md:text-[36px] lg:text-[40px] lg:leading-[48px]
+         text-[40px] leading-[45px]  sm:text-center
+         sm:text-[24px] sm:leading-[34px]
+         md:text-[32px] lg:text-[40px] lg:leading-[48px]
          xl:text-[56px] xl:leading-[72px] 
     }
 

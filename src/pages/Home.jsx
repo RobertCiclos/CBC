@@ -80,8 +80,8 @@ const Home = () => {
             </h1>
             <p
               className='text-left font-Public mt-[6px] font-[300] text-[20px] text-white leading-[27px]
-                sm:text-[25px] sm:text-center pr-[65px] sm:pr-0
-                md:text-[25px] xl:text-[40px]'>
+                sm:text-[20px] sm:text-center pr-[65px] sm:pr-0
+                md:text-[24px] xl:text-[40px]'>
               {data.section1.subtitle}
             </p>
           </div>
@@ -266,7 +266,7 @@ const Home = () => {
         <section>
           <div
             className='w-[311px] mx-auto pt-[48px]
-            sm:w-[600px] lg:w-[848px] lg:pt-[96px]'>
+            sm:w-[600px] lg:w-[850px] lg:pt-[96px]'>
             <h2
               className='text-center uppercase'>
               {data.section6.title}
@@ -338,7 +338,7 @@ const Home = () => {
             <div
               className=' mx-auto grid justify-items-center gap-[56px] mt-[32px]
               lg:w-[731px] lg:grid-cols-[237px_362px] lg:mt-[72px] lg:gap-[132px]'>
-              <img src={data.section7.imgONU} alt="" />
+              <img className='w-[200px] sm:w-[237px]' src={data.section7.imgONU} alt="" />
               <div className=''>
                 <img src="./imagenes/home/union_europea.png" alt="" className='mx-auto' />
                 <p

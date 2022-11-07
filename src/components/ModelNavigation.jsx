@@ -1,4 +1,3 @@
-import { filterProps } from 'framer-motion'
 import React from 'react'
 import { useLocation } from 'react-router-dom'
 import { Link } from 'react-router-dom'
@@ -10,24 +9,7 @@ const ModelNavigation = (props) => {
             <p
                 className='contSalas'
                 style={styleP}>
-                {(() => {
-                    switch (location) {
-                        case '/Sala1':
-                            return 'En la siguiente sala encontrarás más información sobre algunas de las especies priorizadas para la conservación en el CBC.';
-                        case '/Sala2':
-                            return 'En la siguiente sala encontrarás más información sobre algunas de las especies priorizadas para la conservación en el CBC.'
-                        case '/Sala3':
-                            return 'En la siguiente sala encontrarás más información sobre algunas de las especies priorizadas para la conservación en el CBC.'
-                        case '/Sala4':
-                            return 'En la siguiente sala encontrarás más información sobre algunas de las especies priorizadas para la conservación en el CBC.';
-                        case '/Sala5':
-                            return ''
-                        case 'error':
-                            return ''
-                        default:
-                            return null;
-                    }
-                })()}
+                {props.contenido}
             </p>
             <nav className='py-[32px] md:py-[40px]'>
                 <ul
