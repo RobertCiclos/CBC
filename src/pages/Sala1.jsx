@@ -20,19 +20,19 @@ const Sala1 = () => {
 
   switch (idioma) {
     case "ingles":
-      dataHome = require('../bd/ingles/Home.json')
+      dataSala1 = require('../bd/ingles/Sala1.json')
       break;
     case "frances":
-      dataHome = require('../bd/frances/Home.json')
+      dataSala1 = require('../bd/frances/Sala1.json')
       break;
     case "creole":
-      dataHome = require('../bd/creole/Home.json')
+      dataSala1 = require('../bd/creole/Sala1.json')
       break;
     case "español":
-      dataHome = require('../bd/spaniol/Home.json')
+      dataSala1 = require('../bd/spaniol/Sala1.json')
       break;
     default:
-      dataHome = require('../bd/spaniol/Home.json')
+      dataSala1 = require('../bd/spaniol/Sala1.json')
       break;
   }
   

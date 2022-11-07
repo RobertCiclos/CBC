@@ -43,7 +43,6 @@ const Navbar = () => {
                <DropNavTopBgNone dispatch={dispatch} />
             }
 
-
             <Link to='/'
                className='sm:justify-self-center'>
                <img

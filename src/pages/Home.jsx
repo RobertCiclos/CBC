@@ -3,6 +3,7 @@ import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { useMediaQuery } from 'react-responsive'
 import { useSelector } from 'react-redux'
+import CardCredit from '../components/CardAux/CardCredit'
 
 const Home = () => {
   const ismovil = useMediaQuery({ query: '(min-width: 625px)' })
@@ -38,6 +39,7 @@ const Home = () => {
   }
 
   const idioma = useSelector(state => state.idioma.value)
+  const general = require('../bd/ingles/General.json')
   var data = ""
 
   switch (idioma) {
@@ -68,7 +70,8 @@ const Home = () => {
         className=' relative'>
         <section
           className="w-full h-[100vh] pt-[85px] bg-center
-          imgBack bg-[url('/public/imagenes/home/hero.jpg')]">
+          relative imgBack bg-[url('/public/imagenes/home/hero.jpg')]">
+          <CardCredit idioma={general.credito} author="Matías Balaguer" />
           <div
             className='w-[311px] mx-auto 
               sm:mt-[3%] sm:w-auto'>
@@ -87,7 +90,7 @@ const Home = () => {
         <section
           className="bg-blueCBC text-white py-[48px] sm:py-[96px]">
           <div
-            className='w-[311px] md:w-[700px] xl:w-[1040px] mx-auto'>
+            className='w-[311px] sm:w-auto sm:px-[10%] xl:px-0 xl:w-[1040px] mx-auto'>
             <h2 className='uppercase'>{data.section2.title[0]} <br /> {data.section2.title[1]}</h2>
             <div
               className='grid gap-x-[132px] mt-[16px] 
@@ -135,8 +138,8 @@ const Home = () => {
             </div>
 
             <div className='salas right-0 top-[50%] mt-[56px] 
-              overflow-y-auto flex justify-end  
-              sm:justify-center 
+              overflow-y-auto flex justify-center  translate-x-[3%] 
+              sm:justify-center sm:translate-x-[0%]
               xl:translate-x-[-10%] 
               xl:justify-end xl:translate-y-[-50%] xl:mt-0 xl:absolute xl:max-h-[80vh] overflow-x-hidden'>
               <ol
@@ -149,7 +152,7 @@ const Home = () => {
                     className='cursor-pointer hover:font-[600] mx-auto w-[250px]  
                     sm:w-[350px] md:!mx-0'>
                     <span style={imagen === imagen1 ? styleActive : {}}>
-                    {data.section3.salasTitle[0]} </span>
+                      {data.section3.salasTitle[0]} </span>
                   </li>
                 </Link>
                 <Link to='/Sala2'>
@@ -159,7 +162,7 @@ const Home = () => {
                     className='mt-[32px] md:mt-[56px]  lg:mt-[72px] cursor-pointer hover:font-[600] mx-auto w-[250px]  
                     sm:w-[350px] md:!mx-0'>
                     <span style={imagen === imagen2 ? styleActive : {}}>
-                    {data.section3.salasTitle[1]}
+                      {data.section3.salasTitle[1]}
                     </span>
                   </li>
                 </Link>
@@ -170,7 +173,7 @@ const Home = () => {
                     className='mt-[32px] md:mt-[56px]  lg:mt-[72px] cursor-pointer hover:font-[600] mx-auto w-[250px]  
                     sm:w-[350px] md:!mx-0'>
                     <span style={imagen === imagen3 ? styleActive : {}}>
-                    {data.section3.salasTitle[2]}
+                      {data.section3.salasTitle[2]}
                     </span>
                   </li>
                 </Link>
@@ -190,7 +193,7 @@ const Home = () => {
                     className='mt-[32px] md:mt-[56px]  lg:mt-[72px] cursor-pointer hover:font-[600] mx-auto w-[250px]  
                     sm:w-[350px] md:!mx-0'>
                     <span style={imagen === imagen5 ? styleActive : {}}>
-                    {data.section3.salasTitle[4]}
+                      {data.section3.salasTitle[4]}
                     </span>
                   </li>
                 </Link>
@@ -250,8 +253,9 @@ const Home = () => {
         </section>
 
         <section
-          className="w-full h-[100vh] relative z-0 snap-y
+          className="w-full h-[100vh] relative z-0 snap-y 
           bg-cover bg-no-repeat bg-center bg-[url('/public/imagenes/home/naturaleza.jpg')]">
+           <CardCredit idioma={general.credito} author="Thomas Shahan" />
           <div
             className='w-full text-center text-white font-Public absolute bottom-[8%] right-[50%] translate-x-[50%]
             font-bold text-[32px] md:text-[50px] lg:text-[100px] snap-center uppercase'>
@@ -391,8 +395,8 @@ const Home = () => {
                 <p
                   className='font-[700] text-[20px]
                   lg:text-[24px]'>
-                    {data.section8.subtitle[1]}
-                  </p>
+                  {data.section8.subtitle[1]}
+                </p>
                 <ul
                   className='font-[400] text-[24px] leading-[26.44px] mt-[16px]
                   lg:text-[24px] lg:leading-[32.16px] lg:mt-[32px] md:ml-[-3%] w-[230px]'>
@@ -432,7 +436,7 @@ const Home = () => {
             className=' w-[200px]
             mx-auto sm:w-[300px] lg:w-[400px]'>
             <span className='sm:text-right font-bold text-[20px] sm:text-[24px]' >
-            {data.section9.cite}
+              {data.section9.cite}
             </span>
             <img
               src="./svg/arrowRight.svg"
