@@ -45,6 +45,7 @@
 
     "section7":{
         "title": "Avec le soutien de",
+        "imgONU": "./imagenes/fr/ONU-fr.jpg",
         "cite": "Produit avec le soutien financier de l'Union européenne. Son contenu relève de la seule responsabilité du PNUE et ne reflète pas nécessairement les vues de l'Union européenne."
     },
 
@@ -59,7 +60,7 @@
 
 
     "footer": {
-        "title": "An Initiative of the governments of Cuba, Dominican Republic, Haiti, Puerto Rico and Jamaica. Financed by the European Union (EU) with support of the United Nations Environment Programme (UNEP).",
+        "title": "“a CBC est Développement Durable”",
         "subtitle": "Associated Institutions",
         "instituciones": ["Ministry of Science, technology and the Environment of the Republic of Cuba",
                         "Ministry of the Environment and Natural Resources of the Dominican Republic",

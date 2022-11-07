@@ -45,7 +45,9 @@
     },
 
     "section7":{
-        "title": "Supported by: "
+        "title": "Supported by:",
+        "imgONU": "./imagenes/ing/ONU-ing.png",
+        "cite": "Produced with the financial support of the European Union. Its contents are the sole responsibility of UNEP and do not necessarily reflect the views of the European Union."
     },
 
     "section8":{
@@ -53,8 +55,12 @@
         "subtitle": ["PHOTOGRAPHS ","TEXTS","LAYOUT AND DESIGN"]
     },
 
+    "section9":{
+        "cite": "Start the journey across the exhibition"
+    },
+
     "footer": {
-        "title": "An Initiative of the governments of Cuba, Dominican Republic, Haiti, Puerto Rico and Jamaica. Financed by the European Union (EU) with support of the United Nations Environment Programme (UNEP).",
+        "title": "“THE CBC IS SUSTAINABLE DEVELOPMENT”",
         "subtitle": "Associated Institutions",
         "instituciones": ["Ministry of Science, technology and the Environment of the Republic of Cuba",
                         "Ministry of the Environment and Natural Resources of the Dominican Republic",
