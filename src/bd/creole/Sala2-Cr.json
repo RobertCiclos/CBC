@@ -1,0 +1,397 @@
+{
+
+    "section1" : {
+        "img" : "./imagenes/sala2/hero-sala2-min.jpg",
+        "title": "Espès priyorite pou Koridò Byolojik nan Karayib la",
+        "sala": "Sal 2"
+    },
+
+    "section2" : {
+        "contenido": ["Akòz gwo richès nan sa ki gen pou wè ak tout espès ki vivan sa gwo save yo rele byodivèsite CBC a, li esansyèl pou fè aksyon konsèvasyon ak etid espès priyoritè yo.",
+                        "Pou rezon sa a, CBC te bay kèk espès, gwoup espès ak ekosistèm ki reprezantatif e ki pataje, epi ki anba menas ki idantifye, epi ki pi fasil pou chanjman klimatik la ka fè dega sou yo tankou gwo save yo di yo vilnerab, priyorite  tankou objè konsèvasyon ak etid.",
+                            "Kounye a, CBC gen yon lis 138 espès kòm objè potansyèl pou konsèvasyon ak etid, nan sal sa, nap prezante ou kèk ladan yo. Lis sa a se yon eleman kle nan devlopman estrateji konsèvasyon Koridò Byolojik nan Karayib la (ki gen siy li an franse CBC).",
+                                "Avèk 138 espès yo kòm baz, yon analiz ak yon regwoupman ki te fèt dapre karakteristik byolojik yo, sa ki te pèmèt yo jwenn yon total  14 espès oswa gwoup espès menase ki se sijè konsèvasyon priyoritè CBC:" ]
+    },
+
+    "section3":{
+        "nombre1": "Griv Bicknell la",
+        "img1": "./imagenes/sala2/animales/tordo-min.png",
+        "nombre2": "Petrèl tèt nwa",
+        "img2":"./imagenes/sala2/animales/diablotin-min.png",
+        "nombre3": "Zwazo rapas (2)",
+        "img3":"./imagenes/sala2/animales/rapaces-min.png",
+        "nombre4": "Anfibyen (100)",
+        "img4":"./imagenes/sala2/animales/anfibios-min.png",
+        "nombre5": "Leza andemik ki anba gwo danje (3)",
+        "img5":"./imagenes/sala2/animales/iguanas-min.png",
+        "nombre6": "Mamifè maren ki menase (2)",
+        "img6":"./imagenes/sala2/animales/mamiferos-min.png",
+        "nombre7": "Kochondenn (2)",
+        "img7":"./imagenes/sala2/animales/roedores-min.png",
+        "nombre8": "Ronjè andemik (4)",
+        "img8":"./imagenes/sala2/animales/solenodontes-min.png",
+        "nombre9": "Tòti lanmè (4)",
+        "img9":"./imagenes/sala2/animales/tortugas-min.png",
+        "nombre10": "Kayiman ki anba gwo danje (2)",
+        "img10":"./imagenes/sala2/animales/cocodrilos-min.png",
+        "nombre11": "Koray ki fòme resif (4)",
+        "img11":"./imagenes/sala2/animales/corales-min.png",
+        "nombre12": "Reken ak rè (7)",
+        "img12":"./imagenes/sala2/animales/tiburones-min.png",
+        "nombre13": "Pwason ak mewou (6)",
+        "img13":"./imagenes/sala2/animales/pargos-min.png",
+        "nombre14": "Zangi ameriken",
+        "img14":"./imagenes/sala2/animales/anguila-min.png"
+
+    },
+
+    "section5" : {
+        "img" : "./imagenes/sala2/especies-migratorias.jpg",
+        "title": "Espès migratè"
+    },
+
+    "section6" : {
+        "indicador" : "Espès migratè",
+        "colorIndicador" : "#85BD70",
+        "title": "Griv Bicknell la",
+        "contenido": ["Li se youn nan ra espès paseriform ( tankou gwo save yo rele li) kote mal yo ede youn oswa plisyè femèl bay ti zwazo yo manje epi patènite a pataje."],       
+        "imagen1": "./imagenes/sala2/tordo-bicknell-min.jpg",
+        "alt1": "Griv Bicknell la (Catharus bicknelli)",        
+        "description": "Griv Bicknell la (Catharus bicknelli)",
+        "background": "#103A62",
+        "colorText": "#FFFFFF"
+    },
+
+    "section7" : {
+        "indicador" : "Tòti karèt",
+        "colorIndicador" : "#103A62",
+        "title": "Tortue carey",
+        "contenido": ["Tòti karèt se espès kap viv nan lanmè ki pi an danje nan Karayib la e li gen anpil enpòtans pou konsèvasyon an nan CBC. Li an danje anpil anpil.",
+                        "Menas fondamantal la se kapti ilegal pou komès kal do li li ke yo itilize pou fè bagay atizanal. Anplis de sa, yo peche li pou yo ka manje kèk pati nan kò li ak ze li yo, akòz kwayans kip kif è konnen  ke li bay bann sa gwo save yo rele pwodi afwodiziak la."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/tortuga-carey1.jpg",
+            "alt1": "Tòti karèt (Eretmochelys imbricata)",
+            "name1": "Tòti karèt (Eretmochelys imbricata)",
+
+            "imagen2": "./imagenes/sala2/tortuga-carey2.jpg",
+            "alt2": "Foto a se yon tòti karèt (Eretmochelys imbricata) nan Jardines de la Reina, Kiba.",
+            "name2": "Foto a se yon tòti karèt (Eretmochelys imbricata) nan Jardines de la Reina, Kiba."
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section8" : {
+        "indicador" : "Espès migratè",
+        "colorIndicador" : "#85BD70",
+        "title": "Reken balèn",
+        "contenido": ["Li se pi gwo pwason ki egziste e li rete nan tout lanmè twopikal nan mond lan.",
+                        "Yo rekonèt li gras ak modèl tach li yo ki inik pou chak endividi.",
+                            "Paske li menase anpil pa lapèch epi li sou wout pou disparèt, CBC a klase li kòm yon objè konsèvasyon priyoritè."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/tiburon-ballena1.jpg",
+            "alt1": "Reken balèn (Rhincodon typus)",
+            "name1": "Reken balèn (Rhincodon typus)",
+
+            "imagen2": "./imagenes/sala2/tiburon-ballena2.jpg",
+            "alt2": "Reken balèn (Rhincodon typus)",
+            "name2": "Reken balèn (Rhincodon typus)"
+        },
+        "background": "#103A62",
+        "colorText": "#FFFFFF"
+    },
+
+    "section9" : {
+        "indicador" : "Espès migratè",
+        "colorIndicador" : "#85BD70",
+        "title": "Rè manta jeyan",
+        "contenido": ["Li se yon espès migratè ki manje zowoplankton epi ki abite nan dlo lanmè twopikal ak soutropikal.",
+                        "Li se pi gwo rè ki egziste. Li gen non sila akòz li ka mezire 7 mèt epi peze 2000 kg. Kontrèman ak lòt espès rè yo, sa a pa gen pik pwazonnen sou ke li.",
+                            "Lapèch menase li anpil pou yo ka manje plak branchi li yo, se pou rezon sa ke CBC fè li tounen yon priyorite pou konsèvasyon."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/manta-gigante1.jpg",
+            "alt1": "Rè manta oswa Rè manta jeyan (Mobula birostris)",
+            "name1": "Rè manta oswa Rè manta jeyan (Mobula birostris)",
+
+            "imagen2": "./imagenes/sala2/manta-gigante2.jpg",
+            "alt2": "Rè manta oswa Rè manta jeyan (Mobula birostris)",
+            "name2": "Rè manta oswa Rè manta jeyan (Mobula birostris)"
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section10" : {
+        "img" : "./imagenes/sala2/especies-endemicas.jpg",
+        "title": "Espès andemik"
+    },
+
+    "section11" : {
+        "indicador" : "Espès andemik",
+        "colorIndicador" : "#85BD70",
+        "title": "Kochondenn",
+        "contenido": ["Depi 60 milyon ane, yo pa prezante okenn chanjman.",
+                        "Yo mamifè ki viv nan nwit epi yo an danje anpil, yo jwenn yo sèlman Kiba ak nan Ispanyola.",
+                            "Yo menase pa destriksyon abita ak fwagmantasyon akòz debwazman ak min, epi yo se manje bèt ekzotik ke yo antre nan abita yo."],       
+        "imagen1": "./imagenes/sala2/solenodontes.jpg",
+        "alt1": "Kchondenn Ispanyola (Solenodon paradoxus). Koutwazi imaj SOH Conservation.",        
+        "description": "Kchondenn Ispanyola (Solenodon paradoxus). Koutwazi imaj SOH Conservation.",
+        "background": "#103A62",
+        "colorText": "#FFFFFF"
+    },
+
+    "section13" : {
+        "indicador" : "Espès andemik",
+        "colorIndicador" : "#103A62",
+        "title": "Ricordi Iguana a",
+        "contenido": ["Se yon espès andemik ki anba anpil menas, ki an danje anpil anpil pou li ka pa ekziste ankò, li viv sèlman nan sant-sid zile Ispanyola a.",
+                        "Yo estime ke rete ant 2000 ak 4000 endividi. Depi 1970, dansite espès sa te bese akòz transfòmasyon abita li yo pou agrikilti ak pwodiksyon chabon. Dansite a bese tou akòz lachas, komès ilegal, ekstraksyon kalkè ak entwodiksyon espès ekzotik."],
+        "imagen1": "./imagenes/sala2/iguana-ricord-min.jpg",
+        "alt1": "Leza je wouj  (Cyclura ricordii)",        
+        "description": "Leza je wouj  (Cyclura ricordii)",
+        "background": "#ffffff",
+        "colorText": "#181818"
+    },
+
+    "section14" : {
+        "indicador" : "Espès andemik",
+        "colorIndicador" : "#85BD70",
+        "title": "Anfibyen",
+        "contenido": ["Nan Karayib la, 75% nan espès anfibyen yo an danje oswa deja disparèt. Lis objè konsèvasyon an gen 115 espès ladan.",
+                        "Pifò nan anfibyen sa yo se krapo ki afekte paske yo pèdi abita yo, lòt espès anvayi yo, eksplwatasyon ak maladi.",
+                            "Krapo nen Monte Iberia se youn nan krapo ki pi piti nan mond lan. Yo jwenn li sèlman nan kèk lokalite nan Kiba."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/rana-rio.jpg",
+            "alt1": "Krapo rivyè (Eleutherodactylus riparius), Kiba.",
+            "name1": "Krapo rivyè (Eleutherodactylus riparius), Kiba.",
+
+            "imagen2": "./imagenes/sala2/ranita-iberia.jpg",
+            "alt2": "Monte Iberia nen krapo (Eleutherodactylus iberia), Kiba.",
+            "name2": "Monte Iberia nen krapo (Eleutherodactylus iberia), Kiba."
+        },
+        "background": "#103A62",
+        "colorText": "#FFFFFF"
+    },
+
+    
+    "section15" : {
+        "img" : "./imagenes/sala2/especies-importantes.jpg",
+        "title": "Lòt espès ki enpòtan pou konsèvasyon"
+    },
+
+    "section16" : {
+        "indicador" : "Lòt espès ki enpòtan pou konsèvasyon",
+        "colorIndicador" : "#103A62",
+        "title": "Gwasa oswa Mewou jeyan atlantik la",
+        "contenido": ["Mewou yo menase anpil pa lapèch akòz vyann yo gen anpil valè.",
+                        "Yo ka viv jiska 40 ak 50 ane.",
+                            "Yo viv nan anpil abita tankou mangwòv, resif, ak dlo ki fon anpil."],
+        "imagen1": "./imagenes/sala2/mero-gigante-min.jpg",
+        "alt1": "Mewou (Epinephelus itajara), Kiba.",        
+        "description": "Mewou (Epinephelus itajara), Kiba.",
+        "background": "#ffffff",
+        "colorText": "#181818"
+    },
+    
+    "section17" : {
+        "indicador" : "Lòt espès ki enpòtan pou konsèvasyon",
+        "colorIndicador" : "#85BD70",
+        "title": "Kayimanl ameriken",
+        "contenido": ["Li se yon reptil ki vilnerab a disparisyon epi popilasyon li sou zile Ispanyola, ki limite nan Lak Enriquillo ak Azweyi, an danje anpil anpil.",
+                        "Pi gwo menas li yo se lachas ilegal pou po li, yo pèdi abita akòz devlopman bò lanmè, ak chanjman klimatik la.",
+                            "Li se yon gwo predatè. Prèske nenpòt bèt kap viv nan dlo  oswa sou latè li jwenn nan teritwa li ka on manje."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/cocodrilo-americano1.jpg",
+            "alt1": "Kayiman ameriken (Crocodylus acutus)",
+            "name1": "Kayiman ameriken (Crocodylus acutus)",
+
+            "imagen2": "./imagenes/sala2/cocodrilo-americano2.jpg",
+            "alt2": "Kayiman ameriken (Crocodylus acutus)",
+            "name2": "Kayiman ameriken (Crocodylus acutus)"
+        },
+        "background": "#103A62",
+        "colorText": "#FFFFFF"
+    },
+
+    "section19" : {
+        "indicador" : "Lòt espès ki enpòtan pou konsèvasyon",
+        "colorIndicador" : "#103A62",
+        "title": "Espès ki an danje anpil: Petrel tèt nwa",
+        "contenido": ["Yon zwazo lanmè ki gen yon zòn rezidans ki gwo anpil, ki an danje anpil.",
+                        "Jeneralman li se yon zwazo monogam, sa ki vle di ke yon fwa yo kwaze yo ka rete ansanm pou plizyè ane.",
+                            "Li manje ti pwason ak kalama li jwenn toupre sifas lanmè a."],
+        "imagen1": "./imagenes/sala2/diablotin-min.jpg",
+        "alt1": "Petrel tèt nwa (Pterodroma hasitata) lè lap migre, pandan lap vole sou lanmè Karayib la.",        
+        "description": "Petrel tèt nwa (Pterodroma hasitata) lè lap migre, pandan lap vole sou lanmè Karayib la.",
+        "background": "#ffffff",
+        "colorText": "#181818"
+    },
+
+    "section20" : {
+        "indicador" : "Lòt espès ki enpòtan pou konsèvasyon",
+        "colorIndicador" : "#85BD70",
+        "title": "Bèf lanmè karayib la",
+        "contenido": ["Li se yon mamifè maren èbivò ( saa vle di bèt lanmè ki manje zèd) ki menase, vilnerab a disparisyon e, nan ka Karayib la, ki sou wout pou disparèt.",
+                        "Li kontwole jan kò li flote epi rete orizontal ak gwo kantite gaz li pwodwi lè li dijere matyè plant li konsome yo.",
+                            "Prensipal menas li fè fas a yo se: lachas ilegal, li pèdi abita, polisyon bò lanmè, kolizyon ak bato ak mare wouj."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/manati-antillano.jpg",
+            "alt1": "Bèf lanmè karayib la (Trichecherus manatus)",
+            "name1": "Bèf lanmè karayib la (Trichecherus manatus)",
+
+            "imagen2": "./imagenes/sala2/habitad-manati.jpg",
+            "alt2": "Abita Bèf lanmè karayib la (Trichechus manatus) nan Estero Hondo (Repiblik Dominikèn)",
+            "name2": "Abita Bèf lanmè karayib la (Trichechus manatus) nan Estero Hondo (Repiblik Dominikèn)"
+        },
+        "background": "#103A62",
+        "colorText": "#FFFFFF"
+    },
+
+    "section21" : {
+        "indicador" : "Lòt espès ki enpòtan pou konsèvasyon",
+        "colorIndicador" : "#103A62",
+        "title": "Balèn espèm (Kachalo)",
+        "contenido": ["Li se yon espès ki konsidere kòm vilnerab a disparisyon.",
+                        "Yo jwenn li nan zòn lanmè nan tout mond lan, sòti nan oseyan rive nan Gòlf, sof nan zòn glas.",
+                            "Li fè bri e se bri saa ki gide  tèt li, pou kominike oswa pou lokalize pwa li yo."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/cachalote.jpg",
+            "alt1": "Tèt yon balèn (Physeter macrocephalus) ak yon machwa ki gen dan",
+            "name1": "Tèt yon balèn (Physeter macrocephalus) ak yon machwa ki gen dan",
+
+            "imagen2": "./imagenes/sala2/cabeza-cachalote.jpg",
+            "alt2": "Balèn espèm oswa Kachalo (Physeter macrocephalus) ak ke patikilye li a",
+            "name2": "Balèn espèm oswa Kachalo (Physeter macrocephalus) ak ke patikilye li a"
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section22" : {
+        "indicador" : "Lòt espès ki enpòtan pou konsèvasyon",
+        "colorIndicador" : "#85BD70",
+        "title": "Koray konstriktè resif",
+        "contenido": ["Koray konstriktè resif yo, ki rele tou koray di, jwe yon wòl enpòtan anpil nan ekosistèm sa yo.",
+                        "Polip koray kap viv an koloni yo kapab retire kalsyòm ki fonn nan dlo a, epi fèl vin di pou fòme eskelèt yo. Estrikti kabonat kalsyòm sa yo fòme baz resif yo epi abrite anpil espès kap viv nan ekosistèm sa yo.",
+                            "Gen plizyè espès ki konsidere kòm espès ki bati resif, tankou:"],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/coral-cuerno-siervo-min.jpg",
+            "alt2": "Koray ki gen kòn elan (Acropora palmata)",
+            "name2": "Koray ki gen kòn elan (Acropora palmata)",
+            "imagen2": "./imagenes/sala2/coral-cuerno-alce-min.jpg",
+            "alt1": "Koray ki gen kòn sèf (Acropora cervicornis)",
+            "name1": "Koray ki gen kòn sèf (Acropora cervicornis)"
+        },
+        "background": "#103A62",
+        "colorText": "#fff"
+    },
+
+        
+    "section23" : {
+        "img" : "./imagenes/sala2/especies-interes.jpg",
+        "title": "Espès ki gen enterè pou CBC"
+    },
+
+    "section24" : {
+        "indicador" : "Espès ki gen enterè pou CBC",
+        "colorIndicador" : "#103A62",
+        "title": "Èg pechè a",
+        "contenido": ["Li sitou manje pwason (99% nan rejim li), sa ki eksplike poukisa li sitou abite nan zòn ki toupre dlo.",
+                        "CBC etidye migrasyon espès la, ki konsidere tankou pa anba anpil menas disparisyon.",
+                            "Li te soufri lachas, espesyalman nan zòn kote li pase moman fredi yo, kote jenn ti zwazo yo gen plis chans pou yo chase yo, epi tou lè yo rete toupre fèm kote yo fè gadinay pwason."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/anidacion-aguila.jpg",
+            "alt1": "Ni èg pechè a (Pandion halietus)",
+            "name1": "Ni èg pechè a (Pandion halietus)",
+
+            "imagen2": "./imagenes/sala2/aguila-pescadora.jpg",
+            "alt2": "Èg pechè (Pandion halietus)",
+            "name2": "Èg pechè (Pandion halietus)"
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section26" : {
+        "indicador" : "Espès ki gen enterè pou CBC",
+        "colorIndicador" : "#85BD70",
+        "title": "Les oiseaux passériformes",
+        "contenido": ["Les passériformes comporte 60% d’espèces d’oiseaux du monde et beaucoup d’entre eux sont migrateurs, comme le Passerin Indigo (Passerina cyanea), le Passerin Nonpareil (Passerina cyris), et de nombreauses espèces de Setophaga (Setophaga sp.).",
+                        "Pendant leurs migrations ils forment des groups qui peuvent occuper plus de 100 km pour traverser des territoires déterminés comme les migrations à travers le Détroit de Floride.",
+                            "À cause de leur importance dans la connectivité écologique, ceux espèces sont sujets d’observation par le CBC. Deux fois par an, les équipes de travail du CBC et autres partenaires sur le terrain, de Cuba et de la République Dominicaine, font des observations sur les migrations hivernales et printanières de nombreuses espèces de cet important groupe d’oiseaux."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/candelita-nortena.jpg",
+            "alt1": "Paruline flamboyante (Setophaga ruticilla)",
+            "name1": "Paruline flamboyante (Setophaga ruticilla)",
+
+            "imagen2": "./imagenes/sala2/coral-cuerno-alce-min.jpg",
+            "alt2": "Paruline à gorge jaune (Setophaga dominica)",
+            "name2": "Paruline à gorge jaune (Setophaga dominica)"
+        },
+        "background": "#103A62",
+        "colorText": "#FFFFFF"
+    },
+
+    "section27" : {
+        "indicador" : "Espès ki gen enterè pou CBC",
+        "colorIndicador" : "#103A62",
+        "title": "Balèn ki gen bòs",
+        "contenido": ["Balèn ki gen bòs la prezan nan tout oseyan nan mond lan epi li se yon endikatè koneksyon.",
+                        "Li ka mezire jiska 19 mèt longè.",
+                            "Lontan li menase anpil pa lachas, men depi lè yo te mete entèdiksyon lachas an plas, popilasyon yo te ogmante."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/ballena-jorobada.jpg",
+            "alt1": "Balèn ki gen bòs (Megaptera novaeangliae).",
+            "name1": "Balèn ki gen bòs (Megaptera novaeangliae).",
+
+            "imagen2": "./imagenes/sala2/bahia-samana.jpg",
+            "alt2": "Bahía de Samaná (Repiblik Dominikèn), pò anbakman pou obsève règlemante balèn.",
+            "name2": "Bahía de Samaná (Repiblik Dominikèn), pò anbakman pou obsève règlemante balèn."
+        },
+        "background": "#FFFFFF",
+        "colorText": "#181818"
+    },
+
+    "section28" : {
+        "indicador" : "Espès ki gen enterè pou CBC",
+        "colorIndicador" : "#85BD70",
+        "title": "Pwason jako",
+        "contenido": ["Pwason jako yo abondan nan resif twopikal atravè mond lan.",
+                        "Yo idantifye 80 espès diferan pwason jako ki gen gwosè, koulè ak modèl diferan.",
+                            "Youn nan karakteristik ki pi espesifik li yo se ke li ka chanje sèks plizyè fwa pandan lavi li."],
+        "imagenes": {
+            "imagen1": "./imagenes/sala2/pez-loro1.jpg",
+            "alt1": "Pwason jako (Sparisoma viride) nan resif koray Gwo Zantiy yo",
+            "name1": "Pwason jako (Sparisoma viride) nan resif koray Gwo Zantiy yo",
+
+            "imagen2": "./imagenes/sala2/pez-loro2.jpg",
+            "alt2": "Pwason jako (Sparisoma viride) nan resif koray Gwo Zantiy yo",
+            "name2": "Pwason jako (Sparisoma viride) nan resif koray Gwo Zantiy yo"
+        },
+        "background": "#103A62",
+        "colorText": "#FFFFFF"
+    },
+
+    "section29" : {
+        "img": "./imagenes/sala2/agrupaciones-corales.jpg",
+        "description": "Gwoup koray di ak mou nan Cayemites, Ayiti"
+    },
+
+    "section30" : {
+        "contenido": "Nan sal kap vini an ou pral jwenn plis enfòmasyon sou kèk ekosistèm ke konsèvasyon yo priyoritè nan kad CBC a.",
+        "backLink": "/Sala1",
+        "nextLink": "/Sala3"
+    },
+
+    "footer": {
+        "title": "“CBC se Lanati”",
+        "subtitle": "Instituciones relacionadas",
+        "instituciones": ["Ministerio de Ciencia, Tecnología y Medio Ambiente de la República de Cuba",
+                        "Ministerio de Medio Ambiente y Recursos Naturales de República Dominicana",
+                        "Departamento de Recursos Naturales y Ambientales del Gobierno de Puerto Rico"
+                        ,"Ministerio de Medio Ambiente de Haití","Ministry of Economic Growth and Job Creation of Jamaica (MEGJC)",
+                        "Unión Europea",
+                        "PNUMA"]        
+    }
+
+}

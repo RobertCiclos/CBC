@@ -1,0 +1,67 @@
+{
+    "section1":{
+        "title": "Corridor Biologique dans la Caraïbe",
+        "subtitle": "Préserver les trésors partagés"
+    },
+
+    "section2":{
+        "title": ["Exposition:", "Préserver les trésors partagés."],
+        "contenido": ["Nous vous invitons à visiter cette exposition photographique du CBC pour découvrir les incroyables trésors naturels des Caraïbes.",
+                    "À travers les cinq salles, vous pourrez découvrir l'importance de la connectivité écologique dans les Caraïbes, notre histoire et le travail de conservation qui a été réalisé au cours des 15 années de cette initiative."],
+        "info": ["15 ans de l'initiative CBC",
+                "1 common conservation agenda",
+                "4 écosystèmes et 14 groupes d'espèces prioritaires pour la conservation ",
+                "Plus de 100 formations sur la conservation et la biodiversité organisées dans la région",
+                "Objectif de protection d'au moins 30 % des paysages marins et terrestres du CBC"
+            ]
+    },
+
+    "section3":{
+        "description": "Visitez les salles",
+        "title": "Un aperçu des Caraïbes",
+        "salasTitle": ["La connectivité écologique et le Corridor Biologique dans la Caraïbe",
+                "Espèces prioritaires pour le Corridor Biologique dans la Caraïbe",
+                "Écosystèmes prioritaires pour le Corridor Biologique dans la Caraïbe",
+                "Le Corridor Biologique dans la Caraïbe, l'Initiative",
+                "15 ans de l'Initiative du Corridor Biologique dans la Caraïbe (CBC): Réalisations, défis et avenir"] 
+
+    },
+
+    "section4":{
+        "description": "Message du Secrétaire exécutif de la CBC",
+        "nombre": "Nicasio Viña Dávila",
+        "rol": "Secrétaire exécutif du Corridor Biologique dans la Caraïbe (CBC)",
+        "cite": ["L'initiative du Corridor Biologique dans la Caraïbe (CBC) travaille depuis 15 ans autour des valeurs les plus importantes pour la conservation de la biodiversité et s'est avérée être une plateforme réussie de coopération entre les pays des Grandes Antilles."] 
+
+    },
+
+    "section5":{
+        "title": "Une nature vivante"
+    },
+
+    "section6":{
+        "title": "Pays",
+        "paises": ["Cuba","Haïti","République dominicaine","Porto Rico","Jamaïque"]
+    },
+
+    "section7":{
+        "title": "Avec le soutien de"
+    },
+
+    "section8":{
+        "title": "Remerciements",
+        "subtitle": ["PHOTOGRAPHIES ","TEXTES","LA CONCEPTION ET LA MISE EN PAGE"]
+    },
+
+    "footer": {
+        "title": "An Initiative of the governments of Cuba, Dominican Republic, Haiti, Puerto Rico and Jamaica. Financed by the European Union (EU) with support of the United Nations Environment Programme (UNEP).",
+        "subtitle": "Associated Institutions",
+        "instituciones": ["Ministry of Science, technology and the Environment of the Republic of Cuba",
+                        "Ministry of the Environment and Natural Resources of the Dominican Republic",
+                        "Department of Natural and Environmental Resources of the Government of Puerto Rico",
+                        "Ministry of the Environment of Haiti",
+                        "Ministry of Economic Growth and Job Creation of Jamaica (MEGJC)",
+                        "European Union (EU)",
+                        "PNUMA"]        
+    }
+}
