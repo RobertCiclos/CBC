@@ -31,8 +31,7 @@
         "description": "Message du Secrétaire exécutif de la CBC",
         "nombre": "Nicasio Viña Dávila",
         "rol": "Secrétaire exécutif du Corridor Biologique dans la Caraïbe (CBC)",
-        "cite": ["L'initiative du Corridor Biologique dans la Caraïbe (CBC) travaille depuis 15 ans autour des valeurs les plus importantes pour la conservation de la biodiversité et s'est avérée être une plateforme réussie de coopération entre les pays des Grandes Antilles."] 
-
+        "cite": "L'initiative du Corridor Biologique dans la Caraïbe (CBC) travaille depuis 15 ans autour des valeurs les plus importantes pour la conservation de la biodiversité et s'est avérée être une plateforme réussie de coopération entre les pays des Grandes Antilles."
     },
 
     "section5":{
@@ -45,13 +44,19 @@
     },
 
     "section7":{
-        "title": "Avec le soutien de"
+        "title": "Avec le soutien de",
+        "cite": "Produit avec le soutien financier de l'Union européenne. Son contenu relève de la seule responsabilité du PNUE et ne reflète pas nécessairement les vues de l'Union européenne."
     },
 
     "section8":{
         "title": "Remerciements",
         "subtitle": ["PHOTOGRAPHIES ","TEXTES","LA CONCEPTION ET LA MISE EN PAGE"]
     },
+
+    "section9":{
+        "cite": "“LA VISITE COMMENCE PAR L'EXPOSITION”"
+    },
+
 
     "footer": {
         "title": "An Initiative of the governments of Cuba, Dominican Republic, Haiti, Puerto Rico and Jamaica. Financed by the European Union (EU) with support of the United Nations Environment Programme (UNEP).",

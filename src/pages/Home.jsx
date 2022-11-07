@@ -2,6 +2,7 @@ import { AnimatePresence, motion } from 'framer-motion'
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { useMediaQuery } from 'react-responsive'
+import { useSelector } from 'react-redux'
 
 const Home = () => {
   const ismovil = useMediaQuery({ query: '(min-width: 625px)' })
@@ -12,7 +13,6 @@ const Home = () => {
   const imagen5 = './imagenes/home/SALA5.png'
 
   const [imagen, setImagen] = useState(imagen1)
-  const data = require('../bd/spañol/home.json')
 
   const changeImage = (e) => {
     const value = e.target.value
@@ -35,6 +35,27 @@ const Home = () => {
       default:
         break
     }
+  }
+
+  const idioma = useSelector(state => state.idioma.value)
+  var data = ""
+
+  switch (idioma) {
+    case "ingles":
+      data = require('../bd/ingles/Home.json')
+      break;
+    case "frances":
+      data = require('../bd/frances/Home.json')
+      break;
+    case "creole":
+      data = require('../bd/creole/Home.json')
+      break;
+    case "español":
+      data = require('../bd/spaniol/Home.json')
+      break;
+    default:
+      data = require('../bd/spaniol/Home.json')
+      break;
   }
 
   return (
@@ -313,7 +334,7 @@ const Home = () => {
             <div
               className=' mx-auto grid justify-items-center gap-[56px] mt-[32px]
               lg:w-[731px] lg:grid-cols-[237px_362px] lg:mt-[72px] lg:gap-[132px]'>
-              <img src="./imagenes/home/onu.png" alt="" />
+              <img src={data.section7.imgONU} alt="" />
               <div className=''>
                 <img src="./imagenes/home/union_europea.png" alt="" className='mx-auto' />
                 <p
@@ -360,7 +381,8 @@ const Home = () => {
                   <li>Matias Balaguer</li>
                   <li>Alejandro Balaguer</li>
                   <li>Nobert Dechanel</li>
-                  <li>Manuel Feliz Perez</li>
+                  <li>Manuel Félix Perez</li>
+                  <li>Rodrigo Balaguer</li>
                 </ul>
               </div>
 

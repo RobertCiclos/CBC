@@ -18,11 +18,11 @@
 
     "section3":{
         "description": "Conoce las salas",
-        "title": "Una mirada al Caribe de cerca",
+        "title": "Una mirada al Caribe",
         "salasTitle": ["La conectividad ecológica y el Corredor Biológico en el Caribe",
                 "Especies prioritarias para el Corredor Biológico en el Caribe",
                 "Ecosistemas prioritarios para el Corredor Biológico en el Caribe",
-                "El Corredor Biológico en el Caribe, la Iniciativa",
+                "Corredor Biológico en el Caribe, la Iniciativa",
                 "15 años de la Iniciativa del Corredor Biológico en el Caribe (CBC):  Logros, retos y futuro"] 
 
     },
@@ -46,6 +46,7 @@
 
     "section7":{
         "title": "Con apoyo de:",
+        "imgONU": "./imagenes/home/onu.png",
         "cite": "Producido con el apoyo financiero de la Unión Europea. Su contenido es responsabilidad exclusiva del PNUMA y no refleja necesariamente las opiniones de la Unión Europea"
     },
 
@@ -59,13 +60,15 @@
     },
 
     "footer": {
-        "title": "Iniciativa gubernamental de Cuba, Haití, República Dominicana, Puerto Rico y Jamaica.",
+        "title": "“El CBC es Desarrollo Sostenible”",
         "subtitle": "Instituciones relacionadas",
         "instituciones": ["Ministerio de Ciencia, Tecnología y Medio Ambiente de la República de Cuba",
                         "Ministerio de Medio Ambiente y Recursos Naturales de República Dominicana",
                         "Departamento de Recursos Naturales y Ambientales del Gobierno de Puerto Rico"
                         ,"Ministerio de Medio Ambiente de Haití","Ministry of Economic Growth and Job Creation of Jamaica (MEGJC)",
                         "Unión Europea",
-                        "PNUMA"]        
+                        "PNUMA"] ,
+        "descript": "Todos los derechos reservados  -  2022",
+        "design": "Diseñado por Ciclos Studio"      
     }
 }

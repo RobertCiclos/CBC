@@ -7,12 +7,33 @@ import { useMediaQuery } from 'react-responsive'
 import { AnimatePresence, motion } from 'framer-motion'
 import ModelTitle from '../components/ModelTitle'
 import Parrafos from '../components/models/Parrafos'
+import { useSelector } from 'react-redux'
 
 const Sala5 = () => {
 
-  const dataSala5 = require('../bd/spañol/Sala5.json')
+ 
   const istablet = useMediaQuery({ query: '(min-width: 1280px)' })
   
+  const idioma = useSelector(state => state.idioma.value)
+
+  const dataSala5 = ""
+  switch (idioma) {
+    case "ingles":
+      dataSala5 = require('../bd/ingles/Home.json')
+      break;
+    case "frances":
+      dataSala5 = require('../bd/frances/Home.json')
+      break;
+    case "creole":
+      dataSala5 = require('../bd/creole/Home.json')
+      break;
+    case "español":
+      dataSala5 = require('../bd/spaniol/Home.json')
+      break;
+    default:
+      dataSala5 = require('../bd/spaniol/Home.json')
+      break;
+  }
   return (
     <AnimatePresence>
       <motion.div

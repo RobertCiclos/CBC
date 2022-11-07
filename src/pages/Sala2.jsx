@@ -9,14 +9,33 @@ import ModelNavigation from '../components/ModelNavigation'
 import ModelTitle from '../components/ModelTitle'
 import Parrafos from '../components/models/Parrafos'
 import { Link } from "react-scroll";
+import { useSelector } from 'react-redux'
 
 const Sala2 = () => {
 
   const isDesktop = useMediaQuery({ query: '(min-width: 1440px)' })
   const istablet = useMediaQuery({ query: '(min-width: 1280px)' })
-  const dataSala2 = require('../bd/spañol/Sala2.json')
-
-  console.log(dataSala2.section1.imgBack)
+  
+  const idioma = useSelector(state => state.idioma.value)
+  var dataSala2 = ""
+  
+  switch (idioma) {
+    case "ingles":
+      dataSala2 = require('../bd/ingles/Home.json')
+      break;
+    case "frances":
+      dataSala2 = require('../bd/frances/Home.json')
+      break;
+    case "creole":
+      dataSala2 = require('../bd/creole/Home.json')
+      break;
+    case "español":
+      dataSala2 = require('../bd/spaniol/Home.json')
+      break;
+    default:
+      dataSala2 = require('../bd/spaniol/Home.json')
+      break;
+  }
 
   function renderizadoAux() {
 

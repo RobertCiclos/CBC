@@ -1,12 +1,34 @@
 import React from 'react'
+import { useSelector } from 'react-redux'
 import {useLocation } from 'react-router-dom'
 
 const Footer = () => {
 
+  var dataFooter = ""
+  const idioma = useSelector(state => state.idioma.value)
+
+  switch (idioma) {
+    case "ingles":
+      dataFooter = require('../bd/ingles/Home.json')
+      break;
+    case "frances":
+      dataFooter = require('../bd/frances/Home.json')
+      break;
+    case "creole":
+      dataFooter = require('../bd/creole/Home.json')
+      break;
+    case "español":
+      dataFooter = require('../bd/spaniol/Home.json')
+      break;
+    default:
+      dataFooter = require('../bd/spaniol/Home.json')
+      break;
+  }
+
+
   const location = useLocation().pathname
 
   const background = option(location)
-  const TitleFooter = optionTitle(location)
 
   function option(param) {
     switch(param) {
@@ -27,24 +49,6 @@ const Footer = () => {
     }
   }
 
-  function optionTitle(param) {
-    switch(param) {
-      case '/':
-        return 'Iniciativa gubernamental de Cuba, Haití, República Dominicana, Puerto Rico y Jamaica.';
-      case '/Sala1':
-        return "“El CBC es Naturaleza”";
-      case '/Sala2':
-        return 'Iniciativa gubernamental de Cuba, Haití, República Dominicana, Puerto Rico y Jamaica.';
-      case '/Sala3':
-        return 'Iniciativa gubernamental de Cuba, Haití, República Dominicana, Puerto Rico y Jamaica.';
-      case '/Sala4':
-        return 'Iniciativa gubernamental de Cuba, Haití, República Dominicana, Puerto Rico y Jamaica.';
-      case '/Sala5':
-        return 'Iniciativa gubernamental de Cuba, Haití, República Dominicana, Puerto Rico y Jamaica.';    
-      default:
-        return 'Iniciativa gubernamental de Cuba, Haití, República Dominicana, Puerto Rico y Jamaica.';
-    }
-  }
 
   const stylesFooter = {
     background: background 
@@ -59,33 +63,33 @@ const Footer = () => {
         sm:w-auto sm:px-[9%] 
         lg:w-[1040px] lg:px-0'>
         <h4>
-          {TitleFooter}
+          {dataFooter.footer.title}
         </h4>
         <p
-          className='font-[500] text-[20px] mt-[24px] mb-[16px]
+          className='font-[500] text-[20px] mt-[16px] mb-[16px]
           sm:text-[22px] sm:font-[700] 
-          md:text-[24px] md:mt-[48px] '>
-          Instituciones relacionadas
+          md:text-[24px] md:mt-[24px] '>
+          {dataFooter.footer.subtitle}
         </p>
         <ul 
           className="grid font-[400] text-[16px] leading-[24px] gap-[16px]
-          md:grid-cols-2 md:translate-x-[-3.2%]
+          md:grid-cols-2 w-full 
           lg:grid-cols-3">
-          <li>Ministerio de Ciencia, Tecnología y Medio Ambiente de la República de Cuba</li>
-          <li>Ministerio de Medio Ambiente y Recursos Naturales de República Dominicana</li>
-          <li>Departamento de Recursos Naturales y Ambientales del Gobierno de Puerto Rico</li>
-          <li>Ministerio de Medio Ambiente de Haití</li>
-          <li>Ministry of Economic Growth and Job Creation of Jamaica (MEGJC)</li>
-          <li>Unión Europea</li>
-          <li>PNUMA</li>
+          {
+            dataFooter.footer.instituciones.map((item)=>(
+              <li className='w-full 
+              md:translate-x-[-18px] 
+              lg:translate-x-[-24px]'>{item}</li>
+            ))
+          }
         </ul>
         <div className='bg-white h-[2px] w-full mt-[24px]'/>
         <div
           className='grid w-full mt-[8px] md:mt-[16px]
           font-[300] text-[14px] font-Public 
           md:grid-cols-2 '>
-          <i className='md:justify-self-start my-[8px] md:my-0'>Todos los derechos reservados  -  2022</i>
-          <i className='md:justify-self-end'>Diseñado por Ciclos Studio</i>
+          <i className='md:justify-self-start my-[8px] md:my-0'>{dataFooter.footer.descript}</i>
+          <i className='md:justify-self-end'>{dataFooter.footer.design}</i>
         </div>
       </div>
     </footer>

@@ -8,9 +8,30 @@ import ModelNavigation from '../components/ModelNavigation'
 import { AnimatePresence, motion } from 'framer-motion'
 import ModelTitle from '../components/ModelTitle'
 import Parrafos from '../components/models/Parrafos'
+import { useSelector } from 'react-redux'
 
 const Sala3 = () => {
-  const dataSala3 = require('../bd/spañol/Sala3.json')
+  const idioma = useSelector(state => state.idioma.value)
+  var dataSala3 = ""
+  
+  switch (idioma) {
+    case "ingles":
+      dataSala3 = require('../bd/ingles/Home.json')
+      break;
+    case "frances":
+      dataSala3 = require('../bd/frances/Home.json')
+      break;
+    case "creole":
+      dataSala3 = require('../bd/creole/Home.json')
+      break;
+    case "español":
+      dataSala3 = require('../bd/spaniol/Home.json')
+      break;
+    default:
+      dataSala3 = require('../bd/spaniol/Home.json')
+      break;
+  }
+
   const istablet = useMediaQuery({ query: '(min-width: 1280px)' })
 
   return (

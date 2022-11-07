@@ -12,26 +12,28 @@ import { useSelector } from 'react-redux'
 
 const Sala4 = () => {
   const istablet = useMediaQuery({ query: '(min-width: 1280px)' })
-  var dataSala4 = "require('../bd/spañol/Sala4.json')"
+  
+  var dataSala4 = ""
   const idioma = useSelector(state => state.idioma.value)
 
   switch (idioma) {
     case "ingles":
-      dataSala4 = require('../bd/ingles/Sala4.json')
+      dataSala4 = require('../bd/ingles/Home.json')
       break;
     case "frances":
-      dataSala4 = require('../bd/frances/Sala4.json')
+      dataSala4 = require('../bd/frances/Home.json')
       break;
     case "creole":
-      dataSala4 = require('../bd/ingles/Sala4.json')
+      dataSala4 = require('../bd/creole/Home.json')
       break;
     case "español":
-      dataSala4 = require('../bd/spañol/Sala4.json')
+      dataSala4 = require('../bd/spaniol/Home.json')
       break;
     default:
-      dataSala4 = require('../bd/spañol/Sala4.json')
+      dataSala4 = require('../bd/spaniol/Home.json')
       break;
   }
+
   return (
     <AnimatePresence>
       <motion.div
