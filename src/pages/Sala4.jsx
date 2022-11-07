@@ -2,18 +2,36 @@ import React from 'react'
 import { useMediaQuery } from 'react-responsive'
 import ModelSlider from '../components/ModelSlider'
 import ModelOneImg from '../components/ModelOneImg'
-import ModelMap from '../components/ModelMap'
 import Modelimg from '../components/Modelimg'
 import ModelNavigation from '../components/ModelNavigation'
 import { AnimatePresence, motion } from 'framer-motion'
 import ModelTitle from '../components/ModelTitle'
 import Parrafos from '../components/models/Parrafos'
 import ModelMapAnimation from '../components/ModelMapAnimation'
+import { useSelector } from 'react-redux'
 
 const Sala4 = () => {
   const istablet = useMediaQuery({ query: '(min-width: 1280px)' })
-  const dataSala4 = require('../bd/spañol/Sala4.json')
+  var dataSala4 = "require('../bd/spañol/Sala4.json')"
+  const idioma = useSelector(state => state.idioma.value)
 
+  switch (idioma) {
+    case "ingles":
+      dataSala4 = require('../bd/ingles/Sala4.json')
+      break;
+    case "frances":
+      dataSala4 = require('../bd/frances/Sala4.json')
+      break;
+    case "creole":
+      dataSala4 = require('../bd/ingles/Sala4.json')
+      break;
+    case "español":
+      dataSala4 = require('../bd/spañol/Sala4.json')
+      break;
+    default:
+      dataSala4 = require('../bd/spañol/Sala4.json')
+      break;
+  }
   return (
     <AnimatePresence>
       <motion.div
@@ -33,7 +51,7 @@ const Sala4 = () => {
         <section
           id='section2'
           className='pySection'>
-          <main 
+          <main
             className='contSalas '>
             <Parrafos {...dataSala4.section2} />
           </main>
@@ -55,7 +73,7 @@ const Sala4 = () => {
           id='section5'
           style={{ background: dataSala4.section5.background, color: dataSala4.section5.colorText }}
           className='pySection'>
-          <ModelSlider  state={true} {...dataSala4.section5} />
+          <ModelSlider state={true} {...dataSala4.section5} />
         </section>
 
         <section
