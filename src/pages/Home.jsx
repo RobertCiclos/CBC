@@ -39,7 +39,7 @@ const Home = () => {
   }
 
   const idioma = useSelector(state => state.idioma.value)
-  const general = require('../bd/ingles/General.json')
+  var general = require('../bd/ingles/General.json')
   var data = ""
 
   switch (idioma) {

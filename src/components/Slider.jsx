@@ -1,6 +1,7 @@
 import React from 'react'
 import { motion } from 'framer-motion'
 import { useMediaQuery } from 'react-responsive'
+import CardCredit from './CardAux/CardCredit'
 
 const Slider = (props) => {
 
@@ -27,6 +28,7 @@ const Slider = (props) => {
         drag='x'
         dragConstraints={sliderResponsive()}>
         <motion.div className='item  grid gap-[16px] sm:gap-[32px]'>
+          <CardCredit  idioma={general.credito} author="Matías Balaguer" />
           <img src={props.imagen1} alt={props.alt1} className="w-full h-full pointer-events-none" />
           <cite>{props.name1}</cite>
         </motion.div>
