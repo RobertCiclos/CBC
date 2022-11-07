@@ -79,7 +79,7 @@
     "section9" : {
         "title": "CORE CONSERVATION AREAS IN THE CBC",
         "contenido": ["The current CBC demarcation covers a total area of 199,703 km2, of which 40,434 km2 (20.2%) represent core conservation areas and 159,269 km2 (79.8%) connectivity areas."],
-        "subtitle": "Zones noyaux du Corridor Biologique dans la Caraïbe",
+        "subtitle": "Core Conservation Areas in the Caribbean Biological Corridor",
         "colorSubtitle": "#103A62",
         "imagen":  "./imagenes/sala1/mapa-areas-identificadas.jpg",
         "description": ["Map of the identified core conservation areas within the demarcation of the Caribbean Biological Corridor, as presented in the  BioAtlas, a spatial information tool from the Integrated Knowledge Management System of the CBC."],
@@ -160,7 +160,7 @@
         "title": "AREAS OF IMPORTANCE FOR CONNECTIVITY IN THE CBC",
         "contenido": ["This map highlights the areas that have been prioritized for connectivity in the corridor, while showing the core conservation areas and areas of importance for the restoration of connectivity.",
                         "It is relevant to note, that in the marine scope, 92.5% corresponds to areas of importance for connectivity while in the terrestrial scope, to 56.7%."],
-        "subtitle": "Áreas de Conectividad en el Corredor Biológico  en el Caribe",
+        "subtitle": "Key Areas for Connectivity in the Caribbean Biological Corridor",
         "colorSubtitle": "#FFFFFF",
         "imagen":  "./imagenes/sala1/mapa-actual.jpg",
         "description": ["Map of the current corridor demarcation, highlighting identified areas of importance for connectivity in the Caribbean Biological Corridor, as well as core areas of importance for conservation."],
