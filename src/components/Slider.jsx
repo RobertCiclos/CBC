@@ -49,22 +49,28 @@ const Slider = (props) => {
         xl:grid-cols-[1016px_1035px] xl:gap-[56px]'
         drag='x'
         dragConstraints={sliderResponsive()}>
-        <motion.div className='item  grid gap-[16px] sm:gap-[32px]'>
-          <CardCredit  idioma={general.credito} author="Matías Balaguer" />
-          <img src={props.imagen1} alt={props.alt1} className="w-full h-full pointer-events-none" />
+        <motion.div className='item  grid gap-[16px] sm:gap-[32px] relative'>
+          <div className='relative'>
+            <CardCredit idioma={general.credito} author="Matías Balaguer" />
+            <img src={props.imagen1} alt={props.alt1} className="w-full h-full pointer-events-none" />
+          </div>
           <cite>{props.name1}</cite>
         </motion.div>
-        <motion.div className='item grid gap-[16px] sm:gap-[32px]'>
-          <img src={props.imagen2} alt={props.alt2} className="w-full h-full pointer-events-none" />
+        <motion.div className='item grid gap-[16px] sm:gap-[32px] relative'>
+          <div className='relative'>
+            <CardCredit idioma={general.credito} author="Matías Balaguer" />
+            <img src={props.imagen2} alt={props.alt2} className="w-full h-full pointer-events-none" />
+          </div>
           <cite>{props.name2}</cite>
         </motion.div>
       </motion.div>
       {
         props.state &&
         <div
-          className='w-[300px] h-[30px] bg-black/50 text-white absolute top-0
-          flex justify-center items-center text-[14px]'>
-          Arrastre la fotografía de izquiera a derecha
+          className='w-auto px-2 bg-white 
+          text-black absolute top-0
+          flex justify-center items-center text-[12px]'>
+          Arrastre la fotografía de derecha a izquierda
         </div>
       }
 
