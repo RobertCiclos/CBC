@@ -3,8 +3,8 @@ import { Link, useLocation } from 'react-router-dom'
 import { AnimatePresence, motion } from 'framer-motion'
 import { useMediaQuery } from 'react-responsive'
 import { useDispatch } from "react-redux"
-import { change } from '../features/counter/idiomaSlice'
-import { useSelector } from 'react-redux'
+import DropNavTopBgNone from './dropdowns/DropNavTopBgNone'
+import DropNavRightBgWhite from './dropdowns/DropNavRightBgWhite'
 
 const Navbar = () => {
    const dispatch = useDispatch()
@@ -14,63 +14,6 @@ const Navbar = () => {
       query: '(min-width: 650px)'
    })
 
-   var idiomaBtn = <></>
-   const idioma = useSelector(state => state.idioma.value)
-
-   switch (idioma) {
-      case "ingles":
-         idiomaBtn =
-            <a
-               className="dropdown-item
-               flex  items-center 
-               bg-none gap-[8px]"
-               href="#">
-               <img src="/svg/ingles.svg" alt="" className="h-[15px]" />
-               <span className='border-b-2 border-black'>Inglés</span>
-            </a>
-
-         break;
-      case "frances":
-         idiomaBtn =
-            <a
-               className="dropdown-item
-               flex  items-center 
-               bg-none gap-[8px]"
-               href="#">
-               <img src="/svg/frances.svg" alt="" className="h-[15px]" />
-               <span className='border-b-2 border-black'>Frances</span>
-            </a>
-         break;
-      case "creole":
-         idiomaBtn =
-            <a
-               className="dropdown-item
-               flex  items-center 
-               bg-none gap-[8px]"
-               href="#">
-               <img src="/svg/creole.svg" alt="" className="h-[15px]" />
-               <span className='border-b-2 border-black'>Creolé</span> 
-            </a>
-         break;
-      case "español":
-         idiomaBtn =
-            <a
-               className="dropdown-item flex flex-row-reverse items-center 
-               bg-none gap-[8px]" href="#">
-               <span className='border-b-2 border-black'>Español</span>
-               <img src="/svg/espaniol.svg" alt="" className="h-[15px]" />
-            </a>
-         break;
-      default:
-         idiomaBtn = <div>
-            <a className="dropdown-item flex flex-row-reverse items-center 
-                        bg-none gap-[8px]" href="#">
-               <span className='border-b-2 border-black'>Español</span>
-               <img src="/svg/espaniol.svg" alt="" className="h-[15px]" />
-            </a>
-         </div>
-         break;
-   }
 
 
    const styles = {
@@ -97,71 +40,7 @@ const Navbar = () => {
             sm:w-[1095px] sm:px-[10%] xl:px-0">
 
             {smAux &&
-
-               <div className="dropdown  hover:bg-slate-400/0">
-                  <a
-                     className="btn btn-secondary  dropdown-toggle flex 
-                     bg-gray-600/10 border-none items-center gap-2
-                     hover:bg-slate-400/0"
-                     href="#"
-                     role="button"
-                     id="dropdownMenuLink"
-                     data-bs-toggle="dropdown"
-                     aria-expanded="false">
-                     {idiomaBtn}
-                  </a>
-
-                  <ul className="dropdown-menu " aria-labelledby="dropdownMenuLink">
-                     <li onClick={() => dispatch(change("español"))}>
-                        <div>
-                           <a
-                              className="dropdown-item
-                              flex  items-center 
-                              bg-none gap-[8px]"
-                              href="#">
-                              <img src="/svg/espaniol.svg" alt="" className="h-[15px]" />
-                              Español
-                           </a>
-                        </div>
-                     </li>
-                     <li onClick={() => dispatch(change("frances"))}>
-                        <div>
-                           <a
-                              className="dropdown-item
-                              flex  items-center 
-                              bg-none gap-[8px]"
-                              href="#">
-                              <img src="/svg/frances.svg" alt="" className="h-[15px]" />
-                              Frances
-                           </a>
-                        </div>
-                     </li>
-                     <li onClick={() => dispatch(change("ingles"))}>
-                        <div>
-                           <a
-                              className="dropdown-item
-                              flex  items-center 
-                              bg-none gap-[8px]"
-                              href="#">
-                              <img src="/svg/ingles.svg" alt="" className="h-[15px]" />
-                              Inglés
-                           </a>
-                        </div>
-                     </li>
-                     <li onClick={() => dispatch(change("creole"))}>
-                        <div>
-                           <a
-                              className="dropdown-item
-                              flex  items-center 
-                              bg-none gap-[8px]"
-                              href="#">
-                              <img src="/svg/creole.svg" alt="" className="h-[15px]" />
-                              Creolé
-                           </a>
-                        </div>
-                     </li>
-                  </ul>
-               </div>
+               <DropNavTopBgNone dispatch={dispatch} />
             }
 
 
@@ -305,69 +184,12 @@ const Navbar = () => {
                                  alt='Flecha de navegacion' />
                            </div>
                         </Link>
-                        <div className="dropdown w-[150px] ">
-                           <a
-                              className="btn btn-secondary w-[150px] dropdown-toggle flex 
-                              bg-gray-600/0 mt-5 ml-[15%] border-none items-center gap-2 
-                              hover:bg-blue-300 text-black"
-                              href="#"
-                              role="button"
-                              id="dropdownMenuLink"
-                              data-bs-toggle="dropdown"
-                              aria-expanded="false">
-                              {idiomaBtn}
-                           </a>
-
-                           <ul className="dropdown-menu " aria-labelledby="dropdownMenuLink">
-                              <li onClick={() => dispatch(change("español"))}>
-                                 <div>
-                                    <a
-                                       className="dropdown-item
-                                       flex  items-center text-black
-                                       bg-none gap-[8px]  "
-                                       href="#">
-                                       <img src="/svg/espaniol.svg" alt="" className="h-[15px]" />
-                                       Español
-                                    </a>
-                                 </div>
-                              </li>
-                              <li onClick={() => dispatch(change("frances"))}>
-                                 <div>
-                                    <a
-                                       className="dropdown-item
-                              flex  items-center 
-                              bg-none gap-[8px]"
-                                       href="#">
-                                       <img src="/svg/frances.svg" alt="" className="h-[15px]" />
-                                       Frances
-                                    </a>
-                                 </div>
-                              </li>
-                              <li onClick={() => dispatch(change("ingles"))}>
-                                 <div>
-                                    <a
-                                       className="dropdown-item
-                              flex  items-center 
-                              bg-none gap-[8px]"
-                                       href="#">
-                                       <img src="/svg/ingles.svg" alt="" className="h-[15px]" />
-                                       Inglés
-                                    </a>
-                                 </div>
-                              </li>
-                              <li onClick={() => dispatch(change("creole"))}>
-                                 <div>
-                                    <a
-                                       className="dropdown-item
-                              flex  items-center 
-                              bg-none gap-[8px]"
-                                       href="#">
-                                       <img src="/svg/creole.svg" alt="" className="h-[15px]" />
-                                       Creolé
-                                    </a>
-                                 </div>
-                              </li>
-                           </ul>
+                        <div className='mt-[15%] flex justify-center'>
+                        {
+                           location === "/" || location === "/Home" ?
+                           <DropNavRightBgWhite dispatch={dispatch} />:
+                           <DropNavTopBgNone dispatch={dispatch} />
+                        }  
                         </div>
                      </div>
                   </motion.div>

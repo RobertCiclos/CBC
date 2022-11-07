@@ -114,12 +114,13 @@ const Home = () => {
             </div>
 
             <div className='salas right-0 top-[50%] mt-[56px] 
-              overflow-y-auto flex justify-center  
+              overflow-y-auto flex justify-end  
+              sm:justify-center 
               xl:translate-x-[-10%] 
               xl:justify-end xl:translate-y-[-50%] xl:mt-0 xl:absolute xl:max-h-[80vh] overflow-x-hidden'>
               <ol
                 style={{ listStyleType: "decimal" }}
-                className='xl:translate-x-[40px] '>
+                className='xl:translate-x-[40px] pr-[50px] '>
                 <Link to="/Sala1">
                   <li
                     value={1}

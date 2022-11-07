@@ -32,8 +32,8 @@
 
     ul {
         @apply font-[500] text-[16px]  leading-[20px] font-Public
-        sm:text-[18px] sm:leading-[28px] md:pl-[2.5%]
-        md:text-[24px] md:leading-[34px] 
+        sm:leading-[38px] sm:text-[22px] md:pl-[2.5%]
+        md:leading-[48px] md:text-[32px] 
         xl:text-[36px] xl:leading-[46px]
     }
 

@@ -1,11 +1,15 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState } from 'react'
 import { Link, useLocation } from 'react-router-dom'
 import { AnimatePresence, motion } from 'framer-motion'
+import { useDispatch } from "react-redux"
+import DropNavTopBgNone from './dropdowns/DropNavTopBgNone'
+import { useMediaQuery } from 'react-responsive'
 
 const NavbarAux = () => {
 
     const [navbar, setNavbar] = useState('false')
     const location = useLocation().pathname
+    const dispatch = useDispatch()
 
     const styles = {
         background: location === "/" || location === "/Home" ? "none" : "#000",
@@ -20,6 +24,10 @@ const NavbarAux = () => {
         boxShadow: "0 0 #0000"
     }
 
+    const smAux = useMediaQuery({
+        query: '(min-width: 650px)'
+    })
+
     /***** */
 
     return (
@@ -33,14 +41,10 @@ const NavbarAux = () => {
                 <nav
                     className="w-[311px]  grid grid-cols-2 sm:grid-cols-3 items-center mx-auto 
                     sm:w-[1095px] sm:px-[10%] xl:px-0">
-                    <select
-                        className='justify-self-start invisible absolute sm:relative '
-                        name="idioma" id="">
-                        <option value="Español">Español</option>
-                        <option value="Frances">Frances</option>
-                        <option value="Ingles">Ingles</option>
-                        <option value="Creole">Creole</option>
-                    </select>
+
+                    {smAux &&
+                        <DropNavTopBgNone dispatch={dispatch} />
+                    }
 
                     <Link to='/'
                         className='sm:justify-self-center'>
@@ -182,14 +186,9 @@ const NavbarAux = () => {
                                                 alt='Flecha de navegacion' />
                                         </div>
                                     </Link>
-                                    <select
-                                        className='invisible'
-                                        name="idioma" id="">
-                                        <option value="Español"> Español</option>
-                                        <option value="Frances">Frances</option>
-                                        <option value="Ingles">Ingles</option>
-                                        <option value="Creole">Creole</option>
-                                    </select>
+                                    {
+                                        <DropNavTopBgNone dispatch={dispatch} />
+                                    }
                                 </div>
                             </motion.div>
                         }
