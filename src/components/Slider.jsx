@@ -2,6 +2,7 @@ import React from 'react'
 import { motion } from 'framer-motion'
 import { useMediaQuery } from 'react-responsive'
 import CardCredit from './CardAux/CardCredit'
+import { useSelector } from 'react-redux'
 
 const Slider = (props) => {
 
@@ -17,6 +18,27 @@ const Slider = (props) => {
     } else {
       return { right: 0, left: -1086 }
     }
+  }
+
+  const idioma = useSelector(state => state.idioma.value)
+  var general = ""
+
+  switch (idioma) {
+    case "ingles":
+      general = require('../bd/ingles/General.json')
+      break;
+    case "frances":
+      general = require('../bd/frances/General.json')
+      break;
+    case "creole":
+      general = require('../bd/creole/General.json')
+      break;
+    case "español":
+      general = require('../bd/spaniol/General.json')
+      break;
+    default:
+      general = require('../bd/spaniol/General.json')
+      break;
   }
   return (
     <motion.div
