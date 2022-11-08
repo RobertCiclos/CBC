@@ -16,22 +16,22 @@ const Sala5 = () => {
   
   const idioma = useSelector(state => state.idioma.value)
 
-  const dataSala5 = ""
+  var dataSala5 = ""
   switch (idioma) {
     case "ingles":
-      dataSala5 = require('../bd/ingles/Home.json')
+      dataSala5 = require('../bd/ingles/Sala5.json')
       break;
     case "frances":
-      dataSala5 = require('../bd/frances/Home.json')
+      dataSala5 = require('../bd/frances/Sala5.json')
       break;
     case "creole":
-      dataSala5 = require('../bd/creole/Home.json')
+      dataSala5 = require('../bd/creole/Sala5.json')
       break;
     case "español":
-      dataSala5 = require('../bd/spaniol/Home.json')
+      dataSala5 = require('../bd/spaniol/Sala5.json')
       break;
     default:
-      dataSala5 = require('../bd/spaniol/Home.json')
+      dataSala5 = require('../bd/spaniol/Sala5.json')
       break;
   }
   return (
