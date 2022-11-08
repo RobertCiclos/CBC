@@ -78,8 +78,8 @@
         "contenido": ["From its inception in 2007, the CBC Initiative focused its efforts in eastern Cuba and western La Hispaniola.",
                         "In the Ministerial Committee held in 2014, the countries instructed the Secretariat to work on updating the demarcation of the corridor.",
                             "The new demarcation currently includes core conservation areas and areas of importance for connectivity throughout the Greater Antilles, including both terrestrial and marine. The latter include parts of the territorial seas, archipelagic and inland waters, and the exclusive economic zones of the countries and territories mentioned."],
-        "imagen":  "./imagenes/sala4/oldMapa.jpg",
-        "imagenNew":  "./imagenes/sala4/newMapa.jpg",
+        "imagen":  "./imagenes/ing/oldMapa.jpg",
+        "imagenNew":  "./imagenes/ing/newMapa.jpg",
         "description": ["Maps showing the evolution of the original and current demarcation of the Caribbean Biological Corridor."],
         "background": "#103A62",
         "colorText": "#FFF"

@@ -47,7 +47,8 @@
         "alt1": "Yon ekosistèm mangwòv Karayib la, yon pepinyè pou pwason ak sa yo ki pa gen eskèlèt sa gwo save yo rele envètebre yo.",
         "description": "Yon ekosistèm mangwòv Karayib la, yon pepinyè pou pwason ak sa yo ki pa gen eskèlèt sa gwo save yo rele envètebre yo.",
         "background": "#528641",
-        "colorText": "#FFFFFF"
+        "colorText": "#FFFFFF",
+        "autor1": "Matias Balaguer"
     },
 
     "section7" : {
@@ -98,7 +99,8 @@
 
             "imagen2": "./imagenes/sala1/bosque-humedo.jpg",
             "alt2": "Forè imid",
-            "name2": "Forè imid"
+            "name2": "Forè imid",
+            "autor1": "Thomas Shahan"
         },
         "background": "#528641",
         "colorText": "#FFFFFF"
@@ -116,7 +118,9 @@
 
             "imagen2": "./imagenes/sala1/manglares-montecristi2.jpg",
             "alt2": "Mangwòv Montecristi konekte ak resif koray (nan peyi panyòl) Repiblik Dominikèn",
-            "name2": "Mangwòv Montecristi konekte ak resif koray (nan peyi panyòl) Repiblik Dominikèn"
+            "name2": "Mangwòv Montecristi konekte ak resif koray (nan peyi panyòl) Repiblik Dominikèn",
+            "autor1": "Rodrigo Balaguer",
+            "autor2": "Matias Balaguer"
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
@@ -180,7 +184,9 @@
 
             "imagen2": "./imagenes/sala1/suelos-degradados.jpg",
             "alt2": "Tè ki degrade",
-            "name2": "Tè ki degrade"
+            "name2": "Tè ki degrade",
+            "autor1": "Matias Balaguer",
+            "autor2": "Rodrigo Balaguer"
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
@@ -214,7 +220,8 @@
 
             "imagen2": "./imagenes/sala1/peces-cirujano.jpg",
             "alt2": "Pwason chirijyen sou resif koray Ispanyola.",
-            "name2": "Pwason chirijyen sou resif koray Ispanyola."
+            "name2": "Pwason chirijyen sou resif koray Ispanyola.",
+            "autor2": "Matias Balaguer"
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
@@ -230,7 +237,8 @@
 
             "imagen2": "./imagenes/sala1/cardumenes-protegidos.jpg",
             "alt2": "Bank ki pwoteje nan Cayo Largo, Kiba.",
-            "name2": "Bank ki pwoteje nan Cayo Largo, Kiba."
+            "name2": "Bank ki pwoteje nan Cayo Largo, Kiba.",
+            "autor1": "M van Ree"
         },
         "background": "#528641",
         "colorText": "#FFFFFF"
@@ -247,7 +255,9 @@
 
             "imagen2": "./imagenes/sala1/cultivos-cafe2.jpg",
             "alt2": "Kilti kafe nan yon pepinyè agwoforestye nan Pic Makaya, Ayiti.",
-            "name2": "Kilti kafe nan yon pepinyè agwoforestye nan Pic Makaya, Ayiti."
+            "name2": "Kilti kafe nan yon pepinyè agwoforestye nan Pic Makaya, Ayiti.",
+            "autor1": "Alejandro Balaguer",
+            "autor2": "Alejandro Balaguer"
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
@@ -264,7 +274,9 @@
 
             "imagen2": "./imagenes/sala1/apicultura-cosecha2.jpg",
             "alt2": "Apikilti ak rekòt grenn kafe, aktivite ki bay ranman e ki dirab nan Karayib la.",
-            "name2": "Apikilti ak rekòt grenn kafe, aktivite ki bay ranman e ki dirab nan Karayib la."
+            "name2": "Apikilti ak rekòt grenn kafe, aktivite ki bay ranman e ki dirab nan Karayib la.",
+            "autor1": "Alejandro Maimone",
+            "autor2": "Alejandro Balaguer"
         },
         "background": "#528641",
         "colorText": "#FFFFFF"
@@ -272,6 +284,7 @@
 
     "section21" : {
         "img": "./imagenes/sala1/barcosala1.jpg",
+        "autor1": "Matias Balaguer",
         "description": "Pechè atizanal nan baryè resif koray, Les Cayemites, Ayiti."
     },
 

@@ -60,9 +60,9 @@ const Footer = () => {
       className='bg-blueCBC text-white font-Public py-[48px]'>
       <div 
         className='w-[311px] mx-auto
-        sm:w-auto sm:px-[9%] 
+        sm:w-auto sm:px-[9%] text-center
         lg:w-[1040px] lg:px-0'>
-        <h4>
+        <h4 className='text-center'>
           {dataFooter.footer.title}
         </h4>
         <p

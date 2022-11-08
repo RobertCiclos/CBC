@@ -17,7 +17,7 @@
                         "Les écosystèmes prioritaires pour le CBC sont des sites clés pour le maintien de la connectivité régionale et des zones qui préservent des écosystèmes représentatifs d'écorégions partagées et menacées, résilientes au changement climatique; et qui sont essentielles pour la conservation des espèces migratrices, des espèces endémiques très menacées ou de celles qui ont un fort potentiel de dispersion."],
 
         "subtitle": null,
-        "imagen":  "./imagenes/sala3/mapa-ecosistema.jpg",
+        "imagen":  "./imagenes/fr/ecosistemas.jpg",
         "description": ["Carte mettant en évidence les écosystèmes prioritaires du CBC, ainsi que les sites d'importance pour les espèces faisant l'objet d'une conservation et d'un suivi dans le corridor."],
         "background": "#528641",
         "colorText": "#fff"
@@ -33,6 +33,8 @@
             "name1": "Des coraux mous et durs, des algues, des éponges et divers invertébrés composent ce récif peu profond.",
 
             "imagen2": "./imagenes/sala3/arrecife2.jpg",
+            "autor1": "Matias Balaguer",
+            "autor2": "Alejandro Balaguer",
             "alt2": "Des coraux mous et durs, des algues, des éponges et divers invertébrés composent ce récif peu profond.",
             "name2": "Des coraux mous et durs, des algues, des éponges et divers invertébrés composent ce récif peu profond."
         },
@@ -64,7 +66,8 @@
                         "Elles protègent les côtes et sont essentielles au maintien de la pêche artisanale, commerciale et récréative. Elles sont également une source de produits pharmacologiques.",
                             "Leur beauté et leur biodiversité incontestées sont attrayantes pour le tourisme et la plongée de loisir, et l'on estime qu'elles rapportent chaque année entre 700 millions et 2,2 milliards de dollars aux Caraïbes."],
         "imagen1": "./imagenes/sala3/otro-arrecife.jpg",
-        "alt1": "Shoals sur les récifs des Grandes Antilles.",        
+        "alt1": "Shoals sur les récifs des Grandes Antilles.",
+        "autor1": "Matias Balaguer",        
         "description": "Shoals sur les récifs des Grandes Antilles.",
         "background": "#fff",
         "colorText": "#181818"
@@ -76,6 +79,7 @@
         "imagen1": "./imagenes/sala3/manglares.jpg",
         "alt1": "Mangroves saines, Cuba",        
         "description": "Mangroves saines, Cuba",
+        "autor1": "Matias Balaguer", 
         "background": "#528641",
         "colorText": "#FFF"
     },
@@ -89,6 +93,8 @@
             "imagen1": "./imagenes/sala3/isladelavaca.jpg",
             "alt1": "Mangroves, Île-à-Vache, Haïti.",
             "name1": "Mangroves, Île-à-Vache, Haïti.",
+            "autor1": "Matias Balaguer",
+            "autor2": "Matias Balaguer",
 
             "imagen2": "./imagenes/sala3/isladelavaca2.jpg",
             "alt2": "Mangroves, Île-à-Vache, Haïti.",
@@ -139,10 +145,11 @@
             "imagen1": "./imagenes/sala3/parquemacaya.jpg",
             "alt1": "Parc national Pic Macaya, Haïti",
             "name1": "Parc national Pic Macaya, Haïti",
+            
 
             "imagen2": "./imagenes/sala3/parquehaitises.jpg",
-            "alt2": "Parc national de Los Haitises",
-            "name2": "Parc national de Los Haitises"
+            "alt2": "Parc national de Los Haitises, Haïti",
+            "name2": "Parc national de Los Haitises, Haïti"
         },
         "background": "#528641",
         "colorText": "#FFFFFF"
@@ -288,8 +295,8 @@
            "name1": "Les herbiers marins dans les Caraïbes.",
 
            "imagen2": "./imagenes/sala3/pastosmarinos.jpg",
-           "alt2": "Ecosistemas de pastos marinos en el Caribe.",
-           "name2": "Ecosistemas de pastos marinos en el Caribe."
+           "alt2": "Écosystème des herbiers marines des Caraïbes",
+           "name2": "Écosystème des herbiers marines des Caraïbes"
        },
        "background": "#FFFFFF",
         "colorText": "#181818"
