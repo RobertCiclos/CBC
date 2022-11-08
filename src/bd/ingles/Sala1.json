@@ -34,7 +34,9 @@
 
             "imagen2": "./imagenes/sala1/isla-cabritos.jpg",
             "alt2": "Isla Cabritos, Lago Enriquillo, Dominican Republic.",
-            "name2": "Isla Cabritos, Lago Enriquillo, Dominican Republic."
+            "name2": "Isla Cabritos, Lago Enriquillo, Dominican Republic.",
+            "autor1": "Alejandro Balaguer",
+            "autor2": "Rodrigo Balaguer"
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
