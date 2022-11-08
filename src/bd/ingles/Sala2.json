@@ -16,7 +16,7 @@
     "section3":{
         "nombre1": "Bicknell’s thrush",
         "img1": "./imagenes/sala2/animales/tordo-min.png",
-        "nombre2": "Diablotin",
+        "nombre2": "Black-capped petrel",
         "img2":"./imagenes/sala2/animales/diablotin-min.png",
         "nombre3": "Birds of prey (2)",
         "img3":"./imagenes/sala2/animales/rapaces-min.png",
@@ -289,11 +289,11 @@
         
     "section23" : {
         "img" : "./imagenes/sala2/especies-interes.jpg",
-        "title": "Espèces d'intérêt pour le CBC"
+        "title": "SPECIES OF INTEREST TO THE CBC"
     },
 
     "section24" : {
-        "indicador" : "Espèces d'intérêt pour le CBC",
+        "indicador" : "Species of interest to the CBC",
         "colorIndicador" : "#103A62",
         "title": "WESTERN OSPREY",
         "contenido": ["Feeds mainly on fish (99% of its diet), which is why they live in areas close to water bodies",
@@ -313,7 +313,7 @@
     },
 
     "section26" : {
-        "indicador" : "Espèces d'intérêt pour le CBC",
+        "indicador" : "Species of interest to the CBC",
         "colorIndicador" : "#85BD70",
         "title": "PASSERINE BIRDS",
         "contenido": ["The passerines constitute 60% of bird species in the world. Many of them are migratory, such as the Indigo Bunting (Passerina cyanea), the Painted Bunting (Passerina cyris), and numerous species of Setophaga (Setophaga sp.).",
@@ -333,7 +333,7 @@
     },
 
     "section27" : {
-        "indicador" : "Espèces d'intérêt pour le CBC",
+        "indicador" : "Species of interest to the CBC",
         "colorIndicador" : "#103A62",
         "title": "HUMPBACK WHALE",
         "contenido": ["The humpback whale is found in all the oceans of the world and is an indicator of connectivity.",
@@ -353,7 +353,7 @@
     },
 
     "section28" : {
-        "indicador" : "Espèces d'intérêt pour le CBC",
+        "indicador" : "Species of interest to the CBC",
         "colorIndicador" : "#85BD70",
         "title": "PARROTFISH",
         "contenido": ["Parrotfish are abundant in tropical reefs around the world.",
