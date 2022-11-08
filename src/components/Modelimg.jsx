@@ -1,4 +1,3 @@
-import { filterProps } from 'framer-motion'
 import React from 'react'
 
 const Modelimg = (props) => {

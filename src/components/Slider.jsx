@@ -40,6 +40,7 @@ const Slider = (props) => {
       general = require('../bd/spaniol/General.json')
       break;
   }
+  
   return (
     <motion.div
       className="slider-container overflow-hidden relative mt-[56px] w-[1640px] cursor-grab">
@@ -51,14 +52,14 @@ const Slider = (props) => {
         dragConstraints={sliderResponsive()}>
         <motion.div className='item  grid gap-[16px] sm:gap-[32px] relative'>
           <div className='relative'>
-            <CardCredit idioma={general.credito} author="Matías Balaguer" />
+            {props.author1 && <CardCredit idioma={general.credito} author={props.author1} />}
             <img src={props.imagen1} alt={props.alt1} className="w-full h-full pointer-events-none" />
           </div>
           <cite>{props.name1}</cite>
         </motion.div>
         <motion.div className='item grid gap-[16px] sm:gap-[32px] relative'>
           <div className='relative'>
-            <CardCredit idioma={general.credito} author="Matías Balaguer" />
+            {props.author2 && <CardCredit idioma={general.credito} author={props.author2} />}
             <img src={props.imagen2} alt={props.alt2} className="w-full h-full pointer-events-none" />
           </div>
           <cite>{props.name2}</cite>

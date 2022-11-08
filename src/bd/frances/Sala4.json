@@ -97,7 +97,7 @@
             "imagen1": "./imagenes/sala4/monitoreo-aves.jpg",
             "alt1": "Étude des oiseaux dans le paysage naturel protégé de Gran Piedra à Cuba, mené par BIOECO, l'un des partenaires du CBC, avec le soutien du Secrétariat du CBC.",
             "name1": "Étude des oiseaux dans le paysage naturel protégé de Gran Piedra à Cuba, mené par BIOECO, l'un des partenaires du CBC, avec le soutien du Secrétariat du CBC.",
-
+            
             "imagen2": "./imagenes/sala4/encuentro-entre.jpg",
             "alt2": "Rencontre entre Leo Heilemann directeur du bureau régional du PNUE pour l'Amérique latine et les Caraïbes avec Elba Rosa Perez Montoya, ministre de la science, de la technologie et de l'environnement de Cuba et Joseph Joute, ministre de l'environnement d'Haïti à l'issue du comité ministériel à La Havane, Cuba en 2019.",
             "name2": "Rencontre entre Leo Heilemann directeur du bureau régional du PNUE pour l'Amérique latine et les Caraïbes avec Elba Rosa Perez Montoya, ministre de la science, de la technologie et de l'environnement de Cuba et Joseph Joute, ministre de l'environnement d'Haïti à l'issue du comité ministériel à La Havane, Cuba en 2019."
@@ -156,7 +156,7 @@
             "imagen1": "./imagenes/sala4/secretaria-actividades.jpg",
             "alt1": "Secrétariat du CBC dans les activités de suivi sur le terrain",
             "name1": "Secrétariat du CBC dans les activités de suivi sur le terrain",
-
+            "autor1": "Alejandro Balaguer",
             "imagen2": "./imagenes/sala4/secretaria-haciendo.jpg",
             "alt2": "Le Secrétariat du CBC prend des photos dans une forêt de pins à Pelempito, en République Dominicaine",
             "name2": "Le Secrétariat du CBC prend des photos dans une forêt de pins à Pelempito, en République Dominicaine"
@@ -215,12 +215,12 @@
                             "Dans le cadre du réseau de partenaires du CBC, d'autres acteurs peuvent identifier et développer des projets de manière indépendante et être pris en compte par l'Initiative, pour autant qu'ils contribuent directement aux objectifs et aux priorités du CBC."],
         "imagenes": {
             "imagen1": "./imagenes/sala4/delfin-moteado.jpg",
-            "alt1": "Dauphin tacheté de l'Atlantique (Stenella frontalis).",
-            "name1": "Dauphin tacheté de l'Atlantique (Stenella frontalis).",
-
-            "imagen2": "./imagenes/sala4/sala4-botes.jpg",
-            "alt2": "Bateaux de pêche à La Panchita, Cuba.",
-            "name2": "Bateaux de pêche à La Panchita, Cuba."
+            "alt1": "Delfín moteado del Atlántico (Stenella frontalis).",
+            "name1": "Delfín moteado del Atlántico (Stenella frontalis).",
+            "autor1": "NOAA",
+            "imagen2": "./imagenes/sala4/transicion-parque.jpg",
+            "alt2": "Transition du Parc National de Pic Macaya à la côte caribéenne haïtienne.",
+            "name2": "Transition du Parc National de Pic Macaya à la côte caribéenne haïtienne."
         },
         "background": "#FFF",
         "colorText": "#181818"
@@ -233,7 +233,7 @@
             "imagen1": "./imagenes/sala4/laguna-oviedo.jpg",
             "alt1": "Laguna de Oviedo, Parc National Jaragua, République Dominicaine",
             "name1": "Laguna de Oviedo, Parc National Jaragua, République Dominicaine",
-
+            "autor1": "Alejandro Balaguer",
             "imagen2": "./imagenes/sala4/seminario-fortalecimiento.jpg",
             "alt2": "Séminaire de renforcement des capacités des guides d'écotourisme à Laguna de Oviedo",
             "name2": "Séminaire de renforcement des capacités des guides d'écotourisme à Laguna de Oviedo"
@@ -249,7 +249,8 @@
             "imagen1": "./imagenes/sala4/trabajo-monitoreo.jpg",
             "alt1": "Travail d’études des écosystèmes",
             "name1": "Travail d’études des écosystèmes",
-
+            "autor1": "Alejandro Maimone",
+            "autor2": "Alejandro Maimone",
             "imagen2": "./imagenes/sala4/trabajo-apicultura.jpg",
             "alt2": "Travail d'apiculture en Haïti ",
             "name2": "Travail d'apiculture en Haïti "
@@ -266,7 +267,7 @@
             "imagen1": "./imagenes/sala4/palma-real.jpg",
             "alt1": "Palma Real, Cuba",
             "name1": "Palma Real, Cuba",
-
+            "autor2": "Matias Balaguer",
             "imagen2": "./imagenes/sala4/lago-enriquillo.jpg",
             "alt2": "Lago Enriquillo, República Dominicana.",
             "name2": "Lago Enriquillo, República Dominicana."
@@ -294,6 +295,7 @@
 
     "section22" : {
         "img": "./imagenes/sala4/velero-sala4.jpg",
+        "autor1": "Alejandro Balaguer",
         "description": "Bateau à voile, Les Cayes, Haïti"
     },
 

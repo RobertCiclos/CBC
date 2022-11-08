@@ -97,7 +97,6 @@
             "imagen1": "./imagenes/sala4/monitoreo-aves.jpg",
             "alt1": "Monitoreo de Aves en el Paisaje Natural Protegido Gran Piedra en Cuba, liderado por BIOECO, uno de los socios del CBC, con el apoyo de la Secretaría del CBC.",
             "name1": "Monitoreo de Aves en el Paisaje Natural Protegido Gran Piedra en Cuba, liderado por BIOECO, uno de los socios del CBC, con el apoyo de la Secretaría del CBC.",
-
             "imagen2": "./imagenes/sala4/encuentro-entre.jpg",
             "alt2": "Encuentro entre Leo Heilemann Director de la Oficina Regional del PNUMA para America Latina y el Caribe con Elba Rosa Pérez Montoya Ministra de Ciencia, Tecnología y Medio Ambiente de Cuba y Abner Septembre, Ministro de Ambiente de Haití al final del comité Ministerial de la Habana, Cuba en 2019.",
             "name2": "Encuentro entre Leo Heilemann Director de la Oficina Regional del PNUMA para America Latina y el Caribe con Elba Rosa Pérez Montoya Ministra de Ciencia, Tecnología y Medio Ambiente de Cuba y Abner Septembre, Ministro de Ambiente de Haití al final del comité Ministerial de la Habana, Cuba en 2019."
@@ -156,6 +155,7 @@
             "imagen1": "./imagenes/sala4/secretaria-actividades.jpg",
             "alt1": "Secretaría del CBC en actividades de monitoreo en campo",
             "name1": "Secretaría del CBC en actividades de monitoreo en campo",
+            "autor1": "Alejandro Balaguer",
 
             "imagen2": "./imagenes/sala4/secretaria-haciendo.jpg",
             "alt2": "Secretaría del CBC haciendo levantamiento de fotografías en un bosque de pinar en Pelempito, República Dominicana",
@@ -172,7 +172,7 @@
             "imagen1": "./imagenes/sala4/red-socios1.jpg",
             "alt1": "Acciones de terreno para la conservación de la biodiversidad",
             "name1": "Acciones de terreno para la conservación de la biodiversidad",
-
+            
             "imagen2": "./imagenes/sala4/red-socios2.jpg",
             "alt2": "Acciones de terreno para la conservación de la biodiversidad",
             "name2": "Acciones de terreno para la conservación de la biodiversidad"
@@ -217,8 +217,8 @@
             "imagen1": "./imagenes/sala4/delfin-moteado.jpg",
             "alt1": "Delfín moteado del Atlántico (Stenella frontalis).",
             "name1": "Delfín moteado del Atlántico (Stenella frontalis).",
-
-            "imagen2": "./imagenes/sala4/sala4-botes.jpg",
+            "autor1": "NOAA",
+            "imagen2": "./imagenes/sala4/transicion-parque.jpg",
             "alt2": "Transición del Parque Nacional Pic Macayá a la costa del Caribe haitiano.",
             "name2": "Transición del Parque Nacional Pic Macayá a la costa del Caribe haitiano."
         },
@@ -233,7 +233,7 @@
             "imagen1": "./imagenes/sala4/laguna-oviedo.jpg",
             "alt1": "Laguna de Oviedo, Parque Nacional Jaragua, República Dominicana.",
             "name1": "Laguna de Oviedo, Parque Nacional Jaragua, República Dominicana.",
-
+            "autor1": "Alejandro Balaguer",
             "imagen2": "./imagenes/sala4/seminario-fortalecimiento.jpg",
             "alt2": "Seminario para el fortalecimiento de capacidades de guías de ecoturismo en Laguna de Oviedo.",
             "name2": "Seminario para el fortalecimiento de capacidades de guías de ecoturismo en Laguna de Oviedo."
@@ -249,7 +249,8 @@
             "imagen1": "./imagenes/sala4/trabajo-monitoreo.jpg",
             "alt1": "Trabajo de monitoreo de ecosistemas",
             "name1": "Trabajo de monitoreo de ecosistemas",
-
+            "autor1": "Alejandro Maimone",
+            "autor2": "Alejandro Maimone",
             "imagen2": "./imagenes/sala4/trabajo-apicultura.jpg",
             "alt2": "Trabajo de apicultura en Haití",
             "name2": "Trabajo de apicultura en Haití"
@@ -266,7 +267,7 @@
             "imagen1": "./imagenes/sala4/palma-real.jpg",
             "alt1": "Palma Real, en Cuba",
             "name1": "Palma Real, en Cuba",
-
+            "autor2": "Matias Balaguer",
             "imagen2": "./imagenes/sala4/lago-enriquillo.jpg",
             "alt2": "Lago Enriquillo, República Dominicana.",
             "name2": "Lago Enriquillo, República Dominicana."
@@ -294,6 +295,7 @@
 
     "section22" : {
         "img": "./imagenes/sala4/velero-sala4.jpg",
+        "autor1": "Alejandro Balaguer",
         "description": "Velero, Les Cayes, Haití"
     },
 

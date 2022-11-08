@@ -112,6 +112,8 @@
             "imagen1": "./imagenes/sala3/importancia-manglares-1.jpg",
             "alt1": "Mangroves, Dominican Republic.",
             "name1": "Mangroves, Dominican Republic.",
+            "autor1": "Alejandro Balaguer",
+            "autor2": "Alejandro Balaguer",
 
             "imagen2": "./imagenes/sala3/importancia-manglares-2.jpg",
             "alt2": "Mangroves, Dominican Republic.",
@@ -130,6 +132,7 @@
         "imagen1": "./imagenes/sala3/cienaga-cuba.jpg",
         "alt1": "Zapata Swamp, Cuba.",        
         "description": "Zapata Swamp, Cuba.",
+        "autor1": "K Brookes",
         "background": "#fff",
         "colorText": "#181818"
     },
@@ -145,6 +148,8 @@
             "imagen1": "./imagenes/sala3/parquemacaya.jpg",
             "alt1": "Pic Macayá National Park, Haiti",
             "name1": "Pic Macayá National Park, Haiti",
+            "autor1": "Matias Balaguer",
+            "autor2": "Jason Boldero",
 
             "imagen2": "./imagenes/sala3/parquehaitises.jpg",
             "alt2": "Los Haitises National Park, Haiti",
@@ -162,7 +167,7 @@
             "imagen1": "./imagenes/sala3/cascadabosquehumedo.jpg",
             "alt1": "Waterfall in a moist forest",
             "name1": "Waterfall in a moist forest",
-
+            "autor1": "Alejandro Balaguer",
             "imagen2": "./imagenes/sala3/pinarrepublicadominicana.jpg",
             "alt2": "Pinewood in Dominican Republic",
             "name2": "Pinewood in Dominican Republic"
@@ -184,6 +189,8 @@
 
             "imagen2": "./imagenes/sala3/reptiles2img.jpg",
             "alt2": "Moist Forest",
+            "autor1": "Matias Balaguer",
+            "autor2": "Matias Balaguer",
             "name2": "Moist Forest"
         },
         "background": "#528641",
@@ -198,7 +205,8 @@
             "imagen1": "./imagenes/sala3/flordesectas.jpg",
             "alt1": "Cactus flower, Dominican Republic",
             "name1": "Cactus flower, Dominican Republic",
-
+            "autor1": "Matias Balaguer",
+            "autor2": "Alejandro Balaguer",
             "imagen2": "./imagenes/sala3/bosqueseco.jpg",
             "alt2": "Dry forest, Dominican Republic",
             "name2": "Dry forest, Dominican Republic"
@@ -217,7 +225,7 @@
             "imagen1": "./imagenes/sala3/cactaceoimg.jpg",
             "alt1": "Dry forest and xerophytic shrubs in the Dominican Republic. ",
             "name1": "Dry forest and xerophytic shrubs in the Dominican Republic. ",
-
+            "autor1": "Alejandro Balaguer",
             "imagen2": "./imagenes/sala3/cactaceo2img.jpg",
             "alt2": "Dry forest and xerophytic shrubs in the Dominican Republic.",
             "name2": "Dry forest and xerophytic shrubs in the Dominican Republic."
@@ -234,7 +242,8 @@
             "imagen1": "./imagenes/sala3/matorralcactaceo.jpg",
             "alt1": "Cactaceous scrub, Dominican Republic",
             "name1": "Cactaceous scrub, Dominican Republic",
-
+            "autor1": "Alejandro Balaguer",
+            "autor2": "Alejandro Balaguer",
             "imagen2": "./imagenes/sala3/matorralcactaceo2.jpg",
             "alt2": "Dry forest, Dominican Republic",
             "name2": "Dry forest, Dominican Republic"
@@ -253,7 +262,8 @@
             "imagen1": "./imagenes/sala3/ravinedesud.jpg",
             "alt1": "Ravine du Sud, a river connecting Pic Macaya and Les Cayes in Haiti, shows the effect of sedimentation from upstream deforestation.",
             "name1": "Ravine du Sud, a river connecting Pic Macaya and Les Cayes in Haiti, shows the effect of sedimentation from upstream deforestation.",
-
+            "autor1": "Alejandro Balaguer",
+            "autor2": "Alejandro Balaguer",
             "imagen2": "./imagenes/sala3/abanicodemar.jpg",
             "alt2": "Corail gorgone",
             "name2": "Corail gorgone"
@@ -269,7 +279,8 @@
             "imagen1": "./imagenes/sala3/pecesimg.jpg",
             "alt1": "Fish nursery in Les Cayes, Haiti.",
             "name1": "Fish nursery in Les Cayes, Haiti.",
-
+            "autor1": "Matias Balaguer",
+            "autor2": "Matias Balaguer",
             "imagen2": "./imagenes/sala3/peces2img.jpg",
             "alt2": "Fish nursery in Les Cayes, Haiti.",
             "name2": "Fish nursery in Les Cayes, Haiti."
@@ -292,7 +303,8 @@
            "imagen1": "./imagenes/sala3/pastosmarinos2.jpg",
            "alt1": "Seagrasses in the Caribbean.",
            "name1": "Seagrasses in the Caribbean.",
-
+           "autor1": "Alejandro Balaguer",
+           "autor2": "Matias Balaguer",
            "imagen2": "./imagenes/sala3/pastosmarinos.jpg",
            "alt2": "Seagrass beds in the Caribbean.",
            "name2": "Seagrass beds in the Caribbean."
@@ -311,7 +323,8 @@
            "imagen1": "./imagenes/sala3/laguna1.jpg",
            "alt1": "Les herbiers marins dans les Caraïbes.",
            "name1": "Les herbiers marins dans les Caraïbes.",
-
+           "autor1": "Rodrigo Balaguer",
+           "autor2": "Rodrigo Balaguer",
            "imagen2": "./imagenes/sala3/laguna2.jpg",
            "alt2": "Lagoon, Haiti.",
            "name2": "Lagoon, Haiti."

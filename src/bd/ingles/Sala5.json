@@ -23,7 +23,7 @@
             "imagen1": "./imagenes/sala5/reservacuchillas1.jpg",
             "alt1": "Pic Macayá, Haiti",
             "name1": "Pic Macayá, Haiti",
-
+            "autor1": "Matias Balaguer",
             "imagen2": "./imagenes/sala5/reservacuchillas3.jpg",
             "alt2": "Cuchillas del Toa Biosphere Reserve, Cuba",
             "name2": "Cuchillas del Toa Biosphere Reserve, Cuba"
@@ -57,7 +57,7 @@
             "imagen1": "./imagenes/sala5/esponjamarina.jpg",
             "alt1": "Marine sponge in coral reefs",
             "name1": "Marine sponge in coral reefs",
-
+            "autor2": "Sam Farkas NOAA",
             "imagen2": "./imagenes/sala5/tiburonballena.jpg",
             "alt2": "Whale shark in Caribbean waters",
             "name2": "Whale shark in Caribbean waters"
@@ -85,7 +85,8 @@
             "imagen1": "./imagenes/sala5/barreradecoral.jpg",
             "alt1": "Barrier Reef, Ille a Vache, Haiti",
             "name1": "Barrier Reef, Ille a Vache, Haiti",
-
+            "autor1": "Matias Balaguer",
+            "autor2": "Matias Balaguer",
             "imagen2": "./imagenes/sala5/barreradecoral2.jpg",
             "alt2": "Barrier Reef, Ille a Vache, Haiti",
             "name2": "Barrier Reef, Ille a Vache, Haiti"
@@ -102,7 +103,7 @@
             "imagen1": "./imagenes/sala5/tortugacarey.jpg",
             "alt1": "Hawksbill sea turtle monitoring",
             "name1": "Hawksbill sea turtle monitoring",
-
+            "autor1": "Alejandro Balaguer",
             "imagen2": "./imagenes/sala5/instalaciondered.jpg",
             "alt2": "Installation of bird monitoring network",
             "name2": "Installation of bird monitoring network"
@@ -162,7 +163,7 @@
             "imagen1": "./imagenes/sala5/trabajodecampo.jpg",
             "alt1": "Biodiversity monitoring fieldwork.",
             "name1": "Biodiversity monitoring fieldwork.",
-
+            "autor2": "Alejandro Balaguer",
             "imagen2": "./imagenes/sala5/trabajodecampo2.jpg",
             "alt2": "Biodiversity monitoring fieldwork.",
             "name2": "Biodiversity monitoring fieldwork."
@@ -188,7 +189,7 @@
             "imagen1": "./imagenes/sala5/vivero.jpg",
             "alt1": "Vivero, Pic Macayá, Haiti.",
             "name1": "Vivero, Pic Macayá, Haiti.",
-
+            "autor1": "Alejandro Balaguer",
             "imagen2": "./imagenes/sala5/entregadesemillas.jpg",
             "alt2": "Delivery of seeds to heads of household women to establish home gardens",
             "name2": "Delivery of seeds to heads of household women to establish home gardens"
@@ -220,7 +221,8 @@
             "imagen1": "./imagenes/sala5/cajasAbeja.jpg",
             "alt1": "Boxes used for beekeeping work",
             "name1": "Boxes used for beekeeping work",
-
+            "autor1": "Alejandro Balaguer",
+            "autor2": "Matias Balague",
             "imagen2": "./imagenes/sala5/abeja2.jpg",
             "alt2": "Bee visiting a flower in a dry forest in the Dominican Republic.",
             "name2": "Bee visiting a flower in a dry forest in the Dominican Republic."
@@ -238,7 +240,8 @@
             "imagen1": "./imagenes/sala5/miembrosdelacomun.jpg",
             "alt1": "Coffee seeds, Haiti",
             "name1": "Coffee seeds, Haiti",
-
+            "autor1": "Alejandro Balaguer",
+            "autor2": "Alejandro Balaguer",
             "imagen2": "./imagenes/sala5/miembrosdelacomun2.jpg",
             "alt2": "Coffee seeds, Haiti",
             "name2": "Coffee seeds, Haiti"
@@ -285,7 +288,8 @@
             "imagen1": "./imagenes/sala5/pescador.jpg",
             "alt1": "Artisanal fisherman on the southwest coast of Haiti.",
             "name1": "Artisanal fisherman on the southwest coast of Haiti.",
-
+            "autor1": "Alejandro Balaguer",
+            "autor2": "Matias Balaguer",
             "imagen2": "./imagenes/sala5/cardumen.jpg",
             "alt2": "School of striped surgeonfish (Acanthurus chirurgus)",
             "name2": "School of striped surgeonfish (Acanthurus chirurgus)"
@@ -299,7 +303,8 @@
         "contenido": ["The CBC works in a coordinated manner to bring about transformative changes to reduce direct threats to biodiversity, mitigate and adapt to climate change, and promote sustainable and equitable development models in the region.",
                         "The application of nature-based solutions is part of the strategies to address climate change. These include ecosystem restoration, integrated watershed management, and the strengthening of protected areas."],
         "imagen1": "./imagenes/sala5/coralcerebro.jpg",
-        "alt1": "Brain coral, Caribbean Sea",        
+        "alt1": "Brain coral, Caribbean Sea",
+        "autor1": "Matias Balaguer",        
         "description": "Brain coral, Caribbean Sea",
         "background": "#fff",
         "colorText": "#181818"
@@ -357,7 +362,7 @@
             "imagen1": "./imagenes/sala5/municipoguama.jpg",
             "alt1": "Guamá municipality, south of the Sierra Maestra in Cuba",
             "name1": "Guamá municipality, south of the Sierra Maestra in Cuba",
-
+            "autor2": "Alejandro  Balaguer",
             "imagen2": "./imagenes/sala5/ecosistemacostero.jpg",
             "alt2": "Coastal ecosystems in Costa Este, a beach near Samaná",
             "name2": "Coastal ecosystems in Costa Este, a beach near Samaná"
@@ -373,7 +378,7 @@
             "imagen1": "./imagenes/sala5/palmeras.jpg",
             "alt1": "Palmas, Cuba.",
             "name1": "Palmas, Cuba.",
-
+            "autor2": "Rodrigo   Balaguer",
             "imagen2": "./imagenes/sala5/lagoenrique.jpg",
             "alt2": "Enriquillo Lake, Dominican Republic",
             "name2": "Enriquillo Lake, Dominican Republic"
@@ -390,7 +395,8 @@
             "imagen1": "./imagenes/sala5/generacionfutura.jpg",
             "alt1": "Future generations are critical to long-term biodiversity conservation and sustainable development in the Caribbean. ",
             "name1": "Future generations are critical to long-term biodiversity conservation and sustainable development in the Caribbean. ",
-
+            "autor1": "Alejandro Balaguer",
+            "autor2": "Matias Balague",
             "imagen2": "./imagenes/sala5/atardecerfinal.jpg",
             "alt2": "Sunset in a coastal ecosystem in Montecristi, Dominican Republic.",
             "name2": "Sunset in a coastal ecosystem in Montecristi, Dominican Republic"

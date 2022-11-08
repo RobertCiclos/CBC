@@ -23,7 +23,7 @@
             "imagen1": "./imagenes/sala5/reservacuchillas1.jpg",
             "alt1": "Pik Macaya, Ayiti",
             "name1": "Pik Macaya, Ayiti",
-
+            "autor1": "Matias Balaguer",
             "imagen2": "./imagenes/sala5/reservacuchillas3.jpg",
             "alt2": "Rezèv byosfè Cuchillas del Toa, Kiba",
             "name2": "Rezèv byosfè Cuchillas del Toa, Kiba"
@@ -57,7 +57,7 @@
             "imagen1": "./imagenes/sala5/esponjamarina.jpg",
             "alt1": "Eponj lanmè nan resif koray",
             "name1": "Eponj lanmè nan resif koray",
-
+            "autor2": "Sam Farkas NOAA",
             "imagen2": "./imagenes/sala5/tiburonballena.jpg",
             "alt2": "Reken balèn nan dlo Karayib la",
             "name2": "Reken balèn nan dlo Karayib la"
@@ -85,7 +85,8 @@
             "imagen1": "./imagenes/sala5/barreradecoral.jpg",
             "alt1": "Baryè Koray, Île-à-Vache, Ayiti",
             "name1": "Baryè Koray, Île-à-Vache, Ayiti",
-
+            "autor1": "Matias Balaguer",
+            "autor2": "Matias Balaguer",
             "imagen2": "./imagenes/sala5/barreradecoral2.jpg",
             "alt2": "Baryè Koray, Île-à-Vache, Ayiti",
             "name2": "Baryè Koray, Île-à-Vache, Ayiti"
@@ -102,7 +103,7 @@
             "imagen1": "./imagenes/sala5/tortugacarey.jpg",
             "alt1": "Obsèvasyon tòti lanmè yo",
             "name1": "Obsèvasyon tòti lanmè yo",
-
+            "autor1": "Alejandro Balaguer",
             "imagen2": "./imagenes/sala5/instalaciondered.jpg",
             "alt2": "Enstalasyon yon rezo pou obsèvasyon zwazo",
             "name2": "Enstalasyon yon rezo pou obsèvasyon zwazo"
@@ -162,7 +163,7 @@
             "imagen1": "./imagenes/sala5/trabajodecampo.jpg",
             "alt1": "Travay teren nan kad on etid.",
             "name1": "Travay teren nan kad on etid.",
-
+            "autor2": "Alejandro Balaguer",
             "imagen2": "./imagenes/sala5/trabajodecampo2.jpg",
             "alt2": "Travay teren nan kad on etid.",
             "name2": "Travay teren nan kad on etid."
@@ -188,7 +189,7 @@
             "imagen1": "./imagenes/sala5/vivero.jpg",
             "alt1": "Pepinyè, Pik Makaya, Ayiti",
             "name1": "Pepinyè, Pik Makaya, Ayiti",
-
+            "autor1": "Alejandro Balaguer",
             "imagen2": "./imagenes/sala5/entregadesemillas.jpg",
             "alt2": "Livrezon semans bay fanm chèf fanmi pou kreyasyon jaden fanmi.",
             "name2": "Livrezon semans bay fanm chèf fanmi pou kreyasyon jaden fanmi."
@@ -220,7 +221,8 @@
             "imagen1": "./imagenes/sala5/cajasAbeja.jpg",
             "alt1": "Bwat yo itilize pou travay apikol",
             "name1": "Bwat yo itilize pou travay apikol",
-
+            "autor1": "Alejandro Balaguer",
+            "autor2": "Matias Balague",
             "imagen2": "./imagenes/sala5/abeja2.jpg",
             "alt2": "Abèy kap vizite yon flè nan yon forè sèk nan peyi panyòl ( Repiblik Dominikèn).",
             "name2": "Abèy kap vizite yon flè nan yon forè sèk nan peyi panyòl ( Repiblik Dominikèn)."
@@ -238,7 +240,8 @@
             "imagen1": "./imagenes/sala5/miembrosdelacomun.jpg",
             "alt1": "Grenn kafe, Ayiti",
             "name1": "Grenn kafe, Ayiti",
-
+            "autor1": "Alejandro Balaguer",
+            "autor2": "Alejandro Balaguer",
             "imagen2": "./imagenes/sala5/miembrosdelacomun2.jpg",
             "alt2": "Grenn kafe, Ayiti",
             "name2": "Grenn kafe, Ayiti"
@@ -285,7 +288,8 @@
             "imagen1": "./imagenes/sala5/pescador.jpg",
             "alt1": "Pechè atizanal sou kòt sidwès Ayiti.",
             "name1": "Pechè atizanal sou kòt sidwès Ayiti.",
-
+            "autor1": "Alejandro Balaguer",
+            "autor2": "Matias Balaguer",
             "imagen2": "./imagenes/sala5/cardumen.jpg",
             "alt2": "Bank pwason chirijyen trase (Acanthurus chirurgus)",
             "name2": "Bank pwason chirijyen trase (Acanthurus chirurgus)"
@@ -299,7 +303,8 @@
         "contenido": ["CBC travay yon fason nan tèt kole ak lòt aktè yo pou pote chanjman kap redwi menas dirèk pou byodivèsite, diminye ak adapte yo ak chanjman klimatik, epi ankouraje modèl devlopman dirab e ki egal selon tout moun nan rejyon an.",
                     "Aplikasyon solisyon ki baze sou lanati se yon pati nan estrateji pou konbat chanjman klimatik la. Yo gen ladann yo restorasyon ekosistèm yo, jesyon entegre basen vèsan yo ak bay jarèt ak zòn pwoteje yo."],
         "imagen1": "./imagenes/sala5/coralcerebro.jpg",
-        "alt1": "Koray ki gen kòn sèf, lanmè Karayib la",        
+        "alt1": "Koray ki gen kòn sèf, lanmè Karayib la",
+        "autor1": "Matias Balaguer",        
         "description": "Koray ki gen kòn sèf, lanmè Karayib la",
         "background": "#fff",
         "colorText": "#181818"
@@ -357,7 +362,7 @@
             "imagen1": "./imagenes/sala5/municipoguama.jpg",
             "alt1": "Minisipalite Guamá, nan sid Sierra Maestra nan Kiba.",
             "name1": "Minisipalite Guamá, nan sid Sierra Maestra nan Kiba.",
-
+            "autor2": "Alejandro  Balaguer",
             "imagen2": "./imagenes/sala5/ecosistemacostero.jpg",
             "alt2": "Ekosistèm kotyè yo nan Costa Este, yon plaj toupre Samaná",
             "name2": "Ekosistèm kotyè yo nan Costa Este, yon plaj toupre Samaná"
@@ -373,7 +378,7 @@
             "imagen1": "./imagenes/sala5/palmeras.jpg",
             "alt1": "Palmye, Kiba",
             "name1": "Palmye, Kiba",
-
+            "autor2": "Rodrigo   Balaguer",
             "imagen2": "./imagenes/sala5/lagoenrique.jpg",
             "alt2": "Lak Enriquillo, nan peyi panyòl (Repiblik Dominikèn)",
             "name2": "Lak Enriquillo, nan peyi panyòl (Repiblik Dominikèn)"
@@ -390,7 +395,8 @@
             "imagen1": "./imagenes/sala5/generacionfutura.jpg",
             "alt1": "Jenerasyon kap vini yo esansyèl pou konsèvasyon pou lontan byodivèsite ak devlopman dirab nan Karayib la.",
             "name1": "Jenerasyon kap vini yo esansyèl pou konsèvasyon pou lontan byodivèsite ak devlopman dirab nan Karayib la.",
-
+            "autor1": "Alejandro Balaguer",
+            "autor2": "Matias Balague",
             "imagen2": "./imagenes/sala5/atardecerfinal.jpg",
             "alt2": "Kouche solèy nan yon ekosistèm zòn kote yo nan Montecristi nan peyi panyòl, (Repiblik Dominikèn)",
             "name2": "Kouche solèy nan yon ekosistèm zòn kote yo nan Montecristi nan peyi panyòl, (Repiblik Dominikèn)"
