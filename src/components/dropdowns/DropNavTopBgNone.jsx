@@ -6,6 +6,25 @@ const DropNavTopBgNone = (props) => {
     const dispatch = props.dispatch
     const idioma = useSelector(state => state.idioma.value)
     var idiomaBtn = <></>
+    var general = ""
+  
+    switch (idioma) {
+      case "ingles":
+        general = require('../../bd/ingles/General.json')
+        break;
+      case "frances":
+        general = require('../../bd/frances/General.json')
+        break;
+      case "creole":
+        general = require('../../bd/creole/General.json')
+        break;
+      case "español":
+        general = require('../../bd/spaniol/General.json')
+        break;
+      default:
+        general = require('../../bd/spaniol/General.json')
+        break;
+    }
 
 
     switch (idioma) {
@@ -16,7 +35,7 @@ const DropNavTopBgNone = (props) => {
                     flex  items-center text-[16px] font-[500]"
                     href="#">
                     <img src="/svg/ingles.svg" alt="" className="h-[15px]" />
-                    <span className='border-b-[1.8px] pb-[1px] border-white '>Inglés</span>
+                    <span className='border-b-[1.8px] pb-[1px] border-white '>{general.idioma[2]}</span>
                 </a>
 
             break;
@@ -27,7 +46,7 @@ const DropNavTopBgNone = (props) => {
                     flex  items-center text-[16px] font-[500]"
                     href="#">
                     <img src="/svg/frances.svg" alt="" className="h-[15px]" />
-                    <span className='border-b-[1.8px] pb-[1px] border-white'>Frances</span>
+                    <span className='border-b-[1.8px] pb-[1px] border-white'>{general.idioma[1]}</span>
                 </a>
             break;
         case "creole":
@@ -37,7 +56,7 @@ const DropNavTopBgNone = (props) => {
                     flex  items-center text-[16px] font-[500]"
                     href="#">
                     <img src="/svg/creole.svg" alt="" className="h-[15px]" />
-                    <span className='border-b-[1.8px] pb-[1px] border-white'>Creolé</span>
+                    <span className='border-b-[1.8px] pb-[1px] border-white'>{general.idioma[3]}</span>
                 </a>
             break;
         case "espaniol":
@@ -47,7 +66,7 @@ const DropNavTopBgNone = (props) => {
                     flex items-center text-[16px] font-[500]"
                     href="#">
                     <img src="/svg/espaniol.svg" alt="" className="h-[15px]" />
-                    <span className='border-b-[1.8px] pb-[1px] border-white'>Español</span>
+                    <span className='border-b-[1.8px] pb-[1px] border-white'>{general.idioma[0]}</span>
                 </a>
             break;
         default:
@@ -57,7 +76,7 @@ const DropNavTopBgNone = (props) => {
                     flex items-center text-[16px] font-[500]"
                     href="#">
                     <img src="/svg/espaniol.svg" alt="" className="h-[15px]" />
-                    <span className='border-b-[1.8px] border-white'>Español</span>
+                    <span className='border-b-[1.8px] border-white'>{general.idioma[0]}</span>
                 </a>
             </div>
             break;
@@ -93,7 +112,7 @@ const DropNavTopBgNone = (props) => {
                                 w-full whitespace-nowrap bg-transparent  text-gray-700 "
                                 href="#">
                                 <img src="/svg/espaniol.svg" alt="" className="h-[15px]" />
-                                Español
+                                {general.idioma[0]}
                             </a>
                         </li>
                         <li 
@@ -106,7 +125,7 @@ const DropNavTopBgNone = (props) => {
                                  hover:bg-gray-100 "
                                 href="#">
                                 <img src="/svg/frances.svg" alt="" className="h-[15px]" />
-                                Frances
+                                {general.idioma[1]}
                             </a>
                         </li>
                         <li 
@@ -119,7 +138,7 @@ const DropNavTopBgNone = (props) => {
                                  hover:bg-gray-100 "
                                 href="#">
                                 <img src="/svg/ingles.svg" alt="" className="h-[15px]" />
-                                Inglés
+                                {general.idioma[2]}
                             </a>
                         </li>
                         <li 
@@ -132,7 +151,7 @@ const DropNavTopBgNone = (props) => {
                                 bg-none gap-[8px]"
                                 href="#">
                                 <img src="/svg/creole.svg" alt="" className="h-[15px]" />
-                                Creolé
+                                {general.idioma[3]}
                             </a>
                         </li>
                     </ul>

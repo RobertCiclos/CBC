@@ -54,14 +54,14 @@ const SliderRecorted5 = (props) => {
         dragConstraints={sliderResponsive()}>
         <motion.div className='grid gap-[16px] sm:gap-[32px] '>
           <div className='relative'>
-            {props.author1 && <CardCredit idioma={general.credito} author={props.author1} />}
+            {props.autor1 && <CardCredit idioma={general.credito} autor={props.autor1} />}
             <img src={props.imagen1} alt={props.alt1} className="w-full h-full pointer-events-none" />
           </div>
           <cite className=' '>{props.name1}</cite>
         </motion.div>
         <motion.div className='grid items-end gap-[16px] sm:gap-[32px] '>
           <div className='relative'>
-            {props.author2 && <CardCredit idioma={general.credito} author={props.author2} />}
+            {props.autor2 && <CardCredit idioma={general.credito} autor={props.autor2} />}
             <img src={props.imagen2} alt={props.alt2} className="w-full h-full pointer-events-none" />
           </div>
           <cite className=''>{props.name2}</cite>

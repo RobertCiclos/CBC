@@ -2,7 +2,7 @@
     "section1" : {
         "img" : "./imagenes/sala1/hero-sala1.jpg",
         "title": "Ecological Connectivity and the Caribbean Biological Corridor",
-        "sala": "Room 1:"
+        "sala": "Room 1"
     },
     
     "section2" : {
@@ -57,7 +57,7 @@
         "title": "BIOLOGICAL CORRIDOR IN THE GREATER ANTILLES",
         "contenido": ["The satellite image illustrates some migratory routes and different connections in the CBC. We see examples of regional connectivity such as the migratory routes of birds of prey, sea turtles, and whale sharks. It is also possible to see the spawning areas of snappers and groupers and the dispersal areas of reef fish larvae."],
         "subtitle": null,
-        "imagen":  "./imagenes/sala1/mapa-antillas.jpg",
+        "imagen":  "./imagenes/ing/conexiones.jpg",
         "description": ["Map of the Greater Antilles illustrating some examples of connectivity in the CBC."],
         "background": "#FFFFFF",
         "colorText": "#181818"

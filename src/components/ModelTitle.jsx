@@ -29,9 +29,9 @@ const ModelTitle = (props) => {
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}
           transition={{ duration: 1 }}
-          className=' text-left w-[75px] mt-[1.5rem] text-[20px] leading-[22px]
+          className=' text-left w-[75px] mt-[1.5rem] text-[18px] leading-[22px]
             sm:w-[100px] md:text-[32px] md:w-[150px] sm:leading-[32px]
-            xl:ml-0 xl:text-[56px] xl:w-[210px] xl:leading-[63px]'>
+            xl:ml-0 xl:text-[52px] xl:w-[215px] xl:leading-[63px] uppercase'>
           {props.sala}
           {props.sala && <span className='lineAux' />}
         </motion.h1>
@@ -47,7 +47,7 @@ const ModelTitle = (props) => {
             className='absolute uppercase bottom-0 w-full bg-[rgba(0,0,0,0.5)] z-0 '>
             <div
               className='contSalas mx-auto text-white font-Public font-bold sm:text-center
-              py-[8px] text-[14px] leading-[16.24px] opacity-1
+              py-[8px] text-[14px] leading-[16.24px] opacity-1 uppercase
               sm:text-[20px] sm:leading-[25px] sm:py-[16px]
               md:text-[30px] md:leading-[35px] md:py-[24px]
               xl:text-[44px] xl:leading-[54px]'>

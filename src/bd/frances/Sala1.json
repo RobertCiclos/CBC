@@ -55,7 +55,7 @@
         "title": "Corridor biologique dans les Grandes Antilles",
         "contenido": ["L'image satellite illustre certaines routes migratoires et différentes connexions dans le CBC. Nous voyons des exemples de connectivité régionale tels que les routes migratoires des oiseaux rapaces, des tortues de mer et du requin-baleine, vous pouvez également voir les sites de frai des vivaneaux et des mérous et les zones de dispersion des larves de poissons de récif."],
         "subtitle": null,
-        "imagen":  "./imagenes/sala1/mapa-antillas.jpg",
+        "imagen":  "./imagenes/fr/conexiones.jpg",
         "description": ["Carte des Grandes Antilles illustrant quelques exemples de connectivité dans le CBC."],
         "background": "#FFFFFF",
         "colorText": "#181818"

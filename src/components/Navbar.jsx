@@ -1,8 +1,8 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState } from 'react'
 import { Link, useLocation } from 'react-router-dom'
 import { AnimatePresence, motion } from 'framer-motion'
 import { useMediaQuery } from 'react-responsive'
-import { useDispatch } from "react-redux"
+import { useDispatch, useSelector } from "react-redux"
 import DropNavTopBgNone from './dropdowns/DropNavTopBgNone'
 import DropNavRightBgWhite from './dropdowns/DropNavRightBgWhite'
 
@@ -14,7 +14,26 @@ const Navbar = () => {
       query: '(min-width: 650px)'
    })
 
-
+   const idioma = useSelector(state => state.idioma.value)
+   var general = ""
+ 
+   switch (idioma) {
+     case "ingles":
+       general = require('../bd/ingles/General.json')
+       break;
+     case "frances":
+       general = require('../bd/frances/General.json')
+       break;
+     case "creole":
+       general = require('../bd/creole/General.json')
+       break;
+     case "español":
+       general = require('../bd/spaniol/General.json')
+       break;
+     default:
+       general = require('../bd/spaniol/General.json')
+       break;
+   }
 
    const styles = {
       background: location === "/" || location === "/Home" ? "none" : "#000",
@@ -82,17 +101,17 @@ const Navbar = () => {
                               (() => {
                                  switch (location) {
                                     case '/Sala1':
-                                       return <div>Sala 1</div>;
+                                       return <div>{general.salas[0]}</div>;
                                     case '/Sala2':
-                                       return <div>Sala 2</div>;
+                                       return <div>{general.salas[1]}</div>;
                                     case '/Sala3':
-                                       return <div>Sala 3</div>;
+                                       return <div>{general.salas[2]}</div>;
                                     case '/Sala4':
-                                       return <div>Sala 4</div>;
+                                       return <div>{general.salas[3]}</div>;
                                     case '/Sala5':
-                                       return <div>Sala 5</div>;
+                                       return <div>{general.salas[4]}</div>;
                                     default:
-                                       return <div>Home</div>;
+                                       return <div>{general.salas[5]}</div>;
                                  }
                               })()
                            }
@@ -106,7 +125,7 @@ const Navbar = () => {
                            onClick={() => setNavbar(!navbar)}>
                            <div
                               className='h-full px-[10%]'>
-                              Home
+                              {general.salas[5]}
                               <img
                                  className='ml-[5%]  inline'
                                  src={location === '/' ? './svg/arrow-right-45-Black.svg' : './svg/arrow-right-45-White.svg'}
@@ -120,7 +139,7 @@ const Navbar = () => {
                            onClick={() => setNavbar(!navbar)} >
                            <div
                               className='flex h-full items-center px-[10%]'>
-                              Sala 1
+                              {general.salas[0]}
                               <img
                                  className='ml-[5%] inline'
                                  src={location === '/' ? './svg/arrow-right-45-Black.svg' : './svg/arrow-right-45-White.svg'}
@@ -134,7 +153,7 @@ const Navbar = () => {
                            onClick={() => setNavbar(!navbar)} >
                            <div
                               className='flex  h-full items-center px-[10%]'>
-                              Sala 2
+                              {general.salas[1]}
                               <img
                                  className='ml-[5%] inline'
                                  src={location === '/' ? './svg/arrow-right-45-Black.svg' : './svg/arrow-right-45-White.svg'}
@@ -148,7 +167,7 @@ const Navbar = () => {
                            onClick={() => setNavbar(!navbar)} >
                            <div
                               className='flex  h-full items-center'>
-                              Sala 3
+                              {general.salas[2]}
                               <img
                                  className='ml-[5%] inline'
                                  src={location === '/' ? './svg/arrow-right-45-Black.svg' : './svg/arrow-right-45-White.svg'}
@@ -162,7 +181,7 @@ const Navbar = () => {
                            onClick={() => setNavbar(!navbar)} >
                            <div
                               className='flex h-full items-center px-[10%]'>
-                              Sala 4
+                              {general.salas[3]}
                               <img
                                  className='ml-[5%] inline'
                                  src={location === '/' ? './svg/arrow-right-45-Black.svg' : './svg/arrow-right-45-White.svg'}
@@ -176,7 +195,7 @@ const Navbar = () => {
                            onClick={() => setNavbar(!navbar)} >
                            <div
                               className='flex h-full items-center px-[10%]'>
-                              Sala 5
+                              {general.salas[4]}
                               <img
                                  className='ml-[5%] inline'
                                  src={location === '/' ? './svg/arrow-right-45-Black.svg' : './svg/arrow-right-45-White.svg'}

@@ -5,5 +5,15 @@
         "Franse",
         "Angle",
         "Kreyòl"
-    ]
+    ],
+    "salas": [
+        "Sal 1",
+        "Sal 2",
+        "Sal 3",
+        "Sal 4",
+        "Sal 5",
+        "Lakay "
+    ],
+    "return": "Return Home ",
+    "next": "Previous Room"
 }

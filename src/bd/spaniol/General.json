@@ -5,5 +5,15 @@
         "Francés",
         "Inglés",
         "Creolé"
-    ]
+    ],
+    "salas": [
+        "Sala 1",
+        "Sala 2",
+        "Sala 3",
+        "Sala 4",
+        "Sala 5",
+        "Home"
+    ],
+    "return": "Anterior sala ",
+    "next": "Siguiente sala"
 }

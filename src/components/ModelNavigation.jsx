@@ -1,9 +1,31 @@
 import React from 'react'
+import { useSelector } from 'react-redux'
 import { useLocation } from 'react-router-dom'
 import { Link } from 'react-router-dom'
 
 const ModelNavigation = (props) => {
     const location = useLocation().pathname
+
+    const idioma = useSelector(state => state.idioma.value)
+    var general = ""
+  
+    switch (idioma) {
+      case "ingles":
+        general = require('../bd/ingles/General.json')
+        break;
+      case "frances":
+        general = require('../bd/frances/General.json')
+        break;
+      case "creole":
+        general = require('../bd/creole/General.json')
+        break;
+      case "español":
+        general = require('../bd/spaniol/General.json')
+        break;
+      default:
+        general = require('../bd/spaniol/General.json')
+        break;
+    }
     return (
         <div>
             <p
@@ -12,46 +34,7 @@ const ModelNavigation = (props) => {
                 {props.contenido}
             </p>
             <nav className='py-[32px] md:py-[40px]'>
-                <ul
-                    className='flex w-auto overflow-x-auto overflow-y-hidden  gap-[31px] 
-                items-center mb-[56px] mt-[24px] mx-[5%] h-[55px] py-[5px]
-                md:gap-[88px] md:h-[88px] hidden  md:mb-[88px] md:mt-[56px] md:mx-0 '>
-                    <li className="liNav">
-                        Sala 1
-                        <img
-                            src="./svg/arrow-right-45-Black.svg"
-                            alt=""
-                            className="w-[25px] sm:w-[55px]" />
-                    </li>
-                    <li className="liNav">
-                        Sala 2
-                        <img
-                            src="./svg/arrow-right-45-Black.svg"
-                            alt=""
-                            className="w-[25px] sm:w-[55px]" />
-                    </li>
-                    <li className="liNav">
-                        Sala 3
-                        <img
-                            src="./svg/arrow-right-45-Black.svg"
-                            alt=""
-                            className="w-[25px] sm:w-[55px]" />
-                    </li>
-                    <li className="liNav">
-                        Sala 4
-                        <img
-                            src="./svg/arrow-right-45-Black.svg"
-                            alt=""
-                            className="w-[25px] sm:w-[55px]" />
-                    </li>
-                    <li className="liNav">
-                        Sala 5
-                        <img
-                            src="./svg/arrow-right-45-Black.svg"
-                            alt=""
-                            className="w-[25px] sm:w-[55px]" />
-                    </li>
-                </ul>
+                
                 <div
                     className='grid grid-cols-2 w-full  py-[24px]
                   mx-auto gap-[8px] textSpam sm:py-[32px]
@@ -64,14 +47,14 @@ const ModelNavigation = (props) => {
                             src="./svg/arrowLeft.svg"
                             alt="Flecha Izquierda"
                             className="" />
-                        <span className='text-left' >Anterior Sala</span>
+                        <span className='text-left' >{general.return}</span>
                     </Link>
                     <Link to={props.nextLink}
                         style={styleNavRow}
                         className='justify-self-end w-[150px]
                     sm:flex sm:justify-end 
                     sm:w-[250px] lg:w-[350px]'>
-                        <span className='text-right' >Siguiente sala</span>
+                        <span className='text-right' >{general.next}</span>
                         <img
                             src="./svg/arrowRight.svg"
                             alt=""
