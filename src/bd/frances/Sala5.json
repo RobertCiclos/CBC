@@ -147,7 +147,7 @@
 
     "section12" : {
         "title": "Système intégré de gestion des connaissances",
-        "contenido": ["L'initiative CBC développe un système intégré de gestion des connaissances (IKMS), qui compte déjà plus de 4,6 millions d'enregistrements géoréférencés contenant des informations sur jusqu'à 18 sujets importants pour le CBC. Ce système est constamment mis à jour et est disponible pour faciliter la prise de décision dans les pays membres du CBC. Son outil spatial BioAtlas peut être exploré à l'adresse https://bioatlas.cbcbio.org/."],
+        "contenido": ["L'initiative CBC développe un système intégré de gestion des connaissances (BIOINFO), qui compte déjà plus de 4,6 millions d'enregistrements géoréférencés contenant des informations sur jusqu'à 18 sujets importants pour le CBC. Ce système est constamment mis à jour et est disponible pour faciliter la prise de décision dans les pays membres du CBC. Son outil spatial BioAtlas peut être exploré à l'adresse https://bioatlas.cbcbio.org/."],
         "imagen":  "./imagenes/sala5/bioatlas.jpg",
         "description": ["Page d'accueil de BioAtlas."],
         "background": "#FFFFFF",
@@ -186,8 +186,8 @@
         "contenido": ["En Haïti, le projet CBC avec la Fondation Seguin vise à protéger et restaurer 70 hectares de forêt indigène, 3 hectares de terres dégradées et à mettre en œuvre un programme de jardins familiaux avec une forte participation des femmes."],
         "imagenes": {
             "imagen1": "./imagenes/sala5/vivero.jpg",
-            "alt1": "Vivero, Pic Macayá, Haiti.",
-            "name1": "Vivero, Pic Macayá, Haiti.",
+            "alt1": "Pépinière, Pic Macaya, Haïti",
+            "name1": "Pépinière, Pic Macaya, Haïti",
 
             "imagen2": "./imagenes/sala5/entregadesemillas.jpg",
             "alt2": "Livraison de semences aux femmes chefs de famille pour la création de jardins familiaux.",
@@ -405,7 +405,7 @@
     },
 
     "footer": {
-        "title": "“El CBC es Paz”",
+        "title": "“CBC est Paix”",
         "contenido": ["Iniciativa gubernamental de cuatro países: Cuba, Haití, República Dominicana y Puerto Rico. Financiada por la Unión Europea (UE) y apoyada por el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA).",
                     "Sede de la Secretaría del CBC República Dominicana, Miembros",
                     "© 2020, Centro de Información y Gestión Tecnológica de Santiago de Cuba, MEGACEN."],

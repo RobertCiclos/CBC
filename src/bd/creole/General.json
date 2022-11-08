@@ -1,3 +1,9 @@
 {
-    "credit": "Crédito"
+    "credit": "Crédito",
+    "idioma" : [
+        "Panyòl",
+        "Franse",
+        "Angle",
+        "Kreyòl"
+    ]
 }

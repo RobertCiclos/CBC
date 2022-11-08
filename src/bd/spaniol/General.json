@@ -1,3 +1,9 @@
 {
-    "credit": "Crédito"
+    "credit": "Crédito",
+    "idioma" : [
+        "Español",
+        "Francés",
+        "Inglés",
+        "Creolé"
+    ]
 }

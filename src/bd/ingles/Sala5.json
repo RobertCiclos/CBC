@@ -147,7 +147,7 @@
 
     "section12" : {
         "title": "INTEGRATED KNOWLEDGE MANAGEMENT SYSTEM",
-        "contenido": ["The CBC Initiative is developing an Integrated Knowledge Management System (IKMS), which already has more than 4.6 million geo-referenced records with information on up to 18 topics of importance to the CBC. This system is constantly being updated and is available to facilitate decision-making in CBC member countries. Its spatial tool BioAtlas can be explored at https://bioatlas.cbcbio.org/"],
+        "contenido": ["The CBC Initiative is developing an Integrated Knowledge Management System (BIOINFO), which already has more than 4.6 million geo-referenced records with information on up to 18 topics of importance to the CBC. This system is constantly being updated and is available to facilitate decision-making in CBC member countries. Its spatial tool BioAtlas can be explored at https://bioatlas.cbcbio.org/"],
         "imagen":  "./imagenes/sala5/bioatlas.jpg",
         "description": ["BioAtlas home page."],
         "background": "#FFFFFF",

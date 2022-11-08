@@ -147,7 +147,7 @@
 
     "section12" : {
         "title": "Sistema Integrado de Gestion del Conocimiento",
-        "contenido": ["La Iniciativa del CBC está desarrollando un Sistema integrado de gestión del conocimiento (IKMS), el cual cuenta ya con más de 4.6 millones de registros geo-referenciados con información de hasta 18 temáticas de importancia para el CBC. Este sistema está en constante actualización y se encuentra disponible para facilitar la toma de decisiones en los países miembros del CBC. Su herramienta espacial “BioAtlas” puede explorarse en: https:bioatlas.cbcbio.org/"],
+        "contenido": ["La Iniciativa del CBC está desarrollando un Sistema integrado de gestión del conocimiento (BIOINFO), el cual cuenta ya con más de 4.6 millones de registros geo-referenciados con información de hasta 18 temáticas de importancia para el CBC. Este sistema está en constante actualización y se encuentra disponible para facilitar la toma de decisiones en los países miembros del CBC. Su herramienta espacial “BioAtlas” puede explorarse en: https:bioatlas.cbcbio.org/"],
         "imagen":  "./imagenes/sala5/bioatlas.jpg",
         "description": ["Página principal del BioAtlas."],
         "background": "#FFFFFF",
