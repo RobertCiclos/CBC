@@ -31,10 +31,13 @@
             "imagen1": "./imagenes/sala1/iguana-ricord.jpg",
             "alt1": "Iguana de Ricord (Cyclura ricordii).",
             "name1": "Iguana de Ricord (Cyclura ricordii).",
-
+            
             "imagen2": "./imagenes/sala1/isla-cabritos.jpg",
             "alt2": "Isla Cabritos, Lago Enriquillo, República Dominicana.",
-            "name2": "Isla Cabritos, Lago Enriquillo, República Dominicana."
+            "name2": "Isla Cabritos, Lago Enriquillo, República Dominicana.",
+            "autor1": "Alejandro Balaguer",
+            "autor2": "Rodrigo Balaguer"
+            
         },
         "background": "#FFFFFF",
         "colorText": "#181818"

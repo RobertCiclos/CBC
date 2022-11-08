@@ -39,24 +39,29 @@ const Home = () => {
   }
 
   const idioma = useSelector(state => state.idioma.value)
-  var general = require('../bd/ingles/General.json')
+  var general = ""
   var data = ""
 
   switch (idioma) {
     case "ingles":
       data = require('../bd/ingles/Home.json')
+      general = require('../bd/ingles/General.json')
       break;
     case "frances":
       data = require('../bd/frances/Home.json')
+      general = require('../bd/frances/General.json')
       break;
     case "creole":
       data = require('../bd/creole/Home.json')
+      general = require('../bd/creole/General.json')
       break;
     case "español":
       data = require('../bd/spaniol/Home.json')
+      general = require('../bd/spaniol/General.json')
       break;
     default:
       data = require('../bd/spaniol/Home.json')
+      general = require('../bd/spaniol/General.json')
       break;
   }
 
