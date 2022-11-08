@@ -17,7 +17,7 @@
                         "Priority ecosystems for the CBC are key sites to maintain regional connectivity and areas that preserve representative ecosystems in the shared and threatened eco-regions. Such ecosystems are considered resilient to climate change; and are key for the conservation of migratory species, highly threatened endemic species, or with high dispersal potential."],
 
         "subtitle": null,
-        "imagen":  "./imagenes/sala3/mapa-ecosistema.jpg",
+        "imagen":  "./imagenes/ing/ecosistemas.jpg",
         "description": ["Map highlighting the priority ecosystems of the CBC, as well as sites of importance for target species for conservation and monitoring in the corridor."],
         "background": "#528641",
         "colorText": "#fff"
@@ -33,6 +33,8 @@
             "name1": "Soft and hard corals, algae, sponges, and various invertebrates conform this shallow reef.",
 
             "imagen2": "./imagenes/sala3/arrecife2.jpg",
+            "autor1": "Matias Balaguer",
+            "autor2": "Alejandro Balaguer",
             "alt2": "Soft and hard corals, algae, sponges, and various invertebrates conform this shallow reef.",
             "name2": "Soft and hard corals, algae, sponges, and various invertebrates conform this shallow reef."
         },
@@ -64,7 +66,8 @@
                         "They protect coastlines and are key to sustaining artisanal, commercial, and recreational fisheries. Moreover, they are a source of pharmacological products.",
                             "Their unquestionable beauty and biodiversity are attractive for tourism and recreational diving, and it has been estimated that they bring between 700 and 2.2 billion dollars to the Caribbean each year."],
         "imagen1": "./imagenes/sala3/otro-arrecife.jpg",
-        "alt1": "Shoals on reefs in the Greater Antilles.",        
+        "alt1": "Shoals on reefs in the Greater Antilles.",
+        "autor1": "Matias Balaguer",        
         "description": "Shoals on reefs in the Greater Antilles.",
         "background": "#fff",
         "colorText": "#181818"
@@ -76,6 +79,7 @@
         "imagen1": "./imagenes/sala3/manglares.jpg",
         "alt1": "Healthy mangroves, Cuba",        
         "description": "Healthy mangroves, Cuba",
+        "autor1": "Matias Balaguer", 
         "background": "#528641",
         "colorText": "#FFF"
     },
@@ -92,6 +96,8 @@
 
             "imagen2": "./imagenes/sala3/isladelavaca2.jpg",
             "alt2": "Mangroves, Vaca Island, Haiti.",
+            "autor1": "Matias Balaguer",
+            "autor2": "Matias Balaguer",  
             "name2": "Mangroves, Vaca Island, Haiti."
         },
         "background": "#FFFFFF",
@@ -185,7 +191,7 @@
     },
 
     "section16" : {
-        "title": "DRY FORESTS AND XEROPHYTIC SHRUBLANDS ",
+        "title": "XEROPHYTIC SHRUBLANDS",
         "contenido": ["This group of ecosystems presents semi-desert zones, dry forests and shrublands adapted to extreme conditions that result from drought, salinity and poor soils. Species have adapted to these conditions, which is why thorny vegetation is dominant, including cacti, stunted shrubs, semi-desert grasslands, and even trees with very small leaves or that lose their leaves during a period of the year.",
                         "Surviving in these conditions costs the species a lot of energy, so different adaptations are found. For example, the presence of thorns in the vegetation allows them to store water while serving as a protection mechanism against herbivorous fauna."],
         "imagenes": {
@@ -249,8 +255,8 @@
             "name1": "Ravine du Sud, a river connecting Pic Macaya and Les Cayes in Haiti, shows the effect of sedimentation from upstream deforestation.",
 
             "imagen2": "./imagenes/sala3/abanicodemar.jpg",
-            "alt2": "Abanico de mar",
-            "name2": "Abanico de mar"
+            "alt2": "Corail gorgone",
+            "name2": "Corail gorgone"
         },
         "background": "#528641",
         "colorText": "#FFFFFF"
@@ -288,8 +294,8 @@
            "name1": "Seagrasses in the Caribbean.",
 
            "imagen2": "./imagenes/sala3/pastosmarinos.jpg",
-           "alt2": "Ecosistemas de pastos marinos en el Caribe.",
-           "name2": "Ecosistemas de pastos marinos en el Caribe."
+           "alt2": "Seagrass beds in the Caribbean.",
+           "name2": "Seagrass beds in the Caribbean."
        },
        "background": "#FFFFFF",
         "colorText": "#181818"

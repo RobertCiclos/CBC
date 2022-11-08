@@ -78,8 +78,8 @@
         "contenido": ["Dès son lancement en 2007, l'initiative CBC a concentré ses efforts sur l'est de Cuba et l'ouest d'Hispaniola.",
                         "Lors du Comité ministériel de 2014, les pays ont chargé le Secrétariat de travailler à la mise à jour de la démarcation du corridor.",
                             "La nouvelle délimitation comprend actuellement des zones centrales de conservation et des zones importantes pour la connectivité de toutes les Grandes Antilles, tant terrestres que marines. Ces derniers comprennent des parties des mers territoriales, des eaux archipélagiques et intérieures, ainsi que des zones économiques exclusives des pays et territoires mentionnés."],
-        "imagen":  "./imagenes/sala4/oldMapa.jpg",
-        "imagenNew":  "./imagenes/sala4/newMapa.jpg",
+        "imagen":  "./imagenes/fr/oldMapa.jpg",
+        "imagenNew":  "./imagenes/fr/newMapa.jpg",
         "description": ["Cartes montrant l'évolution de la démarcation originale et actuelle du Corridor Biologique dans la Caraïbe."],
         "background": "#103A62",
         "colorText": "#FFF"

@@ -17,7 +17,7 @@
                         "Ekosistèm priyoritè pou CBC yo se zòn kle pou kenbe koneksyon rejyonal ak zòn ki prezève ekosistèm ki reprezante ekorejyon pataje e ki menase, rezistan ak chanjman nan klima; epi ki esansyèl pou konsèvasyon espès migratè yo, espès andemik ki anba anpil menas oswa sila ki gen gwo potansyèl pou gaye kò yo."],
 
         "subtitle": null,
-        "imagen":  "./imagenes/sala3/mapa-ecosistema.jpg",
+        "imagen":  "./imagenes/cr/ecosistemas.jpg",
         "description": ["Kat ki mete aksan sou ekosistèm priyoritè CBC, ansanm ak sit ki enpòtan pou espès yo ki anba konsèvasyon ak kontwòl nan koridò a."],
         "background": "#528641",
         "colorText": "#fff"
@@ -33,6 +33,8 @@
             "name1": "Koray mou ak koray di, alg, eponj ak divès kalite envètebre fòme resif sila kip a trò fon.",
 
             "imagen2": "./imagenes/sala3/arrecife2.jpg",
+            "autor1": "Matias Balaguer",
+            "autor2": "Alejandro Balaguer",
             "alt2": "Koray mou ak koray di, alg, eponj ak divès kalite envètebre fòme resif sila kip a trò fon.",
             "name2": "Koray mou ak koray di, alg, eponj ak divès kalite envètebre fòme resif sila kip a trò fon."
         },
@@ -64,7 +66,8 @@
                         "Yo pwoteje kòt yo epi yo esansyèl pou antretyen lapèch atizanal, komèsyal ak lwazi. Yo se yon sous pwodwi famasetik tou.",
                             "Bote ak divèsite biyolojik ke tout moun dakò yo atire touris ak plonje pou lwazi, epi yo estime yo pote ant $700 ak $2.2 milya dola nan Karayib la chak ane."],
         "imagen1": "./imagenes/sala3/otro-arrecife.jpg",
-        "alt1": "Shoals sou resif Gwo Zantiy yo.",        
+        "alt1": "Shoals sou resif Gwo Zantiy yo.",
+        "autor1": "Matias Balaguer",        
         "description": "Shoals sou resif Gwo Zantiy yo.",
         "background": "#fff",
         "colorText": "#181818"
@@ -76,6 +79,7 @@
         "imagen1": "./imagenes/sala3/manglares.jpg",
         "alt1": "Mangwòv ki an sante, Kiba",        
         "description": "Mangwòv ki an sante, Kiba",
+        "autor1": "Matias Balaguer",
         "background": "#528641",
         "colorText": "#FFF"
     },
@@ -91,8 +95,10 @@
             "name1": "Mangwòv, Île-à-Vache, Ayiti.",
 
             "imagen2": "./imagenes/sala3/isladelavaca2.jpg",
-            "alt2": "Mangwòv ki an sante, Kiba",
-            "name2": "Mangwòv ki an sante, Kiba"
+            "alt2": "Mangwòv, Île-à-Vache, Ayiti.",
+            "name2": "Mangwòv, Île-à-Vache, Ayiti.",
+            "autor1": "Matias Balaguer",
+            "autor2": "Matias Balaguer"
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
@@ -141,8 +147,8 @@
             "name1": "Pak Nasyonal Pic Macaya, Ayiti",
 
             "imagen2": "./imagenes/sala3/parquehaitises.jpg",
-            "alt2": "Pak Nasyonal Los Haitises",
-            "name2": "Pak Nasyonal Los Haitises"
+            "alt2": "Pak Nasyonal Los Haitises, Ayiti",
+            "name2": "Pak Nasyonal Los Haitises, Ayiti"
         },
         "background": "#528641",
         "colorText": "#FFFFFF"
