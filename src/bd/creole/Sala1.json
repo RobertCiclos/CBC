@@ -296,12 +296,15 @@
 
     "footer": {
         "title": "“CBC se Koneksyon”",
-        "subtitle": "Instituciones relacionadas",
-        "instituciones": ["Ministerio de Ciencia, Tecnología y Medio Ambiente de la República de Cuba",
-                        "Ministerio de Medio Ambiente y Recursos Naturales de República Dominicana",
-                        "Departamento de Recursos Naturales y Ambientales del Gobierno de Puerto Rico"
-                        ,"Ministerio de Medio Ambiente de Haití","Ministry of Economic Growth and Job Creation of Jamaica (MEGJC)",
-                        "Unión Europea",
-                        "PNUMA"]        
+        "subtitle": "Enstitisyon ki asosye",
+        "instituciones": ["Ministè Syans, Teknoloji ak Anviwònman Repiblik Kiba",
+                        "Ministè anviwònman ak resous natirèl Repiblik Dominikèn",
+                        "Ministè resous natirèl ak anivironman gouvènman Pòtorico"
+                        ,"Ministè Anviwònman Repiblik Dayiti",
+                        "Ministè kwasans ekonomik ak Kreyasyon anplwa peyi Jamayik (MEGJC) (ministè kap kreye travay pou ekomi an ka grandi)",
+                        "Inyon Ewopeyen (ki gen sig angle EU)",
+                        "Pwogram Nasyonzini pou Anviwònman (ki gen sig angle UNEP)"],
+        "descript": "Tout sa yo dwe sere - 2022",
+        "design": "Design by CICLOS STUDIO"      
     }
 }

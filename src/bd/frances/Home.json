@@ -61,13 +61,15 @@
 
     "footer": {
         "title": "“A CBC est Développement Durable”",
-        "subtitle": "Associated Institutions",
-        "instituciones": ["Ministry of Science, technology and the Environment of the Republic of Cuba",
-                        "Ministry of the Environment and Natural Resources of the Dominican Republic",
-                        "Department of Natural and Environmental Resources of the Government of Puerto Rico",
-                        "Ministry of the Environment of Haiti",
-                        "Ministry of Economic Growth and Job Creation of Jamaica (MEGJC)",
-                        "European Union (EU)",
-                        "PNUMA"]        
+        "subtitle": "Institutions associées ",
+        "instituciones": ["Ministère des sciences, de la technologie et de l'environnement de la République de Cuba",
+                        "inistère de l'environnement et des ressources naturelles de la République Dominicaine",
+                        "Ministère des ressources naturelles et environnementales du gouvernement de Porto Rico ",
+                        "Ministère de l'environnement de la République d'Haïti ",
+                        "Ministère de la croissance économique et de la création d'emplois de la Jamaïque (MEGJC)",
+                        "Union Européenne (UE)",
+                        "Programme des Nations Unies pour l'Environnement (PNUE)"],
+        "descript": "Tous droits réservés - 2022  ",
+        "design": "Design by CICLOS STUDIO"
     }
 }

@@ -385,13 +385,16 @@
 
     "footer": {
         "title": "“THE CBC NATURE”",
-        "subtitle": "Instituciones relacionadas",
-        "instituciones": ["Ministerio de Ciencia, Tecnología y Medio Ambiente de la República de Cuba",
-                        "Ministerio de Medio Ambiente y Recursos Naturales de República Dominicana",
-                        "Departamento de Recursos Naturales y Ambientales del Gobierno de Puerto Rico"
-                        ,"Ministerio de Medio Ambiente de Haití","Ministry of Economic Growth and Job Creation of Jamaica (MEGJC)",
-                        "Unión Europea",
-                        "PNUMA"]        
+        "subtitle": "Associated Institutions",
+        "instituciones": ["Ministry of Science, technology and the Environment of the Republic of Cuba",
+                        "Ministry of the Environment and Natural Resources of the Dominican Republic",
+                        "Department of Natural and Environmental Resources of the Government of Puerto Rico",
+                        "Ministry of the Environment of Haiti",
+                        "Ministry of Economic Growth and Job Creation of Jamaica (MEGJC)",
+                        "European Union (EU)",
+                        "United Nations Environment Programme (UNEP)"],
+        "descript": "All rights reserved – 2022",
+        "design": "Design by CICLOS STUDIO"     
     }
 
 }

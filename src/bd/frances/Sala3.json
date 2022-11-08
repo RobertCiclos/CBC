@@ -346,13 +346,18 @@
 
     "footer": {
         "title": "“La CBC est Vie”",
-        "contenido": ["Iniciativa gubernamental de cuatro países: Cuba, Haití, República Dominicana y Puerto Rico. Financiada por la Unión Europea (UE) y apoyada por el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA).",
+        "contenido": ["Une initiative des gouvernements de Cuba, de la République Dominicaine, de la République d'Haïti, de Porto Rico et de la Jamaïque. Financée par l'Union Européenne (UE) avec le soutien du Programme des Nations Unies pour l'Environnement (PNUE).",
                     "Sede de la Secretaría del CBC República Dominicana, Miembros",
                     "© 2020, Centro de Información y Gestión Tecnológica de Santiago de Cuba, MEGACEN."],
-        "subtitle": "Instituciones que participan",
-        "instituciones": ["Ministerio de Ciencia, Tecnología y Medio Ambiente de la República de Cuba",
-                        "Ministerio de Medio Ambiente de Haití","Ministerio de Medio Ambiente y Recursos Naturales de República Dominicana",
-                        "Unión Europea","PNUMA","Naciones Unidas en Cuba","Naciones Unidas en Haití","Naciones Unidas en República Dominicana",
-                        "Portal del Medio Ambiente de Cuba","BIOECO","CEDAF"]        
+                    "subtitle": "Institutions associées ",
+                    "instituciones": ["Ministère des sciences, de la technologie et de l'environnement de la République de Cuba",
+                                    "inistère de l'environnement et des ressources naturelles de la République Dominicaine",
+                                    "Ministère des ressources naturelles et environnementales du gouvernement de Porto Rico ",
+                                    "Ministère de l'environnement de la République d'Haïti ",
+                                    "Ministère de la croissance économique et de la création d'emplois de la Jamaïque (MEGJC)",
+                                    "Union Européenne (UE)",
+                                    "Programme des Nations Unies pour l'Environnement (PNUE)"],
+                    "descript": "Tous droits réservés - 2022  ",
+                    "design": "Design by CICLOS STUDIO"       
     }
 }
