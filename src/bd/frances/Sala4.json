@@ -21,6 +21,11 @@
         "colorText": "#FFF"
     },
 
+    "sectionPDF" : {
+        "title": "Déclaration signée par Saint-Domingue",
+        "contenido" : "Voir la déclaration"
+    },
+
     "section5" : {
         "title": "Mission",
         "contenido": ["La mission du CBC est d'assurer la conservation efficace de la biodiversité marine et terrestre d'importance régionale, le maintien de la connectivité écologique et la fourniture de services écosystémiques sur des sites clés des Caraïbes insulaires, en tenant compte des défis posés par le changement climatique et des besoins de développement des communautés, et en assurant la coordination, l'intégration et la coopération de tous les acteurs concernés."],
@@ -210,12 +215,12 @@
                             "Dans le cadre du réseau de partenaires du CBC, d'autres acteurs peuvent identifier et développer des projets de manière indépendante et être pris en compte par l'Initiative, pour autant qu'ils contribuent directement aux objectifs et aux priorités du CBC."],
         "imagenes": {
             "imagen1": "./imagenes/sala4/delfin-moteado.jpg",
-            "alt1": "Delfín moteado del Atlántico (Stenella frontalis).",
-            "name1": "Delfín moteado del Atlántico (Stenella frontalis).",
+            "alt1": "Dauphin tacheté de l'Atlantique (Stenella frontalis).",
+            "name1": "Dauphin tacheté de l'Atlantique (Stenella frontalis).",
 
-            "imagen2": "./imagenes/sala4/transicion-parque.jpg",
-            "alt2": "Transition du Parc National de Pic Macaya à la côte caribéenne haïtienne.",
-            "name2": "Transition du Parc National de Pic Macaya à la côte caribéenne haïtienne."
+            "imagen2": "./imagenes/sala4/sala4-botes.jpg",
+            "alt2": "Bateaux de pêche à La Panchita, Cuba.",
+            "name2": "Bateaux de pêche à La Panchita, Cuba."
         },
         "background": "#FFF",
         "colorText": "#181818"
@@ -299,7 +304,7 @@
     },
 
     "footer": {
-        "title": "“CBC est Paix”",
+        "title": "“CBC est Coopération”",
         "contenido": ["Iniciativa gubernamental de cuatro países: Cuba, Haití, República Dominicana y Puerto Rico. Financiada por la Unión Europea (UE) y apoyada por el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA).",
                     "Sede de la Secretaría del CBC República Dominicana, Miembros",
                     "© 2020, Centro de Información y Gestión Tecnológica de Santiago de Cuba, MEGACEN."],

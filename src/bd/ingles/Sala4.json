@@ -21,6 +21,11 @@
         "colorText": "#FFF"
     },
 
+    "sectionPDF" : {
+        "title": "Signed Santo Domingo Declaration",
+        "contenido" : "See declaration"
+    },
+
     "section5" : {
         "title": "MISSION",
         "contenido": ["The mission of the CBC is to achieve the effective conservation of regionally important marine and terrestrial biodiversity, the maintenance of ecological connectivity and the provision of ecosystem services in key sites of the insular Caribbean; considering the challenges of a changing climate, the development needs of communities, and ensuring the coordination, integration and cooperation of all relevant stakeholders."],
@@ -213,9 +218,9 @@
             "alt1": "Atlantic Spotted Dolphin (Stenella frontalis)",
             "name1": "Atlantic Spotted Dolphin (Stenella frontalis)",
 
-            "imagen2": "./imagenes/sala4/transicion-parque.jpg",
-            "alt2": "Transition from Pic Macaya to the Haitian Caribbean Coast",
-            "name2": "Transition from Pic Macaya to the Haitian Caribbean Coast"
+            "imagen2": "./imagenes/sala4/sala4-botes.jpg",
+            "alt2": "Barcos de pesca en La Panchita, Cuba",
+            "name2": "Barcos de pesca en La Panchita, Cuba"
         },
         "background": "#FFF",
         "colorText": "#181818"
