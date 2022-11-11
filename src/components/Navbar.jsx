@@ -86,9 +86,9 @@ const Navbar = () => {
                      transition={{ duration: 1.2 }}
                      style={stylesNav}
                      className='h-[100vh] fixed right-0 top-0 pt-[1%] 
-                     w-[40vh] md:w-[25vh] lg:w-[20vw] '>
+                     w-[45vh] sm:w-[40vh] md:w-[40vh] lg:w-[30vw] xl:w-[25vw] '>
                      <div
-                        className='grid grid-cols-2 h-[64px] items-center px-[10%]'>
+                        className='grid grid-cols-[1fr_1.5fr] h-[64px] items-center px-[10%]'>
                         <img
                            onClick={() => setNavbar(!navbar)}
                            className='justify-self-start cursor-pointer'
@@ -96,7 +96,8 @@ const Navbar = () => {
                            alt="hola" />
                         <div
                            style={{ borderColor: location === "/" || location === "/Home" ? "#000" : "#fff" }}
-                           className='justify-self-end border-b-[1.5px] font-[400]'>
+                           className='justify-self-end border-b-[1.5px]  font-[400]
+                           leading-[28px]'>
                            {
                               (() => {
                                  switch (location) {

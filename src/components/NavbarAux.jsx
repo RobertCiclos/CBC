@@ -92,9 +92,9 @@ const NavbarAux = () => {
                                 transition={{ duration: 1.2 }}
                                 style={stylesNav}
                                 className='h-[100vh] fixed right-0 top-0 pt-[1%] 
-                                w-[40vh] md:w-[25vh] lg:w-[20vw] '>
+                                w-[45vh] sm:w-[40vh] md:w-[40vh] lg:w-[30vw] xl:w-[25vw] '>
                                 <div
-                                    className='grid grid-cols-2 h-[64px] items-center px-[10%]'>
+                                    className='grid grid-cols-[1fr_1.5fr] h-[64px] items-center px-[10%]'>
                                     <img
                                         onClick={() => setNavbar(!navbar)}
                                         className='justify-self-start cursor-pointer'

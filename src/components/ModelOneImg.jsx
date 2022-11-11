@@ -56,6 +56,9 @@ const ModelOneImg = (props) => {
                <img src={props.imagen1} alt={props.alt1} className="w-full h-full pointer-events-none" />
             </div>
             <cite>{props.description}</cite>
+            <div className='w-full h-[60px] bg-red-600'>
+
+            </div>
          </div>
       </div>
    )

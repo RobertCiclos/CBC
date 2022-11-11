@@ -75,7 +75,6 @@ const Home = () => {
         <section
           className="w-full h-[100vh] pt-[85px] bg-center
           relative imgBack bg-[url('/public/imagenes/home/hero.jpg')]">
-          <CardCredit idioma={general.credito} author="Matías Balaguer" />
           <div
             className='w-[311px] mx-auto 
               sm:mt-[3%] sm:w-auto'>
@@ -263,7 +262,7 @@ const Home = () => {
         <section
           className="w-full h-[100vh] relative z-0 snap-y 
           bg-cover bg-no-repeat bg-center bg-[url('/public/imagenes/home/naturaleza.jpg')]">
-          <CardCredit idioma={general.credito} author="Thomas Shahan" />
+          <CardCredit idioma={general.credito} autor="Thomas Shahan" />
           <div
             className='w-full text-center text-white font-Public absolute bottom-[8%] right-[50%] translate-x-[50%]
             font-bold text-[32px] md:text-[50px] lg:text-[100px] snap-center uppercase'>
@@ -373,12 +372,12 @@ const Home = () => {
             </p>
             <div
               className='grid gap-[24px] lg:gap-0 w-full
-              md:grid-cols-2 lg:grid-cols-3 lg:justify-items-center'>
+              md:grid-cols-2 lg:grid-cols-[1fr_1fr_1.1fr] lg:justify-items-center'>
               <div
                 className='font-Public md:justify-self-end lg:justify-self-center'>
                 <p
                   className='font-[700] text-[20px]
-                  lg:text-[24px]'>
+                  lg:text-[23px]'>
                   {data.section8.subtitle[0]}
                 </p>
                 <ul
@@ -402,7 +401,7 @@ const Home = () => {
                 className='md:justify-self-center'>
                 <p
                   className='font-[700] text-[20px]
-                  lg:text-[24px]'>
+                  lg:text-[23px]'>
                   {data.section8.subtitle[1]}
                 </p>
                 <ul
@@ -423,7 +422,7 @@ const Home = () => {
                 lg:col-span-1'>
                 <p
                   className='font-[700] text-[20px]
-                  lg:text-[24px]'>{data.section8.subtitle[2]} </p>
+                  lg:text-[23px]'>{data.section8.subtitle[2]} </p>
                 <ul
                   className='font-[400] text-[24px] leading-[26.44px] mt-[16px]
                   lg:text-[24px] lg:leading-[32.16px] lg:mt-[32px] md:ml-[-3%]'>
