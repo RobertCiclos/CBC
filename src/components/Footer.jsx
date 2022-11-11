@@ -264,7 +264,8 @@ const Footer = () => {
           <i className='md:justify-self-end'>
             <a
               className='hover:text-black/50'
-              href='http://www.albatrosmedia.net/site/' target="_blank" >
+              href='http://www.albatrosmedia.net/site/' 
+              target="_blank" >
               Fundación Albatros Media
             </a>
             <p>2</p>
