@@ -68,7 +68,7 @@ const Sala4 = () => {
           id='section4'
           style={{ background: dataSala4.section4.background, color: dataSala4.section4.colorText }}
           className='pySection'>
-          <ModelOneImg {...dataSala4.section4} />
+          <ModelOneImg {...dataSala4.section4} download={true} />
         </section>
 
         <section

@@ -225,7 +225,7 @@ const Footer = () => {
           font-[300] text-[14px] font-Public 
           md:grid-cols-2 '>
           <i className='md:justify-self-start my-[8px] md:my-0'>{dataFooter.footer.descript}</i>
-          <i className='md:justify-self-end'>{dataFooter.footer.design}</i>
+          <i className='md:justify-self-end'></i>
         </div>
       </div>
     </footer>
