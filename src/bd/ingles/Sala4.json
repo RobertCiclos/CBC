@@ -74,14 +74,14 @@
 
     "section8" : {
         "title": "SCOPE OF WORK OF THE CBC",
-        "subtitle": "Demarcación Original del Corredor Biológico en el Caribe (2012-2021)",
-        "subtitleNew": "Nueva Demarcación  del Corredor Biológico en el Caribe (2022)",
+        "subtitle": "Original Demarcation of the Caribbean Biological Corridor (2012-2021)",
+        "subtitleNew": "New Demarcation of the Caribbean Biological Corridor (2022)",
         "colorSubtitle": "#FFF",
         "contenido": ["From its inception in 2007, the CBC Initiative focused its efforts in eastern Cuba and western La Hispaniola.",
                         "In the Ministerial Committee held in 2014, the countries instructed the Secretariat to work on updating the demarcation of the corridor.",
                             "The new demarcation currently includes core conservation areas and areas of importance for connectivity throughout the Greater Antilles, including both terrestrial and marine. The latter include parts of the territorial seas, archipelagic and inland waters, and the exclusive economic zones of the countries and territories mentioned."],
-        "imagen":  "./imagenes/ing/oldMapa.png",
-        "imagenNew":  "./imagenes/ing/newMapa.png",
+        "imagen":  "./imagenes/ing/oldMapa.jpg",
+        "imagenNew":  "./imagenes/ing/newMapa.jpg",
         "description": ["Maps showing the evolution of the original and current demarcation of the Caribbean Biological Corridor."],
         "background": "#103A62",
         "colorText": "#FFF"
@@ -215,7 +215,7 @@
             "alt1": "Atlantic Spotted Dolphin (Stenella frontalis)",
             "name1": "Atlantic Spotted Dolphin (Stenella frontalis)",
             "autor1": "NOAA",
-            "imagen2": "./imagenes/sala4-botes.jpg",
+            "imagen2": "./imagenes/sala4/sala4-botes.jpg",
             "alt2": "Fishing boats in La Panchita, Cuba.",
             "name2": "Fishing boats in La Panchita, Cuba."
         },
@@ -266,8 +266,8 @@
             "name1": "Palma Real, Cuba",
             "autor2": "Matias Balaguer",
             "imagen2": "./imagenes/sala4/lago-enriquillo.jpg",
-            "alt2": "Lago Enriquillo, República Dominicana.",
-            "name2": "Lago Enriquillo, República Dominicana."
+            "alt2": "Enriquillo Lake, Dominican Republic.",
+            "name2": "Enriquillo Lake, Dominican Republic."
         },
         "background": "#103A62",
         "colorText": "#FFF"

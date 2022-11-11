@@ -9,7 +9,7 @@
         "contenido": ["Nous vous invitons à visiter cette exposition photographique du CBC pour découvrir les incroyables trésors naturels des Caraïbes.",
                     "À travers les cinq salles, vous pourrez découvrir l'importance de la connectivité écologique dans les Caraïbes, notre histoire et le travail de conservation qui a été réalisé au cours des 15 années de cette initiative."],
         "info": ["15 ans de l'initiative CBC",
-                "1 common conservation agenda",
+                "1 agenda partagé de conservation",
                 "4 écosystèmes et 14 groupes d'espèces prioritaires pour la conservation ",
                 "Plus de 100 formations sur la conservation et la biodiversité organisées dans la région",
                 "Objectif de protection d'au moins 30 % des paysages marins et terrestres du CBC"
@@ -55,7 +55,7 @@
     },
 
     "section9":{
-        "cite": "“LA VISITE COMMENCE PAR L'EXPOSITION”"
+        "cite": "“Commence le voyage avec l’exhibition ”"
     },
 
 

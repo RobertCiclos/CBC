@@ -82,7 +82,7 @@
         "contenido": ["Delimitasyon aktyèl CBC a kouvri yon sipèfisi total 199 703 kilomèt kare, ki gen 40 434 kilomèt kare (20.2%) ki se zòn nwayo pou konsèvasyon ak 159 269 kilomèt kare (79.8%) ki se zòn koneksyon."],
         "subtitle": "Zòn santral pou konsèvasyon nan gen pou wè ak Koridò Byolojik nan Karayib (li gen pou sig an Franse CBC)",
         "colorSubtitle": "#103A62",
-        "imagen":  "./imagenes/sala1/mapa-areas-identificadas.jpg",
+        "imagen":  "./imagenes/cr/coreMapa.png",
         "description": ["Kat zòn ki idantifye kòm nwayo konsèvasyon nan delimitasyon Koridò Byolojik nan Karayib la, ki soti nan sistèm entegre jesyon konesas (IKMS) CBC a."],
         "background": "#FFFFFF",
         "colorText": "#181818"
@@ -166,7 +166,7 @@
                         "Fòk sa note ke 92.5% nan zòn maren an ( zòn lanmè a ) se zòn ki gen enpòtans pou koneksyon epi zòn tèrès la se 56.7%."],
         "subtitle": "Kote zòn yo konete ensanm nan gen pou wè ak Koridò Byolojik nan Karayib la (li gen pou sig an Franse CBC)",
         "colorSubtitle": "#FFFFFF",
-        "imagen":  "./imagenes/sala1/mapa-actual.jpg",
+        "imagen":  "./imagenes/cr/keyMapa.png",
         "description": ["Kat delimitasyon aktyèl koridò a, ki mete aksan sou zòn yo idantifye kòm enpòtan pou koneksyon nan Koridò Byolojik nan Karayib la, ansanm ak zòn nwayo ki enpòtan pou konsèvasyon."],
         "background": "#528641",
         "colorText": "#FFFFFF"

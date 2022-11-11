@@ -74,14 +74,14 @@
 
     "section8" : {
         "title": "Zòn aksyon CBC",
-        "subtitle": "Demarcación Original del Corredor Biológico en el Caribe (2012-2021)",
-        "subtitleNew": "Nueva Demarcación  del Corredor Biológico en el Caribe (2022)",
+        "subtitle": "Demakasyon Orijinal Koridò Byolojik nan Karayib la (2012-2021)",
+        "subtitleNew": "Nouvo Demakasyon Koridò Byolojik nan Karayib la (2022)",
         "colorSubtitle": "#FFF",
         "contenido": ["Depi lansman li an 2007, inisyativ CBC a te konsantre efò li sou lès Kiba ak lwès Ispanyola.",
                         "Nan Komite Ministè 2014 la, peyi yo te mande Sekretarya pou travay sou aktyalizasyon delimitasyon koridò a.",
                             "Nouvo delimitasyon an gen ladan kounye a zòn nwayo pou konsèvasyon ak zòn ki enpòtan pou koneksyon tout Gwo Zantiy yo, kit li sou latè, kit li nan lanmè. Zòn lanmè yo gen ladan yo pati nan lanmè teritwa yo, dlo achipelajik ak dlo ki anndan tè yo, yo gen tou zòn ekonomik eksklizif nan peyi ak teritwa ki mansyone yo."],
-        "imagen":  "./imagenes/cr/oldMapa.png",
-        "imagenNew":  "./imagenes/cr/newMapa.png",
+        "imagen":  "./imagenes/cr/oldMapa.jpg",
+        "imagenNew":  "./imagenes/cr/newMapa.jpg",
         "description": ["Kat ki montre evolisyon delimitasyon orijinal ak aktyèl Koridò Byolojik nan Karayib la."],
         "background": "#103A62",
         "colorText": "#FFF"
@@ -215,7 +215,7 @@
             "alt1": "Dofen ak tach Atlantik (Stenella frontalis)",
             "name1": "Dofen ak tach Atlantik (Stenella frontalis)",
             "autor1": "NOAA",
-            "imagen2": "./imagenes/sala4-botes.jpg",
+            "imagen2": "./imagenes/sala4/sala4-botes.jpg",
             "alt2": "Bato lapèch nan La Panchita, Cuba.",
             "name2": "Bato lapèch nan La Panchita, Cuba."
         },
@@ -266,8 +266,8 @@
             "name1": "Palmye Ròyal, Cuba",
             "autor2": "Matias Balaguer",
             "imagen2": "./imagenes/sala4/lago-enriquillo.jpg",
-            "alt2": "Lago Enriquillo, República Dominicana.",
-            "name2": "Lago Enriquillo, República Dominicana."
+            "alt2": "Lak Enriquillo, (Repiblik Dominikèn).",
+            "name2": "Lak Enriquillo, (Repiblik Dominikèn)."
         },
         "background": "#103A62",
         "colorText": "#FFF"

@@ -74,14 +74,14 @@
 
     "section8" : {
         "title": " Champ d'action du CBC ",
-        "subtitle": "Demarcación Original del Corredor Biológico en el Caribe (2012-2021)",
-        "subtitleNew": "Nueva Demarcación  del Corredor Biológico en el Caribe (2022)",
+        "subtitle": "Démarcation Originale du Corridor Biologique dans la Caraïbe (2012-2021)",
+        "subtitleNew": "Nouvelle Démarcation du Corridor Biologique dans la Caraïbe (2022)",
         "colorSubtitle": "#FFF",
         "contenido": ["Dès son lancement en 2007, l'initiative CBC a concentré ses efforts sur l'est de Cuba et l'ouest d'Hispaniola.",
                         "Lors du Comité ministériel de 2014, les pays ont chargé le Secrétariat de travailler à la mise à jour de la démarcation du corridor.",
                             "La nouvelle délimitation comprend actuellement des zones centrales de conservation et des zones importantes pour la connectivité de toutes les Grandes Antilles, tant terrestres que marines. Ces derniers comprennent des parties des mers territoriales, des eaux archipélagiques et intérieures, ainsi que des zones économiques exclusives des pays et territoires mentionnés."],
-        "imagen":  "./imagenes/fr/oldMapa.png",
-        "imagenNew":  "./imagenes/fr/newMapa.png",
+        "imagen":  "./imagenes/fr/oldMapa.jpg",
+        "imagenNew":  "./imagenes/fr/newMapa.jpg",
         "description": ["Cartes montrant l'évolution de la démarcation originale et actuelle du Corridor Biologique dans la Caraïbe."],
         "background": "#103A62",
         "colorText": "#FFF"
@@ -215,7 +215,7 @@
             "alt1": "Dauphin tacheté de l'Atlantique (Stenella frontalis)",
             "name1": "Dauphin tacheté de l'Atlantique (Stenella frontalis)",
             "autor1": "NOAA",
-            "imagen2": "./imagenes/sala4-botes.jpg",
+            "imagen2": "./imagenes/sala4/sala4-botes.jpg",
             "alt2": "Bateaux de pêche à La Panchita, Cuba.",
             "name2": "Bateaux de pêche à La Panchita, Cuba."
         },
@@ -266,8 +266,8 @@
             "name1": "Palma Real, Cuba",
             "autor2": "Matias Balaguer",
             "imagen2": "./imagenes/sala4/lago-enriquillo.jpg",
-            "alt2": "Lago Enriquillo, República Dominicana.",
-            "name2": "Lago Enriquillo, República Dominicana."
+            "alt2": "Lac Enriquillo, République Dominicaine",
+            "name2": "Lac Enriquillo, République Dominicaine"
         },
         "background": "#103A62",
         "colorText": "#FFF"
