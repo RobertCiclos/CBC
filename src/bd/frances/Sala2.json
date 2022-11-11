@@ -1,78 +1,76 @@
 {
-
-    "section1" : {
-        "img" : "./imagenes/sala2/hero-sala2-min.jpg",
+    "section1": {
+        "img": "./imagenes/sala2/hero-sala2-min.jpg",
         "title": "Espèces prioritaires pour le Corridor Biologique dans la Caraïbe ",
         "sala": "Salle 2"
     },
-
-    "section2" : {
-        "contenido": ["En raison de la grande richesse de la biodiversité du CBC, il est essentiel de mener des actions de conservation et de suivi des espèces prioritaires.",
-                        "Pour cette raison, le CBC a donné la priorité à certaines espèces, groupes d'espèces et écosystèmes représentatifs et partagés, avec des menaces identifiées, et qui sont très vulnérables au changement climatique, comme objets de conservation et d’etudes.",
-                            "Actuellement, le CBC dispose d'une liste de 138 espèces comme objets potentiels de conservation et d’études, dont certaines seront présentées dans cette salle. Cette liste est un élément clé dans le développement de la stratégie de conservation du Corridor Biologique dans la Caraïbe (CBC).",
-                                "À partir des 138 espèces, une analyse et un regroupement ont été effectués en fonction des caractéristiques biologiques, ce qui a permis d'obtenir un total de 14 espèces ou groupes d'espèces menacées qui font l'objet d'une conservation prioritaire du CBC :" ]
+    "section2": {
+        "contenido": [
+            "En raison de la grande richesse de la biodiversité du CBC, il est essentiel de mener des actions de conservation et de suivi des espèces prioritaires.",
+            "Pour cette raison, le CBC a donné la priorité à certaines espèces, groupes d'espèces et écosystèmes représentatifs et partagés, avec des menaces identifiées, et qui sont très vulnérables au changement climatique, comme objets de conservation et d’etudes.",
+            "Actuellement, le CBC dispose d'une liste de 138 espèces comme objets potentiels de conservation et d’études, dont certaines seront présentées dans cette salle. Cette liste est un élément clé dans le développement de la stratégie de conservation du Corridor Biologique dans la Caraïbe (CBC).",
+            "À partir des 138 espèces, une analyse et un regroupement ont été effectués en fonction des caractéristiques biologiques, ce qui a permis d'obtenir un total de 14 espèces ou groupes d'espèces menacées qui font l'objet d'une conservation prioritaire du CBC :"
+        ]
     },
-
-    "section3":{
+    "section3": {
         "nombre1": "Grive de Bicknell",
         "img1": "./imagenes/sala2/animales/tordo-min.png",
         "nombre2": "Diablotin",
-        "img2":"./imagenes/sala2/animales/diablotin-min.png",
+        "img2": "./imagenes/sala2/animales/diablotin-min.png",
         "nombre3": "Oiseaux rapaces (2)",
-        "img3":"./imagenes/sala2/animales/rapaces-min.png",
+        "img3": "./imagenes/sala2/animales/rapaces-min.png",
         "nombre4": "Amphibiens (100)",
-        "img4":"./imagenes/sala2/animales/anfibios-min.png",
+        "img4": "./imagenes/sala2/animales/anfibios-min.png",
         "nombre5": "Iguanes endémiques très menacés (3)",
-        "img5":"./imagenes/sala2/animales/iguanas-min.png",
+        "img5": "./imagenes/sala2/animales/iguanas-min.png",
         "nombre6": "Mammifères marins menacés (2)",
-        "img6":"./imagenes/sala2/animales/mamiferos-min.png",
+        "img6": "./imagenes/sala2/animales/mamiferos-min.png",
         "nombre7": "Solénodons (2)",
-        "img7":"./imagenes/sala2/animales/roedores-min.png",
+        "img7": "./imagenes/sala2/animales/roedores-min.png",
         "nombre8": "Rongeurs endémiques (4)",
-        "img8":"./imagenes/sala2/animales/solenodontes-min.png",
+        "img8": "./imagenes/sala2/animales/solenodontes-min.png",
         "nombre9": "Tortues de mer (4)",
-        "img9":"./imagenes/sala2/animales/tortugas-min.png",
+        "img9": "./imagenes/sala2/animales/tortugas-min.png",
         "nombre10": "Crocodiles très menacés (2)",
-        "img10":"./imagenes/sala2/animales/cocodrilos-min.png",
+        "img10": "./imagenes/sala2/animales/cocodrilos-min.png",
         "nombre11": "Coraux formant des récifs (4)",
-        "img11":"./imagenes/sala2/animales/corales-min.png",
+        "img11": "./imagenes/sala2/animales/corales-min.png",
         "nombre12": "Requins et raies (7)",
-        "img12":"./imagenes/sala2/animales/tiburones-min.png",
+        "img12": "./imagenes/sala2/animales/tiburones-min.png",
         "nombre13": "Vivaneaux et mérous (6)",
-        "img13":"./imagenes/sala2/animales/pargos-min.png",
+        "img13": "./imagenes/sala2/animales/pargos-min.png",
         "nombre14": "Anguille d'Amérique",
-        "img14":"./imagenes/sala2/angila.png"
-
+        "img14": "./imagenes/sala2/angila.png"
     },
-
-    "section5" : {
-        "img" : "./imagenes/sala2/especies-migratorias.jpg",
+    "section5": {
+        "img": "./imagenes/sala2/especies-migratorias.jpg",
         "title": "Espèces migratrices"
     },
-
-    "section6" : {
-        "indicador" : "Espèces migratrices",
-        "colorIndicador" : "#85BD70",
+    "section6": {
+        "indicador": "Espèces migratrices",
+        "colorIndicador": "#85BD70",
         "title": "La grive de Bicknell",
-        "contenido": ["C'est l'une des rares espèces de passériformes chez lesquelles les mâles aident une ou plusieurs femelles à nourrir les poussins et la paternité est partagée."],       
+        "contenido": [
+            "C'est l'une des rares espèces de passériformes chez lesquelles les mâles aident une ou plusieurs femelles à nourrir les poussins et la paternité est partagée."
+        ],
         "imagen1": "./imagenes/sala2/tordo-bicknell-min.jpg",
-        "alt1": "Grive de Bicknell (Catharus bicknelli)",        
+        "alt1": "Grive de Bicknell (Catharus bicknelli)",
         "description": "Grive de Bicknell (Catharus bicknelli)",
         "background": "#103A62",
         "colorText": "#FFFFFF"
     },
-
-    "section7" : {
-        "indicador" : "Espèces migratrices",
-        "colorIndicador" : "#103A62",
+    "section7": {
+        "indicador": "Espèces migratrices",
+        "colorIndicador": "#103A62",
         "title": "Tortue carey",
-        "contenido": ["La tortue carey est l'espèce marine la plus menacée des Caraïbes et revêt une grande importance pour la conservation au CBC. Elle est en danger critique d'extinction.",
-                        "La menace fondamentale est sa capture illégale pour le commerce de sa carapace avec laquelle sont fabriqués des objets d'artisanat. De plus, il est poursuivi pour la consommation de certaines de ses parties et de ses œufs, en raison de la croyance erronée qu'il s'agit d'un aphrodisiaque."],
+        "contenido": [
+            "La tortue carey est l'espèce marine la plus menacée des Caraïbes et revêt une grande importance pour la conservation au CBC. Elle est en danger critique d'extinction.",
+            "La menace fondamentale est sa capture illégale pour le commerce de sa carapace avec laquelle sont fabriqués des objets d'artisanat. De plus, il est poursuivi pour la consommation de certaines de ses parties et de ses œufs, en raison de la croyance erronée qu'il s'agit d'un aphrodisiaque."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala2/tortuga-carey1.jpg",
             "alt1": "Tortue carey  (Eretmochelys imbricata)",
             "name1": "Tortue carey  (Eretmochelys imbricata)",
-
             "imagen2": "./imagenes/sala2/tortuga-carey2.jpg",
             "alt2": "Sur la photo, une tortue carey (Eretmochelys imbricata) à Jardines de la Reina, Cuba.",
             "name2": "Sur la photo, une tortue carey (Eretmochelys imbricata) à Jardines de la Reina, Cuba."
@@ -80,19 +78,19 @@
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
-
-    "section8" : {
-        "indicador" : "Espèces migratrices",
-        "colorIndicador" : "#85BD70",
+    "section8": {
+        "indicador": "Espèces migratrices",
+        "colorIndicador": "#85BD70",
         "title": "Requin-baleine",
-        "contenido": ["C'est le plus grand poisson qui existe et il habite toutes les mers tropicales du monde.",
-                        "Il se distingue par ses motifs de taches qui sont uniques à chaque individu.",
-                            "Parce qu'il est très menacé par la pêche et qu'il est en voie d'extinction, la CBC l'a classé parmi les objets de conservation prioritaires."],
+        "contenido": [
+            "C'est le plus grand poisson qui existe et il habite toutes les mers tropicales du monde.",
+            "Il se distingue par ses motifs de taches qui sont uniques à chaque individu.",
+            "Parce qu'il est très menacé par la pêche et qu'il est en voie d'extinction, la CBC l'a classé parmi les objets de conservation prioritaires."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala2/tiburon-ballena1.jpg",
             "alt1": "Requin-baleine (Rhincodon typus)",
             "name1": "Requin-baleine (Rhincodon typus)",
-
             "imagen2": "./imagenes/sala2/tiburon-ballena2.jpg",
             "alt2": "Requin-baleine (Rhincodon typus)",
             "name2": "Requin-baleine (Rhincodon typus)"
@@ -100,19 +98,19 @@
         "background": "#103A62",
         "colorText": "#FFFFFF"
     },
-
-    "section9" : {
-        "indicador" : "Espèces migratrices",
-        "colorIndicador" : "#85BD70",
+    "section9": {
+        "indicador": "Espèces migratrices",
+        "colorIndicador": "#85BD70",
         "title": "Raie manta géante",
-        "contenido": ["C'est une espèce migratrice qui se nourrit de zooplancton et habite les eaux marines tropicales et subtropicales.",
-                        "C'est la plus grande raie qui existe. Son nom est dû au fait qu'elle peut mesurer 7 mètres et peser 2000 kg. Contrairement aux autres espèces de raies, celle-ci ne possède pas de dard venimeux sur sa queue.",
-                            "Elle est très menacée par la pêche pour la consommation de ses plaques branchiales, c'est pourquoi le CBC en a fait une priorité pour sa conservation."],
+        "contenido": [
+            "C'est une espèce migratrice qui se nourrit de zooplancton et habite les eaux marines tropicales et subtropicales.",
+            "C'est la plus grande raie qui existe. Son nom est dû au fait qu'elle peut mesurer 7 mètres et peser 2000 kg. Contrairement aux autres espèces de raies, celle-ci ne possède pas de dard venimeux sur sa queue.",
+            "Elle est très menacée par la pêche pour la consommation de ses plaques branchiales, c'est pourquoi le CBC en a fait une priorité pour sa conservation."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala2/manta-gigante1.jpg",
             "alt1": "Raie manta ou raie manta géante (Mobula birostris) ",
             "name1": "Raie manta ou raie manta géante (Mobula birostris) ",
-
             "imagen2": "./imagenes/sala2/manta-gigante2.jpg",
             "alt2": "Raie manta ou raie manta géante (Mobula birostris) ",
             "name2": "Raie manta ou raie manta géante (Mobula birostris) "
@@ -120,51 +118,52 @@
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
-
-    "section10" : {
-        "img" : "./imagenes/sala2/especies-endemicas.jpg",
+    "section10": {
+        "img": "./imagenes/sala2/especies-endemicas.jpg",
         "title": "Espèces endémiques"
     },
-
-    "section11" : {
-        "indicador" : "Espèces endémiques",
-        "colorIndicador" : "#85BD70",
+    "section11": {
+        "indicador": "Espèces endémiques",
+        "colorIndicador": "#85BD70",
         "title": "Solénodons",
-        "contenido": ["Depuis 60 millions d'années, ils n'ont pas présenté de modifications.",
-                        "Ce sont des mammifères nocturnes, très menacés, en danger d'extinction, que l'on trouve uniquement à Cuba et à La Hispaniola.",
-                            "Ils sont menacés par la destruction et la fragmentation de leur habitat dues à la déforestation et à l'exploitation minière et sont la proie d'animaux exotiques introduits."],       
+        "contenido": [
+            "Depuis 60 millions d'années, ils n'ont pas présenté de modifications.",
+            "Ce sont des mammifères nocturnes, très menacés, en danger d'extinction, que l'on trouve uniquement à Cuba et à La Hispaniola.",
+            "Ils sont menacés par la destruction et la fragmentation de leur habitat dues à la déforestation et à l'exploitation minière et sont la proie d'animaux exotiques introduits."
+        ],
         "imagen1": "./imagenes/sala2/solenodontes.jpg",
-        "alt1": "Solénodon d'Hispaniola (Solenodon paradoxus). Image reproduite avec l'aimable autorisation de SOH Conservation.",        
+        "alt1": "Solénodon d'Hispaniola (Solenodon paradoxus). Image reproduite avec l'aimable autorisation de SOH Conservation.",
         "description": "Solénodon d'Hispaniola (Solenodon paradoxus). Image reproduite avec l'aimable autorisation de SOH Conservation.",
         "background": "#103A62",
         "colorText": "#FFFFFF"
     },
-
-    "section13" : {
-        "indicador" : "Espèces endémiques",
-        "colorIndicador" : "#103A62",
+    "section13": {
+        "indicador": "Espèces endémiques",
+        "colorIndicador": "#103A62",
         "title": "L'iguane Ricordi",
-        "contenido": ["Il s'agit d'une espèce endémique très menacée, en danger critique d'extinction, qui vit uniquement dans le centre-sud de l'île d'Hispaniola.",
-                        "On estime qu'il reste entre 2000 et 4000 individus. Depuis 1970, la densité de l'espèce a diminué en raison de la transformation de son habitat pour l'agriculture et la production de charbon de bois. Elle est également due à la chasse, au commerce illégal, à l'extraction de calcaire et à l'introduction d'espèces exotiques."],
+        "contenido": [
+            "Il s'agit d'une espèce endémique très menacée, en danger critique d'extinction, qui vit uniquement dans le centre-sud de l'île d'Hispaniola.",
+            "On estime qu'il reste entre 2000 et 4000 individus. Depuis 1970, la densité de l'espèce a diminué en raison de la transformation de son habitat pour l'agriculture et la production de charbon de bois. Elle est également due à la chasse, au commerce illégal, à l'extraction de calcaire et à l'introduction d'espèces exotiques."
+        ],
         "imagen1": "./imagenes/sala2/iguana-ricord-min.jpg",
-        "alt1": "Iguane Ricordi (Cyclura ricordii)",        
+        "alt1": "Iguane Ricordi (Cyclura ricordii)",
         "description": "Iguane Ricordi (Cyclura ricordii)",
         "background": "#ffffff",
         "colorText": "#181818"
     },
-
-    "section14" : {
-        "indicador" : "Espèces endémiques",
-        "colorIndicador" : "#85BD70",
+    "section14": {
+        "indicador": "Espèces endémiques",
+        "colorIndicador": "#85BD70",
         "title": "Amphibiens",
-        "contenido": ["Dans les Caraïbes, 75% des espèces d'amphibiens sont en danger ou déjà éteintes. La liste des objets de conservation comprend 115 espèces.",
-                        "La plupart de ces amphibiens sont des grenouilles qui ont été affectées par la perte d'habitat, les espèces envahissantes, l'exploitation et les maladies.",
-                            "La grenouille naine de Monte Iberia est l'une des plus petites grenouilles du monde. On la trouve que dans quelques localités de Cuba."],
+        "contenido": [
+            "Dans les Caraïbes, 75% des espèces d'amphibiens sont en danger ou déjà éteintes. La liste des objets de conservation comprend 115 espèces.",
+            "La plupart de ces amphibiens sont des grenouilles qui ont été affectées par la perte d'habitat, les espèces envahissantes, l'exploitation et les maladies.",
+            "La grenouille naine de Monte Iberia est l'une des plus petites grenouilles du monde. On la trouve que dans quelques localités de Cuba."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala2/rana-rio.jpg",
             "alt1": "Grenouille de rivière (Eleutherodactylus riparius), Cuba.",
             "name1": "Grenouille de rivière (Eleutherodactylus riparius), Cuba.",
-
             "imagen2": "./imagenes/sala2/ranita-iberia.jpg",
             "alt2": "Grenouille naine de Monte Iberia (Eleutherodactylus iberia), Cuba.",
             "name2": "Grenouille naine de Monte Iberia (Eleutherodactylus iberia), Cuba."
@@ -172,39 +171,38 @@
         "background": "#103A62",
         "colorText": "#FFFFFF"
     },
-
-    
-    "section15" : {
-        "img" : "./imagenes/sala2/especies-importantes.jpg",
+    "section15": {
+        "img": "./imagenes/sala2/especies-importantes.jpg",
         "title": "Autres espèces importantes pour la conservation"
     },
-
-    "section16" : {
-        "indicador" : "Autres espèces importantes pour la conservation",
-        "colorIndicador" : "#103A62",
+    "section16": {
+        "indicador": "Autres espèces importantes pour la conservation",
+        "colorIndicador": "#103A62",
         "title": "Mérou Géant de l’Atlantique",
-        "contenido": ["Les mérous sont très menacés par la pêche en raison de la valeur de leur chair.",
-                        "Ils peuvent vivre jusqu'à 40 et 50 ans.",
-                            "Ils vivent dans une grande variété d'habitats tels que les mangroves, les récifs et les eaux profondes."],
+        "contenido": [
+            "Les mérous sont très menacés par la pêche en raison de la valeur de leur chair.",
+            "Ils peuvent vivre jusqu'à 40 et 50 ans.",
+            "Ils vivent dans une grande variété d'habitats tels que les mangroves, les récifs et les eaux profondes."
+        ],
         "imagen1": "./imagenes/sala2/mero-gigante-min.jpg",
-        "alt1": "Mérou Géant de l’Atlantique (Epinephelus itajara) à Cuba.",        
+        "alt1": "Mérou Géant de l’Atlantique (Epinephelus itajara) à Cuba.",
         "description": "Mérou Géant de l’Atlantique (Epinephelus itajara) à Cuba.",
         "background": "#ffffff",
         "colorText": "#181818"
     },
-    
-    "section17" : {
-        "indicador" : "Autres espèces importantes pour la conservation",
-        "colorIndicador" : "#85BD70",
+    "section17": {
+        "indicador": "Autres espèces importantes pour la conservation",
+        "colorIndicador": "#85BD70",
         "title": "Crocodile américain",
-        "contenido": ["C'est un reptile vulnérable à l'extinction et sa population sur Hispaniola, limitée aux lacs Enriquillo et Azuei, est en danger critique d'extinction.",
-                        "Ses plus grandes menaces sont la chasse illégale pour sa peau, la perte de son habitat en raison du développement côtier et le changement climatique.",
-                            "C'est un grand prédateur. Presque tous les animaux aquatiques ou terrestres se trouvant sur son territoire peuvent être ses proies."],
+        "contenido": [
+            "C'est un reptile vulnérable à l'extinction et sa population sur Hispaniola, limitée aux lacs Enriquillo et Azuei, est en danger critique d'extinction.",
+            "Ses plus grandes menaces sont la chasse illégale pour sa peau, la perte de son habitat en raison du développement côtier et le changement climatique.",
+            "C'est un grand prédateur. Presque tous les animaux aquatiques ou terrestres se trouvant sur son territoire peuvent être ses proies."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala2/cocodrilo-americano1.jpg",
             "alt1": "Crocodile américain (Crocodylus acutus)",
             "name1": "Crocodile américain (Crocodylus acutus)",
-
             "imagen2": "./imagenes/sala2/cocodrilo-americano2.jpg",
             "alt2": "Crocodile américain (Crocodylus acutus)",
             "name2": "Crocodile américain (Crocodylus acutus)"
@@ -212,33 +210,34 @@
         "background": "#103A62",
         "colorText": "#FFFFFF"
     },
-
-    "section19" : {
-        "indicador" : "Autres espèces importantes pour la conservation",
-        "colorIndicador" : "#103A62",
+    "section19": {
+        "indicador": "Autres espèces importantes pour la conservation",
+        "colorIndicador": "#103A62",
         "title": "Espèce très menacée : Le pétrel à tête noire",
-        "contenido": ["Un oiseau marin d'une grande zone de résidence, qui est fortement menacé.",
-                        "C'est généralement un oiseau monogame, ce qui signifie qu'une fois accouplés, ils peuvent rester ensemble pendant de nombreuses années.",
-                            "Il se nourrit de petits poissons et de calmars trouvés près de la surface de la mer."],
+        "contenido": [
+            "Un oiseau marin d'une grande zone de résidence, qui est fortement menacé.",
+            "C'est généralement un oiseau monogame, ce qui signifie qu'une fois accouplés, ils peuvent rester ensemble pendant de nombreuses années.",
+            "Il se nourrit de petits poissons et de calmars trouvés près de la surface de la mer."
+        ],
         "imagen1": "./imagenes/sala2/diablotin-min.jpg",
-        "alt1": "Le pétrel à tête noire (Pterodroma hasitata) en migration, survolant la mer de la Caraïbe.",        
+        "alt1": "Le pétrel à tête noire (Pterodroma hasitata) en migration, survolant la mer de la Caraïbe.",
         "description": "Le pétrel à tête noire (Pterodroma hasitata) en migration, survolant la mer de la Caraïbe.",
         "background": "#ffffff",
         "colorText": "#181818"
     },
-
-    "section20" : {
-        "indicador" : "Autres espèces importantes pour la conservation",
-        "colorIndicador" : "#85BD70",
+    "section20": {
+        "indicador": "Autres espèces importantes pour la conservation",
+        "colorIndicador": "#85BD70",
         "title": "Lamantin des Antilles",
-        "contenido": ["C'est un mammifère marin herbivore menacé, vulnérable à l'extinction et, dans le cas de la Caraïbe, en voie de disparition.",
-                        "Il contrôle la flottabilité et l'horizontalité de son corps grâce à la grande quantité de gaz qu'il produit lors de la digestion de la matière végétale qu'il consomme.",
-                            "Les principales menaces auxquelles il est confronté sont : la chasse illégale, la perte d'habitat, la pollution côtière, les collisions avec les bateaux et les marées rouges."],
+        "contenido": [
+            "C'est un mammifère marin herbivore menacé, vulnérable à l'extinction et, dans le cas de la Caraïbe, en voie de disparition.",
+            "Il contrôle la flottabilité et l'horizontalité de son corps grâce à la grande quantité de gaz qu'il produit lors de la digestion de la matière végétale qu'il consomme.",
+            "Les principales menaces auxquelles il est confronté sont : la chasse illégale, la perte d'habitat, la pollution côtière, les collisions avec les bateaux et les marées rouges."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala2/manati-antillano.jpg",
             "alt1": "Lamantin des Antilles (Trichecherus manatus)",
             "name1": "Lamantin des Antilles (Trichecherus manatus)",
-
             "imagen2": "./imagenes/sala2/habitad-manati.jpg",
             "alt2": "Habitat du lamantin des Antilles (Trichechus manatus) à Estero Hondo (République Dominicaine)",
             "name2": "Habitat du lamantin des Antilles (Trichechus manatus) à Estero Hondo (République Dominicaine)"
@@ -246,19 +245,19 @@
         "background": "#103A62",
         "colorText": "#FFFFFF"
     },
-
-    "section21" : {
-        "indicador" : "Autres espèces importantes pour la conservation",
-        "colorIndicador" : "#103A62",
+    "section21": {
+        "indicador": "Autres espèces importantes pour la conservation",
+        "colorIndicador": "#103A62",
         "title": "Cachalot",
-        "contenido": ["C'est une espèce considérée comme vulnérable à l'extinction.",
-                        "On la trouve dans les zones marines du monde entier, des océans aux golfes, sauf dans les zones glacées.",
-                            "Elle émett une large gamme de sons soit pour s'orienter, communiquer ou localiser ses proies."],
+        "contenido": [
+            "C'est une espèce considérée comme vulnérable à l'extinction.",
+            "On la trouve dans les zones marines du monde entier, des océans aux golfes, sauf dans les zones glacées.",
+            "Elle émett une large gamme de sons soit pour s'orienter, communiquer ou localiser ses proies."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala2/cachalote.jpg",
             "alt1": "Cachalot (Physeter macrocephalus) et sa queue particulière",
             "name1": "Cachalot (Physeter macrocephalus) et sa queue particulière",
-
             "imagen2": "./imagenes/sala2/cabeza-cachalote.jpg",
             "alt2": "Tête d'un cachalot (Physeter macrocephalus) avec une mâchoire dentée",
             "name2": "Tête d'un cachalot (Physeter macrocephalus) avec une mâchoire dentée"
@@ -266,14 +265,23 @@
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
-
-    "section22" : {
-        "indicador" : "Autres espèces importantes pour la conservation",
-        "colorIndicador" : "#85BD70",
+    "section22": {
+        "indicador": "Autres espèces importantes pour la conservation",
+        "colorIndicador": "#85BD70",
         "title": "Les coraux constructeurs de récifs",
-        "contenido": ["Les coraux constructeurs de récifs, également appelés coraux durs, jouent un rôle essentiel dans ces écosystèmes.",
-                        "Les polypes coralliens vivant en colonies sont capables d'extraire le calcium, dissous dans l'eau, et de le solidifier pour former leur squelette. Ces structures de carbonate de calcium constituent la base des récifs et abritent de nombreuses espèces qui vivent dans ces écosystèmes.",
-                            "Il existe plusieurs espèces considérées comme des espèces constructrices de récifs, notamment:"],
+        "contenido": [
+            "Les coraux constructeurs de récifs, également appelés coraux durs, jouent un rôle essentiel dans ces écosystèmes.",
+            "Les polypes coralliens vivant en colonies sont capables d'extraire le calcium, dissous dans l'eau, et de le solidifier pour former leur squelette. Ces structures de carbonate de calcium constituent la base des récifs et abritent de nombreuses espèces qui vivent dans ces écosystèmes.",
+            "Il existe plusieurs espèces considérées comme des espèces constructrices de récifs, notamment:"
+        ],
+        "lista": [
+            "Le corail corne decerf (Acropora cervicornis).",
+            "Le corail corne d’élan (Acropora palmata).",
+            "Le corail étoilé (Montastraea orbicella).",
+            "Le corail Annularis et Montastraea (Orbicella faveolata)"
+        ],
+        "contenido2": "Ceux-ci ont été classés comme prioritaires par le CBC en tant que cibles de conservation.",
+        
         "imagenes": {
             "imagen1": "./imagenes/sala2/coral-cuerno-siervo-min.jpg",
             "alt2": "Corail corne d’élan (Acropora palmata).",
@@ -285,25 +293,23 @@
         "background": "#103A62",
         "colorText": "#fff"
     },
-
-        
-    "section23" : {
-        "img" : "./imagenes/sala2/especies-interes.jpg",
+    "section23": {
+        "img": "./imagenes/sala2/especies-interes.jpg",
         "title": "Espèces d'intérêt pour le CBC"
     },
-
-    "section24" : {
-        "indicador" : "Espèces d'intérêt pour le CBC",
-        "colorIndicador" : "#103A62",
+    "section24": {
+        "indicador": "Espèces d'intérêt pour le CBC",
+        "colorIndicador": "#103A62",
         "title": "Le balbuzard pêcheur",
-        "contenido": ["Il se nourrit principalement de poissons (99 % de son alimentation), ce qui explique qu'il habite surtout les zones proches des plans d'eau.",
-                        "La migration de l'espèce est étudiée par le CBC, et elle est considérée comme peu menacée à l’extinction.",
-                            "Il a souffert de la chasse, notamment sur ses sites d'hivernage, où les oiseaux juvéniles sont plus susceptibles d'être chassés, et également lorsqu'il séjourne à proximité de fermes piscicoles."],
+        "contenido": [
+            "Il se nourrit principalement de poissons (99 % de son alimentation), ce qui explique qu'il habite surtout les zones proches des plans d'eau.",
+            "La migration de l'espèce est étudiée par le CBC, et elle est considérée comme peu menacée à l’extinction.",
+            "Il a souffert de la chasse, notamment sur ses sites d'hivernage, où les oiseaux juvéniles sont plus susceptibles d'être chassés, et également lorsqu'il séjourne à proximité de fermes piscicoles."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala2/anidacion-aguila.jpg",
             "alt1": "Nidification du balbuzard pêcheur (Pandion halietus)",
             "name1": "Nidification du balbuzard pêcheur (Pandion halietus)",
-
             "imagen2": "./imagenes/sala2/aguila-pescadora.jpg",
             "alt2": "Balbuzard pêcheur (Pandion halietus)",
             "name2": "Balbuzard pêcheur (Pandion halietus)"
@@ -311,19 +317,19 @@
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
-
-    "section26" : {
-        "indicador" : "Espèces d'intérêt pour le CBC",
-        "colorIndicador" : "#85BD70",
+    "section26": {
+        "indicador": "Espèces d'intérêt pour le CBC",
+        "colorIndicador": "#85BD70",
         "title": "Les oiseaux passériformes",
-        "contenido": ["Les passériformes comporte 60% d’espèces d’oiseaux du monde et beaucoup d’entre eux sont migrateurs, comme le Passerin Indigo (Passerina cyanea), le Passerin Nonpareil (Passerina cyris), et de nombreauses espèces de Setophaga (Setophaga sp.).",
-                        "Pendant leurs migrations ils forment des groups qui peuvent occuper plus de 100 km pour traverser des territoires déterminés comme les migrations à travers le Détroit de Floride.",
-                            "À cause de leur importance dans la connectivité écologique, ceux espèces sont sujets d’observation par le CBC. Deux fois par an, les équipes de travail du CBC et autres partenaires sur le terrain, de Cuba et de la République Dominicaine, font des observations sur les migrations hivernales et printanières de nombreuses espèces de cet important groupe d’oiseaux."],
+        "contenido": [
+            "Les passériformes comporte 60% d’espèces d’oiseaux du monde et beaucoup d’entre eux sont migrateurs, comme le Passerin Indigo (Passerina cyanea), le Passerin Nonpareil (Passerina cyris), et de nombreauses espèces de Setophaga (Setophaga sp.).",
+            "Pendant leurs migrations ils forment des groups qui peuvent occuper plus de 100 km pour traverser des territoires déterminés comme les migrations à travers le Détroit de Floride.",
+            "À cause de leur importance dans la connectivité écologique, ceux espèces sont sujets d’observation par le CBC. Deux fois par an, les équipes de travail du CBC et autres partenaires sur le terrain, de Cuba et de la République Dominicaine, font des observations sur les migrations hivernales et printanières de nombreuses espèces de cet important groupe d’oiseaux."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala2/candelita-nortena.jpg",
             "alt1": "Paruline flamboyante (Setophaga ruticilla)",
             "name1": "Paruline flamboyante (Setophaga ruticilla)",
-
             "imagen2": "./imagenes/sala2/chipe-garganta.jpg",
             "alt2": "Paruline à gorge jaune (Setophaga dominica)",
             "name2": "Paruline à gorge jaune (Setophaga dominica)"
@@ -331,19 +337,19 @@
         "background": "#103A62",
         "colorText": "#FFFFFF"
     },
-
-    "section27" : {
-        "indicador" : "Espèces d'intérêt pour le CBC",
-        "colorIndicador" : "#103A62",
+    "section27": {
+        "indicador": "Espèces d'intérêt pour le CBC",
+        "colorIndicador": "#103A62",
         "title": "Baleine à bosse",
-        "contenido": ["La baleine à bosse est présente dans tous les océans du monde et est un indicateur de connectivité.",
-                        "Elle peut mesurer jusqu'à 19 mètres de long.",
-                            "Elle était autrefois très menacée par la chasse, mais depuis que des interdictions de chasse ont été mises en place, les populations sont en augmentation."],
+        "contenido": [
+            "La baleine à bosse est présente dans tous les océans du monde et est un indicateur de connectivité.",
+            "Elle peut mesurer jusqu'à 19 mètres de long.",
+            "Elle était autrefois très menacée par la chasse, mais depuis que des interdictions de chasse ont été mises en place, les populations sont en augmentation."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala2/ballena-jorobada.jpg",
             "alt1": "Baleine à bosse (Megaptera novaeangliae).",
             "name1": "Baleine à bosse (Megaptera novaeangliae).",
-
             "imagen2": "./imagenes/sala2/bahia-samana.jpg",
             "alt2": "Bahía de Samaná (République Dominicaine), port d'embarquement pour l'observation réglementée des baleines.",
             "name2": "Bahía de Samaná (République Dominicaine), port d'embarquement pour l'observation réglementée des baleines."
@@ -351,19 +357,19 @@
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
-
-    "section28" : {
-        "indicador" : "Espèces d'intérêt pour le CBC",
-        "colorIndicador" : "#85BD70",
+    "section28": {
+        "indicador": "Espèces d'intérêt pour le CBC",
+        "colorIndicador": "#85BD70",
         "title": "Poisson perroquet",
-        "contenido": ["Les poissons-perroquets sont abondants dans les récifs tropicaux du monde entier.",
-                        "80 espèces différentes de poissons-perroquets de tailles, de couleurs et de motifs différents ont été identifiées.",
-                            "L'une de ses caractéristiques les plus particulières est qu'il peut changer de sexe à plusieurs reprises au cours de sa vie."],
+        "contenido": [
+            "Les poissons-perroquets sont abondants dans les récifs tropicaux du monde entier.",
+            "80 espèces différentes de poissons-perroquets de tailles, de couleurs et de motifs différents ont été identifiées.",
+            "L'une de ses caractéristiques les plus particulières est qu'il peut changer de sexe à plusieurs reprises au cours de sa vie."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala2/pez-loro1.jpg",
             "alt1": "Poisson-perroquet (Sparisoma viride) dans les récifs coralliens des Grandes Antilles",
             "name1": "Poisson-perroquet (Sparisoma viride) dans les récifs coralliens des Grandes Antilles",
-
             "imagen2": "./imagenes/sala2/pez-loro2.jpg",
             "alt2": "Poisson-perroquet (Sparisoma viride) dans les récifs coralliens des Grandes Antilles",
             "name2": "Poisson-perroquet (Sparisoma viride) dans les récifs coralliens des Grandes Antilles"
@@ -371,30 +377,28 @@
         "background": "#103A62",
         "colorText": "#FFFFFF"
     },
-
-    "section29" : {
+    "section29": {
         "img": "./imagenes/sala2/agrupaciones-corales.jpg",
         "description": "Groupes de coraux durs et mous aux Cayemites, Haïti"
     },
-
-    "section30" : {
+    "section30": {
         "contenido": "Dans la prochaine salle vous trouveres plus d'informations sur certains des écosystèmes dont la conservation est prioritaire dans le cadre du CBC.",
         "backLink": "/Sala1",
         "nextLink": "/Sala3"
     },
-
     "footer": {
         "title": "“CBC est Nature”",
         "subtitle": "Institutions associées ",
-        "instituciones": ["Ministère des sciences, de la technologie et de l'environnement de la République de Cuba",
-                        "Ministère de l'environnement de la République d'Haïti ",
-                        "inistère de l'environnement et des ressources naturelles de la République Dominicaine",
-                        "Ministère de la croissance économique et de la création d'emplois de la Jamaïque (MEGJC)",
-                        "Ministère des ressources naturelles et environnementales du gouvernement de Porto Rico ",
-                        "Programme des Nations Unies pour l'Environnement (PNUE)",
-                        "Union Européenne (UE)"],
+        "instituciones": [
+            "Ministère des sciences, de la technologie et de l'environnement de la République de Cuba",
+            "Ministère de l'environnement de la République d'Haïti ",
+            "inistère de l'environnement et des ressources naturelles de la République Dominicaine",
+            "Ministère de la croissance économique et de la création d'emplois de la Jamaïque (MEGJC)",
+            "Ministère des ressources naturelles et environnementales du gouvernement de Porto Rico ",
+            "Programme des Nations Unies pour l'Environnement (PNUE)",
+            "Union Européenne (UE)"
+        ],
         "descript": "Tous droits réservés - 2022  ",
-        "design": "Design by CICLOS STUDIO"    
+        "design": "Design by CICLOS STUDIO"
     }
-
 }
