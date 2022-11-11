@@ -264,6 +264,12 @@ const Footer = () => {
           <i className='flex items-center gap-[24px] justify-center md:justify-self-end'>
             <a
               className='cursor-pointer'
+              href='https://cbcbio.org' 
+              target="_blank" >
+              <img src='/svg/cbc.svg' alt='CBC'/>
+            </a>
+            <a
+              className='cursor-pointer'
               href='https://www.youtube.com/channel/UCVJpq9oOUMPzSOUVmtlrXaQ' 
               target="_blank" >
               <img src='/svg/youtube.svg' alt='Youtube'/>
