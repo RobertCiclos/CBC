@@ -14,8 +14,9 @@
         "Sal 3",
         "Sal 4",
         "Sal 5",
-        "Paj prensipa"
+        "Paj prensipa",
+        "Paj Prensipa"
     ],
-    "return": "Return Home ",
-    "next": "Previous Room"
+    "return": "Sal Anvan An ",
+    "next": "Sal Aprè A"
 }

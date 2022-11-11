@@ -456,7 +456,7 @@ const Home = () => {
           py-[56px] md:py-[88px] lg:py-[104px]'>
           <Link to="/Sala1"
             style={styleNavRow}
-            className=' w-[200px]
+            className=' w-[240px]
             mx-auto sm:w-[300px] md:w-[330px] lg:w-[400px]'>
             <span className='sm:text-right font-bold text-[20px] uppercase sm:text-[24px]' >
               {data.section9.cite}

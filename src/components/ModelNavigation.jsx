@@ -48,7 +48,11 @@ const ModelNavigation = (props) => {
                             alt="Flecha Izquierda"
                             className="" />
                         <span className='text-left' >
-                            {general.return}
+                            {props.sala1 ?
+                                general.salas[6]
+                                :
+                                general.return
+                            }
                         </span>
                     </Link>
                     <Link to={props.nextLink}
@@ -57,11 +61,15 @@ const ModelNavigation = (props) => {
                         sm:flex sm:justify-end 
                         sm:w-[250px] lg:w-[350px]'>
                         <span className='text-right' >
-                            {general.next}
+                            {props.sala5 ?
+                                general.salas[6]
+                                :
+                                general.next
+                            }
                         </span>
                         <img
                             src="./svg/arrowRight.svg"
-                            alt=""
+                            alt="arrow"
                             className="" />
                     </Link>
                 </div>

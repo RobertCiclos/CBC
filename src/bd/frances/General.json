@@ -14,8 +14,9 @@
         "Salle 3",
         "Salle 4",
         "Salle 5",
-        "Page principale"
+        "Page principale",
+        "Page Principale"
     ],
-    "return": "Return Home ",
-    "next": "Previous Room"
+    "return": "Previous Room",
+    "next": "Next Room"
 }
