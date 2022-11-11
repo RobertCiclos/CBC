@@ -18,13 +18,11 @@
         "alt1": "Firma de la declaración de Santo Domingo",        
         "description": "Firma de la declaración de Santo Domingo",
         "background": "#103A62",
-        "colorText": "#FFF"
+        "colorText": "#FFF",
+        "sub": "Declaración de Santo Domingo Firmada",
+        "see" : "Ver declaración"
     },
 
-    "sectionPDF" : {
-        "title": "Declaración de Santo Domingo Firmada",
-        "contenido" : "Ver declaración"
-    },
 
     "section5" : {
         "title": "MISIÓN",
@@ -309,8 +307,13 @@
         "title": "“El CBC es Cooperación”",
         "subtitle": "Instituciones que participan",
         "instituciones": ["Ministerio de Ciencia, Tecnología y Medio Ambiente de la República de Cuba",
-                        "Ministerio de Medio Ambiente de Haití","Ministerio de Medio Ambiente y Recursos Naturales de República Dominicana",
-                        "Unión Europea","PNUMA","Naciones Unidas en Cuba","Naciones Unidas en Haití","Naciones Unidas en República Dominicana",
-                        "Portal del Medio Ambiente de Cuba","BIOECO","CEDAF"]        
+                        "Ministerio de Medio Ambiente de Haití",
+                        "Ministerio de Medio Ambiente y Recursos Naturales de República Dominicana",
+                        "Ministry of Economic Growth and Job Creation of Jamaica (MEGJC)",
+                        "Departamento de Recursos Naturales y Ambientales del Gobierno de Puerto Rico",
+                        "PNUMA",
+                        "Unión Europea"] ,
+        "descript": "Todos los derechos reservados  -  2022",
+        "design": "Diseñado por Ciclos Studio"        
     }
 }

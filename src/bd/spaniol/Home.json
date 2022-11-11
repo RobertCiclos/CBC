@@ -65,11 +65,12 @@
                     "© 2020, Centro de Información y Gestión Tecnológica de Santiago de Cuba, MEGACEN."],
         "subtitle": "Instituciones relacionadas",
         "instituciones": ["Ministerio de Ciencia, Tecnología y Medio Ambiente de la República de Cuba",
+                        "Ministerio de Medio Ambiente de Haití",
                         "Ministerio de Medio Ambiente y Recursos Naturales de República Dominicana",
-                        "Departamento de Recursos Naturales y Ambientales del Gobierno de Puerto Rico"
-                        ,"Ministerio de Medio Ambiente de Haití","Ministry of Economic Growth and Job Creation of Jamaica (MEGJC)",
-                        "Unión Europea",
-                        "PNUMA"] ,
+                        "Ministry of Economic Growth and Job Creation of Jamaica (MEGJC)",
+                        "Departamento de Recursos Naturales y Ambientales del Gobierno de Puerto Rico",
+                        "PNUMA",
+                        "Unión Europea"] ,
         "descript": "Todos los derechos reservados  -  2022",
         "design": "Diseñado por Ciclos Studio"      
     }

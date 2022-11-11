@@ -65,12 +65,12 @@
                     "© 2020, Centro de Información y Gestión Tecnológica de Santiago de Cuba, MEGACEN."],
         "subtitle": "Associated Institutions",
         "instituciones": ["Ministry of Science, technology and the Environment of the Republic of Cuba",
-                        "Ministry of the Environment and Natural Resources of the Dominican Republic",
-                        "Department of Natural and Environmental Resources of the Government of Puerto Rico",
                         "Ministry of the Environment of Haiti",
+                        "Ministry of the Environment and Natural Resources of the Dominican Republic",
                         "Ministry of Economic Growth and Job Creation of Jamaica (MEGJC)",
-                        "European Union (EU)",
-                        "United Nations Environment Programme (UNEP)"],
+                        "Department of Natural and Environmental Resources of the Government of Puerto Rico",
+                        "United Nations Environment Programme (UNEP)",
+                        "European Union (EU)"],
         "descript": "All rights reserved – 2022",
         "design": "Design by CICLOS STUDIO"    
     }

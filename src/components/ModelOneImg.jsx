@@ -58,8 +58,29 @@ const ModelOneImg = (props) => {
             <cite>{props.description}</cite>
             {
                props.download &&
-               <div className='w-full h-[60px] bg-red-600'>
-
+               <div 
+                  className='flex w-full bg-white justify-center items-center
+                  gap-[18px] py-[16px]
+                  sm:gap-[24px] md:py-[24px]
+                  md:gap-[36px]
+                  lg:gap-[59px]'>
+                  <img 
+                     src='imagenes/sala4/pdf-logo.png'
+                     alt='PDF'
+                     className='w-[28px] sm:w-[72px] md:w-[80px]'>
+                  </img>
+                  <div className='grid'>
+                     <p 
+                        className='font-Public font-bold text-[#181818]
+                        text-[12px] sm:text-[20px] md:text-[26px] lg:text-[32px]'> 
+                        {props.sub}
+                     </p>
+                     <p 
+                        className='text-[#103A62] underline
+                        text-[8px] sm:text-[16px]'> 
+                        {props.see}
+                     </p>
+                  </div>
                </div>
             }
          </div>

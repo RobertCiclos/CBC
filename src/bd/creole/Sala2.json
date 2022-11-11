@@ -387,12 +387,12 @@
         "title": "“CBC se Lanati”",
         "subtitle": "Enstitisyon ki asosye",
         "instituciones": ["Ministè Syans, Teknoloji ak Anviwònman Repiblik Kiba",
+                        "Ministè Anviwònman Repiblik Dayiti",
                         "Ministè anviwònman ak resous natirèl Repiblik Dominikèn",
-                        "Ministè resous natirèl ak anivironman gouvènman Pòtorico"
-                        ,"Ministè Anviwònman Repiblik Dayiti",
                         "Ministè kwasans ekonomik ak Kreyasyon anplwa peyi Jamayik (MEGJC) (ministè kap kreye travay pou ekomi an ka grandi)",
-                        "Inyon Ewopeyen (ki gen sig angle EU)",
-                        "Pwogram Nasyonzini pou Anviwònman (ki gen sig angle UNEP)"],
+                        "Ministè resous natirèl ak anivironman gouvènman Pòtorico",
+                        "Pwogram Nasyonzini pou Anviwònman (ki gen sig angle UNEP)",
+                        "Inyon Ewopeyen (ki gen sig angle EU)"],
         "descript": "Tout sa yo dwe sere - 2022",
         "design": "Design by CICLOS STUDIO"    
     }
