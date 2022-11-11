@@ -40,7 +40,7 @@
         "nombre13": "Pargos y meros (6)",
         "img13": "./imagenes/sala2/animales/pargos-min.png",
         "nombre14": "Anguila americana",
-        "img14": "./imagenes/sala2/animales/anguila.jpg"
+        "img14": "./imagenes/sala2/angila.png"
     },
     "section5": {
         "img": "./imagenes/sala2/especies-migratorias.jpg",
@@ -274,6 +274,10 @@
             "Los pólipos de coral que viven en colonias, son capaces de extraer calcio disuelto en el agua y de solidificarlo para formar su esqueleto. Estas estructuras de carbonato de calcio forman la base de los arrecifes, convirtiéndose en hogar para muchas de las especies que habitan en estos ecosistemas.",
             "Existen varias especies consideradas formadoras de arrecife, entre las cuales están:"
         ],
+        "lista": ["El Coral cuerno siervo (Acropora cervicornis).",
+                "El Coral cuerno de alce (Acropora palmata).",
+                "El Coral estrella montañoso  (Montastraea orbicella).",
+                "El Coral Annularis y Montastraea (Orbicella faveolata) (estas han sido priorizadas por el CBC como objetos de conservación)."],
         "imagenes": {
             "imagen1": "./imagenes/sala2/coral-cuerno-siervo-min.jpg",
             "alt1": "Coral cuerno siervo (Acropora cervicornis)",
