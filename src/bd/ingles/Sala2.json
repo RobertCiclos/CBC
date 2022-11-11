@@ -270,17 +270,17 @@
     "section22" : {
         "indicador" : "Other species of importance for conservation",
         "colorIndicador" : "#85BD70",
-        "title": "Les coraux constructeurs de récifs",
-        "contenido": ["Les coraux constructeurs de récifs, également appelés coraux durs, jouent un rôle essentiel dans ces écosystèmes.",
-                        "Les polypes coralliens vivant en colonies sont capables d'extraire le calcium, dissous dans l'eau, et de le solidifier pour former leur squelette. Ces structures de carbonate de calcium constituent la base des récifs et abritent de nombreuses espèces qui vivent dans ces écosystèmes.",
-                            "Il existe plusieurs espèces considérées comme des espèces constructrices de récifs, notamment:"],
+        "title": "REEF-BUILDING CORALS",
+        "contenido": ["Reef-building corals also known as hard corals play a key role in these ecosystems.",
+                        "Coral polyps that live in colonies, extract calcium dissolved in the water and solidify it to form their skeleton. These calcium carbonate structures form the foundation of reefs, home to many of the species that inhabit these ecosystems. ",
+                            "There are several species that are considered reef-building corals,  among them:"],
         "imagenes": {
             "imagen1": "./imagenes/sala2/coral-cuerno-siervo-min.jpg",
-            "alt2": "Corail corne d’élan (Acropora palmata).",
-            "name2": "Corail corne d’élan (Acropora palmata).",
+            "alt2": "Elkhorn coral (Acropora palmata).",
+            "name2": "Elkhorn coral (Acropora palmata).",
             "imagen2": "./imagenes/sala2/coral-cuerno-alce-min.jpg",
-            "alt1": "Corail corne de cerf (Acropora cervicornis)",
-            "name1": "Corail corne de cerf (Acropora cervicornis)"
+            "alt1": "Staghorn coral (Acropora cervicornis)",
+            "name1": "Staghorn coral (Acropora cervicornis)"
         },
         "background": "#103A62",
         "colorText": "#fff"

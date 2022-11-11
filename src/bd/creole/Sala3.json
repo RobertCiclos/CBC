@@ -47,12 +47,12 @@
                         "Espès tankou pwason resif, kristase, ak koray kale ze yo epi lage yo pou yo pote yo pa kouran oseyan yo nan zòn kote lav yo ka etabli, manje, grandi pou vin jèn, epi rive nan laj pou rpeplei."],
         "imagenes": {
             "imagen1": "./imagenes/sala3/pez-mariposa.jpg",
-            "alt1": "Pez mariposa bandado (Chaetodon striatus) en arrecife de coral, Cuba.",
-            "name1": "Pez mariposa bandado (Chaetodon striatus) en arrecife de coral, Cuba.",
+            "alt1": "Pwason papiyon trase (Chaetodon striatus) sou yon resif koray, Kiba.",
+            "name1": "Pwason papiyon trase (Chaetodon striatus) sou yon resif koray, Kiba.",
 
             "imagen2": "./imagenes/sala3/alevinimg.jpg",
-            "alt2": "Alevín en pólipo de coral.",
-            "name2": "Alevín en pólipo de coral."
+            "alt2": "Ti pwason nan yon polip koray",
+            "name2": "Ti pwason nan yon polip koray"
         },
         "background": "#528641",
         "colorText": "#FFFFFF"
