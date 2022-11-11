@@ -153,7 +153,6 @@
             "imagen1": "./imagenes/sala4/secretaria-actividades.jpg",
             "alt1": "Sekretarya CBC nan aktivite swivi sou teren",
             "name1": "Sekretarya CBC nan aktivite swivi sou teren",
-            "autor1": "Alejandro Balaguer",
             "imagen2": "./imagenes/sala4/secretaria-haciendo.jpg",
             "alt2": "Sekretarya CBC a kap pran foto nan yon forè pen nan Pelempito, Repiblik Dominikèn (nan peyi panyòl)",
             "name2": "Sekretarya CBC a kap pran foto nan yon forè pen nan Pelempito, Repiblik Dominikèn (nan peyi panyòl)"
@@ -230,7 +229,6 @@
             "imagen1": "./imagenes/sala4/laguna-oviedo.jpg",
             "alt1": "Laguna de Oviedo, pak nasyonal Jaragua, Repiblik Dominikèn (nan peyi panyòl)",
             "name1": "Laguna de Oviedo, pak nasyonal Jaragua, Repiblik Dominikèn (nan peyi panyòl)",
-            "autor1": "Alejandro Balaguer",
             "imagen2": "./imagenes/sala4/seminario-fortalecimiento.jpg",
             "alt2": "Seminè ranfòsman kapasite gid ekotourism yo nan Laguna de Oviedo",
             "name2": "Seminè ranfòsman kapasite gid ekotourism yo nan Laguna de Oviedo"
@@ -246,7 +244,6 @@
             "imagen1": "./imagenes/sala4/trabajo-monitoreo.jpg",
             "alt1": "Travay etid ekosistèm yo",
             "name1": "Travay etid ekosistèm yo",
-            "autor1": "Alejandro Maimone",
             "autor2": "Alejandro Maimone",
             "imagen2": "./imagenes/sala4/trabajo-apicultura.jpg",
             "alt2": "Travay apikilti an Ayiti",
@@ -264,7 +261,6 @@
             "imagen1": "./imagenes/sala4/palma-real.jpg",
             "alt1": "Palmye Ròyal, Cuba",
             "name1": "Palmye Ròyal, Cuba",
-            "autor2": "Matias Balaguer",
             "imagen2": "./imagenes/sala4/lago-enriquillo.jpg",
             "alt2": "Lak Enriquillo, (Repiblik Dominikèn).",
             "name2": "Lak Enriquillo, (Repiblik Dominikèn)."
@@ -292,7 +288,6 @@
 
     "section22" : {
         "img": "./imagenes/sala4/velero-sala4.jpg",
-        "autor1": "Alejandro Balaguer",
         "description": "Bato vwalye, Les Cayes, Haïti"
     },
 

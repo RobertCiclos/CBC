@@ -34,9 +34,7 @@
 
             "imagen2": "./imagenes/sala1/isla-cabritos.jpg",
             "alt2": "Isla Cabritos, Lago Enriquillo, Dominican Republic.",
-            "name2": "Isla Cabritos, Lago Enriquillo, Dominican Republic.",
-            "autor1": "Alejandro Balaguer",
-            "autor2": "Rodrigo Balaguer"
+            "name2": "Isla Cabritos, Lago Enriquillo, Dominican Republic."
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
@@ -49,8 +47,7 @@
         "alt1": "Caribbean mangrove ecosystem, a nursery for fish and invertebrates.",
         "description": "Caribbean mangrove ecosystem, a nursery for fish and invertebrates.",
         "background": "#528641",
-        "colorText": "#FFFFFF",
-        "autor1": "Matias Balaguer"
+        "colorText": "#FFFFFF"
     },
 
     "section7" : {
@@ -120,9 +117,7 @@
 
             "imagen2": "./imagenes/sala1/manglares-montecristi2.jpg",
             "alt2": "Mangroves in Montecristi are connected with coral reefs in the Dominican Republic",
-            "name2": "Mangroves in Montecristi are connected with coral reefs in the Dominican Republic",
-            "autor1": "Rodrigo Balaguer",
-            "autor2": "Matias Balaguer"
+            "name2": "Mangroves in Montecristi are connected with coral reefs in the Dominican Republic"
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
@@ -186,9 +181,7 @@
 
             "imagen2": "./imagenes/sala1/suelos-degradados.jpg",
             "alt2": "Degraded soils",
-            "name2": "Degraded soils",
-            "autor1": "Matias Balaguer",
-            "autor2": "Rodrigo Balaguer"
+            "name2": "Degraded soils"
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
@@ -222,8 +215,7 @@
 
             "imagen2": "./imagenes/sala1/peces-cirujano.jpg",
             "alt2": "Surgeonfish on coral reefs of La Hispaniola",
-            "name2": "Surgeonfish on coral reefs of La Hispaniola",
-            "autor2": "Matias Balaguer"
+            "name2": "Surgeonfish on coral reefs of La Hispaniola"
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
@@ -257,9 +249,7 @@
 
             "imagen2": "./imagenes/sala1/cultivos-cafe2.jpg",
             "alt2": "Coffee crops in agroforestry nursery in Pic Macayá, Haití",
-            "name2": "Coffee crops in agroforestry nursery in Pic Macayá, Haití",
-            "autor1": "Alejandro Balaguer",
-            "autor2": "Alejandro Balaguer"
+            "name2": "Coffee crops in agroforestry nursery in Pic Macayá, Haití"
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
@@ -277,8 +267,7 @@
             "imagen2": "./imagenes/sala1/apicultura-cosecha2.jpg",
             "alt2": "Beekeeping and coffee bean harvesting, sustainable productive activities in the Caribbean.",
             "name2": "Beekeeping and coffee bean harvesting, sustainable productive activities in the Caribbean.",
-            "autor1": "Alejandro Maimone",
-            "autor2": "Alejandro Balaguer"
+            "autor1": "Alejandro Maimone"
         },
         "background": "#528641",
         "colorText": "#FFFFFF"
@@ -286,7 +275,7 @@
 
     "section21" : {
         "img": "./imagenes/sala1/barcosala1.jpg",
-        "autor1": "Matias Balaguer",
+    
         "description": "Artisanal fishermen in the coral reef barrier, Les Cayemites, Haiti."
     },
 

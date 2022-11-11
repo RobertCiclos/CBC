@@ -20,7 +20,7 @@
     }
 
     h4 {
-        @apply font-[700] font-Public text-[20px] leading-[39.68px] text-left
+        @apply font-[700] font-Public text-[20px] leading-[28px] text-left
         sm:text-[34px] sm:leading-[40px]
         md:text-[40px] md:leading-[55px]
         lg:text-[40px] lg:leading-[54px]

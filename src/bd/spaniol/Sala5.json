@@ -23,7 +23,6 @@
             "imagen1": "./imagenes/sala5/reservacuchillas1.jpg",
             "alt1": "Pic Macayá, Haití.",
             "name1": "Pic Macayá, Haití.",
-            "autor1": "Matias Balaguer",
             "imagen2": "./imagenes/sala5/reservacuchillas3.jpg",
             "alt2": "Reserva de la Biósfera Cuchillas del Toa, Cuba.",
             "name2": "Reserva de la Biósfera Cuchillas del Toa, Cuba."
@@ -85,8 +84,6 @@
             "imagen1": "./imagenes/sala5/barreradecoral.jpg",
             "alt1": "Barrera de Coral, Ille a Vache, Haití.",
             "name1": "Barrera de Coral, Ille a Vache, Haití.",
-            "autor1": "Matias Balaguer",
-            "autor2": "Matias Balaguer",
             "imagen2": "./imagenes/sala5/barreradecoral2.jpg",
             "alt2": "Barrera de Coral, Ille a Vache, Haití.",
             "name2": "Barrera de Coral, Ille a Vache, Haití."
@@ -103,7 +100,6 @@
             "imagen1": "./imagenes/sala5/tortugacarey.jpg",
             "alt1": "Monitoreo de tortuga carey.",
             "name1": "Monitoreo de tortuga carey.",
-            "autor1": "Alejandro Balaguer",
             "imagen2": "./imagenes/sala5/instalaciondered.jpg",
             "alt2": "Instalación de red para el monitoreo de Aves.",
             "name2": "Instalación de red para el monitoreo de Aves."
@@ -163,7 +159,6 @@
             "imagen1": "./imagenes/sala5/trabajodecampo.jpg",
             "alt1": "Trabajo de campo en monitoreo.",
             "name1": "Trabajo de campo en monitoreo.",
-            "autor2": "Alejandro Balaguer",
             "imagen2": "./imagenes/sala5/trabajodecampo2.jpg",
             "alt2": "Trabajo de campo en monitoreo.",
             "name2": "Trabajo de campo en monitoreo."
@@ -189,7 +184,6 @@
             "imagen1": "./imagenes/sala5/vivero.jpg",
             "alt1": "Vivero, Pic Macayá, Haiti.",
             "name1": "Vivero, Pic Macayá, Haiti.",
-            "autor1": "Alejandro Balaguer",
             "imagen2": "./imagenes/sala5/entregadesemillas.jpg",
             "alt2": "Entrega de semillas a mujeres cabeza de familia para establecer huertos familiares.",
             "name2": "Entrega de semillas a mujeres cabeza de familia para establecer huertos familiares."
@@ -221,8 +215,7 @@
             "imagen1": "./imagenes/sala5/cajasAbeja.jpg",
             "alt1": "Cajas usadas para el trabajo de apicultura.",
             "name1": "Cajas usadas para el trabajo de apicultura..",
-            "autor1": "Alejandro Balaguer",
-            "autor2": "Matias Balague",
+            "autor1": "Alejandro Maimone",
             "imagen2": "./imagenes/sala5/abeja2.jpg",
             "alt2": "Abeja visitando una flor en un bosque seco en República Dominicana.",
             "name2": "Abeja visitando una flor en un bosque seco en República Dominicana."
@@ -240,8 +233,6 @@
             "imagen1": "./imagenes/sala5/miembrosdelacomun.jpg",
             "alt1": "Semillas de café, Haití.",
             "name1": "Semillas de café, Haití.",
-            "autor1": "Alejandro Balaguer",
-            "autor2": "Alejandro Balaguer",
             "imagen2": "./imagenes/sala5/miembrosdelacomun2.jpg",
             "alt2": "Semillas de café, Haití.",
             "name2": "Semillas de café, Haití."
@@ -271,7 +262,6 @@
             "imagen1": "./imagenes/sala5/miembrosdelacomun.jpg",
             "alt1": "Miembros de la comunidad preparando pacas de pasto marino para alimentar manatíes.",
             "name1": "Miembros de la comunidad preparando pacas de pasto marino para alimentar manatíes.",
-
             "imagen2": "./imagenes/sala5/miembrosdelacomun2.jpg",
             "alt2": "Miembro de la comunidad alimentando manatíes.",
             "name2": "Miembro de la comunidad alimentando manatíes."
@@ -288,8 +278,6 @@
             "imagen1": "./imagenes/sala5/pescador.jpg",
             "alt1": "Pescador artesanal en la costa sudoeste de Haití.",
             "name1": "Pescador artesanal en la costa sudoeste de Haití.",
-            "autor1": "Alejandro Balaguer",
-            "autor2": "Matias Balaguer",
             "imagen2": "./imagenes/sala5/cardumen.jpg",
             "alt2": "Cardumen de pez cirujano rayado (Acanthurus chirurgus).",
             "name2": "Cardumen de pez cirujano rayado (Acanthurus chirurgus)."
@@ -304,7 +292,6 @@
                     "La aplicación de soluciones basadas en la naturaleza hacen parte de las estrategias para hacer frente al cambio climático. Entre ellas se incluyen acciones de restauración de ecosistemas, manejo y gestión integrada de cuencas y el fortalecimiento de áreas protegidas."],
         "imagen1": "./imagenes/sala5/coralcerebro.jpg",
         "alt1": "Coral cerebro, Mar Caribe.", 
-        "autor1": "Matias Balaguer",
         "description": "Coral cerebro, Mar Caribe.",
         "background": "#fff",
         "colorText": "#181818"
@@ -362,7 +349,6 @@
             "imagen1": "./imagenes/sala5/municipoguama.jpg",
             "alt1": "Municipio Guamá, al sur de la Sierra Maestra en Cuba.",
             "name1": "Municipio Guamá, al sur de la Sierra Maestra en Cuba.",
-            "autor2": "Alejandro Balaguer",
             "imagen2": "./imagenes/sala5/ecosistemacostero.jpg",
             "alt2": "Ecosistemas costeros en Costa Este, playa cercana a Samaná.",
             "name2": "Ecosistemas costeros en Costa Este, playa cercana a Samaná."
@@ -378,7 +364,6 @@
             "imagen1": "./imagenes/sala5/palmeras.jpg",
             "alt1": "Palmas, en Cuba.",
             "name1": "Palmas, en Cuba.",
-            "autor2": "Rodrigo Balaguer",
             "imagen2": "./imagenes/sala5/lagoenrique.jpg",
             "alt2": "Lago Enriquillo, República Dominicana.",
             "name2": "Lago Enriquillo, República Dominicana."
@@ -395,8 +380,6 @@
             "imagen1": "./imagenes/sala5/generacionfutura.jpg",
             "alt1": "Las generaciones futuras son fundamentales para la conservacion de la biodiversidad a largo plazo y el desarrollo sostenible en el Caribe.",
             "name1": "Las generaciones futuras son fundamentales para la conservacion de la biodiversidad a largo plazo y el desarrollo sostenible en el Caribe.",
-            "autor1": "Alejandro Balaguer",
-            "autor2": "Matias Balague",
             "imagen2": "./imagenes/sala5/atardecerfinal.jpg",
             "alt2": "Atardecer en ecosistema costero en Montecristi, República Dominicana.",
             "name2": "Atardecer en ecosistema costero en Montecristi, República Dominicana."

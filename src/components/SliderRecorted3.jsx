@@ -48,18 +48,18 @@ const SliderRecorted3 = (props) => {
     <motion.div className="slider-container overflow-hidden mt-[56px] w-[1640px] cursor-grab relative">
       <motion.div
         className='slider grid grid-cols-[138px_311px] gap-x-[16px]
-        sm:grid-cols-[37vw_83vw] sm:gap-[48px]
-        xl:grid-cols-[452px_1030px] xl:gap-[72px]'
+        sm:grid-cols-[37vw_85vw] sm:gap-[48px]
+        xl:grid-cols-[452px_1040px] xl:gap-[72px]'
         drag='x'
         dragConstraints={sliderResponsive()}>
-        <motion.div className='grid gap-[16px] sm:gap-[32px] '>
+        <motion.div className='grid gap-[16px] sm:gap-[24px] '>
           <div className='relative'>
             {props.autor1 && <CardCredit idioma={general.credito} autor={props.autor1} />}
             <img src={props.imagen1} alt={props.alt1} className="w-full h-full pointer-events-none" />
           </div>
           <cite className=''>{props.name1}</cite>
         </motion.div>
-        <motion.div className='grid '>
+        <motion.div className='grid gap-[16px] sm:gap-[24px]'>
           <div className='relative'>
             {props.autor2 && <CardCredit idioma={general.credito} autor={props.autor2} />}
             <img src={props.imagen2} alt={props.alt2} className="w-full h-full pointer-events-none" />
@@ -70,9 +70,10 @@ const SliderRecorted3 = (props) => {
       {
         props.state &&
         <div
-          className='w-[300px] h-[30px] bg-black/50 text-white absolute top-0
-          flex justify-center items-center text-[14px]'>
-          Arrastre la fotografía de izquiera a derecha
+          className='w-auto px-2 bg-white 
+          text-black absolute top-0
+          flex justify-center items-center text-[12px]'>
+           {general.x}
         </div>
       }
     </motion.div>

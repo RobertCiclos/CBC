@@ -34,9 +34,7 @@
             
             "imagen2": "./imagenes/sala1/isla-cabritos.jpg",
             "alt2": "Isla Cabritos, Lago Enriquillo, República Dominicana.",
-            "name2": "Isla Cabritos, Lago Enriquillo, República Dominicana.",
-            "autor1": "Alejandro Balaguer",
-            "autor2": "Rodrigo Balaguer"
+            "name2": "Isla Cabritos, Lago Enriquillo, República Dominicana."
             
         },
         "background": "#FFFFFF",
@@ -50,8 +48,7 @@
         "alt1": "Ecosistema manglar del Caribe, vivero de peces e invertebrados.",
         "description": "Ecosistema manglar del Caribe, vivero de peces e invertebrados.",
         "background": "#528641",
-        "colorText": "#FFFFFF",
-        "autor1": "Matias Balaguer"
+        "colorText": "#FFFFFF"
     },
 
     "section7" : {
@@ -121,9 +118,7 @@
 
             "imagen2": "./imagenes/sala1/manglares-montecristi2.jpg",
             "alt2": "Manglares de Montecristi conectados con arrecifes de coral en República Dominicana.",
-            "name2": "Manglares de Montecristi conectados con arrecifes de coral en República Dominicana.",
-            "autor1": "Rodrigo Balaguer",
-            "autor2": "Matias Balaguer"
+            "name2": "Manglares de Montecristi conectados con arrecifes de coral en República Dominicana."
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
@@ -187,9 +182,7 @@
 
             "imagen2": "./imagenes/sala1/suelos-degradados.jpg",
             "alt2": "Suelos degradados.",
-            "name2": "Suelos degradados.",
-            "autor1": "Matias Balaguer",
-            "autor2": "Rodrigo Balaguer"
+            "name2": "Suelos degradados."
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
@@ -223,8 +216,7 @@
 
             "imagen2": "./imagenes/sala1/peces-cirujano.jpg",
             "alt2": "Peces cirujano en arrecifes de coral de La Española.",
-            "name2": "Peces cirujano en arrecifes de coral de La Española.",
-            "autor2": "Matias Balaguer"
+            "name2": "Peces cirujano en arrecifes de coral de La Española."
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
@@ -258,9 +250,7 @@
 
             "imagen2": "./imagenes/sala1/cultivos-cafe2.jpg",
             "alt2": "Cultivos de café en vivero agroforestal en Pic Macayá, Haití.",
-            "name2": "Cultivos de café en vivero agroforestal en Pic Macayá, Haití..",
-            "autor1": "Alejandro Balaguer",
-            "autor2": "Alejandro Balaguer"
+            "name2": "Cultivos de café en vivero agroforestal en Pic Macayá, Haití.."
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
@@ -278,8 +268,8 @@
             "imagen2": "./imagenes/sala1/apicultura-cosecha2.jpg",
             "alt2": "Apicultura y cosecha de granos de café, actividades productivas sostenibles en el Caribe.",
             "name2": "Apicultura y cosecha de granos de café, actividades productivas sostenibles en el Caribe.",
-            "autor1": "Alejandro Maimone",
-            "autor2": "Alejandro Balaguer"
+            "autor1": "Alejandro Maimone"
+        
         },
         "background": "#528641",
         "colorText": "#FFFFFF"
@@ -287,7 +277,7 @@
 
     "section21" : {
         "img": "./imagenes/sala1/barcosala1.jpg",
-        "autor1": "Matias Balaguer",
+        
         "description": "Pescadores artesanales en la barrera de arrecifes coral, Les Cayemites, Haití."
     },
 

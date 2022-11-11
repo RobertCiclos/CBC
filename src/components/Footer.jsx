@@ -183,49 +183,86 @@ const Footer = () => {
       <div
         className='w-[311px] mx-auto
         sm:w-auto sm:px-[9%] text-center
+        grid-cols-[1fr_0.5fr]
         lg:w-[1040px] lg:px-0'>
         <h4 className='text-center'>
           {dataFooter.footer.title}
         </h4>
-
-        {
-          text &&
-          <p className='text-left font-[400] text-[16px] leading-[28px] mt-[24px]'>
-            {dataFooter.footer.text[0]}
-            <br/>
-            <br/>
-            {dataFooter.footer.text[1]}
-            <br/>
-            <br/>
-            {dataFooter.footer.text[2]}
-          </p>
-        }
-
-        <p
-          className='font-[500] text-[20px] mt-[16px] mb-[16px]
-          sm:text-[22px] sm:font-[700] 
-          md:text-[24px] md:mt-[24px] '>
-          {dataFooter.footer.subtitle}
-        </p>
-        <ul
-          className="grid font-[400] text-[16px] leading-[24px] gap-[16px]
-          md:grid-cols-2 w-full 
-          lg:grid-cols-3">
+        <div>
           {
-            dataFooter.footer.instituciones.map((item) => (
-              <li className='w-full 
+            text ?
+              <div 
+                className='grid lg:grid-cols-[1fr_0.8fr]  
+                xl:grid-cols-[1fr_0.6fr]  mt-[16px]'>
+                <div className='lg:text-left font-[400] text-[16px] leading-[28px] sm:mt-[32px] 
+                lg:w-[550px]  '>
+                  {dataFooter.footer.text[0]}
+                  <p className='lg:text-left font-[400] text-[16px] leading-[28px] mt-[12px]'>
+                    {dataFooter.footer.text[1]}
+                  </p>
+
+                  <p className='lg:text-left font-[400] text-[16px] leading-[28px] mt-[12px] '>
+                    {dataFooter.footer.text[2]}
+                  </p>
+
+                </div>
+                <div className=''>
+                  <p
+                    className='font-[500] text-[20px] mt-[16px] mb-[16px]
+                    sm:text-[22px] sm:font-[700] pl-2 
+                    md:text-[24px] md:mt-[24px] lg:text-left  '>
+                    {dataFooter.footer.subtitle}
+                  </p>
+                  <ul
+                    className="grid font-[400] text-[16px] leading-[24px] gap-[16px]
+                    md:grid-cols-2 w-full 
+                    lg:grid-cols-1 lg:text-left">
+                    {
+                      dataFooter.footer.instituciones.map((item) => (
+                        <li className='w-full 
+                    
+                     '>{item}</li>
+                      ))
+                    }
+                  </ul>
+                </div>
+
+              </div>
+              :
+              <>
+                <p
+                  className='font-[500] text-[20px] mt-[16px] mb-[16px]
+                  sm:text-[22px] sm:font-[700] 
+                  md:text-[24px] md:mt-[24px] '>
+                  {dataFooter.footer.subtitle}
+                </p>
+                <ul
+                  className="grid font-[400] text-[16px] leading-[24px] gap-[16px]
+                  md:grid-cols-2 w-full 
+                  lg:grid-cols-3">
+                  {
+                    dataFooter.footer.instituciones.map((item) => (
+                      <li className='w-full 
               md:translate-x-[-18px] 
               lg:translate-x-[-24px]'>{item}</li>
-            ))
+                    ))
+                  }
+                </ul>
+              </>
           }
-        </ul>
+
+
+
+        </div>
         <div className='bg-white h-[2px] w-full mt-[24px]' />
         <div
           className='grid w-full mt-[8px] md:mt-[16px]
           font-[300] text-[14px] font-Public 
           md:grid-cols-2 '>
           <i className='md:justify-self-start my-[8px] md:my-0'>{dataFooter.footer.descript}</i>
-          <i className='md:justify-self-end'></i>
+          <i className='md:justify-self-end'>
+            <img></img>
+          </i>
         </div>
       </div>
     </footer>

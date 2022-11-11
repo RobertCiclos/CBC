@@ -147,6 +147,7 @@ const Home = () => {
             <div className='salas right-0 top-[50%] mt-[56px] 
               overflow-y-auto flex justify-center  translate-x-[3%] 
               sm:justify-center sm:translate-x-[0%]
+              md:translate-x-[-5%]
               xl:translate-x-[-10%] 
               xl:justify-end xl:translate-y-[-50%] xl:mt-0 xl:absolute xl:max-h-[80vh] overflow-x-hidden'>
               <ol
@@ -276,7 +277,7 @@ const Home = () => {
             sm:w-[600px] lg:w-[850px] lg:pt-[96px]'>
             <h2
               className='text-center uppercase'>
-              {data.section6.title}
+              {data.section6.title} 
             </h2>
             <div
               className='grid justify-center justify-items-center mt-[32px] gap-y-[56px]
@@ -366,22 +367,27 @@ const Home = () => {
             xl:w-[1017px] xl:px-0'>
             <img src="./svg/logo-black.svg" alt="logo CBC" className="mx-auto" />
             <p
-              className='text-center font-[700] text-[24px] py-[24px]
+              className='text-center font-[700] text-[24px] py-[36px]
               md:text-[32px] md:font-[600] md:py-[32px]'>
               {data.section8.title}
             </p>
             <div
               className='grid gap-[24px] lg:gap-0 w-full
-              md:grid-cols-2 lg:grid-cols-[1fr_1fr_1.1fr] lg:justify-items-center'>
+              md:grid-cols-2 lg:grid-cols-[1fr_1fr_1.1fr] 
+              lg:justify-items-center'>
               <div
-                className='font-Public md:justify-self-end lg:justify-self-center'>
+                className='font-Public
+                sm:justify-self-center 
+                md:justify-self-end 
+                lg:justify-self-center'>
                 <p
                   className='font-[700] text-[20px]
-                  lg:text-[23px]'>
-                  {data.section8.subtitle[0]}
+                  lg:text-[23px] sm:text-center md:text-left'>
+                  {data.section8.subtitle[0]} 
                 </p>
                 <ul
-                  className='font-[400] text-[24px] leading-[26.44px] mt-[16px] 
+                  className='font-[400] text-[24px] leading-[26.44px] 
+                  mt-[16px] sm:text-center md:text-left
                   lg:text-[24px] lg:leading-[32.16px] lg:mt-[32px] md:ml-[-3%] w-[230px]'>
                   <li>Nicasio Viña</li>
                   <li>Jose Luis Gerhartz</li>
@@ -398,15 +404,16 @@ const Home = () => {
               </div>
 
               <div
-                className='md:justify-self-center'>
+                className=' sm:justify-self-center  md:justify-self-center'>
                 <p
                   className='font-[700] text-[20px]
-                  lg:text-[23px]'>
+                  lg:text-[23px] sm:text-center md:text-left'>
                   {data.section8.subtitle[1]}
                 </p>
                 <ul
                   className='font-[400] text-[24px] leading-[26.44px] mt-[16px]
-                  lg:text-[24px] lg:leading-[32.16px] lg:mt-[32px] md:ml-[-3%] w-[230px]'>
+                  lg:text-[24px] lg:leading-[32.16px] sm:text-center md:text-left
+                  lg:mt-[32px] md:ml-[-3%] w-[230px]'>
                   <li>Jose L. Gerhartz</li>
                   <li>Nicasio Viña</li>
                   <li>Juan Carlos Duque</li>
@@ -419,15 +426,24 @@ const Home = () => {
 
               <div
                 className='md:mx-auto md:col-span-2 md:justify-self-end
-                lg:col-span-1'>
+                lg:col-span-1  sm:justify-self-center '>
                 <p
                   className='font-[700] text-[20px]
                   lg:text-[23px]'>{data.section8.subtitle[2]} </p>
                 <ul
                   className='font-[400] text-[24px] leading-[26.44px] mt-[16px]
+                  sm:text-center md:text-left
                   lg:text-[24px] lg:leading-[32.16px] lg:mt-[32px] md:ml-[-3%]'>
-                  <li>Fundación Albatros Media</li>
-                  <li>Ciclos Studio</li>
+                  <li>
+                    <a
+                     className='hover:text-black/50'
+                      href='http://www.albatrosmedia.net/site/' target="_blank" >Fundación Albatros Media</a>
+                  </li>
+                  <li>
+                    <a
+                     className='hover:text-black/50'
+                      href='https://ciclos.studio/' target="_blank" >Ciclos Studio</a>
+                  </li>
                 </ul>
               </div>
             </div>
@@ -441,8 +457,8 @@ const Home = () => {
           <Link to="/Sala1"
             style={styleNavRow}
             className=' w-[200px]
-            mx-auto sm:w-[300px] lg:w-[400px]'>
-            <span className='sm:text-right font-bold text-[20px] sm:text-[24px]' >
+            mx-auto sm:w-[300px] md:w-[330px] lg:w-[400px]'>
+            <span className='sm:text-right font-bold text-[20px] uppercase sm:text-[24px]' >
               {data.section9.cite}
             </span>
             <img

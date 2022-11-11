@@ -153,7 +153,6 @@
             "imagen1": "./imagenes/sala4/secretaria-actividades.jpg",
             "alt1": "Secrétariat du CBC dans les activités de suivi sur le terrain",
             "name1": "Secrétariat du CBC dans les activités de suivi sur le terrain",
-            "autor1": "Alejandro Balaguer",
             "imagen2": "./imagenes/sala4/secretaria-haciendo.jpg",
             "alt2": "Le Secrétariat du CBC prend des photos dans une forêt de pins à Pelempito, en République Dominicaine",
             "name2": "Le Secrétariat du CBC prend des photos dans une forêt de pins à Pelempito, en République Dominicaine"
@@ -230,7 +229,6 @@
             "imagen1": "./imagenes/sala4/laguna-oviedo.jpg",
             "alt1": "Laguna de Oviedo, Parc National Jaragua, République Dominicaine",
             "name1": "Laguna de Oviedo, Parc National Jaragua, République Dominicaine",
-            "autor1": "Alejandro Balaguer",
             "imagen2": "./imagenes/sala4/seminario-fortalecimiento.jpg",
             "alt2": "Séminaire de renforcement des capacités des guides d'écotourisme à Laguna de Oviedo",
             "name2": "Séminaire de renforcement des capacités des guides d'écotourisme à Laguna de Oviedo"
@@ -246,7 +244,6 @@
             "imagen1": "./imagenes/sala4/trabajo-monitoreo.jpg",
             "alt1": "Travail d’études des écosystèmes",
             "name1": "Travail d’études des écosystèmes",
-            "autor1": "Alejandro Maimone",
             "autor2": "Alejandro Maimone",
             "imagen2": "./imagenes/sala4/trabajo-apicultura.jpg",
             "alt2": "Travail d'apiculture en Haïti ",
@@ -264,7 +261,6 @@
             "imagen1": "./imagenes/sala4/palma-real.jpg",
             "alt1": "Palma Real, Cuba",
             "name1": "Palma Real, Cuba",
-            "autor2": "Matias Balaguer",
             "imagen2": "./imagenes/sala4/lago-enriquillo.jpg",
             "alt2": "Lac Enriquillo, République Dominicaine",
             "name2": "Lac Enriquillo, République Dominicaine"
@@ -292,7 +288,6 @@
 
     "section22" : {
         "img": "./imagenes/sala4/velero-sala4.jpg",
-        "autor1": "Alejandro Balaguer",
         "description": "Bateau à voile, Les Cayes, Haïti"
     },
 

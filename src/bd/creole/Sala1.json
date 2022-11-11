@@ -47,8 +47,7 @@
         "alt1": "Yon ekosistèm mangwòv Karayib la, yon pepinyè pou pwason ak sa yo ki pa gen eskèlèt sa gwo save yo rele envètebre yo.",
         "description": "Yon ekosistèm mangwòv Karayib la, yon pepinyè pou pwason ak sa yo ki pa gen eskèlèt sa gwo save yo rele envètebre yo.",
         "background": "#528641",
-        "colorText": "#FFFFFF",
-        "autor1": "Matias Balaguer"
+        "colorText": "#FFFFFF"
     },
 
     "section7" : {
@@ -118,9 +117,7 @@
 
             "imagen2": "./imagenes/sala1/manglares-montecristi2.jpg",
             "alt2": "Mangwòv Montecristi konekte ak resif koray (nan peyi panyòl) Repiblik Dominikèn",
-            "name2": "Mangwòv Montecristi konekte ak resif koray (nan peyi panyòl) Repiblik Dominikèn",
-            "autor1": "Rodrigo Balaguer",
-            "autor2": "Matias Balaguer"
+            "name2": "Mangwòv Montecristi konekte ak resif koray (nan peyi panyòl) Repiblik Dominikèn"
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
@@ -184,9 +181,7 @@
 
             "imagen2": "./imagenes/sala1/suelos-degradados.jpg",
             "alt2": "Tè ki degrade",
-            "name2": "Tè ki degrade",
-            "autor1": "Matias Balaguer",
-            "autor2": "Rodrigo Balaguer"
+            "name2": "Tè ki degrade"
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
@@ -220,8 +215,7 @@
 
             "imagen2": "./imagenes/sala1/peces-cirujano.jpg",
             "alt2": "Pwason chirijyen sou resif koray Ispanyola.",
-            "name2": "Pwason chirijyen sou resif koray Ispanyola.",
-            "autor2": "Matias Balaguer"
+            "name2": "Pwason chirijyen sou resif koray Ispanyola."
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
@@ -255,9 +249,7 @@
 
             "imagen2": "./imagenes/sala1/cultivos-cafe2.jpg",
             "alt2": "Kilti kafe nan yon pepinyè agwoforestye nan Pic Makaya, Ayiti.",
-            "name2": "Kilti kafe nan yon pepinyè agwoforestye nan Pic Makaya, Ayiti.",
-            "autor1": "Alejandro Balaguer",
-            "autor2": "Alejandro Balaguer"
+            "name2": "Kilti kafe nan yon pepinyè agwoforestye nan Pic Makaya, Ayiti."
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
@@ -275,8 +267,7 @@
             "imagen2": "./imagenes/sala1/apicultura-cosecha2.jpg",
             "alt2": "Apikilti ak rekòt grenn kafe, aktivite ki bay ranman e ki dirab nan Karayib la.",
             "name2": "Apikilti ak rekòt grenn kafe, aktivite ki bay ranman e ki dirab nan Karayib la.",
-            "autor1": "Alejandro Maimone",
-            "autor2": "Alejandro Balaguer"
+            "autor1": "Alejandro Maimone"
         },
         "background": "#528641",
         "colorText": "#FFFFFF"
@@ -284,7 +275,6 @@
 
     "section21" : {
         "img": "./imagenes/sala1/barcosala1.jpg",
-        "autor1": "Matias Balaguer",
         "description": "Pechè atizanal nan baryè resif koray, Les Cayemites, Ayiti."
     },
 

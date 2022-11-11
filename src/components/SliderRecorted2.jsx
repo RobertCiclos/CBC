@@ -69,9 +69,10 @@ const SliderRecorted2 = (props) => {
       {
         props.state &&
         <div
-          className='w-[300px] h-[30px] bg-black/50 text-white absolute top-0
-          flex justify-center items-center text-[14px]'>
-          Arrastre la fotografía de izquiera a derecha
+          className='w-auto px-2 bg-white 
+          text-black absolute top-0
+          flex justify-center items-center text-[12px]'>
+           {general.x}
         </div>
       }
     </motion.div>

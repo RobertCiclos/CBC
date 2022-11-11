@@ -40,7 +40,7 @@ const Slider = (props) => {
       general = require('../bd/spaniol/General.json')
       break;
   }
-  
+
   return (
     <motion.div
       className="slider-container overflow-hidden relative mt-[56px] w-[1640px] cursor-grab">
@@ -60,7 +60,16 @@ const Slider = (props) => {
         <motion.div className='item grid gap-[16px] sm:gap-[32px] relative'>
           <div className='relative'>
             {props.autor2 && <CardCredit idioma={general.credito} autor={props.autor2} />}
-            <img src={props.imagen2} alt={props.alt2} className="w-full h-full pointer-events-none" />
+            {
+              props.edit ?
+                <img src={props.imagen2} alt={props.alt2}
+                  className="w-[full] h-full pointer-events-none"
+                />
+                :
+                <img src={props.imagen2} alt={props.alt2}
+                  className="w-full h-full pointer-events-none"
+                />
+            }
           </div>
           <cite>{props.name2}</cite>
         </motion.div>
@@ -71,7 +80,7 @@ const Slider = (props) => {
           className='w-auto px-2 bg-white 
           text-black absolute top-0
           flex justify-center items-center text-[12px]'>
-          Arrastre la fotografía de derecha a izquierda
+          {general.x}
         </div>
       }
 

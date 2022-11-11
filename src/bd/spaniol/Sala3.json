@@ -33,8 +33,7 @@
             "name1": "Corales blandos y duros, algas, esponjas y diversos invertebrados conforman este arrecife somero",
 
             "imagen2": "./imagenes/sala3/arrecife2.jpg",
-            "autor1": "Matias Balaguer",
-            "autor2": "Alejandro Balaguer",
+        
             "alt2": "Corales blandos y duros, algas, esponjas y diversos invertebrados conforman este arrecife somero",
             "name2": "Corales blandos y duros, algas, esponjas y diversos invertebrados conforman este arrecife somero"
         },
@@ -67,7 +66,7 @@
                     "Su belleza indiscutible y biodiversidad son atractivas para el turismo y el buceo recreativo, y se ha estimado que aportan al Caribe entre 700 y 2200 millones de dólares cada año."],
         "imagen1": "./imagenes/sala3/otro-arrecife.jpg",
         "alt1": "Cardúmenes en arrecifes de Las Antillas Mayores.",
-        "autor1": "Matias Balaguer",
+
         "description": "Cardúmenes en arrecifes de Las Antillas Mayores.",
         "background": "#fff",
         "colorText": "#181818"
@@ -78,7 +77,7 @@
         "contenido": ["Los manglares son ricos productores de nutrientes derivados de la descomposición de materia orgánica; además, son refugio de valiosas especies en sus etapas larvaria y juvenil."],
         "imagen1": "./imagenes/sala3/manglares.jpg",
         "alt1": "Manglares saludables, Cuba.",
-        "autor1": "Matias Balaguer",        
+       
         "description": "Manglares saludables, Cuba.",
         "background": "#528641",
         "colorText": "#FFF"
@@ -96,8 +95,7 @@
 
             "imagen2": "./imagenes/sala3/isladelavaca2.jpg",
             "alt2": "Manglares, Isla de la Vaca, Haití.",
-            "autor1": "Matias Balaguer",
-            "autor2": "Matias Balaguer",
+
             "name2": "Manglares, Isla de la Vaca, Haití."
         },
         "background": "#FFFFFF",
@@ -112,8 +110,7 @@
             "imagen1": "./imagenes/sala3/importancia-manglares-1.jpg",
             "alt1": "Manglares, República Dominicana.",
             "name1": "Manglares, República Dominicana.",
-            "autor1": "Alejandro Balaguer",
-            "autor2": "Alejandro Balaguer",
+       
 
             "imagen2": "./imagenes/sala3/importancia-manglares-2.jpg",
             "alt2": "Manglares, República Dominicana.",
@@ -148,7 +145,7 @@
             "imagen1": "./imagenes/sala3/parquemacaya.jpg",
             "alt1": "Parque Nacional Pic Macayá, Haiti.",
             "name1": "Parque Nacional Pic Macayá, Haiti.",
-            "autor1": "Matias Balaguer",
+
             "autor2": "Jason Boldero",
 
             "imagen2": "./imagenes/sala3/parquehaitises.jpg",
@@ -167,7 +164,7 @@
             "imagen1": "./imagenes/sala3/cascadabosquehumedo.jpg",
             "alt1": "Cascada en bosque húmedo.",
             "name1": "Cascada en bosque húmedo.",
-            "autor1": "Alejandro Balaguer",
+
             "imagen2": "./imagenes/sala3/pinarrepublicadominicana.jpg",
             "alt2": "Pinar en República Dominicana.",
             "name2": "Pinar en República Dominicana."
@@ -186,8 +183,7 @@
             "imagen1": "./imagenes/sala3/reptilesimg.jpg",
             "alt1": "Reptiles y anfibios habitan en bosques húmedos, como el Pic Macayá haitiano.",
             "name1": "Reptiles y anfibios habitan en bosques húmedos, como el Pic Macayá haitiano.",
-            "autor1": "Matias Balaguer",
-            "autor2": "Matias Balaguer",
+          
             "imagen2": "./imagenes/sala3/reptiles2img.jpg",
             "alt2": "Bosque húmedo.",
             "name2": "Bosque húmedo."
@@ -204,8 +200,7 @@
             "imagen1": "./imagenes/sala3/flordesectas.jpg",
             "alt1": "Flor de cactus, en República Dominicana.",
             "name1": "Flor de cactus, en República Dominicana.",
-            "autor1": "Matias Balaguer",
-            "autor2": "Alejandro Balaguer",
+          
             "imagen2": "./imagenes/sala3/bosqueseco.jpg",
             "alt2": "Bosque seco, República Dominicana.",
             "name2": "Bosque seco, República Dominicana."
@@ -224,7 +219,7 @@
             "imagen1": "./imagenes/sala3/cactaceoimg.jpg",
             "alt1": "Bosque seco y matorral xerofíticos en Republica Dominicana. ",
             "name1": "Bosque seco y matorral xerofíticos en Republica Dominicana. ",
-            "autor1": "Alejandro Balaguer",
+         
 
             "imagen2": "./imagenes/sala3/cactaceo2img.jpg",
             "alt2": "Bosque seco y matorral xerofíticos en Republica Dominicana. ",
@@ -242,8 +237,7 @@
             "imagen1": "./imagenes/sala3/matorralcactaceo.jpg",
             "alt1": "Matorral cactáceo, República Dominicana",
             "name1": "Matorral cactáceo, República Dominicana",
-            "autor1": "Alejandro Balaguer",
-            "autor2": "Alejandro Balaguer",
+         
             "imagen2": "./imagenes/sala3/matorralcactaceo2.jpg",
             "alt2": "Bosque seco, República Dominicana.",
             "name2": "Bosque seco, República Dominicana."
@@ -262,8 +256,7 @@
             "imagen1": "./imagenes/sala3/ravinedesud.jpg",
             "alt1": "Ravine du Sud, río que conecta el Pic Macaya y Les Cayes, en Haití, presenta el efecto de la sedimentación por la deforestación cuenca arriba.",
             "name1": "Ravine du Sud, río que conecta el Pic Macaya y Les Cayes, en Haití, presenta el efecto de la sedimentación por la deforestación cuenca arriba.",
-            "autor1": "Alejandro Balaguer",
-            "autor2": "Alejandro Balaguer",
+          
             "imagen2": "./imagenes/sala3/abanicodemar.jpg",
             "alt2": "Abanico de mar",
             "name2": "Abanico de mar"
@@ -279,8 +272,7 @@
             "imagen1": "./imagenes/sala3/pecesimg.jpg",
             "alt1": "Vivero de peces en Les Cayes, Haití.",
             "name1": "Vivero de peces en Les Cayes, Haití.",
-            "autor1": "Matias Balaguer",
-            "autor2": "Matias Balaguer",
+
             "imagen2": "./imagenes/sala3/peces2img.jpg",
             "alt2": "Vivero de peces en Les Cayes, Haití.",
             "name2": "Vivero de peces en Les Cayes, Haití."
@@ -303,8 +295,7 @@
            "imagen1": "./imagenes/sala3/pastosmarinos2.jpg",
            "alt1": "Pastos marinos en el Caribe.",
            "name1": "Pastos marinos en el Caribe.",
-           "autor1": "Alejandro Balaguer",
-           "autor2": "Matias Balaguer",
+       
            "imagen2": "./imagenes/sala3/pastosmarinos.jpg",
            "alt2": "Ecosistemas de pastos marinos en el Caribe.",
            "name2": "Ecosistemas de pastos marinos en el Caribe."
@@ -323,8 +314,7 @@
            "imagen1": "./imagenes/sala3/laguna1.jpg",
            "alt1": "Laguna, Haití.",
            "name1": "Laguna, Haití.",
-           "autor1": "Rodrigo Balaguer",
-           "autor2": "Rodrigo Balaguer",
+       
            "imagen2": "./imagenes/sala3/laguna2.jpg",
            "alt2": "Laguna, Haití.",
            "name2": "Laguna, Haití."

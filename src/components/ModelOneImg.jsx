@@ -52,7 +52,7 @@ const ModelOneImg = (props) => {
          </p>
          <div className='item grid gap-[32px] mt-[24px] md:mt-[56px]'>
             <div className='relative'>
-               {props.author1 && <CardCredit idioma={general.credito} author={props.author1} />}
+               {props.autor1 && <CardCredit idioma={general.credito} autor={props.autor1} />}
                <img src={props.imagen1} alt={props.alt1} className="w-full h-full pointer-events-none" />
             </div>
             <cite>{props.description}</cite>

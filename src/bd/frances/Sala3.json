@@ -36,8 +36,6 @@
             "alt1": "Des coraux mous et durs, des algues, des éponges et divers invertébrés composent ce récif peu profond.",
             "name1": "Des coraux mous et durs, des algues, des éponges et divers invertébrés composent ce récif peu profond.",
             "imagen2": "./imagenes/sala3/arrecife2.jpg",
-            "autor1": "Matias Balaguer",
-            "autor2": "Alejandro Balaguer",
             "alt2": "Des coraux mous et durs, des algues, des éponges et divers invertébrés composent ce récif peu profond.",
             "name2": "Des coraux mous et durs, des algues, des éponges et divers invertébrés composent ce récif peu profond."
         },
@@ -71,7 +69,7 @@
         ],
         "imagen1": "./imagenes/sala3/otro-arrecife.jpg",
         "alt1": "Shoals sur les récifs des Grandes Antilles.",
-        "autor1": "Matias Balaguer",
+
         "description": "Shoals sur les récifs des Grandes Antilles.",
         "background": "#fff",
         "colorText": "#181818"
@@ -84,7 +82,7 @@
         "imagen1": "./imagenes/sala3/manglares.jpg",
         "alt1": "Mangroves saines, Cuba",
         "description": "Mangroves saines, Cuba",
-        "autor1": "Matias Balaguer",
+
         "background": "#528641",
         "colorText": "#FFF"
     },
@@ -99,8 +97,7 @@
             "imagen1": "./imagenes/sala3/isladelavaca.jpg",
             "alt1": "Mangroves, Île-à-Vache, Haïti.",
             "name1": "Mangroves, Île-à-Vache, Haïti.",
-            "autor1": "Matias Balaguer",
-            "autor2": "Matias Balaguer",
+
             "imagen2": "./imagenes/sala3/isladelavaca2.jpg",
             "alt2": "Mangroves, Île-à-Vache, Haïti.",
             "name2": "Mangroves, Île-à-Vache, Haïti."
@@ -118,8 +115,7 @@
             "imagen1": "./imagenes/sala3/importancia-manglares-1.jpg",
             "alt1": "Mangroves, République Dominicaine.",
             "name1": "Mangroves, République Dominicaine.",
-            "autor1": "Alejandro Balaguer",
-            "autor2": "Alejandro Balaguer",
+
             "imagen2": "./imagenes/sala3/importancia-manglares-2.jpg",
             "alt2": "Mangroves, République Dominicaine.",
             "name2": "Mangroves, République Dominicaine."
@@ -154,8 +150,7 @@
             "imagen1": "./imagenes/sala3/parquemacaya.jpg",
             "alt1": "Parc national Pic Macaya, Haïti",
             "name1": "Parc national Pic Macaya, Haïti",
-            "autor1": "Matias Balaguer",
-            "autor2": "Jason Boldero",
+
             "imagen2": "./imagenes/sala3/parquehaitises.jpg",
             "alt2": "Parc national de Los Haitises, Haïti",
             "name2": "Parc national de Los Haitises, Haïti"
@@ -173,7 +168,7 @@
             "imagen1": "./imagenes/sala3/cascadabosquehumedo.jpg",
             "alt1": "Chute d'eau dans une forêt tropicale",
             "name1": "Chute d'eau dans une forêt tropicale",
-            "autor1": "Alejandro Balaguer",
+
             "imagen2": "./imagenes/sala3/pinarrepublicadominicana.jpg",
             "alt2": "Forêt de Pins en République dominicaine",
             "name2": "Forêt de Pins en République dominicaine"
@@ -193,8 +188,7 @@
             "imagen1": "./imagenes/sala3/reptilesimg.jpg",
             "alt1": "Les reptiles et les amphibiens habitent les forêts humides, comme le Pic Macaya haïtien.",
             "name1": "Les reptiles et les amphibiens habitent les forêts humides, comme le Pic Macaya haïtien.",
-            "autor1": "Matias Balaguer",
-            "autor2": "Matias Balaguer",
+
             "imagen2": "./imagenes/sala3/reptiles2img.jpg",
             "alt2": "Forêt tropicale",
             "name2": "Forêt tropicale"
@@ -212,8 +206,7 @@
             "imagen1": "./imagenes/sala3/flordesectas.jpg",
             "alt1": "Fleur de cactus, République Dominicaine",
             "name1": "Fleur de cactus, République Dominicaine",
-            "autor1": "Matias Balaguer",
-            "autor2": "Alejandro Balaguer",
+
             "imagen2": "./imagenes/sala3/bosqueseco.jpg",
             "alt2": "Forêt sèche, République Dominicaine",
             "name2": "Forêt sèche, République Dominicaine"
@@ -233,7 +226,7 @@
             "imagen1": "./imagenes/sala3/cactaceoimg.jpg",
             "alt1": "Forêt sèche et broussailles xérophiles en République Dominicaine.",
             "name1": "Forêt sèche et broussailles xérophiles en République Dominicaine.",
-            "autor1": "Alejandro Balaguer",
+
             "imagen2": "./imagenes/sala3/cactaceo2img.jpg",
             "alt2": "Forêt sèche et broussailles xérophiles en République Dominicaine.",
             "name2": "Forêt sèche et broussailles xérophiles en République Dominicaine."
@@ -251,8 +244,7 @@
             "imagen1": "./imagenes/sala3/matorralcactaceo.jpg",
             "alt1": "Fourré de cactacées, République Dominicaine",
             "name1": "Fourré de cactacées, République Dominicaine",
-            "autor1": "Alejandro Balaguer",
-            "autor2": "Alejandro Balaguer",
+
             "imagen2": "./imagenes/sala3/matorralcactaceo2.jpg",
             "alt2": "Forêt sèche, République Dominicaine",
             "name2": "Forêt sèche, République Dominicaine"
@@ -272,8 +264,7 @@
             "imagen1": "./imagenes/sala3/ravinedesud.jpg",
             "alt1": "Ravine du Sud, une rivière reliant le Pic Macaya et Les Cayes en Haïti, montre l'effet de la sédimentation due à la déforestation en amont.",
             "name1": "Ravine du Sud, une rivière reliant le Pic Macaya et Les Cayes en Haïti, montre l'effet de la sédimentation due à la déforestation en amont.",
-            "autor1": "Alejandro Balaguer",
-            "autor2": "Alejandro Balaguer",
+
             "imagen2": "./imagenes/sala3/abanicodemar.jpg",
             "alt2": "Corail gorgone",
             "name2": "Corail gorgone"
@@ -290,8 +281,6 @@
             "imagen1": "./imagenes/sala3/pecesimg.jpg",
             "alt1": "Pépinière de poissons aux Cayes, en Haïti.",
             "name1": "Pépinière de poissons aux Cayes, en Haïti.",
-            "autor1": "Matias Balaguer",
-            "autor2": "Matias Balaguer",
             "imagen2": "./imagenes/sala3/peces2img.jpg",
             "alt2": "Pépinière de poissons aux Cayes, en Haïti.",
             "name2": "Pépinière de poissons aux Cayes, en Haïti."
@@ -314,8 +303,7 @@
             "imagen1": "./imagenes/sala3/pastosmarinos2.jpg",
             "alt1": "Les herbiers marins dans les Caraïbes.",
             "name1": "Les herbiers marins dans les Caraïbes.",
-            "autor1": "Alejandro Balaguer",
-            "autor2": "Matias Balaguer",
+
             "imagen2": "./imagenes/sala3/pastosmarinos.jpg",
             "alt2": "Écosystème des herbiers marines des Caraïbes",
             "name2": "Écosystème des herbiers marines des Caraïbes"
@@ -335,8 +323,7 @@
             "imagen1": "./imagenes/sala3/laguna1.jpg",
             "alt1": "Les herbiers marins dans les Caraïbes.",
             "name1": "Les herbiers marins dans les Caraïbes.",
-            "autor1": "Rodrigo Balaguer",
-            "autor2": "Rodrigo Balaguer",
+
             "imagen2": "./imagenes/sala3/laguna2.jpg",
             "alt2": "Lagon, Haïti.",
             "name2": "Lagon, Haïti."

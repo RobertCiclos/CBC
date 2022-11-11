@@ -47,8 +47,7 @@
         "alt1": "Un écosystème de mangrove de la Caraïbe, une pépinière de poissons et d'invertébrés.",
         "description": "Un écosystème de mangrove de la Caraïbe, une pépinière de poissons et d'invertébrés.",
         "background": "#528641",
-        "colorText": "#FFFFFF",
-        "autor1": "Matias Balaguer"
+        "colorText": "#FFFFFF"
     },
 
     "section7" : {
@@ -118,9 +117,7 @@
 
             "imagen2": "./imagenes/sala1/manglares-montecristi2.jpg",
             "alt2": "Mangroves de Montecristi connectées aux récifs coralliens en République Dominicaine",
-            "name2": "Mangroves de Montecristi connectées aux récifs coralliens en République Dominicaine",
-            "autor1": "Rodrigo Balaguer",
-            "autor2": "Matias Balaguer"
+            "name2": "Mangroves de Montecristi connectées aux récifs coralliens en République Dominicaine"
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
@@ -184,9 +181,7 @@
 
             "imagen2": "./imagenes/sala1/suelos-degradados.jpg",
             "alt2": "Sols dégradés",
-            "name2": "Sols dégradés",
-            "autor1": "Matias Balaguer",
-            "autor2": "Rodrigo Balaguer"
+            "name2": "Sols dégradés"
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
@@ -220,8 +215,7 @@
 
             "imagen2": "./imagenes/sala1/peces-cirujano.jpg",
             "alt2": "Poissons chirurgiens sur les récifs coralliens d'Hispaniola.",
-            "name2": "Poissons chirurgiens sur les récifs coralliens d'Hispaniola.",
-            "autor2": "Matias Balaguer"
+            "name2": "Poissons chirurgiens sur les récifs coralliens d'Hispaniola."
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
@@ -255,9 +249,7 @@
 
             "imagen2": "./imagenes/sala1/cultivos-cafe2.jpg",
             "alt2": "Cultures de café dans une pépinière agroforestière aux Pic Macaya, Haití",
-            "name2": "Cultures de café dans une pépinière agroforestière aux Pic Macaya, Haití",
-            "autor1": "Alejandro Balaguer",
-            "autor2": "Alejandro Balaguer"
+            "name2": "Cultures de café dans une pépinière agroforestière aux Pic Macaya, Haití"
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
@@ -275,8 +267,7 @@
             "imagen2": "./imagenes/sala1/apicultura-cosecha2.jpg",
             "alt2": "L'apiculture et la récolte des grains de café, des activités productives durables dans la Caraïbe.",
             "name2": "L'apiculture et la récolte des grains de café, des activités productives durables dans la Caraïbe.",
-            "autor1": "Alejandro Maimone",
-            "autor2": "Alejandro Balaguer"
+            "autor1": "Alejandro Maimone"
         },
         "background": "#528641",
         "colorText": "#FFFFFF"
@@ -284,7 +275,6 @@
 
     "section21" : {
         "img": "./imagenes/sala1/barcosala1.jpg",
-        "autor1": "Matias Balaguer",
         "description": "Pêcheurs artisanaux dans la barrière de récifs coralliens, Les Cayemites, Haïti."
     },
 

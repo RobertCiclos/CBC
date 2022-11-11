@@ -23,7 +23,6 @@
             "imagen1": "./imagenes/sala5/reservacuchillas1.jpg",
             "alt1": "Pic Macaya, Haïti.",
             "name1": "Pic Macaya, Haïti.",
-            "autor1": "Matias Balaguer",
             "imagen2": "./imagenes/sala5/reservacuchillas3.jpg",
             "alt2": "Réserve de biosphère de Cuchillas del Toa, Cuba.",
             "name2": "Réserve de biosphère de Cuchillas del Toa, Cuba."
@@ -85,8 +84,6 @@
             "imagen1": "./imagenes/sala5/barreradecoral.jpg",
             "alt1": "Barrière de corail, Île-à-Vache, Haïti.",
             "name1": "Barrière de corail, Île-à-Vache, Haïti.",
-            "autor1": "Matias Balaguer",
-            "autor2": "Matias Balaguer",
             "imagen2": "./imagenes/sala5/barreradecoral2.jpg",
             "alt2": "Barrière de corail, Île-à-Vache, Haïti.",
             "name2": "Barrière de corail, Île-à-Vache, Haïti."
@@ -103,7 +100,6 @@
             "imagen1": "./imagenes/sala5/tortugacarey.jpg",
             "alt1": "Observation des tortues de mer imbriquées.",
             "name1": "Observation des tortues de mer imbriquées.",
-            "autor1": "Alejandro Balaguer",
             "imagen2": "./imagenes/sala5/instalaciondered.jpg",
             "alt2": "Installation d'un réseau d’observation d’oiseaux.",
             "name2": "Installation d'un réseau d’observation d’oiseaux."
@@ -163,7 +159,6 @@
             "imagen1": "./imagenes/sala5/trabajodecampo.jpg",
             "alt1": "Travail de terrain dans le cadre d’une étude.",
             "name1": "Travail de terrain dans le cadre d’une étude.",
-            "autor2": "Alejandro Balaguer",
             "imagen2": "./imagenes/sala5/trabajodecampo2.jpg",
             "alt2": "Travail de terrain dans le cadre d’une étude.",
             "name2": "Travail de terrain dans le cadre d’une étude."
@@ -189,7 +184,6 @@
             "imagen1": "./imagenes/sala5/vivero.jpg",
             "alt1": "Pépinière, Pic Macaya, Haïti",
             "name1": "Pépinière, Pic Macaya, Haïti",
-            "autor1": "Alejandro Balaguer",
             "imagen2": "./imagenes/sala5/entregadesemillas.jpg",
             "alt2": "Livraison de semences aux femmes chefs de famille pour la création de jardins familiaux.",
             "name2": "Livraison de semences aux femmes chefs de famille pour la création de jardins familiaux."
@@ -221,8 +215,7 @@
             "imagen1": "./imagenes/sala5/cajasAbeja.jpg",
             "alt1": "Boîtes utilisées pour les travaux d'apiculture.",
             "name1": "Boîtes utilisées pour les travaux d'apiculture.",
-            "autor1": "Alejandro Balaguer",
-            "autor2": "Matias Balague",
+            "autor1": "Alejandro Maimone",
             "imagen2": "./imagenes/sala5/abeja2.jpg",
             "alt2": "Abeille visitant une fleur dans une forêt sèche de la République Dominicaine.",
             "name2": "Abeille visitant une fleur dans une forêt sèche de la République Dominicaine."
@@ -240,8 +233,6 @@
             "imagen1": "./imagenes/sala5/miembrosdelacomun.jpg",
             "alt1": "Graines de café, Haïti",
             "name1": "Graines de café, Haïti",
-            "autor1": "Alejandro Balaguer",
-            "autor2": "Alejandro Balaguer",
             "imagen2": "./imagenes/sala5/miembrosdelacomun2.jpg",
             "alt2": "Graines de café, Haïti",
             "name2": "Graines de café, Haïti"
@@ -288,8 +279,6 @@
             "imagen1": "./imagenes/sala5/pescador.jpg",
             "alt1": "Pêcheur artisanal sur la côte sud-ouest d'Haïti.",
             "name1": "Pêcheur artisanal sur la côte sud-ouest d'Haïti.",
-            "autor1": "Alejandro Balaguer",
-            "autor2": "Matias Balaguer",
             "imagen2": "./imagenes/sala5/cardumen.jpg",
             "alt2": "Banc de poissons chirurgiens rayés (Acanthurus chirurgus).",
             "name2": "Banc de poissons chirurgiens rayés (Acanthurus chirurgus)."
@@ -304,7 +293,6 @@
                     "L'application de solutions basées sur la nature fait partie des stratégies de lutte contre le changement climatique. Elles comprennent la restauration des écosystèmes, la gestion intégrée des bassins versants et le renforcement des zones protégées."],
         "imagen1": "./imagenes/sala5/coralcerebro.jpg",
         "alt1": "Corail à corne de cerf, mer de la Caraïbe",
-        "autor1": "Matias Balaguer",        
         "description": "Corail à corne de cerf, mer de la Caraïbe",
         "background": "#fff",
         "colorText": "#181818"
@@ -362,7 +350,6 @@
             "imagen1": "./imagenes/sala5/municipoguama.jpg",
             "alt1": "Municipalité de Guamá, au sud de la Sierra Maestra à Cuba.",
             "name1": "Municipalité de Guamá, au sud de la Sierra Maestra à Cuba.",
-            "autor2": "Alejandro  Balaguer",
             "imagen2": "./imagenes/sala5/ecosistemacostero.jpg",
             "alt2": "Écosystèmes côtiers à Costa Este, une plage près de Samaná.",
             "name2": "Écosystèmes côtiers à Costa Este, une plage près de Samaná."
@@ -378,7 +365,6 @@
             "imagen1": "./imagenes/sala5/palmeras.jpg",
             "alt1": "Palmas, Cuba.",
             "name1": "Palmas, Cuba.",
-            "autor2": "Rodrigo   Balaguer",
             "imagen2": "./imagenes/sala5/lagoenrique.jpg",
             "alt2": "Lac Enriquillo, République Dominicaine.",
             "name2": "Lac Enriquillo, République Dominicaine."
@@ -395,8 +381,6 @@
             "imagen1": "./imagenes/sala5/generacionfutura.jpg",
             "alt1": "Les générations futures sont essentielles à la conservation à long terme de la biodiversité et au développement durable dans les Caraïbes.",
             "name1": "Les générations futures sont essentielles à la conservation à long terme de la biodiversité et au développement durable dans les Caraïbes.",
-            "autor1": "Alejandro Balaguer",
-            "autor2": "Matias Balague",
             "imagen2": "./imagenes/sala5/atardecerfinal.jpg",
             "alt2": "Coucher de soleil dans un écosystème côtier à Montecristi, République Dominicaine.",
             "name2": "Coucher de soleil dans un écosystème côtier à Montecristi, République Dominicaine"

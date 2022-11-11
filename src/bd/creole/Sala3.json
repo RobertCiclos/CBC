@@ -33,8 +33,6 @@
             "name1": "Koray mou ak koray di, alg, eponj ak divès kalite envètebre fòme resif sila kip a trò fon.",
 
             "imagen2": "./imagenes/sala3/arrecife2.jpg",
-            "autor1": "Matias Balaguer",
-            "autor2": "Alejandro Balaguer",
             "alt2": "Koray mou ak koray di, alg, eponj ak divès kalite envètebre fòme resif sila kip a trò fon.",
             "name2": "Koray mou ak koray di, alg, eponj ak divès kalite envètebre fòme resif sila kip a trò fon."
         },
@@ -67,7 +65,6 @@
                             "Bote ak divèsite biyolojik ke tout moun dakò yo atire touris ak plonje pou lwazi, epi yo estime yo pote ant $700 ak $2.2 milya dola nan Karayib la chak ane."],
         "imagen1": "./imagenes/sala3/otro-arrecife.jpg",
         "alt1": "Shoals sou resif Gwo Zantiy yo.",
-        "autor1": "Matias Balaguer",        
         "description": "Shoals sou resif Gwo Zantiy yo.",
         "background": "#fff",
         "colorText": "#181818"
@@ -79,7 +76,6 @@
         "imagen1": "./imagenes/sala3/manglares.jpg",
         "alt1": "Mangwòv ki an sante, Kiba",        
         "description": "Mangwòv ki an sante, Kiba",
-        "autor1": "Matias Balaguer",
         "background": "#528641",
         "colorText": "#FFF"
     },
@@ -96,9 +92,7 @@
 
             "imagen2": "./imagenes/sala3/isladelavaca2.jpg",
             "alt2": "Mangwòv, Île-à-Vache, Ayiti.",
-            "name2": "Mangwòv, Île-à-Vache, Ayiti.",
-            "autor1": "Matias Balaguer",
-            "autor2": "Matias Balaguer"
+            "name2": "Mangwòv, Île-à-Vache, Ayiti."
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
@@ -112,8 +106,6 @@
             "imagen1": "./imagenes/sala3/importancia-manglares-1.jpg",
             "alt1": "Mangwòv, nan peyi panyòl.",
             "name1": "Mangwòv, nan peyi panyòl.",
-            "autor1": "Alejandro Balaguer",
-            "autor2": "Alejandro Balaguer",
 
             "imagen2": "./imagenes/sala3/importancia-manglares-2.jpg",
             "alt2": "Mangwòv, nan peyi panyòl.",
@@ -148,7 +140,6 @@
             "imagen1": "./imagenes/sala3/parquemacaya.jpg",
             "alt1": "Pak Nasyonal Pic Macaya, Ayiti",
             "name1": "Pak Nasyonal Pic Macaya, Ayiti",
-            "autor1": "Matias Balaguer",
             "autor2": "Jason Boldero",
             "imagen2": "./imagenes/sala3/parquehaitises.jpg",
             "alt2": "Pak Nasyonal Los Haitises, Ayiti",
@@ -166,7 +157,6 @@
             "imagen1": "./imagenes/sala3/cascadabosquehumedo.jpg",
             "alt1": "Kaskad nan yon forè imid",
             "name1": "Kaskad nan yon forè imid",
-            "autor1": "Alejandro Balaguer",
             "imagen2": "./imagenes/sala3/pinarrepublicadominicana.jpg",
             "alt2": "Forè Pine nan Repiblik Dominikèn",
             "name2": "Forè Pine nan Repiblik Dominikèn"
@@ -185,8 +175,7 @@
             "imagen1": "./imagenes/sala3/reptilesimg.jpg",
             "alt1": "Reptil ak anfibyen abite nan forè imid, tankou Pic Macaya ayisyen an.",
             "name1": "Reptil ak anfibyen abite nan forè imid, tankou Pic Macaya ayisyen an.",
-            "autor1": "Matias Balaguer",
-            "autor2": "Matias Balaguer",
+           
             "imagen2": "./imagenes/sala3/reptiles2img.jpg",
             "alt2": "Forè imid",
             "name2": "Forè imid"
@@ -203,8 +192,7 @@
             "imagen1": "./imagenes/sala3/flordesectas.jpg",
             "alt1": "Flè kaktis, Repiblik Dominikèn (nan peyi panyòl)",
             "name1": "Flè kaktis, Repiblik Dominikèn (nan peyi panyòl)",
-            "autor1": "Matias Balaguer",
-            "autor2": "Alejandro Balaguer",
+            
             "imagen2": "./imagenes/sala3/bosqueseco.jpg",
             "alt2": "Forè sèk, Repiblik Dominikèn",
             "name2": "Forè sèk, Repiblik Dominikèn"
@@ -223,7 +211,6 @@
             "imagen1": "./imagenes/sala3/cactaceoimg.jpg",
             "alt1": "Forè sèk ak touf plant ki tolere sechrès nan Peyi panyòl.",
             "name1": "Forè sèk ak touf plant ki tolere sechrès nan Peyi panyòl.",
-            "autor1": "Alejandro Balaguer",
             "imagen2": "./imagenes/sala3/cactaceo2img.jpg",
             "alt2": "Forè sèk ak touf plant ki tolere sechrès nan Peyi panyòl.",
             "name2": "Forè sèk ak touf plant ki tolere sechrès nan Peyi panyòl."
@@ -240,8 +227,7 @@
             "imagen1": "./imagenes/sala3/matorralcactaceo.jpg",
             "alt1": "Touf plant ki tolere sechrès, Repiblik Dominikèn (nan peyi panyòl)",
             "name1": "Touf plant ki tolere sechrès, Repiblik Dominikèn (nan peyi panyòl)",
-            "autor1": "Alejandro Balaguer",
-            "autor2": "Alejandro Balaguer",
+            
             "imagen2": "./imagenes/sala3/matorralcactaceo2.jpg",
             "alt2": "Forè sèk, Repiblik Dominikèn (nan peyi panyòl)",
             "name2": "Forè sèk, Repiblik Dominikèn (nan peyi panyòl)"
@@ -260,8 +246,7 @@
             "imagen1": "./imagenes/sala3/ravinedesud.jpg",
             "alt1": "Ravine du Sud, yon rivyè ki konekte Pic Macaya ak Okay an Ayiti, montre efè sedimantasyon akòz debwazman nan tèt rivyè a.",
             "name1": "Ravine du Sud, yon rivyè ki konekte Pic Macaya ak Okay an Ayiti, montre efè sedimantasyon akòz debwazman nan tèt rivyè a.",
-            "autor1": "Alejandro Balaguer",
-            "autor2": "Alejandro Balaguer",
+            
             "imagen2": "./imagenes/sala3/abanicodemar.jpg",
             "alt2": "Koray gorgon",
             "name2": "Koray gorgon"
@@ -277,8 +262,7 @@
             "imagen1": "./imagenes/sala3/pecesimg.jpg",
             "alt1": "Pepinyè pwason Okay, Ayiti.",
             "name1": "Pepinyè pwason Okay, Ayiti.",
-            "autor1": "Matias Balaguer",
-            "autor2": "Matias Balaguer",
+            
             "imagen2": "./imagenes/sala3/peces2img.jpg",
             "alt2": "Pepinyè pwason Okay, Ayiti.",
             "name2": "Pepinyè pwason Okay, Ayiti."
@@ -301,8 +285,7 @@
            "imagen1": "./imagenes/sala3/pastosmarinos2.jpg",
            "alt1": "Zèb lanmè nan Karayib la.",
            "name1": "Zèb lanmè nan Karayib la.",
-           "autor1": "Alejandro Balaguer",
-           "autor2": "Matias Balaguer",
+         
            "imagen2": "./imagenes/sala3/pastosmarinos.jpg",
            "alt2": "Ekosistèm zèb lanmè Karayib yo",
            "name2": "Ekosistèm zèb lanmè Karayib yo"
@@ -321,8 +304,7 @@
            "imagen1": "./imagenes/sala3/laguna1.jpg",
            "alt1": "Lagon, Ayiti.",
            "name1": "Lagon, Ayiti.",
-           "autor1": "Rodrigo Balaguer",
-           "autor2": "Rodrigo Balaguer",
+           
            "imagen2": "./imagenes/sala3/laguna2.jpg",
            "alt2": "Lagon, Ayiti.",
            "name2": "Lagon, Ayiti."
