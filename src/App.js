@@ -7,8 +7,19 @@ import Sala3 from './pages/Sala3'
 import Sala4 from './pages/Sala4'
 import Sala5 from './pages/Sala5'
 import ScrollToTop from './hooks/ScrollToTop';
+import { useEffect } from "react";
+import { useDispatch } from "react-redux"
+import { change } from "./features/counter/idiomaSlice";
 
 function App() {
+
+  const idioma = localStorage.getItem('idioma')
+  const dispatch = useDispatch()
+
+  useEffect(()=>{
+    if(idioma) {dispatch(change(idioma))}
+  },[])
+  
   return (
     <div className="App">
       <ScrollToTop />

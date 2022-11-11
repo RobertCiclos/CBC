@@ -6,27 +6,144 @@ const Footer = () => {
 
   var dataFooter = ""
   const idioma = useSelector(state => state.idioma.value)
-
-  switch (idioma) {
-    case "ingles":
-      dataFooter = require('../bd/ingles/Home.json')
-      break;
-    case "frances":
-      dataFooter = require('../bd/frances/Home.json')
-      break;
-    case "creole":
-      dataFooter = require('../bd/creole/Home.json')
-      break;
-    case "español":
-      dataFooter = require('../bd/spaniol/Home.json')
-      break;
-    default:
-      dataFooter = require('../bd/spaniol/Home.json')
-      break;
-  }
-
-
   const location = useLocation().pathname
+
+  switch(location) {
+    case '/':
+      console.log("/")
+      switch (idioma) {
+        case "ingles":
+          dataFooter = require('../bd/ingles/Home.json')
+          break;
+        case "frances":
+          dataFooter = require('../bd/frances/Home.json')
+          break;
+        case "creole":
+          dataFooter = require('../bd/creole/Home.json')
+          break;
+        case "español":
+          dataFooter = require('../bd/spaniol/Home.json')
+          break;
+        default:
+          dataFooter = require('../bd/spaniol/Home.json')
+          break;
+      }
+      break
+    case '/Sala1':
+      switch (idioma) {
+        case "ingles":
+          dataFooter = require('../bd/ingles/Sala1.json')
+          break;
+        case "frances":
+          dataFooter = require('../bd/frances/Sala1.json')
+          break;
+        case "creole":
+          dataFooter = require('../bd/creole/Sala1.json')
+          break;
+        case "español":
+          dataFooter = require('../bd/spaniol/Sala1.json')
+          break;
+        default:
+          dataFooter = require('../bd/spaniol/Sala1.json')
+          break;
+      }
+      break
+    case '/Sala2':
+      switch (idioma) {
+        case "ingles":
+          dataFooter = require('../bd/ingles/Sala2.json')
+          break;
+        case "frances":
+          dataFooter = require('../bd/frances/Sala2.json')
+          break;
+        case "creole":
+          dataFooter = require('../bd/creole/Sala2.json')
+          break;
+        case "español":
+          dataFooter = require('../bd/spaniol/Sala2.json')
+          break;
+        default:
+          dataFooter = require('../bd/spaniol/Sala2.json')
+          break;
+      }
+      break
+    case '/Sala3':
+      switch (idioma) {
+        case "ingles":
+          dataFooter = require('../bd/ingles/Sala3.json')
+          break;
+        case "frances":
+          dataFooter = require('../bd/frances/Sala3.json')
+          break;
+        case "creole":
+          dataFooter = require('../bd/creole/Sala3.json')
+          break;
+        case "español":
+          dataFooter = require('../bd/spaniol/Sala3.json')
+          break;
+        default:
+          dataFooter = require('../bd/spaniol/Sala3.json')
+          break;
+      }
+      break
+    case '/Sala4':
+      switch (idioma) {
+        case "ingles":
+          dataFooter = require('../bd/ingles/Sala4.json')
+          break;
+        case "frances":
+          dataFooter = require('../bd/frances/Sala4.json')
+          break;
+        case "creole":
+          dataFooter = require('../bd/creole/Sala4.json')
+          break;
+        case "español":
+          dataFooter = require('../bd/spaniol/Sala4.json')
+          break;
+        default:
+          dataFooter = require('../bd/spaniol/Sala4.json')
+          break;
+      }
+      break
+    case '/Sala5':
+      switch (idioma) {
+        case "ingles":
+          dataFooter = require('../bd/ingles/Sala5.json')
+          break;
+        case "frances":
+          dataFooter = require('../bd/frances/Sala5.json')
+          break;
+        case "creole":
+          dataFooter = require('../bd/creole/Sala5.json')
+          break;
+        case "español":
+          dataFooter = require('../bd/spaniol/Sala5.json')
+          break;
+        default:
+          dataFooter = require('../bd/spaniol/Sala5.json')
+          break;
+      }
+      break    
+    default:
+      switch (idioma) {
+        case "ingles":
+          dataFooter = require('../bd/ingles/Home.json')
+          break;
+        case "frances":
+          dataFooter = require('../bd/frances/Home.json')
+          break;
+        case "creole":
+          dataFooter = require('../bd/creole/Home.json')
+          break;
+        case "español":
+          dataFooter = require('../bd/spaniol/Home.json')
+          break;
+        default:
+          dataFooter = require('../bd/spaniol/Home.json')
+          break;
+      }
+      break
+  }
 
   const background = option(location)
 

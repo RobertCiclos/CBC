@@ -11,6 +11,7 @@ const initialState = {
     reducers: {
       change: (state, action) => {
         state.value = action.payload
+        localStorage.setItem('idioma',action.payload)
       },
     },
   })
