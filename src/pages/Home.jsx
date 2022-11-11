@@ -1,12 +1,11 @@
 import { AnimatePresence, motion } from 'framer-motion'
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
-import { useMediaQuery } from 'react-responsive'
 import { useSelector } from 'react-redux'
 import CardCredit from '../components/CardAux/CardCredit'
 
 const Home = () => {
-  const ismovil = useMediaQuery({ query: '(min-width: 625px)' })
+
   const imagen1 = './imagenes/home/SALA1.png'
   const imagen2 = './imagenes/home/SALA2.png'
   const imagen3 = './imagenes/home/SALA3.png'
@@ -96,14 +95,18 @@ const Home = () => {
           className="bg-blueCBC text-white py-[48px] sm:py-[96px]">
           <div
             className='w-[311px] sm:w-auto sm:px-[10%] xl:px-0 xl:w-[1040px] mx-auto'>
-            <h2 className='uppercase'>{data.section2.title[0]} <br /> {data.section2.title[1]}</h2>
+            <h2 className='uppercase'>
+              {data.section2.title[0]}
+              <br /> {data.section2.title[1]}
+            </h2>
             <div
               className='grid gap-x-[132px] mt-[16px] 
-              xl:grid-cols-[490px_1fr] sm:mt-[70px]'>
+              xl:grid-cols-[490px_1fr] sm:mt-[35px] md:mt-[70px]'>
               <p
                 className='font-Public  font-[400] leading-[24px] text-[16px]
                 sm:leading-[38px] sm:text-[22px]
-                md:leading-[48px] md:text-[32px]'>
+                md:leading-[36px] md:text-[28px]
+                lg:leading-[48px] lg:text-[32px]'>
                 {data.section2.contenido[0]}
                 <br /><br />
                 {data.section2.contenido[1]}
@@ -260,7 +263,7 @@ const Home = () => {
         <section
           className="w-full h-[100vh] relative z-0 snap-y 
           bg-cover bg-no-repeat bg-center bg-[url('/public/imagenes/home/naturaleza.jpg')]">
-           <CardCredit idioma={general.credito} author="Thomas Shahan" />
+          <CardCredit idioma={general.credito} author="Thomas Shahan" />
           <div
             className='w-full text-center text-white font-Public absolute bottom-[8%] right-[50%] translate-x-[50%]
             font-bold text-[32px] md:text-[50px] lg:text-[100px] snap-center uppercase'>
