@@ -191,7 +191,7 @@ const Footer = () => {
         <div>
           {
             text ?
-              <div 
+              <div
                 className='grid lg:grid-cols-[1fr_0.8fr]  
                 xl:grid-cols-[1fr_0.6fr]  mt-[16px]'>
                 <div className='lg:text-left font-[400] text-[16px] leading-[28px] sm:mt-[32px] 
@@ -243,8 +243,9 @@ const Footer = () => {
                   {
                     dataFooter.footer.instituciones.map((item) => (
                       <li className='w-full 
-              md:translate-x-[-18px] 
-              lg:translate-x-[-24px]'>{item}</li>
+                      md:translate-x-[-18px] 
+                      lg:translate-x-[-24px]'>{item}
+                      </li>
                     ))
                   }
                 </ul>
@@ -261,7 +262,14 @@ const Footer = () => {
           md:grid-cols-2 '>
           <i className='md:justify-self-start my-[8px] md:my-0'>{dataFooter.footer.descript}</i>
           <i className='md:justify-self-end'>
-            <img></img>
+            <a
+              className='hover:text-black/50'
+              href='http://www.albatrosmedia.net/site/' target="_blank" >
+              Fundación Albatros Media
+            </a>
+            <p>2</p>
+            <p>3</p>
+            <p>4</p>
           </i>
         </div>
       </div>

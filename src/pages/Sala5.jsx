@@ -283,7 +283,7 @@ const Sala5 = () => {
         <section
           id='section29'
           className=''>
-          <ModelNavigation {...dataSala5.section29} />
+          <ModelNavigation sala5={true} {...dataSala5.section29} />
         </section>
 
       </motion.div>

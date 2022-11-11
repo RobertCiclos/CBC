@@ -53,17 +53,18 @@ const ModelSlider = (props) => {
             </p>
             {
                 props.listaStatus &&
-                <ul className='mtPharagraphs'>
-                    {props.lista.map(
-                        (parrafo, index) => {
-                            if (index === numParrafos - 1) {
-                                return <p key={props.title + index}>{parrafo}</p>
-                            } else {
-                                return <p key={props.title + index}>{parrafo}<br /><br /></p>
+                <>
+                    <ul 
+                        style={{listStyleType:"disc"}}
+                        className='mtPharagraphs pl-[5%]'>
+                        {props.lista.map(
+                            (parrafo, index) => {
+                                return <li><p key={props.title + index}>{parrafo}<br /><br /></p></li>
                             }
-                        }
-                    )}
-                </ul>
+                        )}
+                    </ul>
+                    <p className=' mt-[0px] pt-0'>{props.contenido2}</p>
+                </>
             }
 
             {OptionSlider()}

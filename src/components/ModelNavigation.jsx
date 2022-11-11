@@ -8,23 +8,23 @@ const ModelNavigation = (props) => {
 
     const idioma = useSelector(state => state.idioma.value)
     var general = ""
-  
+
     switch (idioma) {
-      case "ingles":
-        general = require('../bd/ingles/General.json')
-        break;
-      case "frances":
-        general = require('../bd/frances/General.json')
-        break;
-      case "creole":
-        general = require('../bd/creole/General.json')
-        break;
-      case "español":
-        general = require('../bd/spaniol/General.json')
-        break;
-      default:
-        general = require('../bd/spaniol/General.json')
-        break;
+        case "ingles":
+            general = require('../bd/ingles/General.json')
+            break;
+        case "frances":
+            general = require('../bd/frances/General.json')
+            break;
+        case "creole":
+            general = require('../bd/creole/General.json')
+            break;
+        case "español":
+            general = require('../bd/spaniol/General.json')
+            break;
+        default:
+            general = require('../bd/spaniol/General.json')
+            break;
     }
     return (
         <div>
@@ -34,7 +34,7 @@ const ModelNavigation = (props) => {
                 {props.contenido}
             </p>
             <nav className='py-[32px] md:py-[40px]'>
-                
+
                 <div
                     className='grid grid-cols-2 w-full  py-[24px]
                   mx-auto gap-[8px] textSpam sm:py-[32px]
@@ -47,14 +47,18 @@ const ModelNavigation = (props) => {
                             src="./svg/arrowLeft.svg"
                             alt="Flecha Izquierda"
                             className="" />
-                        <span className='text-left' >{general.return}</span>
+                        <span className='text-left' >
+                            {general.return}
+                        </span>
                     </Link>
                     <Link to={props.nextLink}
                         style={styleNavRow}
                         className='justify-self-end w-[150px]
-                    sm:flex sm:justify-end 
-                    sm:w-[250px] lg:w-[350px]'>
-                        <span className='text-right' >{general.next}</span>
+                        sm:flex sm:justify-end 
+                        sm:w-[250px] lg:w-[350px]'>
+                        <span className='text-right' >
+                            {general.next}
+                        </span>
                         <img
                             src="./svg/arrowRight.svg"
                             alt=""
