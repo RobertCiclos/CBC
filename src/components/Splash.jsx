@@ -29,14 +29,20 @@ const Splash = () => {
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       transition={{ duration: 1.5 }}
-      className='w-[100vw] h-[100vh] grid justify-center items-center'>
-      <div>
-        <img
-          src="/imagenes/logoOriginal.png"
-          alt="Logo"
-          className="scale-[0.4]" />
-        <p>{dataSala1.textSplah}</p>
-      </div>
+      className='w-[100vw] h-[100vh] grid justify-center 
+      items-center overflow-hidden'>
+
+      <img
+        src="/imagenes/logoOriginal.png"
+        alt="Logo"
+        className="w-[250px] sm:w-[300px]" />
+      <p
+        className=' w-full overflow-hidden
+        text-center absolute 
+        text-[14px] sm:text-[18px] bottom-[3%]
+        text-blueCBC font-[500] px-[5%] '>
+        {dataSala1.textSplah}
+      </p>
     </motion.div>
   )
 }
