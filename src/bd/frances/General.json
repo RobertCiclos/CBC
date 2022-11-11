@@ -1,5 +1,6 @@
 {
     "credit": "Photo de courtoisie",
+    "logo": "/imagenes/fr/logo-fr.png",
     "x":"Glisse l’image de gauche à droite",
     "textSplah": "Ouvrir avec Google Chrome pour une meilleure expérience",
     "idioma" : [
@@ -17,6 +18,6 @@
         "Page principale",
         "Page Principale"
     ],
-    "return": "Previous Room",
-    "next": "Next Room"
+    "return": "Salle Précédente",
+    "next": "Salle d’après"
 }

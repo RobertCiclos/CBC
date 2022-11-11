@@ -33,9 +33,9 @@ const Splash = () => {
       items-center overflow-hidden'>
 
       <img
-        src="/imagenes/logoOriginal.png"
+        src={dataSala1.logo}
         alt="Logo"
-        className="w-[250px] sm:w-[300px]" />
+        className={ !(idioma === "español") ? "w-[250px] sm:w-[300px]": "w-[350px] sm:w-[450px]"} />
       <p
         className=' w-full overflow-hidden
         text-center absolute 

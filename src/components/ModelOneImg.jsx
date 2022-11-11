@@ -60,7 +60,7 @@ const ModelOneImg = (props) => {
                props.download &&
                <div 
                   className='flex w-full bg-white justify-center items-center
-                  gap-[18px] py-[16px]
+                  gap-[18px] py-[16px] 
                   sm:gap-[24px] md:py-[24px]
                   md:gap-[36px]
                   lg:gap-[59px]'>

@@ -1,5 +1,6 @@
 {
-    "credit": "Crédito",
+    "credit": "Credit",
+    "logo": "/imagenes/ing/logo-ing.png",
     "x": "Drag the image from right to left",
     "textSplah": "Use with Google Chrome for a better experience",
     "idioma" : [
@@ -17,6 +18,6 @@
         "Home",
         "Home"
     ],
-    "return": "Return Home ",
-    "next": "Previous Room"
+    "return": "Previous  Home ",
+    "next": "Next Room"
 }
