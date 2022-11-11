@@ -258,19 +258,34 @@ const Footer = () => {
         <div className='bg-white h-[2px] w-full mt-[24px]' />
         <div
           className='grid w-full mt-[8px] md:mt-[16px]
-          font-[300] text-[14px] font-Public 
+          font-[300] text-[14px] font-Public gap-[8px]
           md:grid-cols-2 '>
           <i className='md:justify-self-start my-[8px] md:my-0'>{dataFooter.footer.descript}</i>
-          <i className='md:justify-self-end'>
+          <i className='flex items-center gap-[24px] justify-center md:justify-self-end'>
             <a
-              className='hover:text-black/50'
-              href='http://www.albatrosmedia.net/site/' 
+              className='cursor-pointer'
+              href='https://www.youtube.com/channel/UCVJpq9oOUMPzSOUVmtlrXaQ' 
               target="_blank" >
-              Fundación Albatros Media
+              <img src='/svg/youtube.svg' alt='Youtube'/>
             </a>
-            <p>2</p>
-            <p>3</p>
-            <p>4</p>
+            <a
+              className='cursor-pointer'
+              href='https://twitter.com/cbcbiodiverso?lang=es' 
+              target="_blank" >
+              <img src='/svg/twitter.svg' alt='Twitter'/>
+            </a>
+            <a
+              className='cursor-pointer'
+              href='https://www.facebook.com/cbcbiodiversidad/' 
+              target="_blank" >
+              <img src='/svg/facebook.svg' alt='Facebook'/>
+            </a>
+            <a
+              className='cursor-pointer'
+              href='https://www.instagram.com/cbcbiodiversidad/?hl=es-la' 
+              target="_blank" >
+              <img src='/svg/instagram.svg' alt='Instagram'/>
+            </a>
           </i>
         </div>
       </div>
