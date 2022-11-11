@@ -307,9 +307,6 @@
 
     "footer": {
         "title": "“CBC est Coopération”",
-        "contenido": ["Une initiative des gouvernements de Cuba, de la République Dominicaine, de la République d'Haïti, de Porto Rico et de la Jamaïque. Financée par l'Union Européenne (UE) avec le soutien du Programme des Nations Unies pour l'Environnement (PNUE).",
-                    "Sede de la Secretaría del CBC República Dominicana, Miembros",
-                    "© 2020, Centro de Información y Gestión Tecnológica de Santiago de Cuba, MEGACEN."],
         "subtitle": "Institutions associées ",
         "instituciones": ["Ministère des sciences, de la technologie et de l'environnement de la République de Cuba",
                     "inistère de l'environnement et des ressources naturelles de la République Dominicaine",

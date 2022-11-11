@@ -1,37 +1,40 @@
-{   
-    "section1" : {
-        "img" : "./imagenes/sala3/fondo-sala3.jpg",
+{
+    "section1": {
+        "img": "./imagenes/sala3/fondo-sala3.jpg",
         "title": "Écosystèmes prioritaires pour le Corridor Biologique dans la Caraïbe",
         "sala": "SALLE 3"
     },
-
-    "section2" : {
-        "contenido": ["L'initiative CBC contribue à la réalisation de plusieurs des Objectifs de Développement Durable (ODD) en promouvant et en mettant en œuvre des actions de protection des écosystèmes côtiers, marins et terrestres.",
-                        "L'une de ses actions a été l'identification de certains groupes d'écosystèmes marins et terrestres prioritaires pour la conservation dans le corridor. Les écosystèmes ont été évalués dans l'espace afin de déterminer les sites de leur aire de répartition qui ont la plus haute priorité en matière de conservation, selon les critères de sélection choisis.",
-                            "Les groupes d'écosystèmes prioritaires pour la conservation dans le CBC sont: les forêts humides et les pinèdes, les forêts sèches et les broussailles xérophiles, les mangroves et les récifs coralliens." ]
+    "section2": {
+        "contenido": [
+            "L'initiative CBC contribue à la réalisation de plusieurs des Objectifs de Développement Durable (ODD) en promouvant et en mettant en œuvre des actions de protection des écosystèmes côtiers, marins et terrestres.",
+            "L'une de ses actions a été l'identification de certains groupes d'écosystèmes marins et terrestres prioritaires pour la conservation dans le corridor. Les écosystèmes ont été évalués dans l'espace afin de déterminer les sites de leur aire de répartition qui ont la plus haute priorité en matière de conservation, selon les critères de sélection choisis.",
+            "Les groupes d'écosystèmes prioritaires pour la conservation dans le CBC sont: les forêts humides et les pinèdes, les forêts sèches et les broussailles xérophiles, les mangroves et les récifs coralliens."
+        ]
     },
-
-    "section3" : {
+    "section3": {
         "title": "Écosystèmes prioritaires pour la CBC",
-        "contenido": ["La mer des Caraïbes couvre une superficie de 2,754 millions de km² et sa zone côtière est partagée par près de 25 pays, y compris des îles et des terres continentales.",
-                        "Les écosystèmes prioritaires pour le CBC sont des sites clés pour le maintien de la connectivité régionale et des zones qui préservent des écosystèmes représentatifs d'écorégions partagées et menacées, résilientes au changement climatique; et qui sont essentielles pour la conservation des espèces migratrices, des espèces endémiques très menacées ou de celles qui ont un fort potentiel de dispersion."],
-
+        "contenido": [
+            "La mer des Caraïbes couvre une superficie de 2,754 millions de km² et sa zone côtière est partagée par près de 25 pays, y compris des îles et des terres continentales.",
+            "Les écosystèmes prioritaires pour le CBC sont des sites clés pour le maintien de la connectivité régionale et des zones qui préservent des écosystèmes représentatifs d'écorégions partagées et menacées, résilientes au changement climatique; et qui sont essentielles pour la conservation des espèces migratrices, des espèces endémiques très menacées ou de celles qui ont un fort potentiel de dispersion."
+        ],
         "subtitle": null,
-        "imagen":  "./imagenes/fr/ecosistemas.jpg",
-        "description": ["Carte mettant en évidence les écosystèmes prioritaires du CBC, ainsi que les sites d'importance pour les espèces faisant l'objet d'une conservation et d'un suivi dans le corridor."],
+        "imagen": "./imagenes/fr/ecosistemas.jpg",
+        "description": [
+            "Carte mettant en évidence les écosystèmes prioritaires du CBC, ainsi que les sites d'importance pour les espèces faisant l'objet d'une conservation et d'un suivi dans le corridor."
+        ],
         "background": "#528641",
         "colorText": "#fff"
     },
-
-    "section4" : {
+    "section4": {
         "title": "Récifs coralliens",
-        "contenido": ["Les récifs coralliens sont des écosystèmes très riches, divers et uniques des zones côtières et peu profondes des régions tropicales. Ils forment des structures rocheuses composées d'espèces de coraux durs et mous ainsi que d'algues, qui offrent un abri et de la nourriture à un grand nombre d'espèces de poissons, de reptiles et d'invertébrés.",
-                        "Ils sont interconnectés avec d'autres écosystèmes, tels que les prairies sous-marines et les mangroves, par les cycles de nutriments qui font partie du développement des différentes espèces."],
+        "contenido": [
+            "Les récifs coralliens sont des écosystèmes très riches, divers et uniques des zones côtières et peu profondes des régions tropicales. Ils forment des structures rocheuses composées d'espèces de coraux durs et mous ainsi que d'algues, qui offrent un abri et de la nourriture à un grand nombre d'espèces de poissons, de reptiles et d'invertébrés.",
+            "Ils sont interconnectés avec d'autres écosystèmes, tels que les prairies sous-marines et les mangroves, par les cycles de nutriments qui font partie du développement des différentes espèces."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala3/arrecife1.jpg",
             "alt1": "Des coraux mous et durs, des algues, des éponges et divers invertébrés composent ce récif peu profond.",
             "name1": "Des coraux mous et durs, des algues, des éponges et divers invertébrés composent ce récif peu profond.",
-
             "imagen2": "./imagenes/sala3/arrecife2.jpg",
             "autor1": "Matias Balaguer",
             "autor2": "Alejandro Balaguer",
@@ -41,17 +44,17 @@
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
-
-    "section6" : {
+    "section6": {
         "title": "Récifs à Cuba et Hispaniola",
-        "contenido": ["Les récifs coralliens, ainsi que d'autres écosystèmes marins côtiers, abritent la majeure partie de la biodiversité marine des Antilles.",
-                        "En particulier, les récifs de Cuba et d'Hispaniola (en République Dominicaine et en Haïti) sont d'une grande importance pour la connectivité régionale.",
-                            "Des espèces telles que les poissons de récifs, les crustacés et les coraux fertilisent leurs œufs et les libèrent pour qu'ils soient transportés par les courants océaniques vers des sites où leurs larves peuvent s'installer, se nourrir, devenir des juvéniles et atteindre l'âge de la reproduction."],
+        "contenido": [
+            "Les récifs coralliens, ainsi que d'autres écosystèmes marins côtiers, abritent la majeure partie de la biodiversité marine des Antilles.",
+            "En particulier, les récifs de Cuba et d'Hispaniola (en République Dominicaine et en Haïti) sont d'une grande importance pour la connectivité régionale.",
+            "Des espèces telles que les poissons de récifs, les crustacés et les coraux fertilisent leurs œufs et les libèrent pour qu'ils soient transportés par les courants océaniques vers des sites où leurs larves peuvent s'installer, se nourrir, devenir des juvéniles et atteindre l'âge de la reproduction."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala3/pez-mariposa.jpg",
             "alt1": "Poisson-papillon rayé (Chaetodon striatus) sur un récif corallien, Cuba.",
             "name1": "Poisson-papillon rayé (Chaetodon striatus) sur un récif corallien, Cuba.",
-
             "imagen2": "./imagenes/sala3/alevinimg.jpg",
             "alt2": "Alevin dans un polype de corail",
             "name2": "Alevin dans un polype de corail"
@@ -59,43 +62,45 @@
         "background": "#528641",
         "colorText": "#FFFFFF"
     },
-
-    "section7" : {
+    "section7": {
         "title": "Autres récifs des Caraïbes",
-        "contenido": ["Les récifs coralliens sont de véritables nurseries pour de nombreuses espèces, importantes pour  la survie des communautés côtières du CBC. Ils apportent 6,8 milliards de dollars par an au secteur mondial de la pêche et près de 400 millions de dollars aux Caraïbes.",
-                        "Elles protègent les côtes et sont essentielles au maintien de la pêche artisanale, commerciale et récréative. Elles sont également une source de produits pharmacologiques.",
-                            "Leur beauté et leur biodiversité incontestées sont attrayantes pour le tourisme et la plongée de loisir, et l'on estime qu'elles rapportent chaque année entre 700 millions et 2,2 milliards de dollars aux Caraïbes."],
+        "contenido": [
+            "Les récifs coralliens sont de véritables nurseries pour de nombreuses espèces, importantes pour  la survie des communautés côtières du CBC. Ils apportent 6,8 milliards de dollars par an au secteur mondial de la pêche et près de 400 millions de dollars aux Caraïbes.",
+            "Elles protègent les côtes et sont essentielles au maintien de la pêche artisanale, commerciale et récréative. Elles sont également une source de produits pharmacologiques.",
+            "Leur beauté et leur biodiversité incontestées sont attrayantes pour le tourisme et la plongée de loisir, et l'on estime qu'elles rapportent chaque année entre 700 millions et 2,2 milliards de dollars aux Caraïbes."
+        ],
         "imagen1": "./imagenes/sala3/otro-arrecife.jpg",
         "alt1": "Shoals sur les récifs des Grandes Antilles.",
-        "autor1": "Matias Balaguer",        
+        "autor1": "Matias Balaguer",
         "description": "Shoals sur les récifs des Grandes Antilles.",
         "background": "#fff",
         "colorText": "#181818"
     },
-
-    "section8" : {
+    "section8": {
         "title": "Mangroves",
-        "contenido": ["Les mangroves sont de riches producteurs de nutriments issus de la décomposition de la matière organique ; elles constituent également un refuge pour des espèces précieuses à leurs stades larvaire et juvénile."],
+        "contenido": [
+            "Les mangroves sont de riches producteurs de nutriments issus de la décomposition de la matière organique ; elles constituent également un refuge pour des espèces précieuses à leurs stades larvaire et juvénile."
+        ],
         "imagen1": "./imagenes/sala3/manglares.jpg",
-        "alt1": "Mangroves saines, Cuba",        
+        "alt1": "Mangroves saines, Cuba",
         "description": "Mangroves saines, Cuba",
-        "autor1": "Matias Balaguer", 
+        "autor1": "Matias Balaguer",
         "background": "#528641",
         "colorText": "#FFF"
     },
-
-    "section10" : {
+    "section10": {
         "title": "Les mangroves dans la CBC",
-        "contenido": ["Cuba, le plus grand archipel des Caraïbes, avec plus de 5000 km de côtes et plus de 4000 îles et cayes de faible altitude, abrite plus de 5000 km2 de mangroves, soit plus de 80% de l'ensemble des mangroves de la région. Viennent ensuite ceux de l'île d'Hispaniola.",
-                        "À Hispaniola, on trouve des mangroves à Montecristi, sur la côte nord de Samaná, à Punta Cana, à Punta El Aljibe et à Punta Beata. Les mangroves de Tres Bahías, Bajo Yuna et celles situées vers l'extrémité orientale de l'île sont d'une grande importance pour la connectivité.",
-                            "En Jamaïque, on les trouve en petites parcelles le long de la côte sud du pays, avec quelques parcelles de connectivité importantes dans le nord de l'île. Des taches de haute priorité se trouvent dans le reste des Antilles."],
+        "contenido": [
+            "Cuba, le plus grand archipel des Caraïbes, avec plus de 5000 km de côtes et plus de 4000 îles et cayes de faible altitude, abrite plus de 5000 km2 de mangroves, soit plus de 80% de l'ensemble des mangroves de la région. Viennent ensuite ceux de l'île d'Hispaniola.",
+            "À Hispaniola, on trouve des mangroves à Montecristi, sur la côte nord de Samaná, à Punta Cana, à Punta El Aljibe et à Punta Beata. Les mangroves de Tres Bahías, Bajo Yuna et celles situées vers l'extrémité orientale de l'île sont d'une grande importance pour la connectivité.",
+            "En Jamaïque, on les trouve en petites parcelles le long de la côte sud du pays, avec quelques parcelles de connectivité importantes dans le nord de l'île. Des taches de haute priorité se trouvent dans le reste des Antilles."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala3/isladelavaca.jpg",
             "alt1": "Mangroves, Île-à-Vache, Haïti.",
             "name1": "Mangroves, Île-à-Vache, Haïti.",
             "autor1": "Matias Balaguer",
             "autor2": "Matias Balaguer",
-
             "imagen2": "./imagenes/sala3/isladelavaca2.jpg",
             "alt2": "Mangroves, Île-à-Vache, Haïti.",
             "name2": "Mangroves, Île-à-Vache, Haïti."
@@ -103,18 +108,18 @@
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
-
-    "section11" : {
+    "section11": {
         "title": "Importance des mangroves",
-        "contenido": ["Dans les Caraïbes, les mangroves servent de nurseries pour une variété de poissons et d'invertébrés qui passent leur vie adulte sur les récifs coralliens. Les mangroves, les récifs coralliens et les herbiers marins sont des écosystèmes connectés.",
-                        "Ces trois habitats fournissent un espace vital, de la nourriture, une protection et un abri à plus de 500 espèces différentes de poissons, de crustacés et de mollusques dans la région des Caraïbes."],
+        "contenido": [
+            "Dans les Caraïbes, les mangroves servent de nurseries pour une variété de poissons et d'invertébrés qui passent leur vie adulte sur les récifs coralliens. Les mangroves, les récifs coralliens et les herbiers marins sont des écosystèmes connectés.",
+            "Ces trois habitats fournissent un espace vital, de la nourriture, une protection et un abri à plus de 500 espèces différentes de poissons, de crustacés et de mollusques dans la région des Caraïbes."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala3/importancia-manglares-1.jpg",
             "alt1": "Mangroves, République Dominicaine.",
             "name1": "Mangroves, République Dominicaine.",
             "autor1": "Alejandro Balaguer",
             "autor2": "Alejandro Balaguer",
-
             "imagen2": "./imagenes/sala3/importancia-manglares-2.jpg",
             "alt2": "Mangroves, République Dominicaine.",
             "name2": "Mangroves, République Dominicaine."
@@ -122,36 +127,35 @@
         "background": "#528641",
         "colorText": "#FFFFFF"
     },
-
-    "section12" : {
+    "section12": {
         "title": "Les zones humides et le changement climatique",
-        "contenido": ["Le marais de Zapata est la plus grande zone humide des Caraïbes insulaires, où l'écosystème de mangrove occupe une grande partie de sa surface.",
-                        "Ces forêts inondables contribuent à ralentir les effets du changement climatique. Elles captent et stockent le CO2, filtrent les eaux usées et l'air, font office de barrière contre les vagues, freinent l'avancée de l'intrusion saline et empêchent l'érosion côtière.",
-                            "Cependant, de nombreuses zones côtières et humides des Caraïbes risquent de subir les effets du changement climatique. Le marais de Zapata à Cuba, par exemple, pourrait diminuer de 20 % d'ici la fin du siècle en raison de l'élévation du niveau de la mer, de l'intrusion saline et de l'impact des ouragans.",
-                                "La protection et la restauration des mangroves est une mesure d'adaptation fondée sur les écosystèmes qui peut contribuer à réduire l'impact du changement climatique sur le CBC et à améliorer les moyens de subsistance des communautés qui en dépendent."],
+        "contenido": [
+            "Le marais de Zapata est la plus grande zone humide des Caraïbes insulaires, où l'écosystème de mangrove occupe une grande partie de sa surface.",
+            "Ces forêts inondables contribuent à ralentir les effets du changement climatique. Elles captent et stockent le CO2, filtrent les eaux usées et l'air, font office de barrière contre les vagues, freinent l'avancée de l'intrusion saline et empêchent l'érosion côtière.",
+            "Cependant, de nombreuses zones côtières et humides des Caraïbes risquent de subir les effets du changement climatique. Le marais de Zapata à Cuba, par exemple, pourrait diminuer de 20 % d'ici la fin du siècle en raison de l'élévation du niveau de la mer, de l'intrusion saline et de l'impact des ouragans.",
+            "La protection et la restauration des mangroves est une mesure d'adaptation fondée sur les écosystèmes qui peut contribuer à réduire l'impact du changement climatique sur le CBC et à améliorer les moyens de subsistance des communautés qui en dépendent."
+        ],
         "imagen1": "./imagenes/sala3/cienaga-cuba.jpg",
-        "alt1": "Marais de Zapata, Cuba.",        
+        "alt1": "Marais de Zapata, Cuba.",
         "description": "Marais de Zapata, Cuba.",
         "autor1": "K Brookes",
         "background": "#fff",
         "colorText": "#181818"
     },
-
-
-    "section13" : {
+    "section13": {
         "title": "Écosystèmes forestiers dans le CBC",
-        "contenido": ["Les écosystèmes forestiers sont fondamentaux pour assurer la sécurité de l'eau dans les Caraïbes.",
-                        "Cependant, la couverture forestière des Caraïbes a été sévèrement réduite au cours des dernières décennies.",
-                            "Par exemple, en Haïti, il ne reste que 2 % de la couverture forestière d'origine, tandis qu'en République Dominicaine, il n'en reste que 10 %. Cette perte a été causée par l'exploitation humaine pour l'agriculture et le logement.",
-                                "En raison de la déforestation, la biodiversité de la région a été affectée, comme pour les amphibiens, qui ont été fortement menacés par ces changements, entraînant le déclin de leurs populations."],
+        "contenido": [
+            "Les écosystèmes forestiers sont fondamentaux pour assurer la sécurité de l'eau dans les Caraïbes.",
+            "Cependant, la couverture forestière des Caraïbes a été sévèrement réduite au cours des dernières décennies.",
+            "Par exemple, en Haïti, il ne reste que 2 % de la couverture forestière d'origine, tandis qu'en République Dominicaine, il n'en reste que 10 %. Cette perte a été causée par l'exploitation humaine pour l'agriculture et le logement.",
+            "En raison de la déforestation, la biodiversité de la région a été affectée, comme pour les amphibiens, qui ont été fortement menacés par ces changements, entraînant le déclin de leurs populations."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala3/parquemacaya.jpg",
             "alt1": "Parc national Pic Macaya, Haïti",
             "name1": "Parc national Pic Macaya, Haïti",
             "autor1": "Matias Balaguer",
             "autor2": "Jason Boldero",
-            
-
             "imagen2": "./imagenes/sala3/parquehaitises.jpg",
             "alt2": "Parc national de Los Haitises, Haïti",
             "name2": "Parc national de Los Haitises, Haïti"
@@ -159,11 +163,12 @@
         "background": "#528641",
         "colorText": "#FFFFFF"
     },
-
-    "section14" : {
+    "section14": {
         "title": "Forêt tropicale et forêt de pins",
-        "contenido": ["Les forêts humides et les forêts de pins sont des écosystèmes qui soutiennent le cycle de l'eau, régulent le débit des rivières, empêchent l'érosion des sols et contribuent à la sécurité hydraulique.",
-                        "Les forêts humides et les pinèdes de Cuba se trouvent principalement dans la zone occidentale de la chaîne de montagnes de Guaniguanico, dans les zones les plus élevées de la Sierra Maestra; et vers l'extrémité orientale de l'île dans le Pico Cristal et dans la réserve de biosphère de Cuchillas del Toa, ces dernières zones se trouvent dans le massif de Nipe-Sagua-Baracoa."],
+        "contenido": [
+            "Les forêts humides et les forêts de pins sont des écosystèmes qui soutiennent le cycle de l'eau, régulent le débit des rivières, empêchent l'érosion des sols et contribuent à la sécurité hydraulique.",
+            "Les forêts humides et les pinèdes de Cuba se trouvent principalement dans la zone occidentale de la chaîne de montagnes de Guaniguanico, dans les zones les plus élevées de la Sierra Maestra; et vers l'extrémité orientale de l'île dans le Pico Cristal et dans la réserve de biosphère de Cuchillas del Toa, ces dernières zones se trouvent dans le massif de Nipe-Sagua-Baracoa."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala3/cascadabosquehumedo.jpg",
             "alt1": "Chute d'eau dans une forêt tropicale",
@@ -176,13 +181,14 @@
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
-
-    "section15" : {
+    "section15": {
         "title": "Forêt tropicale",
-        "contenido": ["Les forêts sont l'habitat d'espèces représentatives des Grandes Antilles.",
-                        "En Haïti, les zones les plus prioritaires pour la conservation de la forêt tropicale sont le Massif de la Selle, la Forêt de Pins et le Pic Macaya.",
-                            "En République Dominicaine, on les trouve dans la Sierra de Bahoruco, la cordillère centrale, Los Haitises et d'autres zones proches de la côte nord.",
-                                "À Porto Rico, les forêts les plus prioritaires pour la conservation se trouvent dans la région d'El Yunque ; et en Jamaïque, on les trouve dans le Cockpit Country et la chaîne Blue Mountain."],
+        "contenido": [
+            "Les forêts sont l'habitat d'espèces représentatives des Grandes Antilles.",
+            "En Haïti, les zones les plus prioritaires pour la conservation de la forêt tropicale sont le Massif de la Selle, la Forêt de Pins et le Pic Macaya.",
+            "En République Dominicaine, on les trouve dans la Sierra de Bahoruco, la cordillère centrale, Los Haitises et d'autres zones proches de la côte nord.",
+            "À Porto Rico, les forêts les plus prioritaires pour la conservation se trouvent dans la région d'El Yunque ; et en Jamaïque, on les trouve dans le Cockpit Country et la chaîne Blue Mountain."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala3/reptilesimg.jpg",
             "alt1": "Les reptiles et les amphibiens habitent les forêts humides, comme le Pic Macaya haïtien.",
@@ -196,11 +202,12 @@
         "background": "#528641",
         "colorText": "#FFFFFF"
     },
-
-    "section16" : {
+    "section16": {
         "title": "Forêts sèches et arbustes xérophiles",
-        "contenido": ["Ce groupe d'écosystèmes présente des zones semi-désertiques, des forêts sèches et des maquis adaptés à des conditions extrêmes, résultant de la sécheresse, de la salinité et de la pauvreté des sols. Les espèces se sont adaptées à ces conditions, c'est pourquoi la végétation épineuse prédomine, notamment les cactus, les arbustes rabougris, les prairies semi-désertiques et même les arbres à très petites feuilles ou qui perdent leurs feuilles à une période de l'année.",
-                        "Survivre dans ces conditions coûte beaucoup d'énergie à l'espèce, c'est pourquoi différentes adaptations sont trouvées. Par exemple, la présence d'épines dans la végétation permet de stocker l'eau et sert en même temps de mécanisme de protection contre la faune herbivore."],
+        "contenido": [
+            "Ce groupe d'écosystèmes présente des zones semi-désertiques, des forêts sèches et des maquis adaptés à des conditions extrêmes, résultant de la sécheresse, de la salinité et de la pauvreté des sols. Les espèces se sont adaptées à ces conditions, c'est pourquoi la végétation épineuse prédomine, notamment les cactus, les arbustes rabougris, les prairies semi-désertiques et même les arbres à très petites feuilles ou qui perdent leurs feuilles à une période de l'année.",
+            "Survivre dans ces conditions coûte beaucoup d'énergie à l'espèce, c'est pourquoi différentes adaptations sont trouvées. Par exemple, la présence d'épines dans la végétation permet de stocker l'eau et sert en même temps de mécanisme de protection contre la faune herbivore."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala3/flordesectas.jpg",
             "alt1": "Fleur de cactus, République Dominicaine",
@@ -214,13 +221,14 @@
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
-
-    "section17" : {
+    "section17": {
         "title": "Distribution des forêts sèches et arbustes xérophiles",
-        "contenido": ["Les forêts sèches et les maquis xérophiles s'étendent dans toutes les Grandes Antilles, formant des couloirs associés aux zones côtières actuelles ou, dans le cas d'Hispaniola, qui existaient à des époques géologiques récentes.",
-                        "Parmi ceux-ci, les plus importants pour la connectivité sont ceux du Parc National de Jaragua, suivis de ceux situés dans les groupes de cayes du nord de Cuba, le nord de Cuba entre La Havane et Varadero, les extrémités ouest et sud-est de Cuba, l'extrémité nord-ouest d'Haïti et le sud-est de la République Dominicaine.",
-                            "Les zones les plus représentatives à Cuba se trouvent à Guanahacabibes, sur la côte nord entre La Havane et Varadero, à Cape Cruz, et dans le corridor côtier sud-est de Cuba, de Santiago à Maisí.",
-                                "À Hispaniola, on les trouve dans le Parc National de Jaragua et sur la péninsule de Beata jusqu'à Belle Anse. À Porto Rico, sur la côte sud-ouest ; et en Jamaïque, sur la côte sud dans la région de Hellshire."],
+        "contenido": [
+            "Les forêts sèches et les maquis xérophiles s'étendent dans toutes les Grandes Antilles, formant des couloirs associés aux zones côtières actuelles ou, dans le cas d'Hispaniola, qui existaient à des époques géologiques récentes.",
+            "Parmi ceux-ci, les plus importants pour la connectivité sont ceux du Parc National de Jaragua, suivis de ceux situés dans les groupes de cayes du nord de Cuba, le nord de Cuba entre La Havane et Varadero, les extrémités ouest et sud-est de Cuba, l'extrémité nord-ouest d'Haïti et le sud-est de la République Dominicaine.",
+            "Les zones les plus représentatives à Cuba se trouvent à Guanahacabibes, sur la côte nord entre La Havane et Varadero, à Cape Cruz, et dans le corridor côtier sud-est de Cuba, de Santiago à Maisí.",
+            "À Hispaniola, on les trouve dans le Parc National de Jaragua et sur la péninsule de Beata jusqu'à Belle Anse. À Porto Rico, sur la côte sud-ouest ; et en Jamaïque, sur la côte sud dans la région de Hellshire."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala3/cactaceoimg.jpg",
             "alt1": "Forêt sèche et broussailles xérophiles en République Dominicaine.",
@@ -233,11 +241,12 @@
         "background": "#528641",
         "colorText": "#FFFFFF"
     },
-
-    "section18" : {
+    "section18": {
         "title": "Importance des forêts sèches et des fourrés xérophiles",
-        "contenido": ["Les forêts sèches et les fourrés xérophiles abritent un grand nombre d'espèces endémiques et jouent un rôle important dans la connectivité des écosystèmes.",
-                        "Ils sont un exemple de la résilience et de l'adaptabilité de la nature, en raison de leur capacité à tolérer des conditions extrêmes résultant de la sécheresse, de la salinité et de la pauvreté des sols."],
+        "contenido": [
+            "Les forêts sèches et les fourrés xérophiles abritent un grand nombre d'espèces endémiques et jouent un rôle important dans la connectivité des écosystèmes.",
+            "Ils sont un exemple de la résilience et de l'adaptabilité de la nature, en raison de leur capacité à tolérer des conditions extrêmes résultant de la sécheresse, de la salinité et de la pauvreté des sols."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala3/matorralcactaceo.jpg",
             "alt1": "Fourré de cactacées, République Dominicaine",
@@ -251,13 +260,14 @@
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
-
-    "section19" : {
+    "section19": {
         "title": "Connectivité bassin versant-région récifale",
-        "contenido": ["Les bassins versants captent chaque année environ 300 km3 de précipitations dans les Grandes Antilles, ce qui constitue pratiquement la seule source d'eau douce de ces îles.",
-                        "Les bassins versants déboisés transportent d'énormes quantités de sédiments vers l'embouchure. Cela affecte les écosystèmes de mangrove ainsi que la formation des récifs coralliens.",
-                            "Par conséquent, le CBC travaille en mettant l'accent sur la conservation des bassins versants, des montagnes aux récifs, afin d'améliorer la qualité et la disponibilité de l'eau et de réduire les pressions sur les écosystèmes marins et côtiers.",
-                                "Cela permettrait d'accroître la résilience des écosystèmes au changement climatique."],
+        "contenido": [
+            "Les bassins versants captent chaque année environ 300 km3 de précipitations dans les Grandes Antilles, ce qui constitue pratiquement la seule source d'eau douce de ces îles.",
+            "Les bassins versants déboisés transportent d'énormes quantités de sédiments vers l'embouchure. Cela affecte les écosystèmes de mangrove ainsi que la formation des récifs coralliens.",
+            "Par conséquent, le CBC travaille en mettant l'accent sur la conservation des bassins versants, des montagnes aux récifs, afin d'améliorer la qualité et la disponibilité de l'eau et de réduire les pressions sur les écosystèmes marins et côtiers.",
+            "Cela permettrait d'accroître la résilience des écosystèmes au changement climatique."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala3/ravinedesud.jpg",
             "alt1": "Ravine du Sud, une rivière reliant le Pic Macaya et Les Cayes en Haïti, montre l'effet de la sédimentation due à la déforestation en amont.",
@@ -271,10 +281,11 @@
         "background": "#528641",
         "colorText": "#FFFFFF"
     },
-
-    "section20" : {
+    "section20": {
         "title": "Bassin des Caraïbes",
-        "contenido": ["Le bassin des Caraïbes compte la plus grande proportion de coraux classés comme étant à haut risque d'extinction, ayant décliné de 80 % depuis les années 1970."],
+        "contenido": [
+            "Le bassin des Caraïbes compte la plus grande proportion de coraux classés comme étant à haut risque d'extinction, ayant décliné de 80 % depuis les années 1970."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala3/pecesimg.jpg",
             "alt1": "Pépinière de poissons aux Cayes, en Haïti.",
@@ -288,76 +299,73 @@
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
-
-    "section21" : {
+    "section21": {
         "img": "./imagenes/sala3/paisajesection21.jpg"
     },
-
-    "section22" : {
-        "indicador" : "Autres écosystèmes présents dans le CBC",
-       "colorIndicador" : "#85BD70",
-       "title": "Les herbiers marins",
-       "contenido": ["Les herbiers marins des Caraïbes se trouvent tout le long des côtes des îles de la région.",
-                        "Ces zones sont importantes pour les poissons qui habitent les Caraïbes, car beaucoup se nourrissent et résident dans les herbiers marins."],
-       "imagenes": {
-           "imagen1": "./imagenes/sala3/pastosmarinos2.jpg",
-           "alt1": "Les herbiers marins dans les Caraïbes.",
-           "name1": "Les herbiers marins dans les Caraïbes.",
-           "autor1": "Alejandro Balaguer",
-           "autor2": "Matias Balaguer",
-           "imagen2": "./imagenes/sala3/pastosmarinos.jpg",
-           "alt2": "Écosystème des herbiers marines des Caraïbes",
-           "name2": "Écosystème des herbiers marines des Caraïbes"
-       },
-       "background": "#FFFFFF",
+    "section22": {
+        "indicador": "Autres écosystèmes présents dans le CBC",
+        "colorIndicador": "#85BD70",
+        "title": "Les herbiers marins",
+        "contenido": [
+            "Les herbiers marins des Caraïbes se trouvent tout le long des côtes des îles de la région.",
+            "Ces zones sont importantes pour les poissons qui habitent les Caraïbes, car beaucoup se nourrissent et résident dans les herbiers marins."
+        ],
+        "imagenes": {
+            "imagen1": "./imagenes/sala3/pastosmarinos2.jpg",
+            "alt1": "Les herbiers marins dans les Caraïbes.",
+            "name1": "Les herbiers marins dans les Caraïbes.",
+            "autor1": "Alejandro Balaguer",
+            "autor2": "Matias Balaguer",
+            "imagen2": "./imagenes/sala3/pastosmarinos.jpg",
+            "alt2": "Écosystème des herbiers marines des Caraïbes",
+            "name2": "Écosystème des herbiers marines des Caraïbes"
+        },
+        "background": "#FFFFFF",
         "colorText": "#181818"
-   },
-
-   "section23" : {
-        "indicador" : "Autres écosystèmes présents dans le CBC",
-       "colorIndicador" : "#103A62",
-       "title": "Lagons",
-       "contenido": ["Les lagons côtiers des Antilles sont très menacés par le changement climatique, car l'élévation du niveau de la mer et l'intrusion d'eau salée affectent leur équilibre naturel, leur productivité et les espèces qui y vivent.",
-                        "Parmi les principales menaces figurent également l'assèchement pour le développement des infrastructures côtières et l'altération du drainage naturel et de l'approvisionnement en eau douce associés au développement routier."],
-       "imagenes": {
-           "imagen1": "./imagenes/sala3/laguna1.jpg",
-           "alt1": "Les herbiers marins dans les Caraïbes.",
-           "name1": "Les herbiers marins dans les Caraïbes.",
-           "autor1": "Rodrigo Balaguer",
-           "autor2": "Rodrigo Balaguer",
-           "imagen2": "./imagenes/sala3/laguna2.jpg",
-           "alt2": "Lagon, Haïti.",
-           "name2": "Lagon, Haïti."
-       },
-       "background": "#528641",
-       "colorText": "#FFFFFF"
-   },
-
-   "section24" : {
+    },
+    "section23": {
+        "indicador": "Autres écosystèmes présents dans le CBC",
+        "colorIndicador": "#103A62",
+        "title": "Lagons",
+        "contenido": [
+            "Les lagons côtiers des Antilles sont très menacés par le changement climatique, car l'élévation du niveau de la mer et l'intrusion d'eau salée affectent leur équilibre naturel, leur productivité et les espèces qui y vivent.",
+            "Parmi les principales menaces figurent également l'assèchement pour le développement des infrastructures côtières et l'altération du drainage naturel et de l'approvisionnement en eau douce associés au développement routier."
+        ],
+        "imagenes": {
+            "imagen1": "./imagenes/sala3/laguna1.jpg",
+            "alt1": "Les herbiers marins dans les Caraïbes.",
+            "name1": "Les herbiers marins dans les Caraïbes.",
+            "autor1": "Rodrigo Balaguer",
+            "autor2": "Rodrigo Balaguer",
+            "imagen2": "./imagenes/sala3/laguna2.jpg",
+            "alt2": "Lagon, Haïti.",
+            "name2": "Lagon, Haïti."
+        },
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+    "section24": {
         "img": "./imagenes/sala3/medusa.jpg",
         "description": "Méduses dans les eaux des Caraïbes"
     },
-
-    "section25" : {
+    "section25": {
         "contenido": "Dans la salle suivante, vous trouverez des informations sur l'Initiative CBC et sur la manière dont elle travaille pour protéger ces écosystèmes importants.",
         "backLink": "/Sala2",
         "nextLink": "/Sala4"
     },
-
     "footer": {
         "title": "“La CBC est Vie”",
-        "contenido": ["Une initiative des gouvernements de Cuba, de la République Dominicaine, de la République d'Haïti, de Porto Rico et de la Jamaïque. Financée par l'Union Européenne (UE) avec le soutien du Programme des Nations Unies pour l'Environnement (PNUE).",
-                    "Sede de la Secretaría del CBC República Dominicana, Miembros",
-                    "© 2020, Centro de Información y Gestión Tecnológica de Santiago de Cuba, MEGACEN."],
-                    "subtitle": "Institutions associées ",
-                    "instituciones": ["Ministère des sciences, de la technologie et de l'environnement de la République de Cuba",
-                                    "inistère de l'environnement et des ressources naturelles de la République Dominicaine",
-                                    "Ministère des ressources naturelles et environnementales du gouvernement de Porto Rico ",
-                                    "Ministère de l'environnement de la République d'Haïti ",
-                                    "Ministère de la croissance économique et de la création d'emplois de la Jamaïque (MEGJC)",
-                                    "Union Européenne (UE)",
-                                    "Programme des Nations Unies pour l'Environnement (PNUE)"],
-                    "descript": "Tous droits réservés - 2022  ",
-                    "design": "Design by CICLOS STUDIO"       
+        "subtitle": "Institutions associées ",
+        "instituciones": [
+            "Ministère des sciences, de la technologie et de l'environnement de la République de Cuba",
+            "inistère de l'environnement et des ressources naturelles de la République Dominicaine",
+            "Ministère des ressources naturelles et environnementales du gouvernement de Porto Rico ",
+            "Ministère de l'environnement de la République d'Haïti ",
+            "Ministère de la croissance économique et de la création d'emplois de la Jamaïque (MEGJC)",
+            "Union Européenne (UE)",
+            "Programme des Nations Unies pour l'Environnement (PNUE)"
+        ],
+        "descript": "Tous droits réservés - 2022  ",
+        "design": "Design by CICLOS STUDIO"
     }
 }

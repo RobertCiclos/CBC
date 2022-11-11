@@ -190,10 +190,12 @@ const Footer = () => {
 
         {
           text &&
-          <p className=''>
+          <p className='text-left font-[400] text-[16px] leading-[28px] mt-[24px]'>
             {dataFooter.footer.text[0]}
             <br/>
+            <br/>
             {dataFooter.footer.text[1]}
+            <br/>
             <br/>
             {dataFooter.footer.text[2]}
           </p>
