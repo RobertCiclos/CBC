@@ -79,7 +79,7 @@
     "section9" : {
         "title": "Zones noyaux de conservation dans le CBC",
         "contenido": ["La délimitation actuelle du CBC couvre une superficie totale de 199,703 kilomètres carrés, dont 40,434 kilomètres carrés (20,2%) sont des zones noyaux de conservation et 159,269 kilomètres carrés (79,8%) sont des zones de connectivité."],
-        "subtitle": "Zones de connectivité dans le Corridor Biologique dans la Caraïbe",
+        "subtitle": "Zones Centrales de Conservation du Corridor Biologique dans la Caraïbe",
         "colorSubtitle": "#103A62",
         "imagen":  "./imagenes/fr/coreMapa.png",
         "description": ["Carte des zones identifiées comme noyaux de conservation dans la limite du Corridor Biologique dans la Caraïbe, tirée du Système intégré de gestion des connaissances (IKMS) du CBC"],
