@@ -1,37 +1,41 @@
-{   
-    "section1" : {
-        "img" : "./imagenes/sala1/hero-sala1.jpg",
+{
+    "section1": {
+        "img": "./imagenes/sala1/hero-sala1.jpg",
         "title": "Ecological Connectivity and the Caribbean Biological Corridor",
         "sala": "Room 1"
     },
-    
-    "section2" : {
-        "contenido": ["The insular Caribbean is recognized for its rich biodiversity and ecosystems, and for its high number of endemic species, meaning that they are unique to each place. Therefore, it is one of the “hot spots” of global biodiversity.",
-                       "In addition, the Greater Antilles serve as a bridge for ecological connectivity between North and South America and is recognized as a valuable biological corridor hence, its conservation is a priority.",
-                            "Due to the existing threats the corridor faces, protecting its ecosystems and its natural processes is necessary to ensure a prosperous future for the region.",
-                                "Given the above, the Caribbean Biological Corridor (CBC) was established; an initiative of the governments of Cuba, Haiti, the Dominican Republic, and Puerto Rico, to which Jamaica has recently joined. The CBC works to promote coordinated actions that contribute to the conservation, connectivity, and maintenance of ecosystem services in the region." ]
+    "section2": {
+        "contenido": [
+            "The insular Caribbean is recognized for its rich biodiversity and ecosystems, and for its high number of endemic species, meaning that they are unique to each place. Therefore, it is one of the “hot spots” of global biodiversity.",
+            "In addition, the Greater Antilles serve as a bridge for ecological connectivity between North and South America and is recognized as a valuable biological corridor hence, its conservation is a priority.",
+            "Due to the existing threats the corridor faces, protecting its ecosystems and its natural processes is necessary to ensure a prosperous future for the region.",
+            "Given the above, the Caribbean Biological Corridor (CBC) was established; an initiative of the governments of Cuba, Haiti, the Dominican Republic, and Puerto Rico, to which Jamaica has recently joined. The CBC works to promote coordinated actions that contribute to the conservation, connectivity, and maintenance of ecosystem services in the region."
+        ]
     },
-
-    "section3" : {
+    "section3": {
         "title": "THE CARIBBEAN AND ITS BIODIVERSITY",
-        "contenido": ["The Caribbean is home to a significant proportion of global biodiversity. This is why it is considered one of the 35 biodiversity “hot spots” in the world.",
-                        "These entail areas of the planet that have a high percentage of endemic species, exclusive to that place, or highly threatened species."],
+        "contenido": [
+            "The Caribbean is home to a significant proportion of global biodiversity. This is why it is considered one of the 35 biodiversity “hot spots” in the world.",
+            "These entail areas of the planet that have a high percentage of endemic species, exclusive to that place, or highly threatened species."
+        ],
         "subtitle": null,
-        "imagen":  "./imagenes/sala1/mapa-puntos-calientes.jpg",
-        "description": ["Map of biodiversity hotspots. Myers, N., Mittermeier, R., Mittermeier, C. et al. Biodiversity hotspots for conservation priorities. Nature 403, 853-858 (2000).",
-                        "https://doi.org/10.1038/35002501"],
+        "imagen": "./imagenes/sala1/mapa-puntos-calientes.jpg",
+        "description": [
+            "Map of biodiversity hotspots. Myers, N., Mittermeier, R., Mittermeier, C. et al. Biodiversity hotspots for conservation priorities. Nature 403, 853-858 (2000).",
+            "https://doi.org/10.1038/35002501"
+        ],
         "background": "#528641",
         "colorText": "#FFFFFF"
     },
-    
-    "section4" : {
+    "section4": {
         "title": "UNIQUE BIODIVERSITY IN THE CARIBBEAN REGION",
-        "contenido": ["Unique habitats and ecosystems exist in the Greater Antilles, resulting in high levels of endemism. That is, with species that are only found in these places, such as the Ricord’s iguana in Isla Cabritos, in the National Park Lago Enriquillo (Dominican Republic)."],
+        "contenido": [
+            "Unique habitats and ecosystems exist in the Greater Antilles, resulting in high levels of endemism. That is, with species that are only found in these places, such as the Ricord’s iguana in Isla Cabritos, in the National Park Lago Enriquillo (Dominican Republic)."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala1/iguana-ricord.jpg",
             "alt1": "Ricord’s Iguana (Cyclura ricordii).",
             "name1": "Ricord’s Iguana (Cyclura ricordii).",
-
             "imagen2": "./imagenes/sala1/isla-cabritos.jpg",
             "alt2": "Isla Cabritos, Lago Enriquillo, Dominican Republic.",
             "name2": "Isla Cabritos, Lago Enriquillo, Dominican Republic."
@@ -39,10 +43,11 @@
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
-    
-    "section5" : {
+    "section5": {
         "title": "WHAT IS A BIOLOGICAL CORRIDOR?",
-        "contenido": ["A terrestrial or marine area that provides connectivity between landscapes, ecosystems, and habitats to maintain biodiversity and ecological and evolutionary processes; while it provides areas for social concertation to promote conservation and sustainable use of natural resources."],        
+        "contenido": [
+            "A terrestrial or marine area that provides connectivity between landscapes, ecosystems, and habitats to maintain biodiversity and ecological and evolutionary processes; while it provides areas for social concertation to promote conservation and sustainable use of natural resources."
+        ],
         "imagen1": "./imagenes/sala1/img-ecosistema-manglar.jpg",
         "alt1": "Caribbean mangrove ecosystem, a nursery for fish and invertebrates.",
         "description": "Caribbean mangrove ecosystem, a nursery for fish and invertebrates.",
@@ -50,24 +55,33 @@
         "colorText": "#FFFFFF"
     },
 
-    "section7" : {
+    "section6": {
+        "url": "https://www.youtube.com/embed/TTlnqGE0sSg",
+        "title": "Biological Corridor in the Caribbean: an alternative connection beyond borders."
+    },
+
+    "section7": {
         "title": "BIOLOGICAL CORRIDOR IN THE GREATER ANTILLES",
-        "contenido": ["The satellite image illustrates some migratory routes and different connections in the CBC. We see examples of regional connectivity such as the migratory routes of birds of prey, sea turtles, and whale sharks. It is also possible to see the spawning areas of snappers and groupers and the dispersal areas of reef fish larvae."],
+        "contenido": [
+            "The satellite image illustrates some migratory routes and different connections in the CBC. We see examples of regional connectivity such as the migratory routes of birds of prey, sea turtles, and whale sharks. It is also possible to see the spawning areas of snappers and groupers and the dispersal areas of reef fish larvae."
+        ],
         "subtitle": null,
-        "imagen":  "./imagenes/ing/conexiones.jpg",
-        "description": ["Map of the Greater Antilles illustrating some examples of connectivity in the CBC."],
+        "imagen": "./imagenes/ing/conexiones.jpg",
+        "description": [
+            "Map of the Greater Antilles illustrating some examples of connectivity in the CBC."
+        ],
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
-
-    "section8" : {
+    "section8": {
         "title": "CONSERVING BIODIVERSITY IN THE INSULAR CARIBBEAN",
-        "contenido": ["In the Greater Antilles, the CBC has identified areas with high species richness and low levels of anthropic transformation. These areas have been prioritized for preservation and are known as “core areas” of importance for conservation."],
+        "contenido": [
+            "In the Greater Antilles, the CBC has identified areas with high species richness and low levels of anthropic transformation. These areas have been prioritized for preservation and are known as “core areas” of importance for conservation."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala1/bosque-seco.jpg",
             "alt1": "Dry forest of the Desembarco del Granma National Park in Cuba.",
             "name1": "Dry forest of the Desembarco del Granma National Park in Cuba.",
-
             "imagen2": "./imagenes/sala1/reinita-azulada.jpg",
             "alt2": "Black-throated blue warbler (Dendroica caerulescens).",
             "name2": "Black-throated blue warbler (Dendroica caerulescens)."
@@ -75,27 +89,30 @@
         "background": "#528641",
         "colorText": "#FFFFFF"
     },
-
-    "section9" : {
+    "section9": {
         "title": "CORE CONSERVATION AREAS IN THE CBC",
-        "contenido": ["The current CBC demarcation covers a total area of 199,703 km2, of which 40,434 km2 (20.2%) represent core conservation areas and 159,269 km2 (79.8%) connectivity areas."],
+        "contenido": [
+            "The current CBC demarcation covers a total area of 199,703 km2, of which 40,434 km2 (20.2%) represent core conservation areas and 159,269 km2 (79.8%) connectivity areas."
+        ],
         "subtitle": "Core Conservation Areas in the Caribbean Biological Corridor",
         "colorSubtitle": "#103A62",
-        "imagen":  "./imagenes/ing/coreMapa.png",
-        "description": ["Map of the identified core conservation areas within the demarcation of the Caribbean Biological Corridor, as presented in the  BioAtlas, a spatial information tool from the Integrated Knowledge Management System of the CBC."],
+        "imagen": "./imagenes/ing/coreMapa.png",
+        "description": [
+            "Map of the identified core conservation areas within the demarcation of the Caribbean Biological Corridor, as presented in the  BioAtlas, a spatial information tool from the Integrated Knowledge Management System of the CBC."
+        ],
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
-
-    "section10" : {
+    "section10": {
         "title": "OTHER CORE CONSERVATION AREAS",
-        "contenido": ["Humid forests in the Caribbean comprise some of the core areas of importance for conservation and water security in the CBC.",
-                        "These ecosystems capture water, protect, and contain river flows, reducing the chances of flooding."],
+        "contenido": [
+            "Humid forests in the Caribbean comprise some of the core areas of importance for conservation and water security in the CBC.",
+            "These ecosystems capture water, protect, and contain river flows, reducing the chances of flooding."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala1/el-yunque.jpg",
             "alt1": "El Yunque, Puerto Rico",
             "name1": "El Yunque, Puerto Rico",
-
             "imagen2": "./imagenes/sala1/bosque-humedo.jpg",
             "alt2": "Humid forest",
             "name2": "Humid forest",
@@ -104,17 +121,17 @@
         "background": "#528641",
         "colorText": "#FFFFFF"
     },
-
-    "section11" : {
+    "section11": {
         "title": "ECOLOGICAL CONNECTIVITY",
-        "contenido": ["Ecological connectivity is considered a property of the landscape in which there is a natural flow of matter and energy between different ecosystems, and is key to nature conservation.",
-                        "Ecological connectivity allows the movement and safe dispersion of wild species between preserved nuclei.",
-                            "If such connectivity were lost, it would affect both species within ecosystems, productivity, resilience, and the ability of ecosystems to generate environmental services for humans."],
+        "contenido": [
+            "Ecological connectivity is considered a property of the landscape in which there is a natural flow of matter and energy between different ecosystems, and is key to nature conservation.",
+            "Ecological connectivity allows the movement and safe dispersion of wild species between preserved nuclei.",
+            "If such connectivity were lost, it would affect both species within ecosystems, productivity, resilience, and the ability of ecosystems to generate environmental services for humans."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala1/manglares-montecristi1.jpg",
             "alt1": "Mangroves in Montecristi are connected with coral reefs in the Dominican Republic",
             "name1": "Mangroves in Montecristi are connected with coral reefs in the Dominican Republic",
-
             "imagen2": "./imagenes/sala1/manglares-montecristi2.jpg",
             "alt2": "Mangroves in Montecristi are connected with coral reefs in the Dominican Republic",
             "name2": "Mangroves in Montecristi are connected with coral reefs in the Dominican Republic"
@@ -122,16 +139,16 @@
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
-
-    "section12" : {
+    "section12": {
         "title": "FROM THE MOUNTAIN TO THE SEA",
-        "contenido": ["An example of ecological connectivity occurs between coastal and mountain ecosystems in different sites of the CBC,. These allow the movement of some species, as well as the environmental services that nature provides.",
-                        "The CBC seeks to maintain and restore ecological connectivity in its areas of intervention, as well as to reduce existing pressures and threats."],
+        "contenido": [
+            "An example of ecological connectivity occurs between coastal and mountain ecosystems in different sites of the CBC,. These allow the movement of some species, as well as the environmental services that nature provides.",
+            "The CBC seeks to maintain and restore ecological connectivity in its areas of intervention, as well as to reduce existing pressures and threats."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala1/transicion-parque.jpg",
             "alt1": "Transition from Pic Macaya National Park to the Haitian Caribbean coast.",
             "name1": "Transition from Pic Macaya National Park to the Haitian Caribbean coast.",
-
             "imagen2": "./imagenes/sala1/colibri-mellisuga.jpg",
             "alt2": "Costa Sur, République Dominicaine",
             "name2": "Costa Sur, République Dominicaine"
@@ -139,16 +156,16 @@
         "background": "#528641",
         "colorText": "#FFFFFF"
     },
-
-    "section13" : {
+    "section13": {
         "title": "IMPORTANCE OF CONNECTIVITY",
-        "contenido": ["Species, such as the western osprey, that migrate periodically, do not recognize the political-administrative boundaries between nations.",
-                        "To maintain connectivity in the region, it is necessary to ensure coordinated actions at the regional level beyond the borders of the insular Caribbean."],
+        "contenido": [
+            "Species, such as the western osprey, that migrate periodically, do not recognize the political-administrative boundaries between nations.",
+            "To maintain connectivity in the region, it is necessary to ensure coordinated actions at the regional level beyond the borders of the insular Caribbean."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala1/matorral-cactaceo.jpg",
             "alt1": "Cactaceous scrub in connection with marine ecosystems.",
             "name1": "Cactaceous scrub in connection with marine ecosystems.",
-
             "imagen2": "./imagenes/sala1/aguila-pescadora.jpg",
             "alt2": "Western osprey (Pandion haliaetus), Dominican Republic.",
             "name2": "Western osprey (Pandion haliaetus), Dominican Republic."
@@ -156,29 +173,32 @@
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
-
-    "section14" : {
+    "section14": {
         "title": "AREAS OF IMPORTANCE FOR CONNECTIVITY IN THE CBC",
-        "contenido": ["This map highlights the areas that have been prioritized for connectivity in the corridor, while showing the core conservation areas and areas of importance for the restoration of connectivity.",
-                        "It is relevant to note, that in the marine scope, 92.5% corresponds to areas of importance for connectivity while in the terrestrial scope, to 56.7%."],
+        "contenido": [
+            "This map highlights the areas that have been prioritized for connectivity in the corridor, while showing the core conservation areas and areas of importance for the restoration of connectivity.",
+            "It is relevant to note, that in the marine scope, 92.5% corresponds to areas of importance for connectivity while in the terrestrial scope, to 56.7%."
+        ],
         "subtitle": "Key Areas for Connectivity in the Caribbean Biological Corridor",
         "colorSubtitle": "#FFFFFF",
-        "imagen":  "./imagenes/ing/keyMapa.png",
-        "description": ["Map of the current corridor demarcation, highlighting identified areas of importance for connectivity in the Caribbean Biological Corridor, as well as core areas of importance for conservation."],
+        "imagen": "./imagenes/ing/keyMapa.png",
+        "description": [
+            "Map of the current corridor demarcation, highlighting identified areas of importance for connectivity in the Caribbean Biological Corridor, as well as core areas of importance for conservation."
+        ],
         "background": "#528641",
         "colorText": "#FFFFFF"
     },
-
-    "section15" : {
+    "section15": {
         "title": "BIODIVERSITY THREATS IN THE CARIBBEAN",
-        "contenido": ["Biodiversity in the Caribbean has become vulnerable due to the irrational use of natural resources, pollution, and degradation of ecosystems.",
-                        "Unsustainable human activities, disorganized population growth, and increased demand for resources have triggered deforestation and the degradation of coastal and marine ecosystems.",
-                            "Rising sea levels, increased intensity and frequency of hurricanes, tropical storms and droughts are some of the impacts of climate change, that affect ecosystems, local communities, and their livelihoods, as well as the region's biodiversity."],
+        "contenido": [
+            "Biodiversity in the Caribbean has become vulnerable due to the irrational use of natural resources, pollution, and degradation of ecosystems.",
+            "Unsustainable human activities, disorganized population growth, and increased demand for resources have triggered deforestation and the degradation of coastal and marine ecosystems.",
+            "Rising sea levels, increased intensity and frequency of hurricanes, tropical storms and droughts are some of the impacts of climate change, that affect ecosystems, local communities, and their livelihoods, as well as the region's biodiversity."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala1/redes-abandonadas.jpg",
             "alt1": "Abandoned nets in a reef: bad fishing practice.",
             "name1": "Abandoned nets in a reef: bad fishing practice.",
-
             "imagen2": "./imagenes/sala1/suelos-degradados.jpg",
             "alt2": "Degraded soils",
             "name2": "Degraded soils"
@@ -186,15 +206,15 @@
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
-
-    "section16" : {
+    "section16": {
         "title": "THE CBC’S APPROACH",
-        "contenido": ["The CBC team focuses its work on biodiversity conservation; specifically, to ensure  connections that occur among landscapes, ecosystems, and habitats in the Caribbean."],
+        "contenido": [
+            "The CBC team focuses its work on biodiversity conservation; specifically, to ensure  connections that occur among landscapes, ecosystems, and habitats in the Caribbean."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala1/monitoreo-arrecifes.jpg",
             "alt1": "Reef monitoring in Jardines de la Reina, Cuba.",
             "name1": "Reef monitoring in Jardines de la Reina, Cuba.",
-
             "imagen2": "./imagenes/sala1/equipo-CBC.jpg",
             "alt2": "The CBC team carrying out biodiversity monitoring activities in the Greater Antilles.",
             "name2": "The CBC team carrying out biodiversity monitoring activities in the Greater Antilles."
@@ -202,17 +222,16 @@
         "background": "#528641",
         "colorText": "#FFFFFF"
     },
-
-    
-    "section17" : {
+    "section17": {
         "title": "CONSERVATION, SUSTAINABLE USE AND RESTORATION",
-        "contenido": ["The core marine and terrestrial areas are conformed by protected areas and other areas of importance for connectivity.",
-                        "To maintain existing connections, it is vital to promote ecosystem restoration, such as planting of coral species, reforestation, and the sustainability of natural resource use."],
+        "contenido": [
+            "The core marine and terrestrial areas are conformed by protected areas and other areas of importance for connectivity.",
+            "To maintain existing connections, it is vital to promote ecosystem restoration, such as planting of coral species, reforestation, and the sustainability of natural resource use."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala1/pinares-cuba.jpg",
             "alt1": "Cuban pine forests",
             "name1": "Cuban pine forests",
-
             "imagen2": "./imagenes/sala1/peces-cirujano.jpg",
             "alt2": "Surgeonfish on coral reefs of La Hispaniola",
             "name2": "Surgeonfish on coral reefs of La Hispaniola"
@@ -220,15 +239,15 @@
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
-
-    "section18" : {
+    "section18": {
         "title": "SUPPORT PROTECTED AREAS MANAGEMENT",
-        "contenido": ["The Initiative seeks to promote conservation and improve the management of protected areas of regional importance; a task that the CBC carries out jointly with protected area systems, Ministries of the Environment, as well as its partners and local stakeholders in the CBC countries."],
+        "contenido": [
+            "The Initiative seeks to promote conservation and improve the management of protected areas of regional importance; a task that the CBC carries out jointly with protected area systems, Ministries of the Environment, as well as its partners and local stakeholders in the CBC countries."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala1/salto-guayabo.jpg",
             "alt1": "Guayabo Falls in the buffer zone of La Mensura National Park in Cuba.",
             "name1": "Guayabo Falls in the buffer zone of La Mensura National Park in Cuba.",
-
             "imagen2": "./imagenes/sala1/cardumenes-protegidos.jpg",
             "alt2": "Protected fish schools in Cayo Largo, Cuba.",
             "name2": "Protected fish schools in Cayo Largo, Cuba.",
@@ -237,16 +256,16 @@
         "background": "#528641",
         "colorText": "#FFFFFF"
     },
-
-    "section19" : {
+    "section19": {
         "title": "LOCAL WORK IN THE CBC",
-        "contenido": ["The CBC works with local partners and actors to address the issues that threaten biodiversity.",
-                        "Through these actions, we seek to promote sustainable lifestyles for communities that in turn contribute to conservation."],
+        "contenido": [
+            "The CBC works with local partners and actors to address the issues that threaten biodiversity.",
+            "Through these actions, we seek to promote sustainable lifestyles for communities that in turn contribute to conservation."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala1/cultivos-cafe1.jpg",
             "alt1": "Coffee crops in agroforestry nursery in Pic Macayá, Haití",
             "name1": "Coffee crops in agroforestry nursery in Pic Macayá, Haití",
-
             "imagen2": "./imagenes/sala1/cultivos-cafe2.jpg",
             "alt2": "Coffee crops in agroforestry nursery in Pic Macayá, Haití",
             "name2": "Coffee crops in agroforestry nursery in Pic Macayá, Haití"
@@ -254,16 +273,16 @@
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
-
-    "section20" : {
+    "section20": {
         "title": "PRODUCTIVE LANDSCAPES CONTRIBUTE TO CONNECTIVITY",
-        "contenido": ["The CBC includes large, unprotected territories that are part of its ecological network, sites with productive landscapes that help maintain regional ecological connectivity, and the goods and services provided by ecosystems.",
-                        "By implementing conservation, ecological restoration, and sustainable use actions, such as coffee growing, beekeeping, or agroforestry, we seek to improve the livelihoods  of communities contributing to the connectivity among landscapes and the conservation of biodiversity."],
+        "contenido": [
+            "The CBC includes large, unprotected territories that are part of its ecological network, sites with productive landscapes that help maintain regional ecological connectivity, and the goods and services provided by ecosystems.",
+            "By implementing conservation, ecological restoration, and sustainable use actions, such as coffee growing, beekeeping, or agroforestry, we seek to improve the livelihoods  of communities contributing to the connectivity among landscapes and the conservation of biodiversity."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala1/apicultura-cosecha1.jpg",
             "alt1": "Beekeeping and coffee bean harvesting, sustainable productive activities in the Caribbean.",
             "name1": "Beekeeping and coffee bean harvesting, sustainable productive activities in the Caribbean.",
-
             "imagen2": "./imagenes/sala1/apicultura-cosecha2.jpg",
             "alt2": "Beekeeping and coffee bean harvesting, sustainable productive activities in the Caribbean.",
             "name2": "Beekeeping and coffee bean harvesting, sustainable productive activities in the Caribbean.",
@@ -272,30 +291,28 @@
         "background": "#528641",
         "colorText": "#FFFFFF"
     },
-
-    "section21" : {
+    "section21": {
         "img": "./imagenes/sala1/barcosala1.jpg",
-    
         "description": "Artisanal fishermen in the coral reef barrier, Les Cayemites, Haiti."
     },
-
-    "section22" : {
+    "section22": {
         "contenido": "In the next room, you will find more information about some of the priority species for conservation in the CBC.",
         "backLink": "/",
         "nextLink": "/Sala2"
     },
-
     "footer": {
         "title": "“THE CBC IS CONNECTIVITY”",
         "subtitle": "Associated Institutions",
-        "instituciones": ["Ministry of Science, technology and the Environment of the Republic of Cuba",
-                        "Ministry of the Environment of Haiti",
-                        "Ministry of the Environment and Natural Resources of the Dominican Republic",
-                        "Ministry of Economic Growth and Job Creation of Jamaica (MEGJC)",
-                        "Department of Natural and Environmental Resources of the Government of Puerto Rico",
-                        "United Nations Environment Programme (UNEP)",
-                        "European Union (EU)"],
+        "instituciones": [
+            "Ministry of Science, technology and the Environment of the Republic of Cuba",
+            "Ministry of the Environment of Haiti",
+            "Ministry of the Environment and Natural Resources of the Dominican Republic",
+            "Ministry of Economic Growth and Job Creation of Jamaica (MEGJC)",
+            "Department of Natural and Environmental Resources of the Government of Puerto Rico",
+            "United Nations Environment Programme (UNEP)",
+            "European Union (EU)"
+        ],
         "descript": "All rights reserved – 2022",
-        "design": "Design by CICLOS STUDIO"       
+        "design": "Design by CICLOS STUDIO"
     }
 }

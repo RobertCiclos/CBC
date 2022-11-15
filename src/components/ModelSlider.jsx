@@ -59,7 +59,7 @@ const ModelSlider = (props) => {
                         className='mtPharagraphs pl-[5%]'>
                         {props.lista.map(
                             (parrafo, index) => {
-                                return <li><p key={props.title + index}>{parrafo}<br /><br /></p></li>
+                                return <li key={props.title + index}><p >{parrafo}<br /><br /></p></li>
                             }
                         )}
                     </ul>

@@ -46,6 +46,11 @@
         "img": "./imagenes/sala2/especies-migratorias.jpg",
         "title": "Espèces migratrices"
     },
+
+    "section4": {
+        "url": "https://www.youtube.com/embed/l8eDH-ZyJKw",
+        "title": "Acuarela de Especies"
+    },
     "section6": {
         "indicador": "Espèces migratrices",
         "colorIndicador": "#85BD70",
@@ -137,6 +142,10 @@
         "background": "#103A62",
         "colorText": "#FFFFFF"
     },
+    "section12": {
+        "url": "https://www.youtube.com/embed/Dmd9nRVQ9W8",
+        "title": "Prioridades de conservación del Corredor Biológico en el Caribe: Solenodontes."
+    },
     "section13": {
         "indicador": "Espèces endémiques",
         "colorIndicador": "#103A62",
@@ -210,6 +219,10 @@
         "background": "#103A62",
         "colorText": "#FFFFFF"
     },
+    "section18": {
+        "url": "https://www.youtube.com/embed/MGrtAW4vIGw",
+        "title": "Prioridades de conservación del Corredor Biológico en el Caribe: Cocodrilo Americano."
+    },
     "section19": {
         "indicador": "Autres espèces importantes pour la conservation",
         "colorIndicador": "#103A62",
@@ -244,6 +257,10 @@
         },
         "background": "#103A62",
         "colorText": "#FFFFFF"
+    },
+    "section20I": {
+        "url": "https://www.youtube.com/embed/-DnvDMxE6U0",
+        "title": "Prioridades de conservación del Corredor Biológico en el Caribe: Manatí Antillano."
     },
     "section21": {
         "indicador": "Autres espèces importantes pour la conservation",
@@ -316,6 +333,10 @@
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
+    },
+    "section25": {
+        "url": "https://www.youtube.com/embed/bbJuql_wM1s",
+        "title": "Prioridades de conservación del Corredor Biológico en el Caribe: Águila Pescadora."
     },
     "section26": {
         "indicador": "Espèces d'intérêt pour le CBC",

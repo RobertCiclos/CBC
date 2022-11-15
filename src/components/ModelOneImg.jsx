@@ -6,23 +6,23 @@ const ModelOneImg = (props) => {
    const numParrafos = props.contenido.length
    const idioma = useSelector(state => state.idioma.value)
    var general = ""
- 
+
    switch (idioma) {
-     case "ingles":
-       general = require('../bd/ingles/General.json')
-       break;
-     case "frances":
-       general = require('../bd/frances/General.json')
-       break;
-     case "creole":
-       general = require('../bd/creole/General.json')
-       break;
-     case "español":
-       general = require('../bd/spaniol/General.json')
-       break;
-     default:
-       general = require('../bd/spaniol/General.json')
-       break;
+      case "ingles":
+         general = require('../bd/ingles/General.json')
+         break;
+      case "frances":
+         general = require('../bd/frances/General.json')
+         break;
+      case "creole":
+         general = require('../bd/creole/General.json')
+         break;
+      case "español":
+         general = require('../bd/spaniol/General.json')
+         break;
+      default:
+         general = require('../bd/spaniol/General.json')
+         break;
    }
    return (
       <div className='contSalas '>
@@ -58,28 +58,33 @@ const ModelOneImg = (props) => {
             <cite>{props.description}</cite>
             {
                props.download &&
-               <div 
+               <div
                   className='flex w-full bg-white justify-center items-center
                   gap-[18px] py-[16px] 
                   sm:gap-[24px] md:py-[24px]
                   md:gap-[36px]
                   lg:gap-[59px]'>
-                  <img 
+                  <img
                      src='imagenes/sala4/pdf-logo.png'
                      alt='PDF'
                      className='w-[28px] sm:w-[72px] md:w-[80px]'>
                   </img>
                   <div className='grid'>
-                     <p 
+                     <p
                         className='font-Public font-bold text-[#181818]
-                        text-[12px] sm:text-[20px] md:text-[26px] lg:text-[32px]'> 
+                        text-[12px] sm:text-[20px] md:text-[26px] lg:text-[32px]'>
                         {props.sub}
                      </p>
-                     <p 
-                        className='text-[#103A62] underline
-                        text-[8px] sm:text-[16px]'> 
-                        {props.see}
-                     </p>
+                     <a
+                        className='cursor-pointer'
+                        href='http://virtualexpo.cbcbio.org/DeclaracionDeSantoDomingo_10_jul_2007.pdf'
+                        target="_blank">
+                        <p
+                           className='text-[#103A62] underline
+                           text-[8px] sm:text-[16px]'>
+                           {props.see}
+                        </p>
+                     </a>
                   </div>
                </div>
             }

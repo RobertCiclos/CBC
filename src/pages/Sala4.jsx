@@ -58,11 +58,13 @@ const Sala4 = () => {
             <Parrafos {...dataSala4.section2} />
           </main>
         </section>
-
+        {/*
         <section
           id='section 3'>
+          
           <img src="./imagenes/sala2/video-gris.jpg" alt="Video" className="separador" />
         </section>
+        */}
 
         <section
           id='section4'

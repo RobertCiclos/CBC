@@ -10,6 +10,7 @@ import ModelTitle from '../components/ModelTitle'
 import Parrafos from '../components/models/Parrafos'
 import { Link } from "react-scroll";
 import { useSelector } from 'react-redux'
+import Video from '../components/Video'
 
 const Sala2 = () => {
 
@@ -157,7 +158,7 @@ const Sala2 = () => {
 
         <section
           id='section4'>
-          <img src="./imagenes/sala2/video-especies.jpg" alt="Video Especies Representativas" className="separador" />
+          <Video {...dataSala2.section4} />
         </section>
 
         <section
@@ -166,8 +167,7 @@ const Sala2 = () => {
           className='imgBack relative z-0 xl:h-[100vh] bg-bottom'>
           <ModelTitle {...dataSala2.section5} />
         </section>
-
-
+        
         <section
           id='section6'
           style={{ background: dataSala2.section6.background, color: dataSala2.section6.colorText }}
@@ -212,9 +212,9 @@ const Sala2 = () => {
 
         <section
           id='section12'>
-          <img src="./imagenes/sala2/video-gris.jpg" alt="Video" className="separador" />
+          <Video {...dataSala2.section12} />
         </section>
-
+        
         <section
           id='section13'
           style={{ background: dataSala2.section13.background, color: dataSala2.section13.colorText }}
@@ -252,7 +252,7 @@ const Sala2 = () => {
 
         <section
           id='section18'>
-          <img src="./imagenes/sala2/video-cocodrilo.jpg" alt="Video Vulnerable" className="separador" />
+          <Video {...dataSala2.section18} />
         </section>
 
         <section
@@ -267,6 +267,11 @@ const Sala2 = () => {
           style={{ background: dataSala2.section20.background, color: dataSala2.section20.colorText }}
           className='pySection'>
           <ModelSlider {...dataSala2.section20} />
+        </section>
+
+        <section
+          id='section20I'>
+          <Video {...dataSala2.section20I} />
         </section>
 
         <section
@@ -299,7 +304,7 @@ const Sala2 = () => {
 
         <section
           id='section25'>
-          <img src="./imagenes/sala2/video-gris.jpg" alt="Video gris" className="separador" />
+          <Video {...dataSala2.section25} />
         </section>
 
         <section

@@ -42,6 +42,10 @@
         "nombre14": "Zangi ameriken",
         "img14": "./imagenes/sala2/angila.png"
     },
+    "section4": {
+        "url": "https://www.youtube.com/embed/l8eDH-ZyJKw",
+        "title": "Acuarela de Especies"
+    },
     "section5": {
         "img": "./imagenes/sala2/especies-migratorias.jpg",
         "title": "Espès migratè"
@@ -137,6 +141,10 @@
         "background": "#103A62",
         "colorText": "#FFFFFF"
     },
+    "section12": {
+        "url": "https://www.youtube.com/embed/Dmd9nRVQ9W8",
+        "title": "Prioridades de conservación del Corredor Biológico en el Caribe: Solenodontes."
+    },
     "section13": {
         "indicador": "Espès andemik",
         "colorIndicador": "#103A62",
@@ -210,6 +218,10 @@
         "background": "#103A62",
         "colorText": "#FFFFFF"
     },
+    "section18": {
+        "url": "https://www.youtube.com/embed/MGrtAW4vIGw",
+        "title": "Prioridades de conservación del Corredor Biológico en el Caribe: Cocodrilo Americano."
+    },
     "section19": {
         "indicador": "Lòt espès ki enpòtan pou konsèvasyon",
         "colorIndicador": "#103A62",
@@ -244,6 +256,10 @@
         },
         "background": "#103A62",
         "colorText": "#FFFFFF"
+    },
+    "section20I": {
+        "url": "https://www.youtube.com/embed/-DnvDMxE6U0",
+        "title": "Prioridades de conservación del Corredor Biológico en el Caribe: Manatí Antillano."
     },
     "section21": {
         "indicador": "Lòt espès ki enpòtan pou konsèvasyon",
@@ -316,6 +332,10 @@
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
+    },
+    "section25": {
+        "url": "https://www.youtube.com/embed/bbJuql_wM1s",
+        "title": "Prioridades de conservación del Corredor Biológico en el Caribe: Águila Pescadora."
     },
     "section26": {
         "indicador": "Espès ki gen enterè pou CBC",

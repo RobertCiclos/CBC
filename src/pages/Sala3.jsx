@@ -73,11 +73,13 @@ const Sala3 = () => {
           <ModelSlider state={true} type='Recorted' {...dataSala3.section4} />
         </section>
 
-        <section
+        {/*
+          <section
           id='section 5'>
           <img src="./imagenes/sala2/video-gris.jpg" alt="Video" className="separador" />
         </section>
-
+        */
+        }
         <section
           id='section6'
           style={{ background: dataSala3.section6.background, color: dataSala3.section6.colorText }}
@@ -98,11 +100,13 @@ const Sala3 = () => {
           className='pySection'>
           <ModelOneImg {...dataSala3.section8} />
         </section>
-
+        {/*
         <section
           id='section 9'>
           <img src="./imagenes/sala2/video-gris.jpg" alt="Video" className="separador" />
         </section>
+        */
+      }
 
         <section
           id='section10'

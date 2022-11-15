@@ -10,7 +10,6 @@ const Footer = () => {
   var text = null
   switch (location) {
     case '/':
-      console.log("/")
       switch (idioma) {
         case "ingles":
           dataFooter = require('../bd/ingles/Home.json')
@@ -219,9 +218,7 @@ const Footer = () => {
                     lg:grid-cols-1 lg:text-left">
                     {
                       dataFooter.footer.instituciones.map((item) => (
-                        <li className='w-full 
-                    
-                     '>{item}</li>
+                        <li key={item} className='w-full '>{item}</li>
                       ))
                     }
                   </ul>
@@ -242,7 +239,7 @@ const Footer = () => {
                   lg:grid-cols-3">
                   {
                     dataFooter.footer.instituciones.map((item) => (
-                      <li className='w-full 
+                      <li key={item} className='w-full 
                       md:translate-x-[-18px] 
                       lg:translate-x-[-24px]'>{item}
                       </li>

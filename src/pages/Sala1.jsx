@@ -9,12 +9,13 @@ import ModelNavigation from '../components/ModelNavigation'
 import ModelTitle from '../components/ModelTitle'
 import Parrafos from '../components/models/Parrafos'
 import { useSelector } from 'react-redux'
+import Video from '../components/Video'
 
 
 const Sala1 = () => {
 
   const istablet = useMediaQuery({ query: '(min-width: 1280px)' })
-  
+
   const idioma = useSelector(state => state.idioma.value)
   var dataSala1 = ""
 
@@ -35,7 +36,7 @@ const Sala1 = () => {
       dataSala1 = require('../bd/spaniol/Sala1.json')
       break;
   }
-  
+
   return (
     <AnimatePresence>
       <motion.div
@@ -83,7 +84,7 @@ const Sala1 = () => {
 
         <section
           id='section6'>
-          <img src="./imagenes/sala1/videoSala1.jpg" alt="Video Conexión natural" className="separador" />
+          <Video {...dataSala1.section6}/>
         </section>
 
         <section

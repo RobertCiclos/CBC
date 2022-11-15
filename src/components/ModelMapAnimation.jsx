@@ -66,9 +66,9 @@ const ModelMapAnimation = (props) => {
                {props.description.map(
                   (parrafo, index) => {
                      if (index === numParrafos - 1) {
-                        return <span key={props.title + index}>{parrafo}</span>
+                        return <span key={props.title + index + index}>{parrafo}</span>
                      } else {
-                        return <span key={props.title + index}>{parrafo}<br /></span>
+                        return <span key={props.title + index + index}>{parrafo}<br /></span>
                      }
                   }
                )}

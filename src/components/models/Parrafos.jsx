@@ -7,9 +7,9 @@ const Parrafos = (props) => {
             {props.contenido.map(
                 (parrafo, index) => {
                     if (index === numParrafos - 1) {
-                        return <p key={props.title + index}>{parrafo}</p>
+                        return <p key={parrafo + index}>{parrafo}</p>
                     } else {
-                        return <p key={props.title + index}>{parrafo}<br /><br /></p>
+                        return <p key={parrafo + index}>{parrafo}<br /><br /></p>
                     }
                 }
             )}
