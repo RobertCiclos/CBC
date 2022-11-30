@@ -233,7 +233,7 @@ const Sala2 = () => {
           id='section15'
           style={{ backgroundImage: istablet && `url(${dataSala2.section15.img})` }}
           className='imgBack relative z-0 xl:h-[100vh] bg-bottom'>
-          <ModelTitle {...dataSala2.section10} />
+          <ModelTitle {...dataSala2.section15} />
         </section>
 
         <section

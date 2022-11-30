@@ -289,6 +289,9 @@
 
     "footer": {
         "title": "“CBC est Connectivité”",
+        "text": [
+            "Une initiative des gouvernements de Cuba, de la République Dominicaine, de la République d'Haïti, de Porto Rico et de la Jamaïque. Financée par l'Union Européenne (UE) avec le soutien du Programme des Nations Unies pour l'Environnement (PNUE)."
+        ],
         "subtitle": "Institutions associées ",
         "instituciones": ["Ministère des sciences, de la technologie et de l'environnement de la République de Cuba",
                         "Ministère de l'environnement de la République d'Haïti ",

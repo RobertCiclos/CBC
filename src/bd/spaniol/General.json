@@ -8,7 +8,7 @@
         "Español",
         "Francés",
         "Inglés",
-        "Creolé"
+        "Kreyòl"
     ],
     "salas": [
         "Sala 1",
@@ -16,8 +16,8 @@
         "Sala 3",
         "Sala 4",
         "Sala 5",
-        "Home",
-        "Home"
+        "Inicio",
+        "Inicio"
     ],
     "return": "Anterior sala ",
     "next": "Siguiente sala"

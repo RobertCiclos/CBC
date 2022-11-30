@@ -44,9 +44,9 @@
     },
     "section5": {
         "img": "./imagenes/sala2/especies-migratorias.jpg",
-        "title": "Espèces migratrices"
+        "title": "Espèces migratrices",
+        "autor1": "KP McFarland"
     },
-
     "section4": {
         "url": "https://www.youtube.com/embed/l8eDH-ZyJKw",
         "title": "Acuarela de Especies"
@@ -60,6 +60,7 @@
         ],
         "imagen1": "./imagenes/sala2/tordo-bicknell-min.jpg",
         "alt1": "Grive de Bicknell (Catharus bicknelli)",
+        "autor1": "Budgora",
         "description": "Grive de Bicknell (Catharus bicknelli)",
         "background": "#103A62",
         "colorText": "#FFFFFF"
@@ -98,7 +99,8 @@
             "name1": "Requin-baleine (Rhincodon typus)",
             "imagen2": "./imagenes/sala2/tiburon-ballena2.jpg",
             "alt2": "Requin-baleine (Rhincodon typus)",
-            "name2": "Requin-baleine (Rhincodon typus)"
+            "name2": "Requin-baleine (Rhincodon typus)",
+            "autor2": "Pablo Cersosimo"
         },
         "background": "#103A62",
         "colorText": "#FFFFFF"
@@ -118,7 +120,9 @@
             "name1": "Raie manta ou raie manta géante (Mobula birostris) ",
             "imagen2": "./imagenes/sala2/manta-gigante2.jpg",
             "alt2": "Raie manta ou raie manta géante (Mobula birostris) ",
-            "name2": "Raie manta ou raie manta géante (Mobula birostris) "
+            "name2": "Raie manta ou raie manta géante (Mobula birostris) ",
+            "autor1": "Avi Klapfer",
+            "autor2": "Avi Klapfer"
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
@@ -236,6 +240,7 @@
         "alt1": "Le pétrel à tête noire (Pterodroma hasitata) en migration, survolant la mer de la Caraïbe.",
         "description": "Le pétrel à tête noire (Pterodroma hasitata) en migration, survolant la mer de la Caraïbe.",
         "background": "#ffffff",
+        "autor1": "Tom Benson",
         "colorText": "#181818"
     },
     "section20": {
@@ -252,6 +257,7 @@
             "alt1": "Lamantin des Antilles (Trichecherus manatus)",
             "name1": "Lamantin des Antilles (Trichecherus manatus)",
             "imagen2": "./imagenes/sala2/habitad-manati.jpg",
+            "autor1": "Avi Klapfer",
             "alt2": "Habitat du lamantin des Antilles (Trichechus manatus) à Estero Hondo (République Dominicaine)",
             "name2": "Habitat du lamantin des Antilles (Trichechus manatus) à Estero Hondo (République Dominicaine)"
         },
@@ -276,6 +282,8 @@
             "alt1": "Cachalot (Physeter macrocephalus) et sa queue particulière",
             "name1": "Cachalot (Physeter macrocephalus) et sa queue particulière",
             "imagen2": "./imagenes/sala2/cabeza-cachalote.jpg",
+            "autor1": "Victoria Hoete-Dodd",
+            "autor2": "Victoria Hoete-Dodd",
             "alt2": "Tête d'un cachalot (Physeter macrocephalus) avec une mâchoire dentée",
             "name2": "Tête d'un cachalot (Physeter macrocephalus) avec une mâchoire dentée"
         },
@@ -298,7 +306,6 @@
             "Le Corail Annularis et Montastraea (Orbicella faveolata)"
         ],
         "contenido2": "Ceux-ci ont été classés comme prioritaires par le CBC en tant que cibles de conservation.",
-        
         "imagenes": {
             "imagen1": "./imagenes/sala2/coral-cuerno-siervo-min.jpg",
             "alt2": "Corail corne d’élan (Acropora palmata).",
@@ -329,6 +336,7 @@
             "name1": "Nidification du balbuzard pêcheur (Pandion halietus)",
             "imagen2": "./imagenes/sala2/aguila-pescadora.jpg",
             "alt2": "Balbuzard pêcheur (Pandion halietus)",
+            "autor1": "Jill Bazeley",
             "name2": "Balbuzard pêcheur (Pandion halietus)"
         },
         "background": "#FFFFFF",
@@ -409,6 +417,9 @@
     },
     "footer": {
         "title": "“CBC est Nature”",
+        "text": [
+            "Une initiative des gouvernements de Cuba, de la République Dominicaine, de la République d'Haïti, de Porto Rico et de la Jamaïque. Financée par l'Union Européenne (UE) avec le soutien du Programme des Nations Unies pour l'Environnement (PNUE)."
+        ],
         "subtitle": "Institutions associées ",
         "instituciones": [
             "Ministère des sciences, de la technologie et de l'environnement de la République de Cuba",

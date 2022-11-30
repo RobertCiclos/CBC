@@ -9,6 +9,7 @@ import ModelTitle from '../components/ModelTitle'
 import Parrafos from '../components/models/Parrafos'
 import ModelMapAnimation from '../components/ModelMapAnimation'
 import { useSelector } from 'react-redux'
+import Video from '../components/Video'
 
 const Sala4 = () => {
   const istablet = useMediaQuery({ query: '(min-width: 1280px)' })
@@ -58,13 +59,11 @@ const Sala4 = () => {
             <Parrafos {...dataSala4.section2} />
           </main>
         </section>
-        {/*
+
         <section
-          id='section 3'>
-          
-          <img src="./imagenes/sala2/video-gris.jpg" alt="Video" className="separador" />
+          id='section3'>
+          <Video {...dataSala4.section3} />
         </section>
-        */}
 
         <section
           id='section4'

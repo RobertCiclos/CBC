@@ -11,9 +11,9 @@ import { useSelector } from 'react-redux'
 
 const Sala5 = () => {
 
- 
+
   const istablet = useMediaQuery({ query: '(min-width: 1280px)' })
-  
+
   const idioma = useSelector(state => state.idioma.value)
 
   var dataSala5 = ""
@@ -53,12 +53,12 @@ const Sala5 = () => {
         <section
           id='section2'
           className='pySection'>
-          <main 
+          <main
             className='contSalas '>
             <Parrafos {...dataSala5.section2} />
           </main>
         </section>
-      
+
         <section
           id='section3'
           className='pySection bg-[#528641] text-white'>
@@ -68,39 +68,40 @@ const Sala5 = () => {
               {dataSala5.section3.contenido}
             </p>
             <img
-              src="./imagenes/sala5/logosostenibles.png"
+              src={dataSala5.section3.imgs[0]}
               alt="Logo Objetivos Desarrollo"
-              className="mx-auto scale-50 mt-[8px] mb-[24px]
-            sm:scale-100 sm:mt-[32px] sm:mb-[56px]
+              className="mx-auto scale-50 mt-[8px] mb-[24px] w-[175px]
+            sm:scale-100 sm:mt-[32px] sm:mb-[56px] sm:w-[260px]
             lg:mt-[56px] lg:mb-[88px]" />
             <div
               className='grid grid-cols-3 justify-items-center gap-y-[32px]
             sm:grid-cols-2 sm:gap-y-[64px]
             lg:grid-cols-3 lg:gap-y-[80px]'>
+
               <img
-                src="./imagenes/sala5/findelapobreza.png"
+                src={dataSala5.section3.imgs[1]}
                 alt="Fin de la Pobreza"
-                className=" w-[80px] sm:w-auto" />
+                className=" w-[80px] sm:w-[200px]" />
               <img
-                src="./imagenes/sala5/hambrecero.png"
-                alt="Hambre Cero"
-                className=" w-[80px] sm:w-auto" />
+                src={dataSala5.section3.imgs[2]}
+                alt="Fin de la Pobreza"
+                className=" w-[80px] sm:w-[200px]" />
               <img
-                src="./imagenes/sala5/igualdaddegenero.png"
-                alt="Igualdad de Género "
-                className=" w-[80px] sm:w-auto" />
+                src={dataSala5.section3.imgs[3]}
+                alt="Fin de la Pobreza"
+                className=" w-[80px] sm:w-[200px]" />
               <img
-                src="./imagenes/sala5/accionporelclima.png"
-                alt="Acción por el Clima "
-                className=" w-[80px] sm:w-auto" />
+                src={dataSala5.section3.imgs[4]}
+                alt="Fin de la Pobreza"
+                className=" w-[80px] sm:w-[200px]" />
               <img
-                src="./imagenes/sala5/ecosistematerrestre.png"
-                alt="Ecossistema Terrestre "
-                className=" w-[80px] sm:w-auto" />
+                src={dataSala5.section3.imgs[5]}
+                alt="Fin de la Pobreza"
+                className=" w-[80px] sm:w-[200px]" />
               <img
-                src="./imagenes/sala5/vidasubmarina.png"
-                alt="Vida Submarina  "
-                className="w-[80px] sm:w-auto" />
+                src={dataSala5.section3.imgs[6]}
+                alt="Fin de la Pobreza"
+                className=" w-[80px] sm:w-[200px]" />
             </div>
           </div>
         </section>
@@ -242,7 +243,7 @@ const Sala5 = () => {
           id='section23'
           style={{ background: dataSala5.section23.background, color: dataSala5.section23.colorText }}
           className='pySection'>
-          <ModelSlider edit={true} {...dataSala5.section23} />
+          <ModelSlider edit={true} type="SliderAux" {...dataSala5.section23} />
         </section>
 
         <section

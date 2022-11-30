@@ -5,6 +5,7 @@ import SliderRecorted3 from './SliderRecorted3'
 import SliderRecorted4 from './SliderRecorted4'
 import SliderRecorted5 from './SliderRecorted5'
 import Slider from './Slider'
+import SliderAux from './SliderAux'
 
 const ModelSlider = (props) => {
     const numParrafos = props.contenido.length
@@ -20,7 +21,10 @@ const ModelSlider = (props) => {
             return <SliderRecorted4 state={props.state} {...props.imagenes} />
         } else if (props.type === 'Recorted5') {
             return <SliderRecorted5 state={props.state} {...props.imagenes} />
-        } else {
+        } else if (props.type === 'SliderAux') {
+            return <SliderAux state={props.state} {...props.imagenes} />
+        }
+        else {
             return <Slider state={props.state} {...props.imagenes} />
         }
     }

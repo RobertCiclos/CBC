@@ -3,7 +3,7 @@ import React from 'react'
 const Video = (props) => {
     return (
         <iframe
-            src={props.url}
+            src={props.url+"?rel=0"}
             title={props.title}
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

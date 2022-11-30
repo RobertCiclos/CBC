@@ -394,11 +394,11 @@ const Home = () => {
                   <li>SOH Conservación</li>
                   <li>Noel López</li>
                   <li>Fausto de Nevi</li>
-                  <li>Carlos Suarez</li>
+                  <li>Carlos Suárez</li>
                   <li>Matias Balaguer</li>
                   <li>Alejandro Balaguer</li>
                   <li>Nobert Dechanel</li>
-                  <li>Manuel Félix Perez</li>
+                  <li>Manuel Feliz Pérez</li>
                   <li>Rodrigo Balaguer</li>
                 </ul>
               </div>

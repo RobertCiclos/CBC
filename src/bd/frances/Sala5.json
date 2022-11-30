@@ -1,24 +1,34 @@
-{   
-    "section1" : {
-        "img" : "./imagenes/sala5/fondosala5.jpg",
+{
+    "section1": {
+        "img": "./imagenes/sala5/fondosala5.jpg",
         "title": "15 ans de l'initiative du Corridor Biologique dans la Caraïbe (CBC): Réalisations, défis et avenir",
         "sala": "Salle 5"
     },
-    
-    "section2" : {
-        "contenido": ["L'initiative CBC célèbre 15 ans de travail au cours desquels elle a obtenu des résultats importants en termes de coordination et de coopération entre ses pays membres pour la conservation et la gestion durable de la biodiversité.",
-                       "Les principales réalisations, les défis et l'approche de travail pour faire des Caraïbes insulaires, et en particulier du Corridor Biologique dans la Caraïbe, un havre pour la faune sauvage où les communautés peuvent bénéficier de moyens de subsistance durables, sont présentés ici. " ]
+    "section2": {
+        "contenido": [
+            "L'initiative CBC célèbre 15 ans de travail au cours desquels elle a obtenu des résultats importants en termes de coordination et de coopération entre ses pays membres pour la conservation et la gestion durable de la biodiversité.",
+            "Les principales réalisations, les défis et l'approche de travail pour faire des Caraïbes insulaires, et en particulier du Corridor Biologique dans la Caraïbe, un havre pour la faune sauvage où les communautés peuvent bénéficier de moyens de subsistance durables, sont présentés ici. "
+        ]
     },
-
-    "section3" : {
-        "title" : "La CBC et les ODD",
-        "contenido": "Les actions promues par l'initiative CBC sont liées à plusieurs des Objectifs de Développement Durable, notamment aux objectifs 14 et 15 sur la Vie Sous-marine et la Vie des Écosystèmes Terrestres, mais aussi à d'autres, comme, par exemple, à l'objectif 1 sur L'Élimination de la Pauvreté et à l'objectif 2 sur la Faim Zéro, en créant des opportunités de développement local durable ; à l'objectif 5 sur L'Égalité des Sexes ; et à l'objectif 13 sur L'Action Climatique, en mettant en œuvre des politiques et des stratégies de développement local durable. "
+    "section3": {
+        "title": "La CBC et les ODD",
+        "contenido": "Les actions promues par l'initiative CBC sont liées à plusieurs des Objectifs de Développement Durable, notamment aux objectifs 14 et 15 sur la Vie Sous-marine et la Vie des Écosystèmes Terrestres, mais aussi à d'autres, comme, par exemple, à l'objectif 1 sur L'Élimination de la Pauvreté et à l'objectif 2 sur la Faim Zéro, en créant des opportunités de développement local durable ; à l'objectif 5 sur L'Égalité des Sexes ; et à l'objectif 13 sur L'Action Climatique, en mettant en œuvre des politiques et des stratégies de développement local durable. ",
+        "imgs": [
+            "./imagenes/sala5/objFrances/title-min.png",
+            "./imagenes/sala5/objFrances/goal1-min.png",
+            "./imagenes/sala5/objFrances/goal2-min.png",
+            "./imagenes/sala5/objFrances/goal3-min.png",
+            "./imagenes/sala5/objFrances/goal4-min.png",
+            "./imagenes/sala5/objFrances/goal5-min.png",
+            "./imagenes/sala5/objFrances/goal6-min.png"
+        ]
     },
-
-    "section4" : {
+    "section4": {
         "title": "Message 1 : Importance de la conservation des zones noyaux",
-        "contenido": ["Les zones noyaux du CBC protègent les valeurs de biodiversité les plus représentatives et les plus essentielles afin de maintenir la connectivité et la fourniture de services écosystémiques au profit des communautés des Caraïbes. 95 % des zones noyaux du CBC se trouvent dans des zones protégées, ce qui leur confère une plus grande protection juridique.",
-                        "L’étude continue, le soutien à la gestion et le renforcement de ces zones protégées, ainsi que la promotion de moyens de subsistance durables dans les communautés environnantes sont essentiels à une conservation efficace et constituent une priorité pour le CBC."],
+        "contenido": [
+            "Les zones noyaux du CBC protègent les valeurs de biodiversité les plus représentatives et les plus essentielles afin de maintenir la connectivité et la fourniture de services écosystémiques au profit des communautés des Caraïbes. 95 % des zones noyaux du CBC se trouvent dans des zones protégées, ce qui leur confère une plus grande protection juridique.",
+            "L’étude continue, le soutien à la gestion et le renforcement de ces zones protégées, ainsi que la promotion de moyens de subsistance durables dans les communautés environnantes sont essentiels à une conservation efficace et constituent une priorité pour le CBC."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala5/reservacuchillas1.jpg",
             "alt1": "Pic Macaya, Haïti.",
@@ -30,16 +40,16 @@
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
-
-    "section5" : {
+    "section5": {
         "title": "Message 2: Importance de la connectivité et de la restauration écologique et productive",
-        "contenido": ["Pour l'initiative CBC, le maintien de la connectivité entre les zones noyaux est essentiel pour garantir l'intégrité écologique, le bon fonctionnement des écosystèmes et assurer la fourniture de services écosystémiques."
-                     ,"À cette fin, elle donne la priorité à la collaboration avec les communautés locales et les différents partenaires pour garantir une utilisation durable des ressources, la restauration des écosystèmes dégradés et la restauration des paysages productifs."],
+        "contenido": [
+            "Pour l'initiative CBC, le maintien de la connectivité entre les zones noyaux est essentiel pour garantir l'intégrité écologique, le bon fonctionnement des écosystèmes et assurer la fourniture de services écosystémiques.",
+            "À cette fin, elle donne la priorité à la collaboration avec les communautés locales et les différents partenaires pour garantir une utilisation durable des ressources, la restauration des écosystèmes dégradés et la restauration des paysages productifs."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala5/vegetacion.jpg",
             "alt1": "Végétation épiphyte poussant sur un tronc d'arbre dans la forêt tropicale, El Yunque.",
             "name1": "Végétation épiphyte poussant sur un tronc d'arbre dans la forêt tropicale, El Yunque.",
-
             "imagen2": "./imagenes/sala5/restauracion.jpg",
             "alt2": "Restauration de la forêt par des femmes dans la Sierra del Rosario, à Cuba.",
             "name2": "Restauration de la forêt par des femmes dans la Sierra del Rosario, à Cuba."
@@ -47,11 +57,12 @@
         "background": "#528641",
         "colorText": "#fff"
     },
-
-    "section6" : {
+    "section6": {
         "title": "Message 3: Travailler pour la conservation des espèces et des écosystèmes prioritaires du CBC",
-        "contenido": ["La CBC a identifié des espèces et des écosystèmes prioritaires pour la conservation qui sont représentatifs de la région, qui sont menacés et qui sont essentiels au maintien de la connectivité régionale et à la fourniture de services écosystémiques."
-                     ,"Assurer une relation durable et saine entre les communautés humaines et la vie sauvage est l'une des priorités de travail de l'initiative CBC pour garantir la conservation efficace de la nature, ainsi que la continuité et l'intégrité des processus écologiques nécessaires à la durabilité des moyens de subsistance des populations. À cette fin, elle intègre dans son réseau de partenaires des décideurs, des autorités, des acteurs de la société civile, des représentants du secteur privé et des utilisateurs des ressources naturelles."],
+        "contenido": [
+            "La CBC a identifié des espèces et des écosystèmes prioritaires pour la conservation qui sont représentatifs de la région, qui sont menacés et qui sont essentiels au maintien de la connectivité régionale et à la fourniture de services écosystémiques.",
+            "Assurer une relation durable et saine entre les communautés humaines et la vie sauvage est l'une des priorités de travail de l'initiative CBC pour garantir la conservation efficace de la nature, ainsi que la continuité et l'intégrité des processus écologiques nécessaires à la durabilité des moyens de subsistance des populations. À cette fin, elle intègre dans son réseau de partenaires des décideurs, des autorités, des acteurs de la société civile, des représentants du secteur privé et des utilisateurs des ressources naturelles."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala5/esponjamarina.jpg",
             "alt1": "Éponge marine dans les récifs coralliens.",
@@ -64,22 +75,24 @@
         "background": "#fff",
         "colorText": "#181818"
     },
-
-    "section7" : {
+    "section7": {
         "title": "Forêts et changement climatique ",
-        "contenido": ["La reconstruction d'éléments d'écosystèmes de forêts humides est une contribution importante à la connectivité et à la conservation de la biodiversité, mais aussi à la récupération des services environnementaux fournis par ces écosystèmes, et à l'adaptation au changement climatique.",
-                    "Les pays du CBC travaillent à la restauration des écosystèmes, créant ainsi une infrastructure verte pour l'adaptation et la réduction de la vulnérabilité aux effets du changement climatique."],
+        "contenido": [
+            "La reconstruction d'éléments d'écosystèmes de forêts humides est une contribution importante à la connectivité et à la conservation de la biodiversité, mais aussi à la récupération des services environnementaux fournis par ces écosystèmes, et à l'adaptation au changement climatique.",
+            "Les pays du CBC travaillent à la restauration des écosystèmes, créant ainsi une infrastructure verte pour l'adaptation et la réduction de la vulnérabilité aux effets du changement climatique."
+        ],
         "imagen1": "./imagenes/sala5/bosquehumedo.jpg",
-        "alt1": "Forêt humide en République Dominicaine.",        
+        "alt1": "Forêt humide en République Dominicaine.",
         "description": "Forêt humide en République Dominicaine.",
         "background": "#528641",
         "colorText": "#FFFFFF"
     },
-
-    "section8" : {
+    "section8": {
         "title": "Conservation et changement climatique ",
-        "contenido": ["Lors de la sélection des zones noyauz et des zones de connectivité de la nouvelle délimitation du CBC, la résilience et la vulnérabilité au changement climatique ont été considérées comme un facteur clé."
-                     ,"Les récifs coralliens et d'autres écosystèmes prioritaires sont très vulnérables au changement climatique; il est donc prioritaire pour le CBC de réduire les pressions exercées sur ces écosystèmes afin d'améliorer leur résilience et leur capacité d'adaptation."],
+        "contenido": [
+            "Lors de la sélection des zones noyauz et des zones de connectivité de la nouvelle délimitation du CBC, la résilience et la vulnérabilité au changement climatique ont été considérées comme un facteur clé.",
+            "Les récifs coralliens et d'autres écosystèmes prioritaires sont très vulnérables au changement climatique; il est donc prioritaire pour le CBC de réduire les pressions exercées sur ces écosystèmes afin d'améliorer leur résilience et leur capacité d'adaptation."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala5/barreradecoral.jpg",
             "alt1": "Barrière de corail, Île-à-Vache, Haïti.",
@@ -91,11 +104,12 @@
         "background": "#fff",
         "colorText": "#181818"
     },
-
-    "section9" : {
+    "section9": {
         "title": " Message 4: Observation de la biodiversité ",
-        "contenido": ["Le CBC développe un système d’observation de la biodiversité d'importance régionale, qui permet d'étudier et de surveiller les cibles de conservation d'importance régionale."
-                     ,"Il s'agit notamment de l’observation des oiseaux, des lamantins, des tortues de mer, des crocodiles américains et des récifs. En outre, des études ont été réalisées sur les voies de migration de diverses espèces et sur l'impact des ouragans sur la biodiversité; des informations utiles pour la science et la prise de décision concernant leur conservation et leur gestion."],
+        "contenido": [
+            "Le CBC développe un système d’observation de la biodiversité d'importance régionale, qui permet d'étudier et de surveiller les cibles de conservation d'importance régionale.",
+            "Il s'agit notamment de l’observation des oiseaux, des lamantins, des tortues de mer, des crocodiles américains et des récifs. En outre, des études ont été réalisées sur les voies de migration de diverses espèces et sur l'impact des ouragans sur la biodiversité; des informations utiles pour la science et la prise de décision concernant leur conservation et leur gestion."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala5/tortugacarey.jpg",
             "alt1": "Observation des tortues de mer imbriquées.",
@@ -107,16 +121,16 @@
         "background": "#528641",
         "colorText": "#fff"
     },
-
-    "section10" : {
+    "section10": {
         "title": "Observation pour la génération d'informations",
-        "contenido": ["Le CBC mène des actions d’observation de la biodiversité soutenues par des partenaires stratégiques dans chacun de ses pays membres."
-                     ,"Les informations obtenues sur les migrations des oiseaux et d'autres espèces, sur l'état des populations d'espèces prioritaires, ainsi que sur les écosystèmes et les menaces auxquelles ils sont confrontés, nous permettent de comprendre les processus écologiques, leurs tendances et l'état de conservation de ces priorités. La disponibilité de ces données permet d'éclairer la prise de décision en matière de conservation de la biodiversité et de restauration des écosystèmes."],
+        "contenido": [
+            "Le CBC mène des actions d’observation de la biodiversité soutenues par des partenaires stratégiques dans chacun de ses pays membres.",
+            "Les informations obtenues sur les migrations des oiseaux et d'autres espèces, sur l'état des populations d'espèces prioritaires, ainsi que sur les écosystèmes et les menaces auxquelles ils sont confrontés, nous permettent de comprendre les processus écologiques, leurs tendances et l'état de conservation de ces priorités. La disponibilité de ces données permet d'éclairer la prise de décision en matière de conservation de la biodiversité et de restauration des écosystèmes."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala5/buso.jpg",
             "alt1": "Observation des récifs et des prairies marines.",
             "name1": "Observation des récifs et des prairies marines.",
-
             "imagen2": "./imagenes/sala5/monitoreo2.jpg",
             "alt2": "Observation des écosystèmes terrestres.",
             "name2": "Observation des écosystèmes terrestres."
@@ -124,16 +138,16 @@
         "background": "#fff",
         "colorText": "#181818"
     },
-
-    "section11" : {
+    "section11": {
         "title": "Observation d’oiseaux",
-        "contenido": ["L'Initiative CBC assure le suivi de plusieurs espèces d'oiseaux migrateurs qui utilisent le corridor biologique; cela comprend le suivi du baguage des passereaux, le comptage des rapaces migrateurs et l'étude de la grive de Bicknell."
-                     ,"Ces activités fournissent des indicateurs clés de la connectivité et de la santé des populations d'oiseaux en enregistrant les espèces présentes dans le corridor, avec des données telles que le nombre d'individus par espèce, le moment de la migration, la direction et la hauteur du vol, et même le sexe et l'âge approximatif des individus, lorsque cela peut être déterminé."],
+        "contenido": [
+            "L'Initiative CBC assure le suivi de plusieurs espèces d'oiseaux migrateurs qui utilisent le corridor biologique; cela comprend le suivi du baguage des passereaux, le comptage des rapaces migrateurs et l'étude de la grive de Bicknell.",
+            "Ces activités fournissent des indicateurs clés de la connectivité et de la santé des populations d'oiseaux en enregistrant les espèces présentes dans le corridor, avec des données telles que le nombre d'individus par espèce, le moment de la migration, la direction et la hauteur du vol, et même le sexe et l'âge approximatif des individus, lorsque cela peut être déterminé."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala5/moniaves.jpg",
             "alt1": "Étude d’oiseaux; noter le sexe et l'âge des individus pour les enregistrer.",
             "name1": "Étude d’oiseaux; noter le sexe et l'âge des individus pour les enregistrer.",
-
             "imagen2": "./imagenes/sala5/aguila.jpg",
             "alt2": "Balbuzard Pêcheur (Pandion halietus).",
             "name2": "Balbuzard Pêcheur (Pandion halietus)."
@@ -141,20 +155,25 @@
         "background": "#528641",
         "colorText": "#fff"
     },
-
-    "section12" : {
+    "section12": {
         "title": "Système intégré de gestion des connaissances",
-        "contenido": ["L'initiative CBC développe un système intégré de gestion des connaissances (BIOINFO), qui compte déjà plus de 4,6 millions d'enregistrements géoréférencés contenant des informations sur jusqu'à 18 sujets importants pour le CBC. Ce système est constamment mis à jour et est disponible pour faciliter la prise de décision dans les pays membres du CBC. Son outil spatial BioAtlas peut être exploré à l'adresse https://bioatlas.cbcbio.org/."],
-        "imagen":  "./imagenes/sala5/bioatlas.jpg",
-        "description": ["Page d'accueil de BioAtlas."],
+        "contenido": "L'initiative CBC développe un système intégré de gestion des connaissances (BIOINFO: ",
+        "contenido2": "), qui compte déjà plus de 4,6 millions d'enregistrements géoréférencés contenant des informations sur jusqu'à 18 sujets importants pour le CBC. Ce système est constamment mis à jour et est disponible pour faciliter la prise de décision dans les pays membres du CBC. Son outil spatial BioAtlas peut être exploré à l'adresse ",
+        "urlBio": "https:ikms.cbcbio.org",
+        "url": "https:bioatlas.cbcbio.org/",
+        "imagen": "./imagenes/sala5/bioatlas.jpg",
+        "description": [
+            "Page d'accueil de BioAtlas: "
+        ],
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
-    
-    "section13" : {
+    "section13": {
         "title": " Message 5: Actions et projets CBC",
-        "contenido": ["Grâce à la mise en œuvre d'actions et de projets au niveau local, le CBC a réussi à améliorer la durabilité des conditions et des moyens de subsistance de plus de 5000 personnes dans les communautés rurales, contribuant ainsi à réduire les pressions sur la biodiversité. "
-                     ,"À ce jour, plus de 10 projets ont été développés dans les trois pays, en plus de plusieurs projets développés par d'autres institutions faisant partie du réseau de partenaires du CBC, qui contribuent également aux objectifs de l'Initiative."],
+        "contenido": [
+            "Grâce à la mise en œuvre d'actions et de projets au niveau local, le CBC a réussi à améliorer la durabilité des conditions et des moyens de subsistance de plus de 5000 personnes dans les communautés rurales, contribuant ainsi à réduire les pressions sur la biodiversité. ",
+            "À ce jour, plus de 10 projets ont été développés dans les trois pays, en plus de plusieurs projets développés par d'autres institutions faisant partie du réseau de partenaires du CBC, qui contribuent également aux objectifs de l'Initiative."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala5/trabajodecampo.jpg",
             "alt1": "Travail de terrain dans le cadre d’une étude.",
@@ -166,20 +185,22 @@
         "background": "#528641",
         "colorText": "#fff"
     },
-
-    "section14" : {
+    "section14": {
         "title": "Actions de conservation et de développement",
-        "contenido": ["Le CBC a mis en œuvre et promu des actions de conservation et de développement durable dans plus de 20 sites et communautés prioritaires, axées sur la réduction des pressions sur la biodiversité associées à des pratiques non durables. Elles ont principalement visé la gestion durable des ressources naturelles, l'utilisation d'énergies propres ou une utilisation plus efficace des sources d'énergie traditionnelles, la promotion de moyens de subsistance alternatifs et durables, ainsi que l'adaptation au changement climatique basée sur les écosystèmes."],
+        "contenido": [
+            "Le CBC a mis en œuvre et promu des actions de conservation et de développement durable dans plus de 20 sites et communautés prioritaires, axées sur la réduction des pressions sur la biodiversité associées à des pratiques non durables. Elles ont principalement visé la gestion durable des ressources naturelles, l'utilisation d'énergies propres ou une utilisation plus efficace des sources d'énergie traditionnelles, la promotion de moyens de subsistance alternatifs et durables, ainsi que l'adaptation au changement climatique basée sur les écosystèmes."
+        ],
         "imagen1": "./imagenes/sala5/expedicioncbc.jpg",
-        "alt1": "Expédition du CBC dans le Parc National El Morro, Montecristi, République Dominicaine.",        
+        "alt1": "Expédition du CBC dans le Parc National El Morro, Montecristi, République Dominicaine.",
         "description": "Expédition du CBC dans le Parc National El Morro, Montecristi, République Dominicaine.",
         "background": "#fff",
         "colorText": "#181818"
     },
-
-    "section15" : {
+    "section15": {
         "title": "Fondation Seguin (Haïti).",
-        "contenido": ["En Haïti, le projet CBC avec la Fondation Seguin vise à protéger et restaurer 70 hectares de forêt indigène, 3 hectares de terres dégradées et à mettre en œuvre un programme de jardins familiaux avec une forte participation des femmes."],
+        "contenido": [
+            "En Haïti, le projet CBC avec la Fondation Seguin vise à protéger et restaurer 70 hectares de forêt indigène, 3 hectares de terres dégradées et à mettre en œuvre un programme de jardins familiaux avec une forte participation des femmes."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala5/vivero.jpg",
             "alt1": "Pépinière, Pic Macaya, Haïti",
@@ -191,15 +212,15 @@
         "background": "#528641",
         "colorText": "#fff"
     },
-
-    "section16" : {
+    "section16": {
         "title": " Projet UCATEBA (République Dominicaine)",
-        "contenido": ["En République Dominicaine, un projet est en cours avec l'Universidad Católica Tecnológica de Barahona (UCATEBA) qui promeut les moyens de subsistance et les pratiques durables afin de réduire les pressions sur la réserve de biosphère de Jaragua-Bahoruco-Enriquillo. Ce projet vise à améliorer les capacités des parties prenantes à gérer la conservation et l'utilisation durable de la biodiversité, et à améliorer les conditions d'infrastructure pour les visiteurs et l'écotourisme."],
+        "contenido": [
+            "En République Dominicaine, un projet est en cours avec l'Universidad Católica Tecnológica de Barahona (UCATEBA) qui promeut les moyens de subsistance et les pratiques durables afin de réduire les pressions sur la réserve de biosphère de Jaragua-Bahoruco-Enriquillo. Ce projet vise à améliorer les capacités des parties prenantes à gérer la conservation et l'utilisation durable de la biodiversité, et à améliorer les conditions d'infrastructure pour les visiteurs et l'écotourisme."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala5/capacitacion.jpg",
             "alt1": "Formation dans le cadre du projet CBC et UCATEBA avec différentes parties prenantes sur le tourisme durable au lac Enriquillo, République Dominicaine.",
             "name1": "Formation dans le cadre du projet CBC et UCATEBA avec différentes parties prenantes sur le tourisme durable au lac Enriquillo, République Dominicaine.",
-
             "imagen2": "./imagenes/sala5/capacitacion2.jpg",
             "alt2": "Formation dans le cadre du projet CBC et UCATEBA avec différentes parties prenantes sur le tourisme durable au lac Enriquillo, République Dominicaine.",
             "name2": "Formation dans le cadre du projet CBC et UCATEBA avec différentes parties prenantes sur le tourisme durable au lac Enriquillo, République Dominicaine."
@@ -207,10 +228,11 @@
         "background": "#fff",
         "colorText": "#181818"
     },
-
-    "section17" : {
+    "section17": {
         "title": "Projet CEDAF",
-        "contenido": ["En collaboration avec le Centre pour le Développement Agricole et Forestier (CEDAF), un projet pilote s'est concentré sur la reproduction de l'apiculture dans l'une des régions les plus déprimées de la République Dominicaine, dans la zone frontalière. Dix ruchers communautaires ont été installés et favorisent actuellement la production apicole. Ce travail contribue à la biodiversité; les pollinisateurs aident à maintenir des écosystèmes sains. En outre, une source de revenus supplémentaire a été générée pour les habitants de ce territoire, à savoir la production de miel et de ses dérivés."],
+        "contenido": [
+            "En collaboration avec le Centre pour le Développement Agricole et Forestier (CEDAF), un projet pilote s'est concentré sur la reproduction de l'apiculture dans l'une des régions les plus déprimées de la République Dominicaine, dans la zone frontalière. Dix ruchers communautaires ont été installés et favorisent actuellement la production apicole. Ce travail contribue à la biodiversité; les pollinisateurs aident à maintenir des écosystèmes sains. En outre, une source de revenus supplémentaire a été générée pour les habitants de ce territoire, à savoir la production de miel et de ses dérivés."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala5/cajasAbeja.jpg",
             "alt1": "Boîtes utilisées pour les travaux d'apiculture.",
@@ -223,12 +245,13 @@
         "background": "#528641",
         "colorText": "#fff"
     },
-
-    "section18" : {
+    "section18": {
         "title": "Agriculture biologique",
-        "contenido": ["Le Parc National Pic Macaya en Haïti est l'un des sites les plus riches en espèces des Caraïbes insulaires et subit une forte pression humaine. Il constitue donc l'une des priorités de CBC dans ce pays.",
-                    "Là, comme ailleurs dans le corridor, le travail des organisations locales est une force essentielle pour réaliser la conservation et l'utilisation durable dans les sites prioritaires de l'Initiative. La Fondation Nouvelle Grande-Anse (FNGA) développe et entretient des pépinières de café et de légumes situées à 800 mètres d'altitude dans la zone tampon du parc.",
-                    "Les jeunes de la région y apprennent les avantages et les bénéfices de l'agriculture biologique. L'approche socio-environnementale de la FNGA englobe une grande variété de projets et d'activités visant à améliorer la qualité de vie de la population locale et à promouvoir la conservation de la nature unique de la région. C'est un exemple à promouvoir dans d'autres domaines importants pour la CBC."],
+        "contenido": [
+            "Le Parc National Pic Macaya en Haïti est l'un des sites les plus riches en espèces des Caraïbes insulaires et subit une forte pression humaine. Il constitue donc l'une des priorités de CBC dans ce pays.",
+            "Là, comme ailleurs dans le corridor, le travail des organisations locales est une force essentielle pour réaliser la conservation et l'utilisation durable dans les sites prioritaires de l'Initiative. La Fondation Nouvelle Grande-Anse (FNGA) développe et entretient des pépinières de café et de légumes situées à 800 mètres d'altitude dans la zone tampon du parc.",
+            "Les jeunes de la région y apprennent les avantages et les bénéfices de l'agriculture biologique. L'approche socio-environnementale de la FNGA englobe une grande variété de projets et d'activités visant à améliorer la qualité de vie de la population locale et à promouvoir la conservation de la nature unique de la région. C'est un exemple à promouvoir dans d'autres domaines importants pour la CBC."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala5/semillas2.jpg",
             "alt1": "Graines de café, Haïti",
@@ -240,29 +263,29 @@
         "background": "#fff",
         "colorText": "#181818"
     },
-
-    "section19" : {
+    "section19": {
         "title": "Pépinières avec une approche de genre",
-        "contenido": ["En el Parque Nacional Pic Macayá en Haití, entre un 40% y 50% de las mujeres que forman parte de la Fundación Nueva Grand Anse (socia del CBC) trabajan en torno a la agricultura y a campañas de formación y sensibilización de la higiene pública. En el vivero, ellas participan en las actividades de llenado de las bolsas de tierra y en el cultivo y transporte de plantas de café y otros productos agrícolas. ''El sueño de las mujeres que trabajamos en la agricultura es poder alimentar a nuestros hijos, cuidar a nuestros maridos, y enviar a nuestros hijos a la escuela'', dice Ilia Henry, técnico agrícola y lideresa en el Pic Macayá."],
+        "contenido": [
+            "En el Parque Nacional Pic Macayá en Haití, entre un 40% y 50% de las mujeres que forman parte de la Fundación Nueva Grand Anse (socia del CBC) trabajan en torno a la agricultura y a campañas de formación y sensibilización de la higiene pública. En el vivero, ellas participan en las actividades de llenado de las bolsas de tierra y en el cultivo y transporte de plantas de café y otros productos agrícolas. ''El sueño de las mujeres que trabajamos en la agricultura es poder alimentar a nuestros hijos, cuidar a nuestros maridos, y enviar a nuestros hijos a la escuela'', dice Ilia Henry, técnico agrícola y lideresa en el Pic Macayá."
+        ],
         "imagen1": "./imagenes/sala5/viveros.jpg",
-        "alt1": "Pépinière, dirigée par des femmes en Haïti.",        
+        "alt1": "Pépinière, dirigée par des femmes en Haïti.",
         "description": "Pépinière, dirigée par des femmes en Haïti.",
         "background": "#528641",
         "colorText": "#fff"
     },
-
-    
-    "section20" : {
+    "section20": {
         "title": "Actions avec d'autres partenaires",
-        "contenido": ["CBC travaille également avec d'autres partenaires pour développer des projets visant à :",
-                    "1) Renforcer avec FUNDEMAR l’étude des lamantins en République Dominicaine. ",
-                    "2) Renforcement institutionnel et formation des acteurs locaux pour promouvoir l'écotourisme dans le Parc National de La Visite en Haïti, qui fait partie de la réserve de biosphère transfrontalière de Jaragua, Bahoruco-Enriquillo, par le biais du Ministère de l'Environnement d’Haïti.",
-                    "3) La poursuite des actions d’études des oiseaux menées par BIOECO à Cuba."],
+        "contenido": [
+            "CBC travaille également avec d'autres partenaires pour développer des projets visant à :",
+            "1) Renforcer avec FUNDEMAR l’étude des lamantins en République Dominicaine. ",
+            "2) Renforcement institutionnel et formation des acteurs locaux pour promouvoir l'écotourisme dans le Parc National de La Visite en Haïti, qui fait partie de la réserve de biosphère transfrontalière de Jaragua, Bahoruco-Enriquillo, par le biais du Ministère de l'Environnement d’Haïti.",
+            "3) La poursuite des actions d’études des oiseaux menées par BIOECO à Cuba."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala5/miembrosdelacomun.jpg",
             "alt1": "Des membres de la communauté préparent des ballots d'herbes marines pour nourrir les lamantins.",
             "name1": "Des membres de la communauté préparent des ballots d'herbes marines pour nourrir les lamantins.",
-
             "imagen2": "./imagenes/sala5/miembrosdelacomun2.jpg",
             "alt2": "Membre de la communauté nourrissant des lamantins.",
             "name2": "Membre de la communauté nourrissant des lamantins."
@@ -270,11 +293,11 @@
         "background": "#fff",
         "colorText": "#181818"
     },
-
-
-    "section21" : {
+    "section21": {
         "title": "Projets de résilience au changement climatique.",
-        "contenido": ["L'économie de la plupart des pays antillais repose sur des activités directement ou indirectement liées aux écosystèmes. Des activités telles que le tourisme, la pêche et l'agriculture dépendent de la santé des écosystèmes et sont très vulnérables aux effets des événements climatiques extrêmes. Ces aspects conditionnent le fait que la vulnérabilité et la résilience au changement climatique doivent être des éléments essentiels dans toute réflexion sur le développement futur de cette initiative."],
+        "contenido": [
+            "L'économie de la plupart des pays antillais repose sur des activités directement ou indirectement liées aux écosystèmes. Des activités telles que le tourisme, la pêche et l'agriculture dépendent de la santé des écosystèmes et sont très vulnérables aux effets des événements climatiques extrêmes. Ces aspects conditionnent le fait que la vulnérabilité et la résilience au changement climatique doivent être des éléments essentiels dans toute réflexion sur le développement futur de cette initiative."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala5/pescador.jpg",
             "alt1": "Pêcheur artisanal sur la côte sud-ouest d'Haïti.",
@@ -286,26 +309,27 @@
         "background": "#528641",
         "colorText": "#fff"
     },
-
-    "section22" : {
+    "section22": {
         "title": "Message 6: Identifier des solutions naturelles aux défis résultant du changement climatique",
-        "contenido": ["La CBC travaille de manière coordonnée pour provoquer des changements transformateurs afin de réduire les menaces directes sur la biodiversité, d'atténuer le changement climatique, de s'y adapter, et de promouvoir des modèles de développement durable et équitable dans la région.",
-                    "L'application de solutions basées sur la nature fait partie des stratégies de lutte contre le changement climatique. Elles comprennent la restauration des écosystèmes, la gestion intégrée des bassins versants et le renforcement des zones protégées."],
+        "contenido": [
+            "La CBC travaille de manière coordonnée pour provoquer des changements transformateurs afin de réduire les menaces directes sur la biodiversité, d'atténuer le changement climatique, de s'y adapter, et de promouvoir des modèles de développement durable et équitable dans la région.",
+            "L'application de solutions basées sur la nature fait partie des stratégies de lutte contre le changement climatique. Elles comprennent la restauration des écosystèmes, la gestion intégrée des bassins versants et le renforcement des zones protégées."
+        ],
         "imagen1": "./imagenes/sala5/coralcerebro.jpg",
         "alt1": "Corail à corne de cerf, mer de la Caraïbe",
         "description": "Corail à corne de cerf, mer de la Caraïbe",
         "background": "#fff",
         "colorText": "#181818"
     },
-
-    "section23" : {
+    "section23": {
         "title": "Renforcement des capacités dans le CBC",
-        "contenido": ["CBC a organisé et réalisé plus de 100 formations et actions de renforcement des capacités avec plus de 4000 participants, apportant des connaissances sur des sujets tels que la biodiversité des Caraïbes, la gestion des menaces sur la biodiversité, l'adaptation au changement climatique, les techniques d’études, la taxonomie et la gestion intégrée des côtes."],
+        "contenido": [
+            "CBC a organisé et réalisé plus de 100 formations et actions de renforcement des capacités avec plus de 4000 participants, apportant des connaissances sur des sujets tels que la biodiversité des Caraïbes, la gestion des menaces sur la biodiversité, l'adaptation au changement climatique, les techniques d’études, la taxonomie et la gestion intégrée des côtes."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala5/primeraferiacbc.jpg",
             "alt1": "CBC à la première Grande Foire Agricole de l'Artisanat et de la Biodiversité COPRELAM qui s'est tenue en 2021 à Anse-à-Pitre, Haïti. ",
             "name1": "CBC à la première Grande Foire Agricole de l'Artisanat et de la Biodiversité COPRELAM qui s'est tenue en 2021 à Anse-à-Pitre, Haïti. ",
-
             "imagen2": "./imagenes/sala5/seminario.jpg",
             "alt2": "Séminaire dans le cadre du projet avec UCATEBA sur l'importance du corridor et les objectifs de conservation aux partenaires du CBC, aux guides touristiques et aux entrepreneurs à Pedernales, République Dominicaine.",
             "name2": "Séminaire dans le cadre du projet avec UCATEBA sur l'importance du corridor et les objectifs de conservation aux partenaires du CBC, aux guides touristiques et aux entrepreneurs à Pedernales, République Dominicaine."
@@ -313,27 +337,28 @@
         "background": "#528641",
         "colorText": "#fff"
     },
-
-    "section24" : {
+    "section24": {
         "title": "Message 7: Promouvoir des moyens de subsistance durables en harmonie avec la nature",
-        "contenido": ["L'initiative CBC reconnaît le rôle que jouent les communautés dans l'utilisation et la gestion des ressources naturelles.",
-                    "Conformément à son engagement à contribuer à l'éradication de la pauvreté, elle travaille en étroite collaboration avec les gouvernements et les communautés locales pour identifier les options de développement et de moyens de subsistance qui sont écologiquement durables, économiquement viables et socialement justes pour ceux qui vivent dans les écosystèmes et en dépendent.",
-                    "Par ces actions, nous espérons également contribuer à la bonne santé des écosystèmes et des services qu'ils nous fournissent."],
+        "contenido": [
+            "L'initiative CBC reconnaît le rôle que jouent les communautés dans l'utilisation et la gestion des ressources naturelles.",
+            "Conformément à son engagement à contribuer à l'éradication de la pauvreté, elle travaille en étroite collaboration avec les gouvernements et les communautés locales pour identifier les options de développement et de moyens de subsistance qui sont écologiquement durables, économiquement viables et socialement justes pour ceux qui vivent dans les écosystèmes et en dépendent.",
+            "Par ces actions, nous espérons également contribuer à la bonne santé des écosystèmes et des services qu'ils nous fournissent."
+        ],
         "imagen1": "./imagenes/sala5/valleCuba.jpg",
-        "alt1": "Vallée de Viñales, Cuba, Paysage Culturel Patrimoine Mondial.",        
+        "alt1": "Vallée de Viñales, Cuba, Paysage Culturel Patrimoine Mondial.",
         "description": "Vallée de Viñales, Cuba, Paysage Culturel Patrimoine Mondial.",
         "background": "#fff",
         "colorText": "#181818"
     },
-
-    "section25" : {
+    "section25": {
         "title": "Comment le CBC a-t-il fonctionné jusqu'à présent ?",
-        "contenido": ["Depuis son lancement, L'Initiative CBC a réussi à mettre en œuvre trois projets propres qui, avec le soutien financier de l'Union européenne et l'aide à la mise en œuvre du PNUE, ont permis sa progression. Ce sont: Le projet de délimitation et d'établissement du Corridor Biologique dans la Caraïbe (CBC), le projet de Renforcement des Capacités de la République Dominicaine, pour la Planification et le Développement d'Actions dans le cadre du CBC, et le projet de Renforcement du CBC."],
+        "contenido": [
+            "Depuis son lancement, L'Initiative CBC a réussi à mettre en œuvre trois projets propres qui, avec le soutien financier de l'Union européenne et l'aide à la mise en œuvre du PNUE, ont permis sa progression. Ce sont: Le projet de délimitation et d'établissement du Corridor Biologique dans la Caraïbe (CBC), le projet de Renforcement des Capacités de la République Dominicaine, pour la Planification et le Développement d'Actions dans le cadre du CBC, et le projet de Renforcement du CBC."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala5/matorralcbc.jpg",
             "alt1": "Cactus Scrub en République Dominicaine.",
             "name1": "Cactus Scrub en République Dominicaine.",
-
             "imagen2": "./imagenes/sala5/matorralcbc2.jpg",
             "alt2": "Cactus Scrub en République Dominicaine.",
             "name2": "Cactus Scrub en République Dominicaine."
@@ -341,11 +366,12 @@
         "background": "#528641",
         "colorText": "#fff"
     },
-
-    "section26" : {
+    "section26": {
         "title": "Message 8: Actions visant à assurer la viabilité financière de la CBC",
-        "contenido": ["Il est important d'assurer la viabilité financière du CBC à moyen et long terme. À cette fin, des travaux sont en cours pour formuler de nouveaux projets, ainsi que pour établir deux fonds fiduciaires, dont les revenus seront consacrés aux opérations de l'Initiative.",
-                    "La continuité du CBC dépend de l'intérêt et de l'engagement des partenaires, alliés et donateurs à engager des ressources qui lui permettront de continuer à contribuer au développement durable et à la conservation de cet important corridor biologique."],
+        "contenido": [
+            "Il est important d'assurer la viabilité financière du CBC à moyen et long terme. À cette fin, des travaux sont en cours pour formuler de nouveaux projets, ainsi que pour établir deux fonds fiduciaires, dont les revenus seront consacrés aux opérations de l'Initiative.",
+            "La continuité du CBC dépend de l'intérêt et de l'engagement des partenaires, alliés et donateurs à engager des ressources qui lui permettront de continuer à contribuer au développement durable et à la conservation de cet important corridor biologique."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala5/municipoguama.jpg",
             "alt1": "Municipalité de Guamá, au sud de la Sierra Maestra à Cuba.",
@@ -357,10 +383,11 @@
         "background": "#fff",
         "colorText": "#181818"
     },
-
-    "section27" : {
+    "section27": {
         "title": "Message 9: Contribution à la réalisation des objectifs fixés par l'Agenda 2030.",
-        "contenido": ["Avec la mise en œuvre de son plan d'action stratégique, l'initiative CBC cherche à continuer à renforcer la conservation de la biodiversité dans la région des Caraïbes. Dans le même temps, elle soutient le respect des engagements pris par les pays dans le cadre de l'Agenda 2030 pour"],
+        "contenido": [
+            "Avec la mise en œuvre de son plan d'action stratégique, l'initiative CBC cherche à continuer à renforcer la conservation de la biodiversité dans la région des Caraïbes. Dans le même temps, elle soutient le respect des engagements pris par les pays dans le cadre de l'Agenda 2030 pour"
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala5/palmeras.jpg",
             "alt1": "Palmas, Cuba.",
@@ -372,11 +399,12 @@
         "background": "#528641",
         "colorText": "#fff"
     },
-
-    "section28" : {
+    "section28": {
         "title": "Message final",
-        "contenido": ["Forte de son succès avéré, l'initiative CBC a la possibilité de se développer et de contribuer, à partir de l'un des points chauds de la biodiversité mondiale, aux programmes mondiaux les plus urgents pour l'humanité. Elle entend contribuer à forger par ses actions l'espoir d'un avenir meilleur, où nos îles présenteront une nature vivante, diverse, holistique et saine, et où ses ressources seront utilisées avec sagesse et de manière durable par une société caribéenne inclusive, équitable et prospère.",
-                    "La CBC espère que la nature partagée des Caraïbes sera perçue comme une région sans frontières, comme un seul corps à conserver pour les générations actuelles et futures."],
+        "contenido": [
+            "Forte de son succès avéré, l'initiative CBC a la possibilité de se développer et de contribuer, à partir de l'un des points chauds de la biodiversité mondiale, aux programmes mondiaux les plus urgents pour l'humanité. Elle entend contribuer à forger par ses actions l'espoir d'un avenir meilleur, où nos îles présenteront une nature vivante, diverse, holistique et saine, et où ses ressources seront utilisées avec sagesse et de manière durable par une société caribéenne inclusive, équitable et prospère.",
+            "La CBC espère que la nature partagée des Caraïbes sera perçue comme une région sans frontières, comme un seul corps à conserver pour les générations actuelles et futures."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala5/generacionfutura.jpg",
             "alt1": "Les générations futures sont essentielles à la conservation à long terme de la biodiversité et au développement durable dans les Caraïbes.",
@@ -388,23 +416,26 @@
         "background": "#fff",
         "colorText": "#181818"
     },
-
-    "section29" : {
+    "section29": {
         "backLink": "/Sala4",
         "nextLink": "/"
     },
-
     "footer": {
         "title": "“CBC est Paix”",
+        "text": [
+            "Une initiative des gouvernements de Cuba, de la République Dominicaine, de la République d'Haïti, de Porto Rico et de la Jamaïque. Financée par l'Union Européenne (UE) avec le soutien du Programme des Nations Unies pour l'Environnement (PNUE)."
+        ],
         "subtitle": "Institutions associées ",
-        "instituciones": ["Ministère des sciences, de la technologie et de l'environnement de la République de Cuba",
-                        "Ministère de l'environnement de la République d'Haïti ",
-                        "inistère de l'environnement et des ressources naturelles de la République Dominicaine",
-                        "Ministère de la croissance économique et de la création d'emplois de la Jamaïque (MEGJC)",
-                        "Ministère des ressources naturelles et environnementales du gouvernement de Porto Rico ",
-                        "Programme des Nations Unies pour l'Environnement (PNUE)",
-                        "Union Européenne (UE)"],
+        "instituciones": [
+            "Ministère des sciences, de la technologie et de l'environnement de la République de Cuba",
+            "Ministère de l'environnement de la République d'Haïti ",
+            "inistère de l'environnement et des ressources naturelles de la République Dominicaine",
+            "Ministère de la croissance économique et de la création d'emplois de la Jamaïque (MEGJC)",
+            "Ministère des ressources naturelles et environnementales du gouvernement de Porto Rico ",
+            "Programme des Nations Unies pour l'Environnement (PNUE)",
+            "Union Européenne (UE)"
+        ],
         "descript": "Tous droits réservés - 2022  ",
-        "design": "Design by CICLOS STUDIO"   
+        "design": "Design by CICLOS STUDIO"
     }
 }

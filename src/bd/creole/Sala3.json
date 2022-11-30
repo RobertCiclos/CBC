@@ -1,37 +1,40 @@
-{   
-    "section1" : {
-        "img" : "./imagenes/sala3/fondo-sala3.jpg",
+{
+    "section1": {
+        "img": "./imagenes/sala3/fondo-sala3.jpg",
         "title": " Ekosistèm priyoritè pou Koridò Byolojik nan Karayib la",
         "sala": "Sal 3"
     },
-
-    "section2" : {
-        "contenido": ["Inisyativ CBC a pote kole nan reyalize plizyè nan Objektif Devlopman Dirab yo nan fè poipagann ak mete ann aplikasyon aksyon pou pwoteje ekosistèm zòn kot yo, nan lanmè a ak sou tè yo.",
-                       "Youn nan aksyon li yo se idantifikasyon kèk gwoup ekosistèm nan lanmè a ak sou tè ki priyoritè pou konsèvasyon nan koridò a. Ekosistèm yo te evalye espasyalman pou rive detèmine ki zòn ki gen pi gwo priyorite pou konsèvasyon, dapre kèk kritè seleksyon ki te chwazi.",
-                            "Gwoup ekosistèm priyoritè pou konsèvasyon nan CBC yo se: forè imid ak forè pen, forè sèk ak Touf bwa ki toleran a sechrès, mangwòv ak resif koray yo." ]
+    "section2": {
+        "contenido": [
+            "Inisyativ CBC a pote kole nan reyalize plizyè nan Objektif Devlopman Dirab yo nan fè poipagann ak mete ann aplikasyon aksyon pou pwoteje ekosistèm zòn kot yo, nan lanmè a ak sou tè yo.",
+            "Youn nan aksyon li yo se idantifikasyon kèk gwoup ekosistèm nan lanmè a ak sou tè ki priyoritè pou konsèvasyon nan koridò a. Ekosistèm yo te evalye espasyalman pou rive detèmine ki zòn ki gen pi gwo priyorite pou konsèvasyon, dapre kèk kritè seleksyon ki te chwazi.",
+            "Gwoup ekosistèm priyoritè pou konsèvasyon nan CBC yo se: forè imid ak forè pen, forè sèk ak Touf bwa ki toleran a sechrès, mangwòv ak resif koray yo."
+        ]
     },
-
-    "section3" : {
+    "section3": {
         "title": "Ekosistèm priyoritè pou CBC",
-        "contenido": ["Lanmè Karayib genyen 2.754 milyon km² kòm sipèfisi epi zòn kotyè li yo pataje ant prèske 25 peyi, ki gen ladan zile ak tè kontinantal.",
-                        "Ekosistèm priyoritè pou CBC yo se zòn kle pou kenbe koneksyon rejyonal ak zòn ki prezève ekosistèm ki reprezante ekorejyon pataje e ki menase, rezistan ak chanjman nan klima; epi ki esansyèl pou konsèvasyon espès migratè yo, espès andemik ki anba anpil menas oswa sila ki gen gwo potansyèl pou gaye kò yo."],
-
+        "contenido": [
+            "Lanmè Karayib genyen 2.754 milyon km² kòm sipèfisi epi zòn kotyè li yo pataje ant prèske 25 peyi, ki gen ladan zile ak tè kontinantal.",
+            "Ekosistèm priyoritè pou CBC yo se zòn kle pou kenbe koneksyon rejyonal ak zòn ki prezève ekosistèm ki reprezante ekorejyon pataje e ki menase, rezistan ak chanjman nan klima; epi ki esansyèl pou konsèvasyon espès migratè yo, espès andemik ki anba anpil menas oswa sila ki gen gwo potansyèl pou gaye kò yo."
+        ],
         "subtitle": null,
-        "imagen":  "./imagenes/cr/ecosistemas.jpg",
-        "description": ["Kat ki mete aksan sou ekosistèm priyoritè CBC, ansanm ak sit ki enpòtan pou espès yo ki anba konsèvasyon ak kontwòl nan koridò a."],
+        "imagen": "./imagenes/cr/ecosistemas.jpg",
+        "description": [
+            "Kat ki mete aksan sou ekosistèm priyoritè CBC, ansanm ak sit ki enpòtan pou espès yo ki anba konsèvasyon ak kontwòl nan koridò a."
+        ],
         "background": "#528641",
         "colorText": "#fff"
     },
-
-    "section4" : {
+    "section4": {
         "title": "Resif koray",
-        "contenido": ["Resif koray yo se ekosistèm trè rich, divès epi inik nan zòn kotyè e ki pa twò fon nan rejyon twopikal yo. Yo fòme estrikti wòch ki konpoze pa espès koray di ak mou epi alg, ki pote abri ak manje pou yon anpil espès pwason, reptil ak envètebre.",
-                        "Yo konekte ak lòt ekosistèm, tankou zèb lanmè ak mangwòv, atravè sik eleman nitritif ki fè pati devlopman diferan espès yo."],
+        "contenido": [
+            "Resif koray yo se ekosistèm trè rich, divès epi inik nan zòn kotyè e ki pa twò fon nan rejyon twopikal yo. Yo fòme estrikti wòch ki konpoze pa espès koray di ak mou epi alg, ki pote abri ak manje pou yon anpil espès pwason, reptil ak envètebre.",
+            "Yo konekte ak lòt ekosistèm, tankou zèb lanmè ak mangwòv, atravè sik eleman nitritif ki fè pati devlopman diferan espès yo."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala3/arrecife1.jpg",
             "alt1": "Koray mou ak koray di, alg, eponj ak divès kalite envètebre fòme resif sila kip a trò fon.",
             "name1": "Koray mou ak koray di, alg, eponj ak divès kalite envètebre fòme resif sila kip a trò fon.",
-
             "imagen2": "./imagenes/sala3/arrecife2.jpg",
             "alt2": "Koray mou ak koray di, alg, eponj ak divès kalite envètebre fòme resif sila kip a trò fon.",
             "name2": "Koray mou ak koray di, alg, eponj ak divès kalite envètebre fòme resif sila kip a trò fon."
@@ -39,17 +42,17 @@
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
-
-    "section6" : {
+    "section6": {
         "title": "Resif Kiba ak Ispanyola",
-        "contenido": ["Resif koray yo, ansanm ak lòt ekosistèm lanmè nan zòn kot  yo, abrite pi fò nan divèsite biyolojik lanmè zile karayib yo.",
-                        "An patikilye, resif Kiba ak Ispanyola yo (nan peyi panyòl, ak Ayiti) gen anpil enpòtans pou koneksyon rejyonal la.",
-                        "Espès tankou pwason resif, kristase, ak koray kale ze yo epi lage yo pou yo pote yo pa kouran oseyan yo nan zòn kote lav yo ka etabli, manje, grandi pou vin jèn, epi rive nan laj pou rpeplei."],
+        "contenido": [
+            "Resif koray yo, ansanm ak lòt ekosistèm lanmè nan zòn kot  yo, abrite pi fò nan divèsite biyolojik lanmè zile karayib yo.",
+            "An patikilye, resif Kiba ak Ispanyola yo (nan peyi panyòl, ak Ayiti) gen anpil enpòtans pou koneksyon rejyonal la.",
+            "Espès tankou pwason resif, kristase, ak koray kale ze yo epi lage yo pou yo pote yo pa kouran oseyan yo nan zòn kote lav yo ka etabli, manje, grandi pou vin jèn, epi rive nan laj pou rpeplei."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala3/pez-mariposa.jpg",
             "alt1": "Pwason papiyon trase (Chaetodon striatus) sou yon resif koray, Kiba.",
             "name1": "Pwason papiyon trase (Chaetodon striatus) sou yon resif koray, Kiba.",
-
             "imagen2": "./imagenes/sala3/alevinimg.jpg",
             "alt2": "Ti pwason nan yon polip koray",
             "name2": "Ti pwason nan yon polip koray"
@@ -57,39 +60,41 @@
         "background": "#528641",
         "colorText": "#FFFFFF"
     },
-
-    "section7" : {
+    "section7": {
         "title": "Lòt resif nan Karayib la",
-        "contenido": ["Resif koray yo se pepinyè pou anpil espès, ki enpòtan anpil kòm mwayen pou kominote zòn kot  CBC yo viv. Yo pote $ 6.8 milya dola chak ane nan endistri lapèch mondyal la ak prèske $ 400 milyon dola nan Karayib la.",
-                        "Yo pwoteje kòt yo epi yo esansyèl pou antretyen lapèch atizanal, komèsyal ak lwazi. Yo se yon sous pwodwi famasetik tou.",
-                            "Bote ak divèsite biyolojik ke tout moun dakò yo atire touris ak plonje pou lwazi, epi yo estime yo pote ant $700 ak $2.2 milya dola nan Karayib la chak ane."],
+        "contenido": [
+            "Resif koray yo se pepinyè pou anpil espès, ki enpòtan anpil kòm mwayen pou kominote zòn kot  CBC yo viv. Yo pote $ 6.8 milya dola chak ane nan endistri lapèch mondyal la ak prèske $ 400 milyon dola nan Karayib la.",
+            "Yo pwoteje kòt yo epi yo esansyèl pou antretyen lapèch atizanal, komèsyal ak lwazi. Yo se yon sous pwodwi famasetik tou.",
+            "Bote ak divèsite biyolojik ke tout moun dakò yo atire touris ak plonje pou lwazi, epi yo estime yo pote ant $700 ak $2.2 milya dola nan Karayib la chak ane."
+        ],
         "imagen1": "./imagenes/sala3/otro-arrecife.jpg",
         "alt1": "Shoals sou resif Gwo Zantiy yo.",
         "description": "Shoals sou resif Gwo Zantiy yo.",
         "background": "#fff",
         "colorText": "#181818"
     },
-
-    "section8" : {
+    "section8": {
         "title": "Mangwòv",
-        "contenido": ["Mangwòv yo se rich pwodiktè eleman nitritif ki soti nan dekonpozisyon matyè òganik yo; yo se yon refij tou pou espès ki gen anpil valè lè yo nan etap lav ak nan jenès yo."],
+        "contenido": [
+            "Mangwòv yo se rich pwodiktè eleman nitritif ki soti nan dekonpozisyon matyè òganik yo; yo se yon refij tou pou espès ki gen anpil valè lè yo nan etap lav ak nan jenès yo."
+        ],
         "imagen1": "./imagenes/sala3/manglares.jpg",
-        "alt1": "Mangwòv ki an sante, Kiba",        
+        "alt1": "Mangwòv ki an sante, Kiba",
         "description": "Mangwòv ki an sante, Kiba",
         "background": "#528641",
         "colorText": "#FFF"
     },
-
-    "section10" : {
+    "section10": {
         "title": "Mangwòv nan CBC",
-        "contenido": ["Kiba, ki se pi gwo achipèl nan Karayib la, ki gen plis pase 5,000 km kòt ak plis pase 4,000 zile ak kay ki gen altitid ki ba anpil, abrite plis pase 5,000 km2 mangwòv, oswa plis pase 80% nan tout mangwòv nan rejyon an. Apre sa, se pa zile Ispanyola yo ko vini.",
-                        "Nan Ispanyola, yo jwenn mangwòv nan Montecristi, sou kòt nò soti Samaná rive Punta Cana, nan Punta El Aljibe ak nan Punta Beata. Mangwòv Tres Bahías, Bajo Yuna ak sila yo ki nan pwent lès zile a gen gwo enpòtans pou koneksyon.",
-                            "Nan Jamayik, yo jwenn yo nan ti pasèl sou tout longè kòt sid peyi a, ak kèk pasèl koneksyon enpòtan nan nò zile a. Gen kèk ti tach ki gen anpil priyorite ki twouve yo sou rès zantiy yo."],
+        "contenido": [
+            "Kiba, ki se pi gwo achipèl nan Karayib la, ki gen plis pase 5,000 km kòt ak plis pase 4,000 zile ak kay ki gen altitid ki ba anpil, abrite plis pase 5,000 km2 mangwòv, oswa plis pase 80% nan tout mangwòv nan rejyon an. Apre sa, se pa zile Ispanyola yo ko vini.",
+            "Nan Ispanyola, yo jwenn mangwòv nan Montecristi, sou kòt nò soti Samaná rive Punta Cana, nan Punta El Aljibe ak nan Punta Beata. Mangwòv Tres Bahías, Bajo Yuna ak sila yo ki nan pwent lès zile a gen gwo enpòtans pou koneksyon.",
+            "Nan Jamayik, yo jwenn yo nan ti pasèl sou tout longè kòt sid peyi a, ak kèk pasèl koneksyon enpòtan nan nò zile a. Gen kèk ti tach ki gen anpil priyorite ki twouve yo sou rès zantiy yo."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala3/isladelavaca.jpg",
             "alt1": "Mangwòv, Île-à-Vache, Ayiti.",
             "name1": "Mangwòv, Île-à-Vache, Ayiti.",
-
             "imagen2": "./imagenes/sala3/isladelavaca2.jpg",
             "alt2": "Mangwòv, Île-à-Vache, Ayiti.",
             "name2": "Mangwòv, Île-à-Vache, Ayiti."
@@ -97,16 +102,16 @@
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
-
-    "section11" : {
+    "section11": {
         "title": "Enpòtans mangwòv",
-        "contenido": ["Nan Karayib la, mangwòv yo sèvi kòm pepinyè pou yon seri pwason ak sila yo ki pagen eskèlèt yo gwo save yo rele yo envètebre  ki pase lavi granmoun yo sou resif koray. Mangwòv, resif koray ak zèb lanmè yo se ekosistèm ki konekte.",
-                        "Twa abita sa yo bay plis pase 500 espès pwason, kristase ak molisk nan rejyon Karayib la espas pou yo viv, manje, pwoteksyon ak kote pou yo rete."],
+        "contenido": [
+            "Nan Karayib la, mangwòv yo sèvi kòm pepinyè pou yon seri pwason ak sila yo ki pagen eskèlèt yo gwo save yo rele yo envètebre  ki pase lavi granmoun yo sou resif koray. Mangwòv, resif koray ak zèb lanmè yo se ekosistèm ki konekte.",
+            "Twa abita sa yo bay plis pase 500 espès pwason, kristase ak molisk nan rejyon Karayib la espas pou yo viv, manje, pwoteksyon ak kote pou yo rete."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala3/importancia-manglares-1.jpg",
             "alt1": "Mangwòv, nan peyi panyòl.",
             "name1": "Mangwòv, nan peyi panyòl.",
-
             "imagen2": "./imagenes/sala3/importancia-manglares-2.jpg",
             "alt2": "Mangwòv, nan peyi panyòl.",
             "name2": "Mangwòv, nan peyi panyòl."
@@ -114,28 +119,29 @@
         "background": "#528641",
         "colorText": "#FFFFFF"
     },
-
-    "section12" : {
+    "section12": {
         "title": "Marekaj yo ak chanjman nan klima",
-        "contenido": ["Marakaj Zapata a se pi gwo marekaj nan Karayib ensilè a, kote ekosistèm mangwòv la okipe anpil nan sifas li.",
-                        "Forè ki ka inonde sa yo ede ralanti efè chanjman klimatik la. Yo kaptire epi estoke CO2, yo filtre dlo ize ak lè a, yo aji tankou yon baryè kont vag, yo ralanti sèl lanmè a lè lap antre sou tè yo epi yo anpeche ewozyon bò lanmè.",
-                            "Malgre sa, anpil zòn kotyè ak marekaj nan Karayib la gen risk pou yo deranje pa chanjman klimatik la. Marekaj Zapata nan Kiba, pa egzanp, kapab retresi a 20% nan fen syèk la akòz ogmantasyon nivo lanmè a, antre sèl ak dega siklòn yo.",
-                                "Pwoteje ak restore mangwòv se yon mezi adaptasyon ki baze sou ekosistèm ki ka ede diminye dega chanjman klimatik la nan CBC epi amelyore mwayen pou kominote viv ki depann de mangwòv yo."],
+        "contenido": [
+            "Marakaj Zapata a se pi gwo marekaj nan Karayib ensilè a, kote ekosistèm mangwòv la okipe anpil nan sifas li.",
+            "Forè ki ka inonde sa yo ede ralanti efè chanjman klimatik la. Yo kaptire epi estoke CO2, yo filtre dlo ize ak lè a, yo aji tankou yon baryè kont vag, yo ralanti sèl lanmè a lè lap antre sou tè yo epi yo anpeche ewozyon bò lanmè.",
+            "Malgre sa, anpil zòn kotyè ak marekaj nan Karayib la gen risk pou yo deranje pa chanjman klimatik la. Marekaj Zapata nan Kiba, pa egzanp, kapab retresi a 20% nan fen syèk la akòz ogmantasyon nivo lanmè a, antre sèl ak dega siklòn yo.",
+            "Pwoteje ak restore mangwòv se yon mezi adaptasyon ki baze sou ekosistèm ki ka ede diminye dega chanjman klimatik la nan CBC epi amelyore mwayen pou kominote viv ki depann de mangwòv yo."
+        ],
         "imagen1": "./imagenes/sala3/cienaga-cuba.jpg",
-        "alt1": "Marekaj Zapata a, Kiba.",        
+        "alt1": "Marekaj Zapata a, Kiba.",
         "description": "Marekaj Zapata a, Kiba.",
         "autor1": "K Brookes",
         "background": "#fff",
         "colorText": "#181818"
     },
-
-
-    "section13" : {
+    "section13": {
         "title": "Ekosistèm forè nan CBC",
-        "contenido": ["Ekosistèm forè yo fondamantal pou asire sekirite dlo nan Karayib la.",
-                        "Malgre sa, kouvèti forè nan Karayib la  vini pi piti chak jou ki jou nan dènye deseni yo.",
-                            "Pa egzanp, an Ayiti sèlman 2% nan kouvèti forè orijinal la ki rete, alòske nan peyi panyòl se sèlman 10% ki rete. Pèt sa yo te koze pa eksplwatasyon imen pou agrikilti ak lojman.",
-                                "Akòz debwazman, divèsite biyolojik nan rejyon an te andomaje, tankou anfibyen yo ki te fwape anpil pa chanjman sa yo, sa ki fè popilasyon li yo te vinn pi piti."],
+        "contenido": [
+            "Ekosistèm forè yo fondamantal pou asire sekirite dlo nan Karayib la.",
+            "Malgre sa, kouvèti forè nan Karayib la  vini pi piti chak jou ki jou nan dènye deseni yo.",
+            "Pa egzanp, an Ayiti sèlman 2% nan kouvèti forè orijinal la ki rete, alòske nan peyi panyòl se sèlman 10% ki rete. Pèt sa yo te koze pa eksplwatasyon imen pou agrikilti ak lojman.",
+            "Akòz debwazman, divèsite biyolojik nan rejyon an te andomaje, tankou anfibyen yo ki te fwape anpil pa chanjman sa yo, sa ki fè popilasyon li yo te vinn pi piti."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala3/parquemacaya.jpg",
             "alt1": "Pak Nasyonal Pic Macaya, Ayiti",
@@ -148,11 +154,12 @@
         "background": "#528641",
         "colorText": "#FFFFFF"
     },
-
-    "section14" : {
+    "section14": {
         "title": "Forè imid ak forè pen",
-        "contenido": ["Forè imid ak forè pen se ekosistèm ki fasilite sik dlo a, ki kontwole debi rivyè yo, ki anpeche ewozyon sòl yo epi ki pote kole nan sekirite dlo.",
-                        "Kiba, nou jwenn forè imid ak forè pen yo sitou nan zòn lwès la nan Chèn Montay Guaniguanico, nan zòn ki pi wo yo nan Sierra Maestra; ak nan direksyon dènye pwent lès zile a nan Pico Cristal ak nan Rezèv Biosfè Cuchillas del Toa, dènye zòn sa yo nan Masif Nipe-Sagua-Baracoa."],
+        "contenido": [
+            "Forè imid ak forè pen se ekosistèm ki fasilite sik dlo a, ki kontwole debi rivyè yo, ki anpeche ewozyon sòl yo epi ki pote kole nan sekirite dlo.",
+            "Kiba, nou jwenn forè imid ak forè pen yo sitou nan zòn lwès la nan Chèn Montay Guaniguanico, nan zòn ki pi wo yo nan Sierra Maestra; ak nan direksyon dènye pwent lès zile a nan Pico Cristal ak nan Rezèv Biosfè Cuchillas del Toa, dènye zòn sa yo nan Masif Nipe-Sagua-Baracoa."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala3/cascadabosquehumedo.jpg",
             "alt1": "Kaskad nan yon forè imid",
@@ -164,18 +171,18 @@
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
-
-    "section15" : {
+    "section15": {
         "title": "Forè imid",
-        "contenido": ["Forè yo se abita espès reprezantatif Gwo Zantiy yo.",
-                        "An Ayiti, zòn ki pi priyoritè pou konsèvasyon forè imid yo se Massif de la Selle, Forêt des Pins ak Pic Macay.",
-                            "An nan peyi panyòl, yo jwenn zòn sila yo nan Sierra de Bahoruco, Cordillera Central, Los Haitises, ak lòt zòn ki toupre kòt nò peyi a.",
-                                "Pòtoriko, forè ki pi priyoritè pou konsèvasyon yo nan rejyon El Yunque; epi Jamayik, yo jwenn yo nan Cockpit Country ak nan chèn montay Blue Mountain"],
+        "contenido": [
+            "Forè yo se abita espès reprezantatif Gwo Zantiy yo.",
+            "An Ayiti, zòn ki pi priyoritè pou konsèvasyon forè imid yo se Massif de la Selle, Forêt des Pins ak Pic Macay.",
+            "An nan peyi panyòl, yo jwenn zòn sila yo nan Sierra de Bahoruco, Cordillera Central, Los Haitises, ak lòt zòn ki toupre kòt nò peyi a.",
+            "Pòtoriko, forè ki pi priyoritè pou konsèvasyon yo nan rejyon El Yunque; epi Jamayik, yo jwenn yo nan Cockpit Country ak nan chèn montay Blue Mountain"
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala3/reptilesimg.jpg",
             "alt1": "Reptil ak anfibyen abite nan forè imid, tankou Pic Macaya ayisyen an.",
             "name1": "Reptil ak anfibyen abite nan forè imid, tankou Pic Macaya ayisyen an.",
-           
             "imagen2": "./imagenes/sala3/reptiles2img.jpg",
             "alt2": "Forè imid",
             "name2": "Forè imid"
@@ -183,16 +190,16 @@
         "background": "#528641",
         "colorText": "#FFFFFF"
     },
-
-    "section16" : {
+    "section16": {
         "title": "Forè sèk ak touf plant ki tolere sechrès",
-        "contenido": ["Gwoup ekosistèm sa a yo ki twouve yo nan zòn preske dezè, nan forè sèk ak nan touf plant ki adapte ak kondisyon ekstrèm, rezilta sechrès, gwo nivo sèl ak tè pòv. Espès yo adapte yo a kondisyon sa yo, se poutèt sa se yon vejetasyon pikan ki domine, tankou kakti, touf rachitik, preri ki preske dezè, e menm pye bwa ki gen ti fèy piti anpil oswa ki pèdi fèy yo nan yon moman nan ane a.",
-                        "Siviv nan kondisyon sa yo koute espès yo anpil enèji, se poutèt sa yo jwenn diferan adaptasyon. Pa egzanp, prezans pikan nan vejetasyon an pèmèt yo estoke dlo epi an menm tan an sèvi tankou yon mekanis pwoteksyon kont fon èbivò a"],
+        "contenido": [
+            "Gwoup ekosistèm sa a yo ki twouve yo nan zòn preske dezè, nan forè sèk ak nan touf plant ki adapte ak kondisyon ekstrèm, rezilta sechrès, gwo nivo sèl ak tè pòv. Espès yo adapte yo a kondisyon sa yo, se poutèt sa se yon vejetasyon pikan ki domine, tankou kakti, touf rachitik, preri ki preske dezè, e menm pye bwa ki gen ti fèy piti anpil oswa ki pèdi fèy yo nan yon moman nan ane a.",
+            "Siviv nan kondisyon sa yo koute espès yo anpil enèji, se poutèt sa yo jwenn diferan adaptasyon. Pa egzanp, prezans pikan nan vejetasyon an pèmèt yo estoke dlo epi an menm tan an sèvi tankou yon mekanis pwoteksyon kont fon èbivò a"
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala3/flordesectas.jpg",
             "alt1": "Flè kaktis, Repiblik Dominikèn (nan peyi panyòl)",
             "name1": "Flè kaktis, Repiblik Dominikèn (nan peyi panyòl)",
-            
             "imagen2": "./imagenes/sala3/bosqueseco.jpg",
             "alt2": "Forè sèk, Repiblik Dominikèn",
             "name2": "Forè sèk, Repiblik Dominikèn"
@@ -200,13 +207,14 @@
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
-
-    "section17" : {
+    "section17": {
         "title": "Distribisyon forè sèk ak touf plant ki tolere sechrès",
-        "contenido": ["Forè sèk ak touf plant ki tolere sechrès ki pwolonje nan tout Gwo Zantiy yo fòme koridò ki asosye ak zòn kotyè aktyèl yo, epi nan ka Ispanyola, ki te egziste nan dènye tan jeolojik yo.",
-                        "Pami yo, sa ki pi enpòtan pou koneksyon yo se sa ki nan Pak Nasyonal Jaragua, apre sa se sa ki sitiye yo nan ti gwoup kay nan nò Kiba yo, ant Lahavàn ak Varadero, nan pwent lwès ak nan sidès Kiba, fen nòdwès Ayiti ak sidès Repiblik Dominikèn.",
-                            "Zòn ki pi reprezantatif nan Kiba yo twouve yo Guanahacabibes, sou kòt nò ant Lahavàn ak Varadero, nan Cape Cruz, ak nan koridò kotyè sidès Kiba, soti Santiago rive Maisí.",
-                                "Nan Ispanyola, yo jwenn yo nan Pak Nasyonal Jaragua ak sou Penensil Beata jiska Belle Anse. Nan Pòtoriko, sou kòt sidwès la epi nan Jamayik, sou kòt sid la nan rejyon Hellshire."],
+        "contenido": [
+            "Forè sèk ak touf plant ki tolere sechrès ki pwolonje nan tout Gwo Zantiy yo fòme koridò ki asosye ak zòn kotyè aktyèl yo, epi nan ka Ispanyola, ki te egziste nan dènye tan jeolojik yo.",
+            "Pami yo, sa ki pi enpòtan pou koneksyon yo se sa ki nan Pak Nasyonal Jaragua, apre sa se sa ki sitiye yo nan ti gwoup kay nan nò Kiba yo, ant Lahavàn ak Varadero, nan pwent lwès ak nan sidès Kiba, fen nòdwès Ayiti ak sidès Repiblik Dominikèn.",
+            "Zòn ki pi reprezantatif nan Kiba yo twouve yo Guanahacabibes, sou kòt nò ant Lahavàn ak Varadero, nan Cape Cruz, ak nan koridò kotyè sidès Kiba, soti Santiago rive Maisí.",
+            "Nan Ispanyola, yo jwenn yo nan Pak Nasyonal Jaragua ak sou Penensil Beata jiska Belle Anse. Nan Pòtoriko, sou kòt sidwès la epi nan Jamayik, sou kòt sid la nan rejyon Hellshire."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala3/cactaceoimg.jpg",
             "alt1": "Forè sèk ak touf plant ki tolere sechrès nan Peyi panyòl.",
@@ -218,16 +226,16 @@
         "background": "#528641",
         "colorText": "#FFFFFF"
     },
-
-    "section18" : {
+    "section18": {
         "title": "Enpòtans forè sèk ak touf ki tolere sechrès",
-        "contenido": ["Forè sèk ak touf plant ki tolere sechrès yo abrite lakay yo anpil anpil espès andemik epi jwe yon wòl enpòtan nan koneksyon ekosistèm yo.",
-                        "Yo se yon egzanp rezistans ak adaptasyon lanati, akòz kapasite yo pou yo tolere kondisyon ekstrèm ki soti nan sechrès, gwo nivo sèl ak tè pòv yo."],
+        "contenido": [
+            "Forè sèk ak touf plant ki tolere sechrès yo abrite lakay yo anpil anpil espès andemik epi jwe yon wòl enpòtan nan koneksyon ekosistèm yo.",
+            "Yo se yon egzanp rezistans ak adaptasyon lanati, akòz kapasite yo pou yo tolere kondisyon ekstrèm ki soti nan sechrès, gwo nivo sèl ak tè pòv yo."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala3/matorralcactaceo.jpg",
             "alt1": "Touf plant ki tolere sechrès, Repiblik Dominikèn (nan peyi panyòl)",
             "name1": "Touf plant ki tolere sechrès, Repiblik Dominikèn (nan peyi panyòl)",
-            
             "imagen2": "./imagenes/sala3/matorralcactaceo2.jpg",
             "alt2": "Forè sèk, Repiblik Dominikèn (nan peyi panyòl)",
             "name2": "Forè sèk, Repiblik Dominikèn (nan peyi panyòl)"
@@ -235,18 +243,18 @@
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
-
-    "section19" : {
+    "section19": {
         "title": "Koneksyon Basen Vèsan ak Resif Koray",
-        "contenido": ["Basen vèsan yo kapte preske 300 km3 presipitasyon chak ane nan Gwo Zantiy yo, ki se nòmalman sèl sous dlo fre pou zile sa yo.",
-                        "Basen vèsan ki debwaze yo transpòte gwo kantite sediman nan bouch rivyè yo. Sa andomaje ekosistèm mangwòv yo ansanm ak fòmasyon resif koray yo.",
-                            "Se poutèt sa, CBC ap travay pandan lap konsantre sou konsèvasyon basen vèsan, soti nan mòn rive nan resif, pou amelyore kalite ak disponiblite dlo epi redwi presyon sou ekosistèm lanmè a ak zòn kot yo.",
-                                "Sa a ta pèmèt ogmante rezilyans ekosistèm yo anba chanjman klimatik la."],
+        "contenido": [
+            "Basen vèsan yo kapte preske 300 km3 presipitasyon chak ane nan Gwo Zantiy yo, ki se nòmalman sèl sous dlo fre pou zile sa yo.",
+            "Basen vèsan ki debwaze yo transpòte gwo kantite sediman nan bouch rivyè yo. Sa andomaje ekosistèm mangwòv yo ansanm ak fòmasyon resif koray yo.",
+            "Se poutèt sa, CBC ap travay pandan lap konsantre sou konsèvasyon basen vèsan, soti nan mòn rive nan resif, pou amelyore kalite ak disponiblite dlo epi redwi presyon sou ekosistèm lanmè a ak zòn kot yo.",
+            "Sa a ta pèmèt ogmante rezilyans ekosistèm yo anba chanjman klimatik la."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala3/ravinedesud.jpg",
             "alt1": "Ravine du Sud, yon rivyè ki konekte Pic Macaya ak Okay an Ayiti, montre efè sedimantasyon akòz debwazman nan tèt rivyè a.",
             "name1": "Ravine du Sud, yon rivyè ki konekte Pic Macaya ak Okay an Ayiti, montre efè sedimantasyon akòz debwazman nan tèt rivyè a.",
-            
             "imagen2": "./imagenes/sala3/abanicodemar.jpg",
             "alt2": "Koray gorgon",
             "name2": "Koray gorgon"
@@ -254,15 +262,15 @@
         "background": "#528641",
         "colorText": "#FFFFFF"
     },
-
-    "section20" : {
+    "section20": {
         "title": "Basen Karayib la",
-        "contenido": ["Basen Karayib la gen moso ki pi wo nan koray ki klase anba gwo risk pou yo disparèt, paske yo te bese a plis pase 80% depi ane 1970 yo."],
+        "contenido": [
+            "Basen Karayib la gen moso ki pi wo nan koray ki klase anba gwo risk pou yo disparèt, paske yo te bese a plis pase 80% depi ane 1970 yo."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala3/pecesimg.jpg",
             "alt1": "Pepinyè pwason Okay, Ayiti.",
             "name1": "Pepinyè pwason Okay, Ayiti.",
-            
             "imagen2": "./imagenes/sala3/peces2img.jpg",
             "alt2": "Pepinyè pwason Okay, Ayiti.",
             "name2": "Pepinyè pwason Okay, Ayiti."
@@ -270,71 +278,72 @@
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
-
-    "section21" : {
+    "section21": {
         "img": "./imagenes/sala3/paisajesection21.jpg"
     },
-
-    "section22" : {
-        "indicador" : "Lòt ekosistèm ki prezan nan CBC",
-       "colorIndicador" : "#85BD70",
-       "title": "Zèb lanmè",
-       "contenido": ["Zèb lanmè Karayib yo chita kò yo sou tout kòt zile yo nan rejyon an.",
-                        "Zòn sa yo enpòtan pou pwason ki abite nan Karayib la, paske anpil nan manje ak abite nan zèb lanmè yo."],
-       "imagenes": {
-           "imagen1": "./imagenes/sala3/pastosmarinos2.jpg",
-           "alt1": "Zèb lanmè nan Karayib la.",
-           "name1": "Zèb lanmè nan Karayib la.",
-         
-           "imagen2": "./imagenes/sala3/pastosmarinos.jpg",
-           "alt2": "Ekosistèm zèb lanmè Karayib yo",
-           "name2": "Ekosistèm zèb lanmè Karayib yo"
-       },
-       "background": "#FFFFFF",
+    "section22": {
+        "indicador": "Lòt ekosistèm ki prezan nan CBC",
+        "colorIndicador": "#85BD70",
+        "title": "Zèb lanmè",
+        "contenido": [
+            "Zèb lanmè Karayib yo chita kò yo sou tout kòt zile yo nan rejyon an.",
+            "Zòn sa yo enpòtan pou pwason ki abite nan Karayib la, paske anpil nan manje ak abite nan zèb lanmè yo."
+        ],
+        "imagenes": {
+            "imagen1": "./imagenes/sala3/pastosmarinos2.jpg",
+            "alt1": "Zèb lanmè nan Karayib la.",
+            "name1": "Zèb lanmè nan Karayib la.",
+            "imagen2": "./imagenes/sala3/pastosmarinos.jpg",
+            "alt2": "Ekosistèm zèb lanmè Karayib yo",
+            "name2": "Ekosistèm zèb lanmè Karayib yo"
+        },
+        "background": "#FFFFFF",
         "colorText": "#181818"
-   },
-
-   "section23" : {
-        "indicador" : "Lòt ekosistèm ki prezan nan CBC",
-       "colorIndicador" : "#103A62",
-       "title": "Lagon",
-       "contenido": ["Lagon kotyè yo nan Zantiy yo anba gwo  menas pa chanjman klimatik la, paske ogmantasyon nivo lanmè ak antre dlo sale afekte balans natirèl yo, nan jan yap peple ak espès ki ap viv nan yo.",
-                        "Nan gwo menas sila yo nou jwenn dezidratasyon pou devlopman enfrastrikti zòn kot yo, ak chanjman nan drenaj natirèl la ak rezèv dlo dous ki asosye ak devlopman wout yo."],
-       "imagenes": {
-           "imagen1": "./imagenes/sala3/laguna1.jpg",
-           "alt1": "Lagon, Ayiti.",
-           "name1": "Lagon, Ayiti.",
-           
-           "imagen2": "./imagenes/sala3/laguna2.jpg",
-           "alt2": "Lagon, Ayiti.",
-           "name2": "Lagon, Ayiti."
-       },
-       "background": "#528641",
-       "colorText": "#FFFFFF"
-   },
-
-   "section24" : {
+    },
+    "section23": {
+        "indicador": "Lòt ekosistèm ki prezan nan CBC",
+        "colorIndicador": "#103A62",
+        "title": "Lagon",
+        "contenido": [
+            "Lagon kotyè yo nan Zantiy yo anba gwo  menas pa chanjman klimatik la, paske ogmantasyon nivo lanmè ak antre dlo sale afekte balans natirèl yo, nan jan yap peple ak espès ki ap viv nan yo.",
+            "Nan gwo menas sila yo nou jwenn dezidratasyon pou devlopman enfrastrikti zòn kot yo, ak chanjman nan drenaj natirèl la ak rezèv dlo dous ki asosye ak devlopman wout yo."
+        ],
+        "imagenes": {
+            "imagen1": "./imagenes/sala3/laguna1.jpg",
+            "alt1": "Lagon, Ayiti.",
+            "name1": "Lagon, Ayiti.",
+            "imagen2": "./imagenes/sala3/laguna2.jpg",
+            "alt2": "Lagon, Ayiti.",
+            "name2": "Lagon, Ayiti."
+        },
+        "background": "#528641",
+        "colorText": "#FFFFFF"
+    },
+    "section24": {
         "img": "./imagenes/sala3/medusa.jpg",
         "description": "Mediz nan dlo Karayib yo."
     },
-
-    "section25" : {
+    "section25": {
         "contenido": "Nan sal kap vini an w ap jwenn enfòmasyon sou Inisyativ CBC a ak fason l ap travay pou pwoteje ekosistèm enpòtan sa yo.2        ",
         "backLink": "/Sala2",
         "nextLink": "/Sala4"
     },
-
     "footer": {
         "title": "“CBC se lavi”",
+        "text": [
+            "Se yon inisyativ gouvènman sa yo ki se : Cuba, Peyi panyòl (Repiblik Dominikèn, peyi Dayiti, Pòto Rico ak Jamayik). Inisyativ saa jwenn bourad lajan Inyon Ewopeyen  (ki gen sig li an angle EU) nan tèt kole ak Pwogram Nasyonzini pou Anviwònman  (ki gen sig li an franse PNUE)."
+        ],
         "subtitle": "Enstitisyon ki asosye",
-        "instituciones": ["Ministè Syans, Teknoloji ak Anviwònman Repiblik Kiba",
-                        "Ministè Anviwònman Repiblik Dayiti",
-                        "Ministè anviwònman ak resous natirèl Repiblik Dominikèn",
-                        "Ministè kwasans ekonomik ak Kreyasyon anplwa peyi Jamayik (MEGJC) (ministè kap kreye travay pou ekomi an ka grandi)",
-                        "Ministè resous natirèl ak anivironman gouvènman Pòtorico",
-                        "Pwogram Nasyonzini pou Anviwònman (ki gen sig angle UNEP)",
-                        "Inyon Ewopeyen (ki gen sig angle EU)"],
+        "instituciones": [
+            "Ministè Syans, Teknoloji ak Anviwònman Repiblik Kiba",
+            "Ministè Anviwònman Repiblik Dayiti",
+            "Ministè anviwònman ak resous natirèl Repiblik Dominikèn",
+            "Ministè kwasans ekonomik ak Kreyasyon anplwa peyi Jamayik (MEGJC) (ministè kap kreye travay pou ekomi an ka grandi)",
+            "Ministè resous natirèl ak anivironman gouvènman Pòtorico",
+            "Pwogram Nasyonzini pou Anviwònman (ki gen sig angle UNEP)",
+            "Inyon Ewopeyen (ki gen sig angle EU)"
+        ],
         "descript": "Tout sa yo dwe sere - 2022",
-        "design": "Design by CICLOS STUDIO"  
+        "design": "Design pa CICLOS STUDIO"
     }
 }

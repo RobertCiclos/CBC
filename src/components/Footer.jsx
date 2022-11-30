@@ -37,18 +37,23 @@ const Footer = () => {
       switch (idioma) {
         case "ingles":
           dataFooter = require('../bd/ingles/Sala1.json')
+          text = dataFooter.footer.text
           break;
         case "frances":
           dataFooter = require('../bd/frances/Sala1.json')
+          text = dataFooter.footer.text
           break;
         case "creole":
           dataFooter = require('../bd/creole/Sala1.json')
+          text = dataFooter.footer.text
           break;
         case "español":
           dataFooter = require('../bd/spaniol/Sala1.json')
+          text = dataFooter.footer.text
           break;
         default:
           dataFooter = require('../bd/spaniol/Sala1.json')
+          text = dataFooter.footer.text
           break;
       }
       break
@@ -56,18 +61,23 @@ const Footer = () => {
       switch (idioma) {
         case "ingles":
           dataFooter = require('../bd/ingles/Sala2.json')
+          text = dataFooter.footer.text
           break;
         case "frances":
           dataFooter = require('../bd/frances/Sala2.json')
+          text = dataFooter.footer.text
           break;
         case "creole":
           dataFooter = require('../bd/creole/Sala2.json')
+          text = dataFooter.footer.text
           break;
         case "español":
           dataFooter = require('../bd/spaniol/Sala2.json')
+          text = dataFooter.footer.text
           break;
         default:
           dataFooter = require('../bd/spaniol/Sala2.json')
+          text = dataFooter.footer.text
           break;
       }
       break
@@ -75,18 +85,23 @@ const Footer = () => {
       switch (idioma) {
         case "ingles":
           dataFooter = require('../bd/ingles/Sala3.json')
+          text = dataFooter.footer.text
           break;
         case "frances":
           dataFooter = require('../bd/frances/Sala3.json')
+          text = dataFooter.footer.text
           break;
         case "creole":
           dataFooter = require('../bd/creole/Sala3.json')
+          text = dataFooter.footer.text
           break;
         case "español":
           dataFooter = require('../bd/spaniol/Sala3.json')
+          text = dataFooter.footer.text
           break;
         default:
           dataFooter = require('../bd/spaniol/Sala3.json')
+          text = dataFooter.footer.text
           break;
       }
       break
@@ -94,18 +109,23 @@ const Footer = () => {
       switch (idioma) {
         case "ingles":
           dataFooter = require('../bd/ingles/Sala4.json')
+          text = dataFooter.footer.text
           break;
         case "frances":
           dataFooter = require('../bd/frances/Sala4.json')
+          text = dataFooter.footer.text
           break;
         case "creole":
           dataFooter = require('../bd/creole/Sala4.json')
+          text = dataFooter.footer.text
           break;
         case "español":
           dataFooter = require('../bd/spaniol/Sala4.json')
+          text = dataFooter.footer.text
           break;
         default:
           dataFooter = require('../bd/spaniol/Sala4.json')
+          text = dataFooter.footer.text
           break;
       }
       break
@@ -113,18 +133,23 @@ const Footer = () => {
       switch (idioma) {
         case "ingles":
           dataFooter = require('../bd/ingles/Sala5.json')
+          text = dataFooter.footer.text
           break;
         case "frances":
           dataFooter = require('../bd/frances/Sala5.json')
+          text = dataFooter.footer.text
           break;
         case "creole":
           dataFooter = require('../bd/creole/Sala5.json')
+          text = dataFooter.footer.text
           break;
         case "español":
           dataFooter = require('../bd/spaniol/Sala5.json')
+          text = dataFooter.footer.text
           break;
         default:
           dataFooter = require('../bd/spaniol/Sala5.json')
+          text = dataFooter.footer.text
           break;
       }
       break
@@ -132,18 +157,23 @@ const Footer = () => {
       switch (idioma) {
         case "ingles":
           dataFooter = require('../bd/ingles/Home.json')
+          text = dataFooter.footer.text
           break;
         case "frances":
           dataFooter = require('../bd/frances/Home.json')
+          text = dataFooter.footer.text
           break;
         case "creole":
           dataFooter = require('../bd/creole/Home.json')
+          text = dataFooter.footer.text
           break;
         case "español":
           dataFooter = require('../bd/spaniol/Home.json')
+          text = dataFooter.footer.text
           break;
         default:
           dataFooter = require('../bd/spaniol/Home.json')
+          text = dataFooter.footer.text
           break;
       }
       break
@@ -196,14 +226,6 @@ const Footer = () => {
                 <div className='lg:text-left font-[400] text-[16px] leading-[28px] sm:mt-[32px] 
                 lg:w-[550px]  '>
                   {dataFooter.footer.text[0]}
-                  <p className='lg:text-left font-[400] text-[16px] leading-[28px] mt-[12px]'>
-                    {dataFooter.footer.text[1]}
-                  </p>
-
-                  <p className='lg:text-left font-[400] text-[16px] leading-[28px] mt-[12px] '>
-                    {dataFooter.footer.text[2]}
-                  </p>
-
                 </div>
                 <div className=''>
                   <p
@@ -261,33 +283,33 @@ const Footer = () => {
           <i className='flex items-center gap-[24px] justify-center md:justify-self-end'>
             <a
               className='cursor-pointer'
-              href='https://cbcbio.org' 
+              href='https://cbcbio.org'
               target="_blank" >
-              <img src='/svg/cbc.svg' alt='CBC'/>
+              <img src='/svg/cbc.svg' alt='CBC' />
             </a>
             <a
               className='cursor-pointer'
-              href='https://www.youtube.com/channel/UCVJpq9oOUMPzSOUVmtlrXaQ' 
+              href='https://www.youtube.com/channel/UCVJpq9oOUMPzSOUVmtlrXaQ'
               target="_blank" >
-              <img src='/svg/youtube.svg' alt='Youtube'/>
+              <img src='/svg/youtube.svg' alt='Youtube' />
             </a>
             <a
               className='cursor-pointer'
-              href='https://twitter.com/cbcbiodiverso?lang=es' 
+              href='https://twitter.com/cbcbiodiverso?lang=es'
               target="_blank" >
-              <img src='/svg/twitter.svg' alt='Twitter'/>
+              <img src='/svg/twitter.svg' alt='Twitter' />
             </a>
             <a
               className='cursor-pointer'
-              href='https://www.facebook.com/cbcbiodiversidad/' 
+              href='https://www.facebook.com/cbcbiodiversidad/'
               target="_blank" >
-              <img src='/svg/facebook.svg' alt='Facebook'/>
+              <img src='/svg/facebook.svg' alt='Facebook' />
             </a>
             <a
               className='cursor-pointer'
-              href='https://www.instagram.com/cbcbiodiversidad/?hl=es-la' 
+              href='https://www.instagram.com/cbcbiodiversidad/?hl=es-la'
               target="_blank" >
-              <img src='/svg/instagram.svg' alt='Instagram'/>
+              <img src='/svg/instagram.svg' alt='Instagram' />
             </a>
           </i>
         </div>

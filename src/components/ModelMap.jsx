@@ -8,15 +8,29 @@ const ModelMap = (props) => {
       <div className='contSalas' key={props.title}>
         <h2 className='uppercase'>{props.title}</h2>
         <p className='mtPharagraphs mb-[32px] lg:mb-[56px]'>
-          {props.contenido.map(
-            (parrafo, index) => {
-              if (index === numParrafos - 1) {
-                return <span key={props.title + index}>{parrafo}</span>
-              } else {
-                return <span key={props.title + index}>{parrafo}<br /><br /></span>
-              }
-            }
-          )}
+          {
+            !props.url ?
+              props.contenido.map(
+                (parrafo, index) => {
+                  if (index === numParrafos - 1) {
+                    return <span key={props.title + index}>{parrafo}</span>
+                  } else {
+                    return <span key={props.title + index}>{parrafo}<br /><br /></span>
+                  }
+                }
+              )
+              :
+              <>
+                {
+                  props.contenido
+                }
+                <a href={props.urlBio} target="_blank" className=''>{props.urlBio}</a>
+                {
+                  props.contenido2
+                }
+                <a href={props.url} target="_blank">{props.url}</a>.
+              </>
+          }
         </p>
 
       </div>
@@ -39,15 +53,26 @@ const ModelMap = (props) => {
       </div>
       <div className='contSalas pr-[12px] sm:pr-0'>
         <cite>
-          {props.description.map(
-            (parrafo, index) => {
-              if (index === numParrafos - 1) {
-                return <span key={props.title + index}>{parrafo}</span>
-              } else {
-                return <span key={props.title + index}>{parrafo}<br /></span>
-              }
-            }
-          )}
+          {
+            !props.url ?
+
+              props.description.map(
+                (parrafo, index) => {
+                  if (index === numParrafos - 1) {
+                    return <span key={props.title + index}>{parrafo}</span>
+                  } else {
+                    return <span key={props.title + index}>{parrafo}<br /></span>
+                  }
+                }
+              )
+              :
+              <>
+                {
+                  props.description[0]
+                }                
+                <a href={props.url} target="_blank">{props.url}</a>.
+              </>
+          }
         </cite>
       </div>
     </>

@@ -1,18 +1,46 @@
 import React, { useEffect, useState } from 'react'
 import { useMediaQuery } from 'react-responsive'
 import { motion } from 'framer-motion'
+import { useSelector } from 'react-redux'
+import CardCredit from './CardAux/CardCredit'
 
 const ModelTitle = (props) => {
 
   const istablet = useMediaQuery({ query: '(min-width: 1280px)' })
   const [visible, setVisible] = useState(false)
-  
-  useEffect(()=>
-    setTimeout(()=>setVisible(!visible),3000)
-  ,[])
+
+  useEffect(() =>
+    setTimeout(() => setVisible(!visible), 3000)
+    , [])
+
+  const idioma = useSelector(state => state.idioma.value)
+  var general = ""
+
+  if (props.autor1) {
+    switch (idioma) {
+      case "ingles":
+        general = require('../bd/ingles/General.json')
+        break;
+      case "frances":
+        general = require('../bd/frances/General.json')
+        break;
+      case "creole":
+        general = require('../bd/creole/General.json')
+        break;
+      case "español":
+        general = require('../bd/spaniol/General.json')
+        break;
+      default:
+        general = require('../bd/spaniol/General.json')
+        break;
+    }
+  }
 
   return (
     <div>
+      {
+        props.autor1 && <CardCredit idioma={general.credito} autor={props.autor1} />
+      }
       {
         !istablet &&
         <img
@@ -39,21 +67,21 @@ const ModelTitle = (props) => {
 
       {
         visible &&
-          <motion.div
-            initial={{ opacity: 0, left: -200 }}
-            whileInView={{ opacity: 1, left: 0 }}
-            exit={{ opacity: 0 }}
-            transition={{ duration: 3 }}
-            className='absolute uppercase bottom-0 w-full bg-[rgba(0,0,0,0.5)] z-0 '>
-            <div
-              className='contSalas mx-auto text-white font-Public font-bold sm:text-center
+        <motion.div
+          initial={{ opacity: 0, left: -200 }}
+          whileInView={{ opacity: 1, left: 0 }}
+          exit={{ opacity: 0 }}
+          transition={{ duration: 3 }}
+          className='absolute uppercase bottom-0 w-full bg-[rgba(0,0,0,0.5)] z-0 '>
+          <div
+            className='contSalas mx-auto text-white font-Public font-bold sm:text-center
               py-[8px] text-[14px] leading-[16.24px] opacity-1 uppercase
               sm:text-[20px] sm:leading-[25px] sm:py-[16px]
               md:text-[30px] md:leading-[35px] md:py-[24px]
               xl:text-[44px] xl:leading-[54px]'>
-              {props.title}
-            </div>
-          </motion.div>
+            {props.title}
+          </div>
+        </motion.div>
       }
     </div>
   )

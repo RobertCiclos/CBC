@@ -49,7 +49,8 @@
 
     "section5": {
         "img": "./imagenes/sala2/especies-migratorias.jpg",
-        "title": "MIGRATORY SPECIES"
+        "title": "MIGRATORY SPECIES",
+        "autor1": "KP McFarland"
     },
     "section6": {
         "indicador": "Migratory species",
@@ -60,6 +61,7 @@
         ],
         "imagen1": "./imagenes/sala2/tordo-bicknell-min.jpg",
         "alt1": "Bicknell’s thrush (Catharus bicknelli)",
+        "autor1": "Budgora",
         "description": "Bicknell’s thrush (Catharus bicknelli)",
         "background": "#103A62",
         "colorText": "#FFFFFF"
@@ -98,7 +100,8 @@
             "name1": "Whale Shark (Rhincodon typus)",
             "imagen2": "./imagenes/sala2/tiburon-ballena2.jpg",
             "alt2": "Whale Shark (Rhincodon typus)",
-            "name2": "Whale Shark (Rhincodon typus)"
+            "name2": "Whale Shark (Rhincodon typus)",
+            "autor2": "Pablo Cersosimo"
         },
         "background": "#103A62",
         "colorText": "#FFFFFF"
@@ -118,7 +121,9 @@
             "name1": "Manta ray or Giant manta ray (Mobula birostris)",
             "imagen2": "./imagenes/sala2/manta-gigante2.jpg",
             "alt2": "Manta ray or Giant manta ray (Mobula birostris)",
-            "name2": "Manta ray or Giant manta ray (Mobula birostris)"
+            "name2": "Manta ray or Giant manta ray (Mobula birostris)",
+            "autor1": "Avi Klapfer",
+            "autor2": "Avi Klapfer"
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
@@ -236,6 +241,7 @@
         "alt1": "Black-capped Petrel (Pterodroma hasitata) flying over the Caribbean Sea.",
         "description": "Black-capped Petrel (Pterodroma hasitata) flying over the Caribbean Sea.",
         "background": "#ffffff",
+        "autor1": "Tom Benson",
         "colorText": "#181818"
     },
     "section20": {
@@ -252,6 +258,7 @@
             "alt1": "West Indian manatee (Trichecherus manatus)",
             "name1": "West Indian manatee (Trichecherus manatus)",
             "imagen2": "./imagenes/sala2/habitad-manati.jpg",
+            "autor1": "Avi Klapfer",
             "alt2": "West Indian manatee (Trichechus manatus) habitat in Estero Hondo (Dominican Republic)",
             "name2": "West Indian manatee (Trichechus manatus) habitat in Estero Hondo (Dominican Republic)"
         },
@@ -276,6 +283,8 @@
             "alt1": "Sperm whale (Physeter macrocephalus) and its particular tail",
             "name1": "Sperm whale (Physeter macrocephalus) and its particular tail",
             "imagen2": "./imagenes/sala2/cabeza-cachalote.jpg",
+            "autor1": "Victoria Hoete-Dodd",
+            "autor2": "Victoria Hoete-Dodd",
             "alt2": "Head of a sperm whale (Physeter macrocephalus) with a toothed jaw",
             "name2": "Head of a sperm whale (Physeter macrocephalus) with a toothed jaw"
         },
@@ -329,6 +338,7 @@
             "name1": "Nesting of western ospreys (Pandion halietus)",
             "imagen2": "./imagenes/sala2/aguila-pescadora.jpg",
             "alt2": "Western ospreys (Pandion halietus)",
+            "autor1": "Jill Bazeley",
             "name2": "Western ospreys (Pandion halietus)"
         },
         "background": "#FFFFFF",
@@ -409,17 +419,16 @@
     },
     "footer": {
         "title": "“THE CBC NATURE”",
+        "text": ["An Initiative of the governments of Cuba, Dominican Republic, Haiti, Puerto Rico and Jamaica. Financed by the European Union (EU) with support of the United Nations Environment Programme (UNEP)."],
         "subtitle": "Associated Institutions",
-        "instituciones": [
-            "Ministry of Science, technology and the Environment of the Republic of Cuba",
-            "Ministry of the Environment of Haiti",
-            "Ministry of the Environment and Natural Resources of the Dominican Republic",
-            "Ministry of Economic Growth and Job Creation of Jamaica (MEGJC)",
-            "Department of Natural and Environmental Resources of the Government of Puerto Rico",
-            "United Nations Environment Programme (UNEP)",
-            "European Union (EU)"
-        ],
+        "instituciones": ["Ministry of Science, technology and the Environment of the Republic of Cuba",
+                        "Ministry of the Environment of Haiti",
+                        "Ministry of the Environment and Natural Resources of the Dominican Republic",
+                        "Ministry of Economic Growth and Job Creation of Jamaica (MEGJC)",
+                        "Department of Natural and Environmental Resources of the Government of Puerto Rico",
+                        "United Nations Environment Programme (UNEP)",
+                        "European Union (EU)"],
         "descript": "All rights reserved – 2022",
-        "design": "Design by CICLOS STUDIO"
+        "design": "Design by CICLOS STUDIO"   
     }
 }

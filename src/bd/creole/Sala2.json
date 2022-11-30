@@ -48,7 +48,8 @@
     },
     "section5": {
         "img": "./imagenes/sala2/especies-migratorias.jpg",
-        "title": "Espès migratè"
+        "title": "Espès migratè",
+        "autor1": "KP McFarland"
     },
     "section6": {
         "indicador": "Espès migratè",
@@ -59,6 +60,7 @@
         ],
         "imagen1": "./imagenes/sala2/tordo-bicknell-min.jpg",
         "alt1": "Griv Bicknell la (Catharus bicknelli)",
+        "autor1": "Budgora",
         "description": "Griv Bicknell la (Catharus bicknelli)",
         "background": "#103A62",
         "colorText": "#FFFFFF"
@@ -97,7 +99,8 @@
             "name1": "Reken balèn (Rhincodon typus)",
             "imagen2": "./imagenes/sala2/tiburon-ballena2.jpg",
             "alt2": "Reken balèn (Rhincodon typus)",
-            "name2": "Reken balèn (Rhincodon typus)"
+            "name2": "Reken balèn (Rhincodon typus)",
+            "autor2": "Pablo Cersosimo"
         },
         "background": "#103A62",
         "colorText": "#FFFFFF"
@@ -117,7 +120,9 @@
             "name1": "Rè manta oswa Rè manta jeyan (Mobula birostris)",
             "imagen2": "./imagenes/sala2/manta-gigante2.jpg",
             "alt2": "Rè manta oswa Rè manta jeyan (Mobula birostris)",
-            "name2": "Rè manta oswa Rè manta jeyan (Mobula birostris)"
+            "name2": "Rè manta oswa Rè manta jeyan (Mobula birostris)",
+            "autor1": "Avi Klapfer",
+            "autor2": "Avi Klapfer"
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
@@ -235,6 +240,7 @@
         "alt1": "Petrel tèt nwa (Pterodroma hasitata) lè lap migre, pandan lap vole sou lanmè Karayib la.",
         "description": "Petrel tèt nwa (Pterodroma hasitata) lè lap migre, pandan lap vole sou lanmè Karayib la.",
         "background": "#ffffff",
+        "autor1": "Tom Benson",
         "colorText": "#181818"
     },
     "section20": {
@@ -251,6 +257,7 @@
             "alt1": "Bèf lanmè karayib la (Trichecherus manatus)",
             "name1": "Bèf lanmè karayib la (Trichecherus manatus)",
             "imagen2": "./imagenes/sala2/habitad-manati.jpg",
+            "autor1": "Avi Klapfer",
             "alt2": "Abita Bèf lanmè karayib la (Trichechus manatus) nan Estero Hondo (Repiblik Dominikèn)",
             "name2": "Abita Bèf lanmè karayib la (Trichechus manatus) nan Estero Hondo (Repiblik Dominikèn)"
         },
@@ -275,6 +282,8 @@
             "alt1": "Tèt yon balèn (Physeter macrocephalus) ak yon machwa ki gen dan",
             "name1": "Tèt yon balèn (Physeter macrocephalus) ak yon machwa ki gen dan",
             "imagen2": "./imagenes/sala2/cabeza-cachalote.jpg",
+            "autor1": "Victoria Hoete-Dodd",
+            "autor2": "Victoria Hoete-Dodd",
             "alt2": "Balèn espèm oswa Kachalo (Physeter macrocephalus) ak ke patikilye li a",
             "name2": "Balèn espèm oswa Kachalo (Physeter macrocephalus) ak ke patikilye li a"
         },
@@ -297,7 +306,6 @@
             "Koray bag (Montastraea oswa Orbicella faveolata)"
         ],
         "contenido2": "Sa yo te klase kòm priyoritè pa CBC tankou objè konsèvasyon.",
-        
         "imagenes": {
             "imagen1": "./imagenes/sala2/coral-cuerno-siervo-min.jpg",
             "alt2": "Koray ki gen kòn elan (Acropora palmata)",
@@ -326,6 +334,7 @@
             "imagen1": "./imagenes/sala2/anidacion-aguila.jpg",
             "alt1": "Ni èg pechè a (Pandion halietus)",
             "name1": "Ni èg pechè a (Pandion halietus)",
+            "autor1": "Jill Bazeley",
             "imagen2": "./imagenes/sala2/aguila-pescadora.jpg",
             "alt2": "Èg pechè (Pandion halietus)",
             "name2": "Èg pechè (Pandion halietus)"
@@ -408,6 +417,9 @@
     },
     "footer": {
         "title": "“CBC se Lanati”",
+        "text": [
+            "Se yon inisyativ gouvènman sa yo ki se : Cuba, Peyi panyòl (Repiblik Dominikèn, peyi Dayiti, Pòto Rico ak Jamayik). Inisyativ saa jwenn bourad lajan Inyon Ewopeyen  (ki gen sig li an angle EU) nan tèt kole ak Pwogram Nasyonzini pou Anviwònman  (ki gen sig li an franse PNUE)."
+        ],
         "subtitle": "Enstitisyon ki asosye",
         "instituciones": [
             "Ministè Syans, Teknoloji ak Anviwònman Repiblik Kiba",
@@ -419,6 +431,6 @@
             "Inyon Ewopeyen (ki gen sig angle EU)"
         ],
         "descript": "Tout sa yo dwe sere - 2022",
-        "design": "Design by CICLOS STUDIO"
+        "design": "Design pa CICLOS STUDIO"
     }
 }

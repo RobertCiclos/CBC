@@ -12,7 +12,16 @@
 
     "section3" : {
         "title" : "El CBC y las Metas de los ODS",
-        "contenido": "Las acciones que promueve la Iniciativa del CBC se relacionan con varios de los Objetivos de Desarrollo Sostenible, especialmente con los objetivos 14 y 15 de Vida Submarina y Vida de Ecosistemas Terrestres; pero también con otros, como por ejemplo, con el número 1 de Fin de la Pobreza y el 2 Hambre Cero, creando oportunidades de desarrollo local sostenible; con el 5 de Igualdad de Género; y con el 13 de Acción por el Clima, implementando políticas y estrategias para la conservación de la biodiversidad y el desarrollo sostenible en un clima cambiante."
+        "contenido": "Las acciones que promueve la Iniciativa del CBC se relacionan con varios de los Objetivos de Desarrollo Sostenible, especialmente con los objetivos 14 y 15 de Vida Submarina y Vida de Ecosistemas Terrestres; pero también con otros, como por ejemplo, con el número 1 de Fin de la Pobreza y el 2 Hambre Cero, creando oportunidades de desarrollo local sostenible; con el 5 de Igualdad de Género; y con el 13 de Acción por el Clima, implementando políticas y estrategias para la conservación de la biodiversidad y el desarrollo sostenible en un clima cambiante.",
+        "imgs": [
+            "./imagenes/sala5/logosostenibles.png",
+            "./imagenes/sala5/findelapobreza.png",
+            "./imagenes/sala5/hambrecero.png",
+            "./imagenes/sala5/igualdaddegenero.png",
+            "./imagenes/sala5/accionporelclima.png",
+            "./imagenes/sala5/ecosistematerrestre.png",
+            "./imagenes/sala5/vidasubmarina.png"
+        ]
     },
 
     "section4" : {
@@ -144,9 +153,12 @@
 
     "section12" : {
         "title": "Sistema Integrado de Gestion del Conocimiento",
-        "contenido": ["La Iniciativa del CBC está desarrollando un Sistema integrado de gestión del conocimiento (BIOINFO), el cual cuenta ya con más de 4.6 millones de registros geo-referenciados con información de hasta 18 temáticas de importancia para el CBC. Este sistema está en constante actualización y se encuentra disponible para facilitar la toma de decisiones en los países miembros del CBC. Su herramienta espacial “BioAtlas” puede explorarse en: https:bioatlas.cbcbio.org/"],
+        "contenido": "La Iniciativa del CBC está desarrollando un Sistema integrado de gestión del conocimiento (BIOINFO: ",
+        "urlBio": "https:ikms.cbcbio.org",
+        "contenido2": "), el cual cuenta ya con más de 4.6 millones de registros geo-referenciados con información de hasta 18 temáticas de importancia para el CBC. Este sistema está en constante actualización y se encuentra disponible para facilitar la toma de decisiones en los países miembros del CBC. Su herramienta espacial “BioAtlas” puede explorarse en ",
+        "url": "https:bioatlas.cbcbio.org/",
         "imagen":  "./imagenes/sala5/bioatlas.jpg",
-        "description": ["Página principal del BioAtlas."],
+        "description": ["Página principal del BioAtlas: "],
         "background": "#FFFFFF",
         "colorText": "#181818"
     },
@@ -395,15 +407,16 @@
 
     "footer": {
         "title": "“El CBC es Paz”",
-        "subtitle": "Instituciones que participan",
+        "text": ["Iniciativa gubernamental de cuatro países: Cuba, Haití, República Dominicana y Puerto Rico. Financiada por la Unión Europea (UE) y apoyada por el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA)."],
+        "subtitle": "Instituciones asociadas",
         "instituciones": ["Ministerio de Ciencia, Tecnología y Medio Ambiente de la República de Cuba",
                         "Ministerio de Medio Ambiente de Haití",
                         "Ministerio de Medio Ambiente y Recursos Naturales de República Dominicana",
                         "Ministry of Economic Growth and Job Creation of Jamaica (MEGJC)",
                         "Departamento de Recursos Naturales y Ambientales del Gobierno de Puerto Rico",
                         "PNUMA",
-                        "Unión Europea"] ,
+                        "Unión Europea (UE)"] ,
         "descript": "Todos los derechos reservados  -  2022",
-        "design": "Diseñado por Ciclos Studio"         
+        "design": "Diseñado por Ciclos Studio"        
     }
 }

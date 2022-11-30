@@ -50,7 +50,8 @@
 
     "section5": {
         "img": "./imagenes/sala2/especies-migratorias.jpg",
-        "title": "Especies Migratorias"
+        "title": "Especies Migratorias",
+        "autor1": "KP McFarland"
     },
     "section6": {
         "indicador": "Especies Migratorias ",
@@ -61,6 +62,7 @@
         ],
         "imagen1": "./imagenes/sala2/tordo-bicknell-min.jpg",
         "alt1": "Tordo de Bicknell (Catharus bicknelli)",
+        "autor1": "Budgora",
         "description": "Tordo de Bicknell (Catharus bicknelli)",
         "background": "#103A62",
         "colorText": "#FFFFFF"
@@ -99,7 +101,8 @@
             "name1": "Tiburón Ballena (Rhincodon typus)",
             "imagen2": "./imagenes/sala2/tiburon-ballena2.jpg",
             "alt2": "Tiburón Ballena (Rhincodon typus)",
-            "name2": "Tiburón Ballena (Rhincodon typus)"
+            "name2": "Tiburón Ballena (Rhincodon typus)",
+            "autor2": "Pablo Cersosimo"
         },
         "background": "#103A62",
         "colorText": "#FFFFFF"
@@ -119,7 +122,9 @@
             "name1": "Mantarraya o manta gigante (Mobula birostris)",
             "imagen2": "./imagenes/sala2/manta-gigante2.jpg",
             "alt2": "Mantarraya o manta gigante (Mobula birostris)",
-            "name2": "Mantarraya o manta gigante (Mobula birostris)"
+            "name2": "Mantarraya o manta gigante (Mobula birostris)",
+            "autor1": "Avi Klapfer",
+            "autor2": "Avi Klapfer"
         },
         "background": "#FFFFFF",
         "colorText": "#181818"
@@ -183,10 +188,12 @@
         "background": "#103A62",
         "colorText": "#FFFFFF"
     },
+
     "section15": {
         "img": "./imagenes/sala2/especies-importantes.jpg",
         "title": "Otras especies de importancia para la conservación"
     },
+
     "section16": {
         "indicador": "Otras especies de importancia para la conservación",
         "colorIndicador": "#103A62",
@@ -240,6 +247,7 @@
         "alt1": "Diablotín (Pterodroma hasitata) sobrevolando el mar Caribe. ",
         "description": "Diablotín (Pterodroma hasitata) sobrevolando el mar Caribe. ",
         "background": "#ffffff",
+        "autor1": "Tom Benson",
         "colorText": "#181818"
     },
     "section20": {
@@ -255,6 +263,7 @@
             "imagen1": "./imagenes/sala2/manati-antillano.jpg",
             "alt1": "Manatí antillano (Trichechus manatus).",
             "name1": "Manatí antillano (Trichechus manatus).",
+            "autor1": "Avi Klapfer",
             "imagen2": "./imagenes/sala2/habitad-manati.jpg",
             "alt2": "Hábitat del manatí antillano (Trichechus manatus) en Estero Hondo (República Dominicana).",
             "name2": "Hábitat del manatí antillano (Trichechus manatus) en Estero Hondo (República Dominicana)."
@@ -280,6 +289,8 @@
             "alt1": "Cachalote (Physeter macrocephalus) y su particular cola.",
             "name1": "Cachalote (Physeter macrocephalus) y su particular cola.",
             "imagen2": "./imagenes/sala2/cabeza-cachalote.jpg",
+            "autor1": "Victoria Hoete-Dodd",
+            "autor2": "Victoria Hoete-Dodd",
             "alt2": "Cabeza de cachalote (Physeter macrocephalus) que presenta su mandíbula dentada.",
             "name2": "Cabeza de cachalote (Physeter macrocephalus) que presenta su mandíbula dentada."
         },
@@ -329,6 +340,7 @@
             "imagen1": "./imagenes/sala2/anidacion-aguila.jpg",
             "alt1": "Anidación de águila pescadora (Pandion halietus)",
             "name1": "Anidación de águila pescadora (Pandion halietus)",
+            "autor1": "Jill Bazeley",
             "imagen2": "./imagenes/sala2/aguila-pescadora.jpg",
             "alt2": "Águila pescadora (Pandion halietus).",
             "name2": "Águila pescadora (Pandion halietus)."
@@ -412,17 +424,16 @@
     },
     "footer": {
         "title": "“El CBC es Naturaleza”",
-        "subtitle": "Instituciones relacionadas",
-        "instituciones": [
-            "Ministerio de Ciencia, Tecnología y Medio Ambiente de la República de Cuba",
-            "Ministerio de Medio Ambiente de Haití",
-            "Ministerio de Medio Ambiente y Recursos Naturales de República Dominicana",
-            "Ministry of Economic Growth and Job Creation of Jamaica (MEGJC)",
-            "Departamento de Recursos Naturales y Ambientales del Gobierno de Puerto Rico",
-            "PNUMA",
-            "Unión Europea"
-        ],
+        "text": ["Iniciativa gubernamental de cuatro países: Cuba, Haití, República Dominicana y Puerto Rico. Financiada por la Unión Europea (UE) y apoyada por el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA)."],
+        "subtitle": "Instituciones asociadas",
+        "instituciones": ["Ministerio de Ciencia, Tecnología y Medio Ambiente de la República de Cuba",
+                        "Ministerio de Medio Ambiente de Haití",
+                        "Ministerio de Medio Ambiente y Recursos Naturales de República Dominicana",
+                        "Ministry of Economic Growth and Job Creation of Jamaica (MEGJC)",
+                        "Departamento de Recursos Naturales y Ambientales del Gobierno de Puerto Rico",
+                        "PNUMA",
+                        "Unión Europea (UE)"] ,
         "descript": "Todos los derechos reservados  -  2022",
-        "design": "Diseñado por Ciclos Studio"
+        "design": "Diseñado por Ciclos Studio" 
     }
 }

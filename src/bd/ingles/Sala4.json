@@ -1,36 +1,42 @@
-{   
-    "section1" : {
-        "img" : "./imagenes/sala4/hero-sala4.jpg",
+{
+    "section1": {
+        "img": "./imagenes/sala4/hero-sala4.jpg",
         "title": "THE CARIBBEAN BIOLOGICAL CORRIDOR, THE INITIATIVE",
         "sala": "ROOM 4"
     },
-    
-    "section2" : {
-        "contenido": ["The Caribbean Biological Corridor (CBC) Initiative is a cooperation platform between the Ministries of Environment of Haiti, the Dominican Republic and Cuba, and the Department of Natural and Environmental Resources of Puerto Rico, with Jamaica as an observer country (and that recently became a full-fledged member).",
-                        "Since its creation, after the signature of the Santo Domingo Declaration in July 10, 2007, the CBC has made progress on key milestones with the support of the United Nations Environment Program (UNEP), funding from the European Union (EU), and with the collaboration of other financial and cooperation organizations, with the participation of NGOs as well as national and international institutions.",
-                            "Based on the agreement between the aforementioned countries, the CBC has successfully worked for the conservation of biodiversity and the integration of communities in the Greater Antilles, under the framework of a harmonious development with nature, as presented below." ]
+    "section2": {
+        "contenido": [
+            "The Caribbean Biological Corridor (CBC) Initiative is a cooperation platform between the Ministries of Environment of Haiti, the Dominican Republic and Cuba, and the Department of Natural and Environmental Resources of Puerto Rico, with Jamaica as an observer country (and that recently became a full-fledged member).",
+            "Since its creation, after the signature of the Santo Domingo Declaration in July 10, 2007, the CBC has made progress on key milestones with the support of the United Nations Environment Program (UNEP), funding from the European Union (EU), and with the collaboration of other financial and cooperation organizations, with the participation of NGOs as well as national and international institutions.",
+            "Based on the agreement between the aforementioned countries, the CBC has successfully worked for the conservation of biodiversity and the integration of communities in the Greater Antilles, under the framework of a harmonious development with nature, as presented below."
+        ]
     },
-
-    "section4" : {
+    "section3": {
+        "url": "https://www.youtube.com/embed/ju0uv-oUcIs",
+        "title": "Corredor Biológico en el Caribe, un esfuerzo para la conservación y el desarrollo sostenible."
+    },
+    "section4": {
         "title": "THE CBC INITIATIVE",
-        "contenido": ["In November 2014, an Inter-ministerial Agreement was signed establishing a general regulatory and governance framework for the CBC, formalizing the Technical and Ministerial Committees and creating the CBC Secretariat as the executive and coordinating body for the Initiative."],
+        "contenido": [
+            "In November 2014, an Inter-ministerial Agreement was signed establishing a general regulatory and governance framework for the CBC, formalizing the Technical and Ministerial Committees and creating the CBC Secretariat as the executive and coordinating body for the Initiative."
+        ],
         "imagen1": "./imagenes/sala4/firma-declaracion.jpg",
-        "alt1": "Signature of the Santo Domingo Declaration.",        
+        "alt1": "Signature of the Santo Domingo Declaration.",
         "description": "Signature of the Santo Domingo Declaration.",
         "background": "#103A62",
         "colorText": "#FFF",
         "sub": "Signed Santo Domingo Declaration",
-        "see" : "See declaration"
+        "see": "See declaration"
     },
-
-    "section5" : {
+    "section5": {
         "title": "MISSION",
-        "contenido": ["The mission of the CBC is to achieve the effective conservation of regionally important marine and terrestrial biodiversity, the maintenance of ecological connectivity and the provision of ecosystem services in key sites of the insular Caribbean; considering the challenges of a changing climate, the development needs of communities, and ensuring the coordination, integration and cooperation of all relevant stakeholders."],
+        "contenido": [
+            "The mission of the CBC is to achieve the effective conservation of regionally important marine and terrestrial biodiversity, the maintenance of ecological connectivity and the provision of ecosystem services in key sites of the insular Caribbean; considering the challenges of a changing climate, the development needs of communities, and ensuring the coordination, integration and cooperation of all relevant stakeholders."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala4/reserva-ecologica.jpg",
             "alt1": "Siboney Jutici Ecological Reserve, Santiago de Cuba",
             "name1": "Siboney Jutici Ecological Reserve, Santiago de Cuba",
-
             "imagen2": "./imagenes/sala4/matorral-cactaceo.jpg",
             "alt2": "In the cactus scrub in the Dominican Republic, cacti produce their flowers and fruits in a structure called Cephalium.",
             "name2": "In the cactus scrub in the Dominican Republic, cacti produce their flowers and fruits in a structure called Cephalium."
@@ -38,15 +44,15 @@
         "background": "#FFF",
         "colorText": "#181818"
     },
-
-    "section6" : {
+    "section6": {
         "title": "OBJECTIVES",
-        "contenido": ["The objective of the CBC is to build a strong and collectively sustained regional institutional approach to the conservation and management of shared terrestrial and marine biodiversity of regional importance in the Caribbean islands that contributes to both global conservation and poverty reduction in the region."],
+        "contenido": [
+            "The objective of the CBC is to build a strong and collectively sustained regional institutional approach to the conservation and management of shared terrestrial and marine biodiversity of regional importance in the Caribbean islands that contributes to both global conservation and poverty reduction in the region."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala4/cayo-coco.jpg",
             "alt1": "Cayo Coco, Cuba",
             "name1": "Cayo Coco, Cuba",
-
             "imagen2": "./imagenes/sala4/iguana.jpg",
             "alt2": "Lizard (Leiocephalus carinatus)",
             "name2": "Lizard (Leiocephalus carinatus)"
@@ -54,16 +60,16 @@
         "background": "#103A62",
         "colorText": "#fff"
     },
-
-    "section7" : {
+    "section7": {
         "title": "5 STRATEGIC LINES OF THE CBC",
-        "contenido": ["The five strategic conceptual lines of the Initiative have been defined as a result of the dialogue and the mandates of the CBC’s Ministerial Committee.",
-                        "These are: maintaining ecological connectivity, conservation, and restoration of key ecosystems and the most representative and threatened species of the insular Caribbean, strengthening resilience to climate change, sustainable community development, capacity building for governance, south-south cooperation and coordinated work among multiple actors and at multiple scales."],
+        "contenido": [
+            "The five strategic conceptual lines of the Initiative have been defined as a result of the dialogue and the mandates of the CBC’s Ministerial Committee.",
+            "These are: maintaining ecological connectivity, conservation, and restoration of key ecosystems and the most representative and threatened species of the insular Caribbean, strengthening resilience to climate change, sustainable community development, capacity building for governance, south-south cooperation and coordinated work among multiple actors and at multiple scales."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala4/trabajador-plantones.jpg",
             "alt1": "Worker with seedlings in a plant nursery in Pic Macayá.",
             "name1": "Worker with seedlings in a plant nursery in Pic Macayá.",
-
             "imagen2": "./imagenes/sala4/canal-auras.jpg",
             "alt2": "Canal de las Auras - Jardines de la Reina National Park in Cuba.",
             "name2": "Canal de las Auras - Jardines de la Reina National Park in Cuba."
@@ -71,30 +77,33 @@
         "background": "#FFF",
         "colorText": "#181818"
     },
-
-    "section8" : {
+    "section8": {
         "title": "SCOPE OF WORK OF THE CBC",
         "subtitle": "Original Demarcation of the Caribbean Biological Corridor (2012-2021)",
         "subtitleNew": "New Demarcation of the Caribbean Biological Corridor (2022)",
         "colorSubtitle": "#FFF",
-        "contenido": ["From its inception in 2007, the CBC Initiative focused its efforts in eastern Cuba and western La Hispaniola.",
-                        "In the Ministerial Committee held in 2014, the countries instructed the Secretariat to work on updating the demarcation of the corridor.",
-                            "The new demarcation currently includes core conservation areas and areas of importance for connectivity throughout the Greater Antilles, including both terrestrial and marine. The latter include parts of the territorial seas, archipelagic and inland waters, and the exclusive economic zones of the countries and territories mentioned."],
-        "imagen":  "./imagenes/ing/oldMapa.jpg",
-        "imagenNew":  "./imagenes/ing/newMapa.jpg",
-        "description": ["Maps showing the evolution of the original and current demarcation of the Caribbean Biological Corridor."],
+        "contenido": [
+            "From its inception in 2007, the CBC Initiative focused its efforts in eastern Cuba and western La Hispaniola.",
+            "In the Ministerial Committee held in 2014, the countries instructed the Secretariat to work on updating the demarcation of the corridor.",
+            "The new demarcation currently includes core conservation areas and areas of importance for connectivity throughout the Greater Antilles, including both terrestrial and marine. The latter include parts of the territorial seas, archipelagic and inland waters, and the exclusive economic zones of the countries and territories mentioned."
+        ],
+        "imagen": "./imagenes/ing/oldMapa.jpg",
+        "imagenNew": "./imagenes/ing/newMapa.jpg",
+        "description": [
+            "Maps showing the evolution of the original and current demarcation of the Caribbean Biological Corridor."
+        ],
         "background": "#103A62",
         "colorText": "#FFF"
     },
-
-    "section9" : {
+    "section9": {
         "title": "SOUTH-SOUTH COOPERATION PLATFORM",
-        "contenido": ["The CBC is conceived as a South-South cooperation platform, where its fundamental principles and priorities are promoted, and where anyone who wishes to contribute, either through projects developed by the Secretariat, coordinated with the participation of the Secretariat, or through totally independent projects, is invited to participate."],
+        "contenido": [
+            "The CBC is conceived as a South-South cooperation platform, where its fundamental principles and priorities are promoted, and where anyone who wishes to contribute, either through projects developed by the Secretariat, coordinated with the participation of the Secretariat, or through totally independent projects, is invited to participate."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala4/monitoreo-aves.jpg",
             "alt1": "Bird Monitoring in the Gran Piedra Protected Natural Landscape in Cuba, led by BIOECO, one of the CBC partners, with the support of the CBC Secretariat.",
             "name1": "Bird Monitoring in the Gran Piedra Protected Natural Landscape in Cuba, led by BIOECO, one of the CBC partners, with the support of the CBC Secretariat.",
-            
             "imagen2": "./imagenes/sala4/encuentro-entre.jpg",
             "alt2": "Meeting between Leo Heilemann Director of the UNEP Regional Office for Latin America and the Caribbean with Elba Rosa Perez Montoya, Minister of Science, Technology and Environment of Cuba and Abner Septembre, Minister of Environment of Haiti at the end of the Ministerial Committee in Havana, Cuba in 2019.",
             "name2": "Meeting between Leo Heilemann Director of the UNEP Regional Office for Latin America and the Caribbean with Elba Rosa Perez Montoya, Minister of Science, Technology and Environment of Cuba and Abner Septembre, Minister of Environment of Haiti at the end of the Ministerial Committee in Havana, Cuba in 2019."
@@ -102,15 +111,15 @@
         "background": "#FFF",
         "colorText": "#181818"
     },
-
-    "section10" : {
+    "section10": {
         "title": "THE CBC’S GOVERNANCE MECHANISM",
-        "contenido": ["At the regional level, the highest level in the governance network of the Initiative is led by the Ministerial Committee, including the Scientific-Technical Committee and the CBC Secretariat, supported by the United Nations Environment Programme (UNEP). Other international or multilateral partner institutions contribute by financing and implementing projects at the regional level."],
+        "contenido": [
+            "At the regional level, the highest level in the governance network of the Initiative is led by the Ministerial Committee, including the Scientific-Technical Committee and the CBC Secretariat, supported by the United Nations Environment Programme (UNEP). Other international or multilateral partner institutions contribute by financing and implementing projects at the regional level."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala4/caseta-vigilancia.jpg",
             "alt1": "Watchtower in the sector of El Limón in La Selle-Jaragua, Bahoruco-Enriquillo Binational Reserve, in La Hispaniola.",
             "name1": "Watchtower in the sector of El Limón in La Selle-Jaragua, Bahoruco-Enriquillo Binational Reserve, in La Hispaniola.",
-
             "imagen2": "./imagenes/sala4/ministros-equipos.jpg",
             "alt2": "Ministers, technical teams and collaborators at the end of the CBC’s Ministerial Committee held in Havana, Cuba in 2019.",
             "name2": "Ministers, technical teams and collaborators at the end of the CBC’s Ministerial Committee held in Havana, Cuba in 2019."
@@ -118,26 +127,27 @@
         "background": "#103A62",
         "colorText": "#FFF"
     },
-
-    "section11" : {
+    "section11": {
         "title": "PARTICIPATION AT THE COUNTRY LEVEL IN THE CBC",
-        "contenido": ["Under the leadership of their Ministries of the Environment, countries participate in the Initiative. In addition, different institutions at the national level support the implementation of policies and actions. At the local level, the administrations of protected areas, local communities, local governments as well as the civil society and private sector are responsible for implementing actions on the ground."],
+        "contenido": [
+            "Under the leadership of their Ministries of the Environment, countries participate in the Initiative. In addition, different institutions at the national level support the implementation of policies and actions. At the local level, the administrations of protected areas, local communities, local governments as well as the civil society and private sector are responsible for implementing actions on the ground."
+        ],
         "imagen1": "./imagenes/sala4/coral-cuerno.jpg",
-        "alt1": "Elkhorn coral in Jardines de la Reina National Park, Cuba.",        
+        "alt1": "Elkhorn coral in Jardines de la Reina National Park, Cuba.",
         "description": "Elkhorn coral in Jardines de la Reina National Park, Cuba.",
         "background": "#FFF",
         "colorText": "#181818"
     },
-
-    "section12" : {
+    "section12": {
         "title": "MINISTERIAL AND SCIENTIFIC AND TECHNICAL COMMITTEE",
-        "contenido": ["The Ministerial Committee is the highest decision-making body of the Initiative. It is led by the ministers of the environment of its member countries, the focal points designated by each member country, the Executive Secretariat, and invitees from partner organizations. The Ministerial committee convenes periodically to review and evaluate progress of the Initiative and its projects, approve action plans, and make decisions that guide future work. UNEP is a permanent guest to the sessions.",
-                        "In terms of decision making, it relies on the recommendations of a Scientific and Technical Committee composed of designated experts and the Executive Secretariat. This Committee reviews, and eventually approves all plans, projects and other scientific and technical documents submitted and recommends decisions for the Ministerial Committee to agree on."],
+        "contenido": [
+            "The Ministerial Committee is the highest decision-making body of the Initiative. It is led by the ministers of the environment of its member countries, the focal points designated by each member country, the Executive Secretariat, and invitees from partner organizations. The Ministerial committee convenes periodically to review and evaluate progress of the Initiative and its projects, approve action plans, and make decisions that guide future work. UNEP is a permanent guest to the sessions.",
+            "In terms of decision making, it relies on the recommendations of a Scientific and Technical Committee composed of designated experts and the Executive Secretariat. This Committee reviews, and eventually approves all plans, projects and other scientific and technical documents submitted and recommends decisions for the Ministerial Committee to agree on."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala4/reunion-ministerial.jpg",
             "alt1": "Caribbean Biological Corridor Ministerial Meeting held in Santo Domingo in 2014.",
             "name1": "Caribbean Biological Corridor Ministerial Meeting held in Santo Domingo in 2014.",
-
             "imagen2": "./imagenes/sala4/comite-ministerial.jpg",
             "alt2": "Ministerial Committee of the Caribbean Biological Corridor held in Cuba in 2019.",
             "name2": "Ministerial Committee of the Caribbean Biological Corridor held in Cuba in 2019."
@@ -145,10 +155,11 @@
         "background": "#103A62",
         "colorText": "#FFF"
     },
-
-    "section13" : {
+    "section13": {
         "title": "EXECUTIVE SECRETARIAT",
-        "contenido": ["The Secretariat is the technical and executive arm of the Initiative in the interim between the meetings of the Ministerial and Scientific-Technical Committees. Therefore, it has a key role in the execution of scientific-technical and coordination tasks, in line with decisions made by the Ministerial Committee and in the context of ongoing projects. In addition, it works hand in hand with ministries, academia, civil society, local communities, and the private sector to ensure the implementation of the Initiative's strategy."],
+        "contenido": [
+            "The Secretariat is the technical and executive arm of the Initiative in the interim between the meetings of the Ministerial and Scientific-Technical Committees. Therefore, it has a key role in the execution of scientific-technical and coordination tasks, in line with decisions made by the Ministerial Committee and in the context of ongoing projects. In addition, it works hand in hand with ministries, academia, civil society, local communities, and the private sector to ensure the implementation of the Initiative's strategy."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala4/secretaria-actividades.jpg",
             "alt1": "CBC Secretariat in field monitoring activities",
@@ -160,15 +171,15 @@
         "background": "#FFF",
         "colorText": "#181818"
     },
-
-    "section14" : {
+    "section14": {
         "title": "CBC PARTNER NETWORK",
-        "contenido": ["Key CBC stakeholders come from a broad spectrum of institutions and sectors with diverse interests and roles in the use and conservation of biodiversity resources. They execute their actions at the local, national, or regional level, and interact at each of these levels, through formal or informal governance rules that lead to social connectivity."],
+        "contenido": [
+            "Key CBC stakeholders come from a broad spectrum of institutions and sectors with diverse interests and roles in the use and conservation of biodiversity resources. They execute their actions at the local, national, or regional level, and interact at each of these levels, through formal or informal governance rules that lead to social connectivity."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala4/red-socios1.jpg",
             "alt1": "On-the-ground actions for biodiversity conservation.",
             "name1": "On-the-ground actions for biodiversity conservation.",
-
             "imagen2": "./imagenes/sala4/red-socios2.jpg",
             "alt2": "Diagram of CBC Partner Network.",
             "name2": "Diagram of CBC Partner Network."
@@ -176,26 +187,26 @@
         "background": "#103A62",
         "colorText": "#FFF"
     },
-
-    "section15" : {
+    "section15": {
         "title": "STAKEHOLDER RELATIONSHIPS",
-        "contenido": ["All CBC stakeholders are linked with each other and support or hinder the management of the CBC, as well as support the achievement of its objectives and conservation priorities. Therefore, the coordination and negotiation role under the framework of CBC partner network is key to maintain a cooperation and synergetic approach among  the Initiative's key stakeholders. It is also essential driving efforts towards the achievement of the Initiative's strategic objectives."],
+        "contenido": [
+            "All CBC stakeholders are linked with each other and support or hinder the management of the CBC, as well as support the achievement of its objectives and conservation priorities. Therefore, the coordination and negotiation role under the framework of CBC partner network is key to maintain a cooperation and synergetic approach among  the Initiative's key stakeholders. It is also essential driving efforts towards the achievement of the Initiative's strategic objectives."
+        ],
         "imagen1": "./imagenes/sala4/trabajo-colaborativo.jpg",
-        "alt1": "Collaborative work in monitoring CBC species",        
+        "alt1": "Collaborative work in monitoring CBC species",
         "description": "Collaborative work in monitoring CBC species",
         "background": "#FFF",
         "colorText": "#181818"
     },
-
-    
-    "section16" : {
+    "section16": {
         "title": "CBC AS A SOCIO-ECOLOGICAL SYSTEM",
-        "contenido": ["Maintaining ecological connectivity at the regional scale and ensuring the coordination and integration of all key stakeholders to achieve its objectives requires considering the CBC as a complex socio-ecological system. This system  interconnects not only the territorial biodiversity conservation units that conform an ecological network, but also the stakeholders that govern and use the resources through the CBC partner network."],
+        "contenido": [
+            "Maintaining ecological connectivity at the regional scale and ensuring the coordination and integration of all key stakeholders to achieve its objectives requires considering the CBC as a complex socio-ecological system. This system  interconnects not only the territorial biodiversity conservation units that conform an ecological network, but also the stakeholders that govern and use the resources through the CBC partner network."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala4/cbc-sistema1.jpg",
             "alt1": "Decisions to protect ecosystems improve ecosystem health and resources in fisheries for the benefit of local communities.",
             "name1": "Decisions to protect ecosystems improve ecosystem health and resources in fisheries for the benefit of local communities.",
-
             "imagen2": "./imagenes/sala4/cbc-sistema2.jpg",
             "alt2": "Decisions to protect ecosystems improve ecosystem health and resources in fisheries for the benefit of local communities.",
             "name2": "Decisions to protect ecosystems improve ecosystem health and resources in fisheries for the benefit of local communities."
@@ -203,12 +214,13 @@
         "background": "#103A62",
         "colorText": "#FFF"
     },
-
-    "section17" : {
+    "section17": {
         "title": "FINANCE",
-        "contenido": ["The CBC Secretariat together with UNEP and countries identify funding opportunities and develop and implement regional projects. The European Union has funded several CBC projects; supporting the CBC Demarcation and the current project “Strengthening the CBC”",
-                        "Similarly, the CBC seeks to build partnerships and encourages its partners to identify funding opportunities to develop in a coordinated manner and implement projects that respond to the Initiative's priorities.",
-                            "In the framework of the CBC partner network, other stakeholders may identify and develop projects independently, these are considered as part of the Initiative, as long as they directly contribute to the objectives and priorities of the CBC."],
+        "contenido": [
+            "The CBC Secretariat together with UNEP and countries identify funding opportunities and develop and implement regional projects. The European Union has funded several CBC projects; supporting the CBC Demarcation and the current project “Strengthening the CBC”",
+            "Similarly, the CBC seeks to build partnerships and encourages its partners to identify funding opportunities to develop in a coordinated manner and implement projects that respond to the Initiative's priorities.",
+            "In the framework of the CBC partner network, other stakeholders may identify and develop projects independently, these are considered as part of the Initiative, as long as they directly contribute to the objectives and priorities of the CBC."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala4/delfin-moteado.jpg",
             "alt1": "Atlantic Spotted Dolphin (Stenella frontalis)",
@@ -221,10 +233,11 @@
         "background": "#FFF",
         "colorText": "#181818"
     },
-
-    "section18" : {
+    "section18": {
         "title": "CAPACITY BUILDING AND AWARENESS RAISING",
-        "contenido": ["The CBC contributes to raise awareness about the values of biodiversity and the steps to use it sustainably, seeking to create and demonstrate the positive links between conservation, connectivity, livelihoods, and poverty reduction, through field activities and a social communication program."],
+        "contenido": [
+            "The CBC contributes to raise awareness about the values of biodiversity and the steps to use it sustainably, seeking to create and demonstrate the positive links between conservation, connectivity, livelihoods, and poverty reduction, through field activities and a social communication program."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala4/laguna-oviedo.jpg",
             "alt1": "Oviedo Lagoon, Jaragua National Park, Dominican Republic",
@@ -236,10 +249,11 @@
         "background": "#103A62",
         "colorText": "#FFF"
     },
-
-    "section19" : {
+    "section19": {
         "title": "IMPORTANCE OF FIELD ACTIONS",
-        "contenido": ["For the CBC it is important to achieve sustainable development of communities at the local level, reduce threats to biodiversity and improve or maintain ecological connectivity. To achieve this, projects with partners in member countries directly address the different problems in each territory, and contribute to conservation, improve management, and restore degraded ecosystems, while generating opportunities for people who live and depend on them, reducing vulnerability to climate change."],
+        "contenido": [
+            "For the CBC it is important to achieve sustainable development of communities at the local level, reduce threats to biodiversity and improve or maintain ecological connectivity. To achieve this, projects with partners in member countries directly address the different problems in each territory, and contribute to conservation, improve management, and restore degraded ecosystems, while generating opportunities for people who live and depend on them, reducing vulnerability to climate change."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala4/trabajo-monitoreo.jpg",
             "alt1": "Ecosystem monitoring work",
@@ -252,11 +266,11 @@
         "background": "#FFF",
         "colorText": "#181818"
     },
-
-    
-    "section20" : {
+    "section20": {
         "title": "LONG-TERM SUSTAINABILITY OF THE INITIATIVE",
-        "contenido": ["The CBC has developed a financial strategy to work jointly with member countries and partners to formulate new projects that respond to regional work priorities, and raise funds to fill two trust funds through which it expects to secure the operation of the CBC governance mechanism in the long-term."],
+        "contenido": [
+            "The CBC has developed a financial strategy to work jointly with member countries and partners to formulate new projects that respond to regional work priorities, and raise funds to fill two trust funds through which it expects to secure the operation of the CBC governance mechanism in the long-term."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala4/palma-real.jpg",
             "alt1": "Palma Real, Cuba",
@@ -268,16 +282,16 @@
         "background": "#103A62",
         "colorText": "#FFF"
     },
-
-    "section21" : {
+    "section21": {
         "title": "THE CBC'S VISION OF THE FUTURE",
-        "contenido": ["By 2030, the CBC is expected to be a consolidated, sustainable, and effective Initiative for the conservation of the biodiversity of the insular Caribbean, that ensures and monitors ecological connectivity in key sites and promotes sustainable development in the context of changing climate.",
-                        "By 2050 we expect the insular Caribbean to be a region where nature is alive, diverse, whole, and healthy, and is used wisely and sustainably by a heterogeneous, but peaceful, just, inclusive, and prosperous Caribbean society."],
+        "contenido": [
+            "By 2030, the CBC is expected to be a consolidated, sustainable, and effective Initiative for the conservation of the biodiversity of the insular Caribbean, that ensures and monitors ecological connectivity in key sites and promotes sustainable development in the context of changing climate.",
+            "By 2050 we expect the insular Caribbean to be a region where nature is alive, diverse, whole, and healthy, and is used wisely and sustainably by a heterogeneous, but peaceful, just, inclusive, and prosperous Caribbean society."
+        ],
         "imagenes": {
             "imagen1": "./imagenes/sala4/vision-futuro1.jpg",
             "alt1": "Biodiversity monitoring in the Greater Antilles",
             "name1": "Biodiversity monitoring in the Greater Antilles",
-
             "imagen2": "./imagenes/sala4/vision-futuro2.jpg",
             "alt2": "Biodiversity monitoring in the Greater Antilles",
             "name2": "Biodiversity monitoring in the Greater Antilles"
@@ -285,29 +299,31 @@
         "background": "#FFF",
         "colorText": "#181818"
     },
-
-    "section22" : {
+    "section22": {
         "img": "./imagenes/sala4/velero-sala4.jpg",
         "description": "Sailboat, Les Cayes, Haiti"
     },
-
-    "section23" : {
+    "section23": {
         "contenido": "In the next room you will find more information about the 15 years of the Caribbean Biological Corridor (CBC) Initiative.",
         "backLink": "/Sala3",
         "nextLink": "/Sala5"
     },
-
     "footer": {
         "title": "“THE CBC IS COOPERATION”",
+        "text": [
+            "An Initiative of the governments of Cuba, Dominican Republic, Haiti, Puerto Rico and Jamaica. Financed by the European Union (EU) with support of the United Nations Environment Programme (UNEP)."
+        ],
         "subtitle": "Associated Institutions",
-        "instituciones": ["Ministry of Science, technology and the Environment of the Republic of Cuba",
-                        "Ministry of the Environment of Haiti",
-                        "Ministry of the Environment and Natural Resources of the Dominican Republic",
-                        "Ministry of Economic Growth and Job Creation of Jamaica (MEGJC)",
-                        "Department of Natural and Environmental Resources of the Government of Puerto Rico",
-                        "United Nations Environment Programme (UNEP)",
-                        "European Union (EU)"],
+        "instituciones": [
+            "Ministry of Science, technology and the Environment of the Republic of Cuba",
+            "Ministry of the Environment of Haiti",
+            "Ministry of the Environment and Natural Resources of the Dominican Republic",
+            "Ministry of Economic Growth and Job Creation of Jamaica (MEGJC)",
+            "Department of Natural and Environmental Resources of the Government of Puerto Rico",
+            "United Nations Environment Programme (UNEP)",
+            "European Union (EU)"
+        ],
         "descript": "All rights reserved – 2022",
-        "design": "Design by CICLOS STUDIO"     
+        "design": "Design by CICLOS STUDIO"
     }
 }

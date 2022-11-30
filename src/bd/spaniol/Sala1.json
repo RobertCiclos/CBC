@@ -294,15 +294,16 @@
 
     "footer": {
         "title": "“El CBC es Conectividad”",
-        "subtitle": "Instituciones relacionadas",
+        "text": ["Iniciativa gubernamental de cuatro países: Cuba, Haití, República Dominicana y Puerto Rico. Financiada por la Unión Europea (UE) y apoyada por el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA)."],
+        "subtitle": "Instituciones asociadas",
         "instituciones": ["Ministerio de Ciencia, Tecnología y Medio Ambiente de la República de Cuba",
                         "Ministerio de Medio Ambiente de Haití",
                         "Ministerio de Medio Ambiente y Recursos Naturales de República Dominicana",
                         "Ministry of Economic Growth and Job Creation of Jamaica (MEGJC)",
                         "Departamento de Recursos Naturales y Ambientales del Gobierno de Puerto Rico",
                         "PNUMA",
-                        "Unión Europea"] ,
+                        "Unión Europea (UE)"] ,
         "descript": "Todos los derechos reservados  -  2022",
-        "design": "Diseñado por Ciclos Studio"    
+        "design": "Diseñado por Ciclos Studio"     
     }
 }

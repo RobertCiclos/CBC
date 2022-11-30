@@ -291,6 +291,7 @@
 
     "footer": {
         "title": "“CBC se Koneksyon”",
+        "text": ["Se yon inisyativ gouvènman sa yo ki se : Cuba, Peyi panyòl (Repiblik Dominikèn, peyi Dayiti, Pòto Rico ak Jamayik). Inisyativ saa jwenn bourad lajan Inyon Ewopeyen  (ki gen sig li an angle EU) nan tèt kole ak Pwogram Nasyonzini pou Anviwònman  (ki gen sig li an franse PNUE)."],
         "subtitle": "Enstitisyon ki asosye",
         "instituciones": ["Ministè Syans, Teknoloji ak Anviwònman Repiblik Kiba",
                         "Ministè Anviwònman Repiblik Dayiti",
@@ -300,6 +301,6 @@
                         "Pwogram Nasyonzini pou Anviwònman (ki gen sig angle UNEP)",
                         "Inyon Ewopeyen (ki gen sig angle EU)"],
         "descript": "Tout sa yo dwe sere - 2022",
-        "design": "Design by CICLOS STUDIO"      
+        "design": "Design pa CICLOS STUDIO"       
     }
 }

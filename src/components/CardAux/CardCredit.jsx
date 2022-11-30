@@ -25,7 +25,7 @@ const CardCredit = (props) => {
 
     return (
         <div
-            className='w-auto bg-black/70 py-[0.5px] 
+            className='w-auto bg-black/70 py-[0.5px]  !z-10
           text-white absolute  bottom-0 right-0 px-3
             text-[12px] sm:text-[15px] sm:py-1'>
             <span className='font-[600]'>{dataSala1.credit}:</span>

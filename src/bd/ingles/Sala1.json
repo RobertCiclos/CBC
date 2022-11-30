@@ -54,12 +54,10 @@
         "background": "#528641",
         "colorText": "#FFFFFF"
     },
-
     "section6": {
         "url": "https://www.youtube.com/embed/TTlnqGE0sSg",
         "title": "Biological Corridor in the Caribbean: an alternative connection beyond borders."
     },
-
     "section7": {
         "title": "BIOLOGICAL CORRIDOR IN THE GREATER ANTILLES",
         "contenido": [
@@ -302,6 +300,9 @@
     },
     "footer": {
         "title": "“THE CBC IS CONNECTIVITY”",
+        "text": [
+            "An Initiative of the governments of Cuba, Dominican Republic, Haiti, Puerto Rico and Jamaica. Financed by the European Union (EU) with support of the United Nations Environment Programme (UNEP)."
+        ],
         "subtitle": "Associated Institutions",
         "instituciones": [
             "Ministry of Science, technology and the Environment of the Republic of Cuba",
